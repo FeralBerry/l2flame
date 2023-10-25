@@ -1,0 +1,19 @@
+2023.10.21 19:30:58,600	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Problem on initialize. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10 000 ms)
+2023.10.21 19:30:58,635	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2023.10.21 19:30:58,673	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 2 total threads.
+2023.10.21 19:30:58,673	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 2 total threads.
+2023.10.21 19:30:58,675	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2023.10.21 19:30:59,062	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2023.10.21 19:30:59,192	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2023.10.21 19:31:09,204	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10 000 ms)
+2023.10.21 19:31:19,224	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10 000 ms)
+2023.10.21 19:31:29,254	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10 000 ms)
+2023.10.21 19:31:29,318	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2023.10.21 19:31:29,364	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2023.10.21 19:31:29,368	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2023.10.21 19:31:29,371	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2023.10.21 19:31:29,378	INFO	66	org.l2jmobius.commons.network.NetServer	LoginServer: Listening on port 2106 for incoming connections.
+2023.10.21 19:32:43,249	INFO	68	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Sieghardt IP's:
+2023.10.21 19:32:43,251	INFO	68	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2023.10.21 19:32:43,251	INFO	68	org.l2jmobius.loginserver.GameServerThread	192.168.1.98/192.168.1.0/24
+2023.10.21 19:32:43,251	INFO	68	org.l2jmobius.loginserver.GameServerThread	176.114.228.91/0.0.0.0/0

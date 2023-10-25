@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+    <spawn name="18_21">
+        <group>
+            <npc id="20035" x="-61232" y="117186" z="-3371" heading="34055" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-60079" y="111188" z="-3458" heading="10807" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-60059" y="110320" z="-3550" heading="42968" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-59335" y="116066" z="-3153" heading="8056" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-58639" y="110194" z="-3624" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-58251" y="113182" z="-3240" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-57974" y="114509" z="-2958" heading="10765" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-57632" y="110194" z="-3624" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-57409" y="111004" z="-3334" heading="23529" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-57229" y="109838" z="-3624" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-57027" y="109838" z="-3624" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-57009" y="118233" z="-3039" heading="60737" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-56864" y="111003" z="-3274" heading="46330" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-56814" y="119938" z="-3003" heading="32397" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-56573" y="108819" z="-3291" heading="39488" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-56493" y="119183" z="-3005" heading="14662" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-56374" y="111552" z="-3168" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-56286" y="119787" z="-2996" heading="16480" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-56074" y="109746" z="-3211" heading="48208" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-54806" y="120062" z="-3116" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-54450" y="116169" z="-3169" heading="11949" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-53564" y="120427" z="-2890" heading="10543" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-51871" y="115010" z="-3588" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-50737" y="118563" z="-2948" heading="22284" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-49941" y="118709" z="-3014" heading="45445" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-49702" y="121490" z="-3508" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-49622" y="117407" z="-3250" heading="4527" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-48694" y="120066" z="-3508" heading="0" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-48302" y="118773" z="-3133" heading="48643" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-47972" y="117861" z="-3264" heading="6854" respawnTime="30sec" /><!--Скелет Следопыт-->
+            <npc id="20035" x="-47309" y="119580" z="-3190" heading="56332" respawnTime="30sec" /><!--Скелет Следопыт-->
+
+        </group>
+    </spawn>
+</list>
