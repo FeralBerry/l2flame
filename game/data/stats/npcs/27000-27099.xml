@@ -8,6 +8,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="120" sp="13" />
 		<equipment rhand="14" /> <!-- Bow -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
@@ -50,6 +51,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="155" sp="16"/>
 		<equipment rhand="1" /> <!-- Short Sword -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="199.62322" hpRegen="2.5" mp="124.48" mpRegen="1.2" />
@@ -86,6 +88,7 @@
 	</npc>
 	<npc id="27020" level="20" type="Monster" name="Varool Foulclaw">
 		<race>HUMANOID</race>
+		<acquire exp="308" sp="27"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="313.294797687861" hpRegen="2.5" mp="157.755775577558" mpRegen="1.2" />
 			<speed>

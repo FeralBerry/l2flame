@@ -13,7 +13,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="1" />
+		<acquire exp="448" sp="34"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="460.96247" hpRegen="3.5" mp="2227.484" mpRegen="1.5" />
 			<attack physical="64.83203" magical="44.27187" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -81,7 +81,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="1" />
+		<acquire exp="469" sp="35"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="487.5704" hpRegen="3.5" mp="2227.484" mpRegen="1.5" />
 			<attack physical="69.75926" magical="47.63653" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -146,7 +146,7 @@
 		<race>UNDEAD</race>
 		<sex>FEMALE</sex>
 		<equipment rhand="8527" /> <!-- Monster Only (Reinforced Bow) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="499" sp="36"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="515.17856" hpRegen="3.5" mp="2227.484" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -214,7 +214,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="499" sp="36"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="515.17856" hpRegen="3.5" mp="2227.484" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -284,7 +284,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<equipment rhand="8529" /> <!-- Monster Only (Knife) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="535" sp="37"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="543.79576" hpRegen="3.5" mp="2272.704" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -354,7 +354,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8528" /> <!-- Monster Only (Doom Hammer) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="585" sp="40"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="573.42917" hpRegen="3.5" mp="2563.2" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />

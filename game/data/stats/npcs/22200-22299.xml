@@ -1987,6 +1987,7 @@
 	</npc>
 	<npc id="22230" level="2" type="Monster" name="Grey Keltir">
 		<race>ANIMAL</race>
+		<acquire exp="15" sp="2" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="43.9306358381503" hpRegen="2" mp="38.9438943894389" mpRegen="0.9" />
 			<speed>
@@ -2019,6 +2020,7 @@
 	</npc>
 	<npc id="22231" level="3" type="Monster" name="Elder Grey Keltir">
 		<race>ANIMAL</race>
+		<acquire exp="21" sp="3" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="52.0231213872832" hpRegen="2" mp="44.2244224422442" mpRegen="0.9" />
 			<speed>
@@ -2051,6 +2053,7 @@
 	</npc>
 	<npc id="22233" level="5" type="Monster" name="Elder Black Wolf">
 		<race>ANIMAL</race>
+		<acquire exp="63" sp="9" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="73.4104046242775" hpRegen="2" mp="56.7656765676568" mpRegen="0.9" />
 			<speed>
@@ -2083,6 +2086,7 @@
 	</npc>
 	<npc id="22234" level="6" type="Monster" name="Green Goblin">
 		<race>HUMANOID</race>
+		<acquire exp="75" sp="11" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="84.971098265896" hpRegen="2" mp="63.3663366336634" mpRegen="0.9" />
 			<speed>
@@ -2115,6 +2119,7 @@
 	</npc>
 	<npc id="22235" level="7" type="Monster" name="Mountain Werewolf">
 		<race>HUMANOID</race>
+		<acquire exp="88" sp="11" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="98.8439306358381" hpRegen="2" mp="69.3069306930693" mpRegen="0.9" />
 			<speed>
@@ -2151,6 +2156,7 @@
 	</npc>
 	<npc id="22236" level="8" type="Monster" name="Muertos Archer">
 		<race>HUMANOID</race>
+		<acquire exp="93" sp="12" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="113.872832369942" hpRegen="2" mp="75.9075907590759" mpRegen="0.9" />
 			<speed>
@@ -2183,6 +2189,7 @@
 	</npc>
 	<npc id="22237" level="9" type="Monster" name="Mountain Fungus">
 		<race>PLANT</race>
+		<acquire exp="101" sp="12" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="131.21387283237" hpRegen="2" mp="82.5082508250825" mpRegen="0.9" />
 			<speed>
@@ -2219,6 +2226,7 @@
 	</npc>
 	<npc id="22238" level="10" type="Monster" name="Mountain Werewolf Chieftain">
 		<race>HUMANOID</race>
+		<acquire exp="120" sp="13" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="149.132947976879" hpRegen="2" mp="88.4488448844885" mpRegen="0.9" />
 			<speed>
@@ -2255,6 +2263,7 @@
 	</npc>
 	<npc id="22239" level="11" type="Monster" name="Muertos Guard">
 		<race>HUMANOID</race>
+		<acquire exp="131" sp="14" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="169.364161849711" hpRegen="2.5" mp="95.049504950495" mpRegen="1.2" />
 			<speed>

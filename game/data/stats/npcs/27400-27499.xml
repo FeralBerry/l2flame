@@ -2561,6 +2561,7 @@
 	<npc id="27456" level="10" type="Monster" name="Wisp">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="120" sp="13" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
@@ -2597,6 +2598,7 @@
 	<npc id="27457" level="3" type="Monster" name="Dummy" title="Training">
 		<race>ETC</race>
 		<sex>ETC</sex>
+		<acquire exp="21" sp="3" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="57.54874" hpRegen="2" mp="54.64" mpRegen="0.9" />
@@ -2634,6 +2636,7 @@
 	<npc id="27458" level="30" type="Monster" name="Bat">
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
+		<acquire exp="621" sp="45"/>
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
@@ -2675,6 +2678,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
+		<acquire exp="829" sp="62" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1772.24" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
@@ -2716,6 +2720,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
+		<acquire exp="829" sp="62" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1772.24" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
@@ -2757,6 +2762,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
+		<acquire exp="829" sp="62" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />

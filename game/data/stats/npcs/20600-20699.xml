@@ -16,7 +16,7 @@
 		<race>GIANT</race>
 		<sex>MALE</sex>
 		<equipment rhand="88" /> <!-- Morning Star -->
-		<acquire exp="1" />
+		<acquire exp="913" sp="70" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -385,6 +385,7 @@
 	</npc>
 	<npc id="20606" level="27" type="Monster" name="Kuran Kobold">
 		<race>HUMANOID</race>
+		<acquire exp="499" sp="36"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="943.93063583815" hpRegen="3.5" mp="234.983498349835" mpRegen="1.5" />
 			<speed>
@@ -421,6 +422,7 @@
 	</npc>
 	<npc id="20607" level="28" type="Monster" name="Kuran Kobold Warrior">
 		<race>HUMANOID</race>
+		<acquire exp="535" sp="37"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="994.797687861272" hpRegen="3.5" mp="246.864686468647" mpRegen="1.5" />
 			<speed>
@@ -457,6 +459,7 @@
 	</npc>
 	<npc id="20608" level="29" type="Monster" name="Patin Archer">
 		<race>UNDEAD</race>
+		<acquire exp="585" sp="40"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1049.71098265896" hpRegen="3.5" mp="258.745874587459" mpRegen="1.5" />
 			<speed>
@@ -490,6 +493,7 @@
 	</npc>
 	<npc id="20609" level="30" type="Monster" name="Salamander Lakin">
 		<race>ELEMENTAL</race>
+		<acquire exp="621" sp="45"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1106.93641618497" hpRegen="3.5" mp="270.627062706271" mpRegen="1.5" />
 			<speed>
@@ -526,6 +530,7 @@
 	</npc>
 	<npc id="20610" level="31" type="Monster" name="Sentinel Of Water">
 		<race>ETC</race>
+		<acquire exp="648" sp="46"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1163.5838150289" hpRegen="4.5" mp="281.848184818482" mpRegen="1.8" />
 			<speed>
@@ -562,6 +567,7 @@
 	</npc>
 	<npc id="20611" level="32" type="Monster" name="Dre Vanul Warrior">
 		<race>DEMONIC</race>
+		<acquire exp="687" sp="47"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1224.2774566474" hpRegen="4.5" mp="294.389438943894" mpRegen="1.8" />
 			<speed>
@@ -598,6 +604,7 @@
 	</npc>
 	<npc id="20612" level="33" type="Monster" name="Salamander Rowin">
 		<race>ELEMENTAL</race>
+		<acquire exp="701" sp="48"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1286.12716763006" hpRegen="4.5" mp="305.610561056106" mpRegen="1.8" />
 			<speed>
@@ -634,6 +641,7 @@
 	</npc>
 	<npc id="20613" level="27" type="Monster" name="Lafi Lizardman">
 		<race>HUMANOID</race>
+		<acquire exp="499" sp="36"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="943.93063583815" hpRegen="3.5" mp="234.983498349835" mpRegen="1.5" />
 			<speed>
@@ -666,6 +674,7 @@
 	</npc>
 	<npc id="20614" level="28" type="Monster" name="Lafi Lizardman Scout">
 		<race>HUMANOID</race>
+		<acquire exp="535" sp="37"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="994.797687861272" hpRegen="3.5" mp="246.864686468647" mpRegen="1.5" />
 			<speed>
@@ -702,6 +711,7 @@
 	</npc>
 	<npc id="20615" level="29" type="Monster" name="Ritmal Swordsman">
 		<race>UNDEAD</race>
+		<acquire exp="585" sp="40"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1049.71098265896" hpRegen="3.5" mp="258.745874587459" mpRegen="1.5" />
 			<speed>
@@ -735,6 +745,7 @@
 	</npc>
 	<npc id="20616" level="30" type="Monster" name="Undine Lakin">
 		<race>ELEMENTAL</race>
+		<acquire exp="621" sp="45"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1106.93641618497" hpRegen="3.5" mp="270.627062706271" mpRegen="1.5" />
 			<speed>
@@ -773,6 +784,7 @@
 	</npc>
 	<npc id="20617" level="31" type="Monster" name="Watchman Of Water">
 		<race>ETC</race>
+		<acquire exp="648" sp="46"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1163.5838150289" hpRegen="4.5" mp="281.848184818482" mpRegen="1.8" />
 			<speed>
@@ -809,6 +821,7 @@
 	</npc>
 	<npc id="20618" level="32" type="Monster" name="Kanil Succubus">
 		<race>DEMONIC</race>
+		<acquire exp="687" sp="47"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1224.2774566474" hpRegen="4.5" mp="294.389438943894" mpRegen="1.8" />
 			<speed>
@@ -845,6 +858,7 @@
 	</npc>
 	<npc id="20619" level="33" type="Monster" name="Undine Rowin">
 		<race>ELEMENTAL</race>
+		<acquire exp="701" sp="48"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1286.12716763006" hpRegen="4.5" mp="305.610561056106" mpRegen="1.8" />
 			<speed>

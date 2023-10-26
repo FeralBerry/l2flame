@@ -735,6 +735,7 @@
 	<npc id="27522" level="28" type="Monster" name="Windima" title="Clone">
 		<race>ELEMENTAL</race>
 		<sex>MALE</sex>
+		<acquire exp="535" sp="37"/>
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1087.861" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
@@ -1088,6 +1089,7 @@
 	<npc id="27532" level="3" type="Monster" name="Training Golem">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="21" sp="3" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="287.6972" hpRegen="2" mp="54.64" mpRegen="0.9" />
 			<attack physical="10.24492" magical="6.99595" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

@@ -2299,7 +2299,7 @@
 		<race>GIANT</race>
 		<sex>MALE</sex>
 		<equipment rhand="4" /> <!-- Club -->
-		<acquire exp="53" sp="1" />
+		<acquire exp="412" sp="32"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="103277.6" hpRegen="10.6620464638458" mp="11080.8" mpRegen="4.8" />
 			<attack physical="68.011286251937" magical="46.4428982373458" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2348,7 +2348,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="67" lhand="633" /> <!-- Orcish Sword / Zubei's Shield -->
-		<acquire exp="60" sp="1" />
+		<acquire exp="469" sp="35"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="121133.8" hpRegen="12.1792353154195" mp="1846.8" mpRegen="4.8" />
 			<attack physical="99.2168255356476" magical="67.7522279641964" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2395,6 +2395,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="469" sp="35"/>
 		<equipment rhand="69" lhand="102" /> <!-- Bastard Sword / Round Shield -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1462.461" hpRegen="3.5" mp="2229.06104544454" mpRegen="4.8" />
@@ -2441,7 +2442,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="93" /> <!-- Winged Spear -->
-		<acquire exp="60" sp="1" />
+		<acquire exp="469" sp="35"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="60567.008055059" hpRegen="12.1792353154195" mp="18000" mpRegen="4.8" />
 			<attack physical="99.2168255356476" magical="67.7522279641964" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2488,7 +2489,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="82" sp="1" />
+		<acquire exp="701" sp="48"/>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="77012.3816279503" hpRegen="14.597633812675" mp="12240" mpRegen="6.48" />
 			<attack physical="191.57829994383" magical="130.82315780595" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2538,7 +2539,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="93" sp="1" />
+		<acquire exp="768" sp="55" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="94225.5527374547" hpRegen="17.4317272564291" mp="12240" mpRegen="6.48" />
 			<attack physical="246.076786034581" magical="168.038549117797" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2585,6 +2586,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="768" sp="55" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2428.391" hpRegen="4.5" mp="12240" mpRegen="6.48" />
 			<attack physical="137.86467" magical="94.1437" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2629,7 +2631,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="93" sp="1" />
+		<acquire exp="768" sp="55" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="94225.5527374547" hpRegen="17.4317272564291" mp="12240" mpRegen="6.48" />
 			<attack physical="246.076786034581" magical="168.038549117797" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />

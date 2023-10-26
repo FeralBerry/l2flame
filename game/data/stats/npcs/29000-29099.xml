@@ -65,6 +65,7 @@
 	<npc id="29002" level="38" type="Monster" name="Queen Ant Larva">
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="829" sp="62" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="591.9" hpRegen="3.5" mp="315.1" mpRegen="1.5" />
 			<attack physical="89.21" magical="59.01" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -102,6 +103,7 @@
 	<npc id="29003" level="35" type="Monster" name="Nurse Ant">
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="733" sp="50" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="4000" hpRegen="108" mp="402.6" mpRegen="1.8" />
 			<attack physical="637" magical="395" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -146,6 +148,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="796" sp="57" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="4343" hpRegen="115" mp="432.7" mpRegen="1.8" />
 			<attack physical="178" magical="27" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -189,6 +192,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="859" sp="67" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="7051" hpRegen="122" mp="463.3" mpRegen="1.8" />
 			<attack physical="1190" magical="1074" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
