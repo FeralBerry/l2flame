@@ -330,6 +330,7 @@
 	<npc id="25604" level="50" type="Monster" name="Mutated Elpy" title="Naia's Creature">
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
+		<acquire exp="2012" sp="154" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1421.00103" hpRegen="5.5" mp="747.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

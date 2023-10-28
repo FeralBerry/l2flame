@@ -2,6 +2,7 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
 	<npc id="27316" level="55" type="Monster" name="Fallen Chieftain Vegus">
 		<race>HUMANOID</race>
+		<acquire exp="2698" sp="182" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1532.94797687861" hpRegen="6.5" mp="730.693069306931" mpRegen="2.4" />
 			<speed>
@@ -196,6 +197,7 @@
 		</parameters>
 		<race>ETC</race>
 		<sex>ETC</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -337,6 +339,7 @@
 		</parameters>
 		<race>ETC</race>
 		<sex>ETC</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -644,6 +647,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="232" lhand="232" /> <!-- Dark Elven Dagger / Dark Elven Dagger -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -691,6 +695,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -741,6 +746,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="5800" lhand="5799" /> <!-- Nephilim Lord / Nephilim Lord -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -787,6 +793,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="229" lhand="229" /> <!-- Kris / Kris -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -834,6 +841,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -884,6 +892,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="5800" lhand="5799" /> <!-- Nephilim Lord / Nephilim Lord -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -930,6 +939,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="234" lhand="234" /> <!-- Demon's Dagger / Demon's Dagger -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -977,6 +987,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1027,6 +1038,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="5800" lhand="5799" /> <!-- Nephilim Lord / Nephilim Lord -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -2056,6 +2068,7 @@
 		</parameters>
 		<race>ETC</race>
 		<sex>ETC</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2252,6 +2265,7 @@
 		</parameters>
 		<race>ETC</race>
 		<sex>ETC</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2389,6 +2403,7 @@
 		</parameters>
 		<race>ETC</race>
 		<sex>ETC</sex>
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1470.41596" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

@@ -182,6 +182,7 @@
 	<npc id="18004" level="49" type="Monster" name="Susceptor Prime">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="1856" sp="152" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1372.2" hpRegen="5.5" mp="1507.8" mpRegen="2.1" />
 			<attack physical="290.45" magical="198.34" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -218,7 +219,7 @@
 	<npc id="18005" level="52" type="Monster" name="Mimic">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="3244" sp="251" />
+		<acquire exp="2271" sp="169" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1569.5" hpRegen="6.5" mp="1507.8" mpRegen="2.4" />
 			<attack physical="348.07" magical="230.26" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

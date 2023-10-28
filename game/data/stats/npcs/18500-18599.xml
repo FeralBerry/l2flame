@@ -2178,6 +2178,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="2012" sp="154" />
 		<equipment rhand="132" /> <!-- Ultimate Sword -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="17718.4028780724" hpRegen="37.2348110463089" mp="1866.80353274661" mpRegen="2.1" />
@@ -2242,6 +2243,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="2012" sp="154" />
 		<equipment rhand="132" /> <!-- Ultimate Sword -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="17718.4028780724" hpRegen="37.2348110463089" mp="2229.06104544454" mpRegen="2.1" />
@@ -2395,7 +2397,6 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="469" sp="35"/>
 		<equipment rhand="69" lhand="102" /> <!-- Bastard Sword / Round Shield -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1462.461" hpRegen="3.5" mp="2229.06104544454" mpRegen="4.8" />
@@ -2586,7 +2587,6 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="768" sp="55" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2428.391" hpRegen="4.5" mp="12240" mpRegen="6.48" />
 			<attack physical="137.86467" magical="94.1437" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2682,7 +2682,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="131" /> <!-- Spirit Sword -->
-		<acquire exp="118" sp="1" />
+		<acquire exp="1376" sp="101" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="132634.618317353" hpRegen="23.2361783984" mp="1674.8" mpRegen="11.55" />
 			<attack physical="361.027339491631" magical="246.534866030033" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2774,7 +2774,7 @@
 		</parameters>
 		<race>DRAGON</race>
 		<sex>FEMALE</sex>
-		<acquire exp="127" sp="1" />
+		<acquire exp="1672" sp="145" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="330446.1" hpRegen="28.3020159951777" mp="40" mpRegen="11.55" />
 			<attack physical="470.818632922437" magical="321.5080926593" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2832,7 +2832,7 @@
 		<race>GIANT</race>
 		<sex>MALE</sex>
 		<equipment rhand="298" /> <!-- Orcish Glaive -->
-		<acquire exp="127" sp="1" />
+		<acquire exp="1672" sp="145" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="165222.57986374" hpRegen="28.3020159951777" mp="2584.09268001591" mpRegen="11.55" />
 			<attack physical="470.818632922437" magical="321.5080926593" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2883,7 +2883,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="145" sp="1" />
+		<acquire exp="2452" sp="171" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="294174.619264419" hpRegen="47.9069582428852" mp="2512.2" mpRegen="13.2" />
 			<attack physical="805.150123040852" magical="549.813146917057" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2972,7 +2972,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" lhand="945" /> <!-- Skeleton Dagger / Skeleton Buckler -->
-		<acquire exp="150" sp="1" />
+		<acquire exp="2726" sp="185" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="318250.283048557" hpRegen="50.7554330723992" mp="40" mpRegen="13.2" />
 			<attack physical="1114.68190633232" magical="761.183239040102" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

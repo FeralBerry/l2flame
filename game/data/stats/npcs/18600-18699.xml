@@ -283,7 +283,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="26166.4760109651" hpRegen="9" mp="2770.2" mpRegen="1.8" />
 			<attack physical="166.06476" magical="82.76936" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -343,7 +343,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="16291.374214561" hpRegen="9" mp="2770.2" mpRegen="1.8" />
 			<attack physical="166.06476" magical="82.76936" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -405,7 +405,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="2012" sp="154" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="10512.7777620382" hpRegen="9" mp="2770.2" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -469,7 +469,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="2012" sp="154" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="12143.4125711026" hpRegen="9" mp="11080.8" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -535,7 +535,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="1899" sp="155" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="685.8044" hpRegen="5.5" mp="11080.8" mpRegen="2.1" />
 			<attack physical="290.44588" magical="198.33688" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -602,7 +602,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2012" sp="154" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="11080.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -669,7 +669,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="735.0157" hpRegen="6.5" mp="11290.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -737,7 +737,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="150" lhand="103" /> <!-- Elemental Sword / Tower Shield -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2012" sp="154" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="11290.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -804,7 +804,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="735.0157" hpRegen="6.5" mp="3349.6" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -867,7 +867,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2012" sp="154" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="2512.2" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1024,7 +1024,7 @@
 	<npc id="18620" level="52" type="Monster" name="Adiantum">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="21" sp="1" />
+		<acquire exp="2271" sp="169" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="27474.7998115133" hpRegen="9" mp="1507.8" mpRegen="1.8" />
 			<attack physical="198.34591" magical="100.26304" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />

@@ -1404,7 +1404,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="2726" sp="185" />
 		<equipment rhand="73" /> <!-- Shamshir -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="5174.132" hpRegen="6.5" mp="918.8" mpRegen="2.4" />

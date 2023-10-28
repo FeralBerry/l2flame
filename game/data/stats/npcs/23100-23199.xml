@@ -2789,7 +2789,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="4411.356" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2848,7 +2848,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="4411.356" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2907,7 +2907,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="4411.356" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2966,7 +2966,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="3937" /> <!-- Monster Only (Lesser Giant) -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="4411.356" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -3026,7 +3026,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="4028" /> <!-- Giant Cannon -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="4411.356" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
@@ -3086,7 +3086,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2152" sp="164" />
 		<equipment rhand="3938" /> <!-- Monster Only (Lesser Giant Wizard's Weapon) -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="5881.388" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
