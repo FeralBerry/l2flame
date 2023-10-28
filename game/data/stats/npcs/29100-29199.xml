@@ -1168,6 +1168,7 @@
 	<npc id="29130" level="29" type="Monster" name="Lost Guard">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="585" sp="40"/>
 		<equipment rhand="72" /> <!-- StormBringer -->
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="2595.19291921042" hpRegen="3.8634234539582" mp="18000" mpRegen="1.5" />
@@ -1207,6 +1208,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="585" sp="40"/>
 		<equipment rhand="201" /> <!-- Club of Nature -->
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="2595.19291921042" hpRegen="3.8634234539582" mp="18000" mpRegen="7.5" />
@@ -1304,6 +1306,7 @@
 	<npc id="29133" level="39" type="Monster" name="Lost Guard">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="859" sp="67" />
 		<equipment rhand="16" /> <!-- Great Spear -->
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="4144.04598976269" hpRegen="5.64939451316038" mp="18000" mpRegen="1.8" />
@@ -1343,6 +1346,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="859" sp="67" />
 		<equipment rhand="7" /> <!-- Apprentice's Rod -->
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="4144.04598976269" hpRegen="5.64939451316038" mp="3349.6" mpRegen="9" />

@@ -16,7 +16,7 @@
 		<race>GIANT</race>
 		<sex>MALE</sex>
 		<equipment rhand="88" /> <!-- Morning Star -->
-		<acquire exp="1" />
+		<acquire exp="913" sp="70" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -79,7 +79,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- Long Sword -->
-		<acquire exp="1" />
+		<acquire exp="1111" sp="82" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1008.23781" hpRegen="5.5" mp="504.8" mpRegen="2.1" />
 			<attack physical="187.11878" magical="127.77787" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -145,7 +145,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- Bow -->
-		<acquire exp="1" />
+		<acquire exp="1217" sp="95" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1050.81652" hpRegen="5.5" mp="531" mpRegen="2.1" />
 			<attack physical="198.34591" magical="135.44454" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -209,7 +209,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="1" />
+		<acquire exp="1376" sp="101" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1094.28943" hpRegen="5.5" mp="557.4" mpRegen="2.1" />
 			<attack physical="210.04832" magical="143.43577" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -270,7 +270,7 @@
 		<race>GIANT</race>
 		<sex>MALE</sex>
 		<equipment rhand="89" /> <!-- Big Hammer -->
-		<acquire exp="1" />
+		<acquire exp="1491" sp="123" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1138.62924" hpRegen="5.5" mp="584" mpRegen="2.1" />
 			<attack physical="222.23112" magical="151.75505" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -385,6 +385,7 @@
 	</npc>
 	<npc id="20606" level="27" type="Monster" name="Kuran Kobold">
 		<race>HUMANOID</race>
+		<acquire exp="499" sp="36"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="943.93063583815" hpRegen="3.5" mp="234.983498349835" mpRegen="1.5" />
 			<speed>
@@ -421,6 +422,7 @@
 	</npc>
 	<npc id="20607" level="28" type="Monster" name="Kuran Kobold Warrior">
 		<race>HUMANOID</race>
+		<acquire exp="535" sp="37"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="994.797687861272" hpRegen="3.5" mp="246.864686468647" mpRegen="1.5" />
 			<speed>
@@ -457,6 +459,7 @@
 	</npc>
 	<npc id="20608" level="29" type="Monster" name="Patin Archer">
 		<race>UNDEAD</race>
+		<acquire exp="585" sp="40"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1049.71098265896" hpRegen="3.5" mp="258.745874587459" mpRegen="1.5" />
 			<speed>
@@ -490,6 +493,7 @@
 	</npc>
 	<npc id="20609" level="30" type="Monster" name="Salamander Lakin">
 		<race>ELEMENTAL</race>
+		<acquire exp="621" sp="45"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1106.93641618497" hpRegen="3.5" mp="270.627062706271" mpRegen="1.5" />
 			<speed>
@@ -526,6 +530,7 @@
 	</npc>
 	<npc id="20610" level="31" type="Monster" name="Sentinel Of Water">
 		<race>ETC</race>
+		<acquire exp="648" sp="46"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1163.5838150289" hpRegen="4.5" mp="281.848184818482" mpRegen="1.8" />
 			<speed>
@@ -562,6 +567,7 @@
 	</npc>
 	<npc id="20611" level="32" type="Monster" name="Dre Vanul Warrior">
 		<race>DEMONIC</race>
+		<acquire exp="687" sp="47"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1224.2774566474" hpRegen="4.5" mp="294.389438943894" mpRegen="1.8" />
 			<speed>
@@ -598,6 +604,7 @@
 	</npc>
 	<npc id="20612" level="33" type="Monster" name="Salamander Rowin">
 		<race>ELEMENTAL</race>
+		<acquire exp="701" sp="48"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1286.12716763006" hpRegen="4.5" mp="305.610561056106" mpRegen="1.8" />
 			<speed>
@@ -634,6 +641,7 @@
 	</npc>
 	<npc id="20613" level="27" type="Monster" name="Lafi Lizardman">
 		<race>HUMANOID</race>
+		<acquire exp="499" sp="36"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="943.93063583815" hpRegen="3.5" mp="234.983498349835" mpRegen="1.5" />
 			<speed>
@@ -666,6 +674,7 @@
 	</npc>
 	<npc id="20614" level="28" type="Monster" name="Lafi Lizardman Scout">
 		<race>HUMANOID</race>
+		<acquire exp="535" sp="37"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="994.797687861272" hpRegen="3.5" mp="246.864686468647" mpRegen="1.5" />
 			<speed>
@@ -702,6 +711,7 @@
 	</npc>
 	<npc id="20615" level="29" type="Monster" name="Ritmal Swordsman">
 		<race>UNDEAD</race>
+		<acquire exp="585" sp="40"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1049.71098265896" hpRegen="3.5" mp="258.745874587459" mpRegen="1.5" />
 			<speed>
@@ -735,6 +745,7 @@
 	</npc>
 	<npc id="20616" level="30" type="Monster" name="Undine Lakin">
 		<race>ELEMENTAL</race>
+		<acquire exp="621" sp="45"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1106.93641618497" hpRegen="3.5" mp="270.627062706271" mpRegen="1.5" />
 			<speed>
@@ -773,6 +784,7 @@
 	</npc>
 	<npc id="20617" level="31" type="Monster" name="Watchman Of Water">
 		<race>ETC</race>
+		<acquire exp="648" sp="46"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1163.5838150289" hpRegen="4.5" mp="281.848184818482" mpRegen="1.8" />
 			<speed>
@@ -809,6 +821,7 @@
 	</npc>
 	<npc id="20618" level="32" type="Monster" name="Kanil Succubus">
 		<race>DEMONIC</race>
+		<acquire exp="687" sp="47"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1224.2774566474" hpRegen="4.5" mp="294.389438943894" mpRegen="1.8" />
 			<speed>
@@ -845,6 +858,7 @@
 	</npc>
 	<npc id="20619" level="33" type="Monster" name="Undine Rowin">
 		<race>ELEMENTAL</race>
+		<acquire exp="701" sp="48"/>
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1286.12716763006" hpRegen="4.5" mp="305.610561056106" mpRegen="1.8" />
 			<speed>
@@ -993,6 +1007,7 @@
 	</npc>
 	<npc id="20640" level="50" type="Monster" name="Harit Lizardman">
 		<race>HUMANOID</race>
+		<acquire exp="2012" sp="154" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1301.73410404624" hpRegen="5.5" mp="613.861386138614" mpRegen="2.1" />
 			<speed>
@@ -1025,6 +1040,7 @@
 	</npc>
 	<npc id="20641" level="51" type="Monster" name="Harit Lizardman Soldier">
 		<race>HUMANOID</race>
+		<acquire exp="2152" sp="164" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1346.82080924855" hpRegen="6.5" mp="636.963696369637" mpRegen="2.4" />
 			<speed>
@@ -1057,6 +1073,7 @@
 	</npc>
 	<npc id="20642" level="52" type="Monster" name="Harit Lizardman Archer">
 		<race>HUMANOID</race>
+		<acquire exp="2271" sp="169" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1392.48554913295" hpRegen="6.5" mp="660.726072607261" mpRegen="2.4" />
 			<speed>
@@ -1094,6 +1111,7 @@
 	</npc>
 	<npc id="20643" level="53" type="Monster" name="Harit Lizardman Warrior">
 		<race>HUMANOID</race>
+		<acquire exp="2452" sp="171" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1438.15028901734" hpRegen="6.5" mp="683.828382838284" mpRegen="2.4" />
 			<speed>
@@ -1130,6 +1148,7 @@
 	</npc>
 	<npc id="20644" level="54" type="Monster" name="Harit Lizardman Shaman">
 		<race>HUMANOID</race>
+		<acquire exp="2538" sp="175" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1484.9710982659" hpRegen="6.5" mp="707.590759075908" mpRegen="2.4" />
 			<speed>
@@ -1166,6 +1185,7 @@
 	</npc>
 	<npc id="20645" level="55" type="Monster" name="Harit Lizardman Matriarch">
 		<race>HUMANOID</race>
+		<acquire exp="2698" sp="182" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="3065.31791907514" hpRegen="6.5" mp="730.693069306931" mpRegen="2.4" />
 			<speed>
@@ -1506,6 +1526,7 @@
 	</npc>
 	<npc id="20660" level="46" type="Monster" name="Archer of Greed">
 		<race>UNDEAD</race>
+		<acquire exp="1672" sp="145" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1126.01156069364" hpRegen="5.5" mp="523.432343234323" mpRegen="2.1" />
 			<speed>
@@ -1543,6 +1564,7 @@
 	</npc>
 	<npc id="20661" level="47" type="Monster" name="Hatar Ratman Thief">
 		<race>HUMANOID</race>
+		<acquire exp="1791" sp="148" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1168.78612716763" hpRegen="5.5" mp="546.534653465347" mpRegen="2.1" />
 			<speed>
@@ -1575,6 +1597,7 @@
 	</npc>
 	<npc id="20662" level="48" type="Monster" name="Hatar Ratman Boss">
 		<race>HUMANOID</race>
+		<acquire exp="1856" sp="152" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1213.29479768786" hpRegen="5.5" mp="568.976897689769" mpRegen="2.1" />
 			<speed>
@@ -1607,6 +1630,7 @@
 	</npc>
 	<npc id="20663" level="49" type="Monster" name="Hatar Hanishee">
 		<race>BEAST</race>
+		<acquire exp="1899" sp="155" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1257.22543352601" hpRegen="5.5" mp="592.079207920792" mpRegen="2.1" />
 			<speed>
@@ -1643,6 +1667,7 @@
 	</npc>
 	<npc id="20664" level="50" type="Monster" name="Deprive">
 		<race>ETC</race>
+		<acquire exp="2012" sp="154" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1301.73410404624" hpRegen="5.5" mp="613.861386138614" mpRegen="2.1" />
 			<speed>
@@ -1679,6 +1704,7 @@
 	</npc>
 	<npc id="20665" level="51" type="Monster" name="Taik Orc Supply">
 		<race>HUMANOID</race>
+		<acquire exp="2152" sp="164" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1346.82080924855" hpRegen="6.5" mp="636.963696369637" mpRegen="2.4" />
 			<speed>
@@ -1715,6 +1741,7 @@
 	</npc>
 	<npc id="20667" level="53" type="Monster" name="Farcran">
 		<race>ANIMAL</race>
+		<acquire exp="2452" sp="171" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1438.15028901734" hpRegen="6.5" mp="683.828382838284" mpRegen="2.4" />
 			<speed>
@@ -1759,7 +1786,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2538" sp="175" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1621.75618" hpRegen="6.5" mp="861" mpRegen="2.4" />
 			<attack physical="370.68904" magical="253.13256" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2052,6 +2079,7 @@
 	</npc>
 	<npc id="20675" level="50" type="Monster" name="Tairim">
 		<race>ETC</race>
+		<acquire exp="2012" sp="154" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="866.473988439306" hpRegen="5.5" mp="493.069306930693" mpRegen="2.1" />
 			<speed>
@@ -2093,7 +2121,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2726" sp="185" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3449.211" hpRegen="6.5" mp="1251" mpRegen="2.4" />
 			<attack physical="405.96455" magical="277.22116" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2287,7 +2315,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="158" lhand="18" /> <!-- Tarbar / Leather Shield -->
-		<acquire exp="1" />
+		<acquire exp="1672" sp="145" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1229.78678" hpRegen="5.5" mp="1430.7494634952" mpRegen="2.1" />
 			<attack physical="248.0526" magical="169.38777" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2353,7 +2381,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5" /> <!-- Mace -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="1791" sp="148" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1276.53628" hpRegen="5.5" mp="1430.7494634952" mpRegen="2.1" />
 			<attack physical="261.69549" magical="178.7041" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2420,7 +2448,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="160" /> <!-- Battle Axe -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="1856" sp="152" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1324.01623" hpRegen="5.5" mp="1473.67194740005" mpRegen="2.1" />
 			<attack physical="275.82705" magical="188.35412" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2489,7 +2517,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="9" /> <!-- Cedar Staff -->
-		<acquire exp="1" />
+		<acquire exp="1899" sp="155" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1372.18568" hpRegen="5.5" mp="1473.67194740005" mpRegen="2.1" />
 			<attack physical="290.44588" magical="198.33688" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2557,7 +2585,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="75" /> <!-- Caliburs -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2012" sp="154" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2842.271" hpRegen="5.5" mp="1517.88210582205" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

@@ -65,6 +65,7 @@
 	<npc id="29002" level="38" type="Monster" name="Queen Ant Larva">
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="829" sp="62" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="591.9" hpRegen="3.5" mp="315.1" mpRegen="1.5" />
 			<attack physical="89.21" magical="59.01" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -102,6 +103,7 @@
 	<npc id="29003" level="35" type="Monster" name="Nurse Ant">
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="733" sp="50" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="4000" hpRegen="108" mp="402.6" mpRegen="1.8" />
 			<attack physical="637" magical="395" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -146,6 +148,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="796" sp="57" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="4343" hpRegen="115" mp="432.7" mpRegen="1.8" />
 			<attack physical="178" magical="27" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -189,6 +192,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
+		<acquire exp="859" sp="67" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="7051" hpRegen="122" mp="463.3" mpRegen="1.8" />
 			<attack physical="1190" magical="1074" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -292,6 +296,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="2012" sp="154" />
 		<equipment rhand="75" /> <!-- Caliburs -->
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="13817" hpRegen="166" mp="747.8" mpRegen="2.1" />
@@ -337,6 +342,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="2698" sp="182" />
 		<equipment rhand="1472" /> <!-- Dreadbane -->
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="16012" hpRegen="185" mp="889.8" mpRegen="2.4" />
@@ -383,6 +389,7 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>FEMALE</sex>
+		<acquire exp="1791" sp="148" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="12544" hpRegen="154" mp="665" mpRegen="2.1" />
 			<attack physical="354" magical="60" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -427,6 +434,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
+		<acquire exp="1672" sp="145" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="12130" hpRegen="150" mp="637.8" mpRegen="2.1" />
 			<attack physical="337" magical="58" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -521,6 +529,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="1856" sp="152" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="12964" hpRegen="158" mp="692.4" mpRegen="2.1" />
 			<attack physical="372" magical="63" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -568,6 +577,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
+		<acquire exp="1520" sp="135" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="11721" hpRegen="146" mp="610.8" mpRegen="2.1" />
 			<attack physical="320" magical="55" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

@@ -2099,6 +2099,7 @@
 	<npc id="24382" level="10" type="Monster" name="Nasty Zombie">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="120" sp="13" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
@@ -2136,6 +2137,7 @@
 	<npc id="24383" level="10" type="Monster" name="Nasty Zombie Lord">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="120" sp="13" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
@@ -2173,6 +2175,7 @@
 	<npc id="24384" level="20" type="Monster" name="Krakos Bat">
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
+		<acquire exp="308" sp="27"/>
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192" mpRegen="1.2" />
@@ -2210,6 +2213,7 @@
 	<npc id="24385" level="20" type="Monster" name="Vampire">
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
+		<acquire exp="308" sp="27"/>
 		<equipment rhand="946" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2248,6 +2252,7 @@
 	<npc id="24386" level="27" type="Monster" name="Skeleton Scout">
 		<race>UNDEAD</race>
 		<sex>FEMALE</sex>
+		<acquire exp="499" sp="36"/>
 		<equipment rhand="15302" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2286,6 +2291,7 @@
 	<npc id="24387" level="27" type="Monster" name="Skeleton Archer">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="499" sp="36"/>
 		<equipment rhand="14" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2324,6 +2330,7 @@
 	<npc id="24388" level="27" type="Monster" name="Skeleton Warrior">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="499" sp="36"/>
 		<equipment rhand="86" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2362,6 +2369,7 @@
 	<npc id="24389" level="33" type="Monster" name="Spartoi Soldier">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="701" sp="48"/>
 		<equipment rhand="73" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2400,6 +2408,7 @@
 	<npc id="24390" level="33" type="Monster" name="Raging Spartoi">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<acquire exp="701" sp="48"/>
 		<equipment rhand="946" lhand="945" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2442,6 +2451,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
+		<acquire exp="913" sp="70" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
@@ -2484,6 +2494,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
+		<acquire exp="913" sp="70" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
@@ -2526,6 +2537,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
+		<acquire exp="913" sp="70" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
@@ -2564,6 +2576,7 @@
 	<npc id="24394" level="47" type="Monster" name="Fear Ratel">
 		<race>ANIMAL</race>
 		<sex>FEMALE</sex>
+		<acquire exp="1791" sp="148" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1421.00103" hpRegen="5.5" mp="747.8" mpRegen="2.1" />
@@ -2601,6 +2614,7 @@
 	<npc id="24395" level="47" type="Monster" name="Fear Ratel Robust">
 		<race>ANIMAL</race>
 		<sex>FEMALE</sex>
+		<acquire exp="1791" sp="148" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1421.00103" hpRegen="5.5" mp="747.8" mpRegen="2.1" />
@@ -2638,6 +2652,7 @@
 	<npc id="24396" level="54" type="Monster" name="Fear Growler">
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
+		<acquire exp="2538" sp="175" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1776.58018" hpRegen="6.5" mp="948" mpRegen="2.4" />
@@ -2675,6 +2690,7 @@
 	<npc id="24397" level="54" type="Monster" name="Evolved Fear Growler">
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
+		<acquire exp="2538" sp="175" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1776.58018" hpRegen="6.5" mp="948" mpRegen="2.4" />
@@ -2712,6 +2728,7 @@
 	<npc id="24398" level="54" type="Monster" name="Robust Fear Growler">
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
+		<acquire exp="2538" sp="175" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1776.58018" hpRegen="6.5" mp="948" mpRegen="2.4" />

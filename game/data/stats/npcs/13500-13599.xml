@@ -1182,6 +1182,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>FAIRY</race>
 		<sex>MALE</sex>
+		<acquire exp="131" sp="14" />
 		<stats str="88" int="79" dex="55" wit="78" con="37" men="78">
 			<vitals hp="1500" hpRegen="2" mp="40" mpRegen="0.9" />
 			<attack physical="8.47458" magical="5.78704" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1220,6 +1221,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>FAIRY</race>
 		<sex>MALE</sex>
+		<acquire exp="131" sp="14" />
 		<stats str="88" int="79" dex="55" wit="78" con="37" men="78">
 			<vitals hp="7500" hpRegen="2" mp="40" mpRegen="0.9" />
 			<attack physical="8.47458" magical="5.78704" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />

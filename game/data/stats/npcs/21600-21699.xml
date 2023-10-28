@@ -2657,7 +2657,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2507" /> <!-- Lizardspear -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="768" sp="55" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="405.0473" hpRegen="4.5" mp="557.4" mpRegen="1.8" />
 			<attack physical="137.86467" magical="94.1437" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -2728,7 +2728,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="7" /> <!-- Apprentice's Rod -->
-		<acquire exp="1" />
+		<acquire exp="796" sp="57" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="423.3438" hpRegen="4.5" mp="531" mpRegen="1.8" />
 			<attack physical="146.82587" magical="100.26304" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2796,7 +2796,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2507" /> <!-- Lizardspear -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="859" sp="67" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="463.0915" hpRegen="4.5" mp="584" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -2866,7 +2866,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2507" /> <!-- Lizardspear -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="859" sp="67" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="463.0915" hpRegen="4.5" mp="610.8" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -2935,7 +2935,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="1" />
+		<acquire exp="859" sp="67" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="463.0915" hpRegen="4.5" mp="637.8" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -3003,7 +3003,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="913" sp="70" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="483.2808" hpRegen="4.5" mp="665" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
