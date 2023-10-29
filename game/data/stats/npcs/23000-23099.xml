@@ -1453,7 +1453,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="4536" sp="394" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="5800" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />
 			<attack physical="481.34551" magical="328.69659" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1550,7 +1550,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="4953" sp="325" />
 		<equipment rhand="946" lhand="945" /> <!-- Skeleton Dagger / Skeleton Buckler -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="7523.659" hpRegen="6.5" mp="1007" mpRegen="2.4" />
@@ -1647,7 +1647,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="3267" sp="242" />
 		<equipment rhand="150" lhand="103" /> <!-- Elemental Sword / Tower Shield -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="7106.625" hpRegen="6.5" mp="948" mpRegen="2.4" />
@@ -1696,7 +1696,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="4856" sp="324" />
 		<equipment rhand="946" lhand="945" /> <!-- Skeleton Dagger / Skeleton Buckler -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="5485.804" hpRegen="6.5" mp="977.4" mpRegen="2.4" />
@@ -1793,7 +1793,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="4953" sp="325" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="5642.902" hpRegen="6.5" mp="1007" mpRegen="2.4" />
 			<attack physical="461.94387" magical="315.44778" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2622,7 +2622,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="4856" sp="324" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="14629.65" hpRegen="6.5" mp="977.4" mpRegen="2.4" />
 			<attack physical="442.8992" magical="302.44274" random="10" critical="4" accuracy="5" attackSpeed="253" type="DUAL" range="40" distance="80" width="120" />

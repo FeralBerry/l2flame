@@ -1123,6 +1123,7 @@
 	<npc id="23936" level="60" type="Monster" name="Ketra Knight Recruit">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="3866.48088" hpRegen="6.5" mp="984.96" mpRegen="2.4" />
@@ -1155,6 +1156,7 @@
 	<npc id="23937" level="60" type="Monster" name="Kel Mahum Knight Recruit">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="3866.48088" hpRegen="6.5" mp="984.96" mpRegen="2.4" />
@@ -1436,6 +1438,7 @@
 	<npc id="23946" level="60" type="Monster" name="Ketra Knight Recruit">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="3866.48088" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />
@@ -1468,6 +1471,7 @@
 	<npc id="23947" level="60" type="Monster" name="Kel Mahum Knight Recruit">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="3866.48088" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />

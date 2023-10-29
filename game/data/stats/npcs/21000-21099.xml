@@ -411,7 +411,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="127" /> <!-- Crimson Sword -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="3267" sp="242" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3553.312" hpRegen="6.5" mp="1282.4" mpRegen="2.4" />
 			<attack physical="424.23295" magical="289.69611" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -475,7 +475,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="4856" sp="324" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3657.413" hpRegen="6.5" mp="1314" mpRegen="2.4" />
 			<attack physical="442.8992" magical="302.44274" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -542,7 +542,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="279" /> <!-- Reinforced Longbow -->
-		<acquire exp="2" sp="1" />
+		<acquire exp="4856" sp="324" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3657.413" hpRegen="6.5" mp="1345.8" mpRegen="2.4" />
 			<attack physical="442.8992" magical="302.44274" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -611,7 +611,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="9" /> <!-- Cedar Staff -->
-		<acquire exp="2" sp="1" />
+		<acquire exp="4953" sp="325" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3762.145" hpRegen="6.5" mp="1377.8" mpRegen="2.4" />
 			<attack physical="461.94387" magical="315.44778" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -679,7 +679,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="4536" sp="394" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3866.246" hpRegen="6.5" mp="1410" mpRegen="2.4" />
 			<attack physical="481.34551" magical="328.69659" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1706,6 +1706,7 @@
 	</npc>
 	<npc id="21084" level="60" type="Monster" name="Bloody Lady">
 		<race>DEMONIC</race>
+		<acquire exp="4536" sp="394" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="3353.75722543353" hpRegen="6.5" mp="683.828382838284" mpRegen="2.4" />
 			<speed>

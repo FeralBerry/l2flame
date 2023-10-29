@@ -806,6 +806,7 @@
 	<npc id="27524" level="60" type="Monster" name="Remembered Giant Akum">
 		<race>GIANT</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1933.24044" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />
@@ -842,6 +843,7 @@
 	<npc id="27525" level="60" type="Monster" name="Remembered Embryo">
 		<race>DARK_ELF</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="1933.24044" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />

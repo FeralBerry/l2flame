@@ -881,6 +881,7 @@
 	<npc id="23820" level="60" type="Monster" name="Ketra Elite Soldier">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="7732.96176" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />
@@ -1041,6 +1042,7 @@
 	<npc id="23825" level="60" type="Monster" name="Kel Mahum Ranger">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="7732.96176" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />
@@ -2693,6 +2695,7 @@
 	<npc id="23878" level="60" type="Monster" name="Ketra Elite Soldier">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="7732.96176" hpRegen="6.5" mp="1345.8" mpRegen="2.4" />
@@ -2853,6 +2856,7 @@
 	<npc id="23883" level="60" type="Monster" name="Kel Mahum Ranger">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="4536" sp="394" />
 		<equipment rhand="160" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="7732.96176" hpRegen="6.5" mp="1345.8" mpRegen="2.4" />

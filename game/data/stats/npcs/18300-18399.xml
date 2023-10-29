@@ -138,7 +138,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="3267" sp="242" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="15989.27" hpRegen="19.5" mp="948" mpRegen="2.4" />
 			<attack physical="424.23295" magical="289.69611" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -573,7 +573,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="3267" sp="242" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="15989.27" hpRegen="19.5" mp="948" mpRegen="2.4" />
 			<attack physical="424.23295" magical="289.69611" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1104,7 +1104,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="4536" sp="394" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1933.24044" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />
 			<attack physical="481.34551" magical="328.69659" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
