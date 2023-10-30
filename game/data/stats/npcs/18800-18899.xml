@@ -8,7 +8,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="9" sp="1" />
+		<acquire exp="49440" sp="5079" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="17140.69" hpRegen="8.5" mp="11290.8" mpRegen="3" />
 			<attack physical="856.44055895414" magical="584.837886935576" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -53,9 +53,24 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="6707" min="1" max="1" chance="1.324" /> <!-- Sealed Draconic Leather Armor Part -->
-				<item id="6680" min="1" max="1" chance="0.008" /> <!-- Sealed Draconic Leather Armor -->
+				<group chance="70">
+					<item id="57" min="2420" max="4913" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.2145">
+					<item id="6680" min="1" max="1" chance="0.2585" /> <!-- Sealed Draconic Leather Armor -->
+					<item id="6707" min="1" max="1" chance="99.7415" /> <!-- Sealed Draconic Leather Armor Part -->
+				</group>
+				<group chance="2.8451">
+					<item id="9628" min="1" max="1" chance="44.9357" /> <!-- Leonard -->
+					<item id="9630" min="1" max="1" chance="30.1542" /> <!-- Orichalcum -->
+					<item id="9629" min="1" max="1" chance="24.9101" /> <!-- Adamantine -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="960" min="1" max="1" chance="0.5298" /> <!-- Scroll: Enchant Armor (S) -->
+				<item id="1894" min="1" max="1" chance="46.4713" /> <!-- Crafted Leather -->
+				<item id="9540" min="1" max="1" chance="2.3694" /> <!-- Sealed Dynasty Tunic Piece -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18801" level="77" type="Monster" name="Elder Lavasaurus">
@@ -66,7 +81,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="9" sp="1" />
+		<acquire exp="49440" sp="5079" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="17140.69" hpRegen="8.5" mp="1674.8" mpRegen="3" />
 			<attack physical="856.44055895414" magical="584.837886935576" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -111,9 +126,24 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="6694" min="1" max="1" chance="0.482" /> <!-- Saint Spear Blade -->
-				<item id="6370" min="1" max="1" chance="0.003" /> <!-- Saint Spear -->
+				<group chance="70">
+					<item id="57" min="2420" max="4913" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.5392">
+					<item id="6370" min="1" max="1" chance="0.2121" /> <!-- Saint Spear -->
+					<item id="6694" min="1" max="1" chance="99.7879" /> <!-- Saint Spear Blade -->
+				</group>
+				<group chance="2.8451">
+					<item id="9628" min="1" max="1" chance="44.9357" /> <!-- Leonard -->
+					<item id="9630" min="1" max="1" chance="30.1542" /> <!-- Orichalcum -->
+					<item id="9629" min="1" max="1" chance="24.9101" /> <!-- Adamantine -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="960" min="1" max="1" chance="0.5298" /> <!-- Scroll: Enchant Armor (S) -->
+				<item id="1894" min="1" max="1" chance="46.4713" /> <!-- Crafted Leather -->
+				<item id="9540" min="1" max="1" chance="2.3694" /> <!-- Sealed Dynasty Tunic Piece -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18802" level="78" type="Monster" name="Elderly Lavasaurus">
@@ -124,7 +154,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="9" sp="1" />
+		<acquire exp="50733" sp="5271" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="17846.06" hpRegen="8.5" mp="1674.8" mpRegen="3" />
 			<attack physical="890.50085998804" magical="608.096657928153" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -169,11 +199,26 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="6701" min="1" max="1" chance="0.829" /> <!-- Sealed Imperial Crusader Breastplate Part -->
-				<item id="6702" min="1" max="1" chance="1.327" /> <!-- Sealed Imperial Crusader Gaiters Pattern -->
-				<item id="6674" min="1" max="1" chance="0.005" /> <!-- Sealed Imperial Crusader Breastplate -->
-				<item id="6675" min="1" max="1" chance="0.008" /> <!-- Sealed Imperial Crusader Gaiters -->
+				<group chance="70">
+					<item id="57" min="2540" max="5000" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.5359">
+					<item id="6674" min="1" max="1" chance="0.1281" /> <!-- Sealed Imperial Crusader Breastplate -->
+					<item id="6675" min="1" max="1" chance="0.2049" /> <!-- Sealed Imperial Crusader Gaiters -->
+					<item id="6701" min="1" max="1" chance="43.5747" /> <!-- Sealed Imperial Crusader Breastplate Part -->
+					<item id="6702" min="1" max="1" chance="56.0923" /> <!-- Sealed Imperial Crusader Gaiters Pattern -->
+				</group>
+				<group chance="2.926">
+					<item id="9628" min="1" max="1" chance="44.9357" /> <!-- Leonard -->
+					<item id="9630" min="1" max="1" chance="30.1542" /> <!-- Orichalcum -->
+					<item id="9629" min="1" max="1" chance="24.9101" /> <!-- Adamantine -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="960" min="1" max="1" chance="0.5448" /> <!-- Scroll: Enchant Armor (S) -->
+				<item id="1894" min="1" max="1" chance="47.7927" /> <!-- Crafted Leather -->
+				<item id="9540" min="1" max="1" chance="2.4368" /> <!-- Sealed Dynasty Tunic Piece -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18803" level="78" type="Monster" name="Ancient Lavasaurus">
@@ -184,7 +229,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="9" sp="1" />
+		<acquire exp="50733" sp="5271" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="17846.06" hpRegen="8.5" mp="2365" mpRegen="3" />
 			<attack physical="890.50085998804" magical="608.096657928153" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -229,11 +274,26 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="6701" min="1" max="1" chance="0.829" /> <!-- Sealed Imperial Crusader Breastplate Part -->
-				<item id="6702" min="1" max="1" chance="1.327" /> <!-- Sealed Imperial Crusader Gaiters Pattern -->
-				<item id="6674" min="1" max="1" chance="0.005" /> <!-- Sealed Imperial Crusader Breastplate -->
-				<item id="6675" min="1" max="1" chance="0.008" /> <!-- Sealed Imperial Crusader Gaiters -->
+				<group chance="70">
+					<item id="57" min="2540" max="5000" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.5359">
+					<item id="6674" min="1" max="1" chance="0.1281" /> <!-- Sealed Imperial Crusader Breastplate -->
+					<item id="6675" min="1" max="1" chance="0.2049" /> <!-- Sealed Imperial Crusader Gaiters -->
+					<item id="6701" min="1" max="1" chance="43.5747" /> <!-- Sealed Imperial Crusader Breastplate Part -->
+					<item id="6702" min="1" max="1" chance="56.0923" /> <!-- Sealed Imperial Crusader Gaiters Pattern -->
+				</group>
+				<group chance="2.926">
+					<item id="9628" min="1" max="1" chance="44.9357" /> <!-- Leonard -->
+					<item id="9630" min="1" max="1" chance="30.1542" /> <!-- Orichalcum -->
+					<item id="9629" min="1" max="1" chance="24.9101" /> <!-- Adamantine -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="960" min="1" max="1" chance="0.5448" /> <!-- Scroll: Enchant Armor (S) -->
+				<item id="1894" min="1" max="1" chance="47.7927" /> <!-- Crafted Leather -->
+				<item id="9540" min="1" max="1" chance="2.4368" /> <!-- Sealed Dynasty Tunic Piece -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18804" level="78" type="Monster" name="Tar Beetle">
@@ -270,10 +330,78 @@
 			<height normal="26" />
 		</collision>
 	</npc>
+	<npc id="18805" level="83" type="Monster" name="Waste Landfill Machine">
+		<race>CONSTRUCT</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3835.59060587002" hpRegen="8.5" mp="1777.4" mpRegen="3" />
+			<attack physical="1099.42361669366" magical="750.763809564873" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="353.86144" magical="258.94045" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="1" />
+				<run ground="1" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="2" /> <!-- Magic Creatures -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="19" />
+			<height normal="28" />
+		</collision>
+	</npc>
+	<npc id="18806" level="83" type="Monster" name="Brazier of Purity">
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3835.59060587002" hpRegen="8.5" mp="1777.4" mpRegen="3" />
+			<attack physical="1099.42361669366" magical="750.763809564873" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="353.86144" magical="258.94045" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="1" />
+				<run ground="1" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="2" /> <!-- Magic Creatures -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="31" />
+		</collision>
+	</npc>
 	<npc id="18807" level="81" type="Monster" name="Frightened Ragna Orc">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2639" sp="292" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="6923.659" hpRegen="8.5" mp="2365" mpRegen="3" />
 			<attack physical="1012.32268463427" magical="691.285164307598" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -306,8 +434,26 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="169" max="394" chance="70" /> <!-- Adena -->
+				<group chance="0.0794">
+					<item id="5311" min="1" max="1" chance="0.3313" /> <!-- Sealed Armor of Nightmare -->
+					<item id="5522" min="1" max="1" chance="49.6687" /> <!-- Sealed Armor of Nightmare Pattern -->
+					<item id="5316" min="1" max="1" chance="0.3313" /> <!-- Sealed Majestic Plate Armor -->
+					<item id="5523" min="1" max="1" chance="49.6687" /> <!-- Sealed Majestic Plate Armor Pattern -->
+				</group>
+				<group chance="2.0674">
+					<item id="1879" min="1" max="1" chance="62.2126" /> <!-- Cokes -->
+					<item id="1885" min="1" max="1" chance="31.1063" /> <!-- High Grade Suede -->
+					<item id="9628" min="1" max="1" chance="2.9277" /> <!-- Leonard -->
+					<item id="9630" min="1" max="1" chance="1.9646" /> <!-- Orichalcum -->
+					<item id="9629" min="1" max="1" chance="1.6229" /> <!-- Adamantine -->
+					<item id="5282" min="1" max="1" chance="0.1659" /> <!-- Recipe: Greater Blessed Spiritshot (S) Compressed Package(100%) -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="9544" min="1" max="1" chance="0.4497" /> <!-- Sealed Dynasty Shoes Piece -->
+				<item id="9630" min="1" max="1" chance="0.4947" /> <!-- Orichalcum -->
+				<item id="9619" min="1" max="1" chance="0.0526" /> <!-- Dynasty Bow Piece -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18808" level="82" type="Monster" name="Dark Shaman Varangka">
@@ -320,7 +466,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6719" /> <!-- Monster Only (Ketra Orc Chieftain) -->
-		<acquire exp="21" sp="1" />
+		<acquire exp="142333" sp="15560" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="43720.5" hpRegen="41.206725" mp="3349.6" mpRegen="50" />
 			<attack physical="492.298548642662" magical="720.623302603812" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -364,7 +510,16 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="173" max="404" chance="70" /> <!-- Adena -->
+				<group chance="40.5408">
+					<item id="9628" min="2" max="6" chance="14.6062" /> <!-- Leonard -->
+					<item id="9630" min="3" max="9" chance="6.5343" /> <!-- Orichalcum -->
+					<item id="9629" min="3" max="9" chance="4.6268" /> <!-- Adamantine -->
+					<item id="9573" min="2" max="6" chance="10.346" /> <!-- Life Stone: level 80 -->
+					<item id="9574" min="1" max="1" chance="12.9325" /> <!-- Mid-Grade Life Stone: level 80 -->
+					<item id="9575" min="1" max="1" chance="1.2933" /> <!-- High-Grade Life Stone: level 80 -->
+					<item id="9550" min="1" max="3" chance="29.7965" /> <!-- Dark Stone -->
+					<item id="9551" min="1" max="3" chance="19.8644" /> <!-- Divine Stone -->
+				</group>
 			</drop>
 		</dropLists>
 	</npc>
@@ -375,7 +530,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6365" /> <!-- Basalt Battlehammer -->
-		<acquire exp="2" sp="1" />
+		<acquire exp="16412" sp="1794" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1821.695" hpRegen="8.5" mp="3349.6" mpRegen="3" />
 			<attack physical="492.298548642662" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -427,7 +582,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8680" /> <!-- Barakiel's Axe -->
-		<acquire exp="3" sp="1" />
+		<acquire exp="17412" sp="1904" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1821.695" hpRegen="8.5" mp="3349.6" mpRegen="3" />
 			<attack physical="492.298548642662" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -695,7 +850,14 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="169" max="394" chance="70" /> <!-- Adena -->
+				<group chance="15">
+					<item id="9546" min="1" max="1" chance="16.7" /> <!-- Fire Stone -->
+					<item id="9547" min="1" max="1" chance="16.7" /> <!-- Water Stone -->
+					<item id="9548" min="1" max="1" chance="16.7" /> <!-- Earth Stone -->
+					<item id="9549" min="1" max="1" chance="16.7" /> <!-- Wind Stone -->
+					<item id="9550" min="1" max="1" chance="16.6" /> <!-- Dark Stone -->
+					<item id="9551" min="1" max="1" chance="16.6" /> <!-- Divine Stone -->
+				</group>
 			</drop>
 		</dropLists>
 	</npc>
@@ -1376,7 +1538,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="16412" sp="1794" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="18000" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

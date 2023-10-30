@@ -57,23 +57,37 @@
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="8601" min="1" max="1" chance="50" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="18" /> <!-- Superior Herb of Life -->
+					<item id="8604" min="1" max="1" chance="25" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="7" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="20">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="5">
+					<item id="8612" min="1" max="1" chance="10" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="10" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="10" /> <!-- Herb of Recovery -->
+					<item id="8611" min="1" max="1" chance="70" /> <!-- Herb of Speed -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="18" />
 			<height normal="31" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18601" level="70" type="Monster" name="Kratei's Watchman">
 		<race>CONSTRUCT</race>
@@ -273,7 +287,7 @@
 			<height normal="0.1" />
 		</collision>
 	</npc>
-	<npc id="18607" level="51" type="Monster" name="Gargos" title="Fire Spirit">
+	<npc id="18607" level="39" type="Monster" name="Gargos" title="Fire Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="114" />
 			<param name="MoveAroundSocial1" value="114" />
@@ -283,7 +297,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="2152" sp="164" />
+		<acquire exp="11224" sp="714" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="26166.4760109651" hpRegen="9" mp="2770.2" mpRegen="1.8" />
 			<attack physical="166.06476" magical="82.76936" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -316,25 +330,26 @@
 				<clan>BOOSTUP</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="22">
+					<item id="8603" min="1" max="1" chance="15" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="31" /> <!-- Superior Herb of Mana -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="12" />
 			<height normal="40" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
-			</drop>
-		</dropLists>
 	</npc>
-	<npc id="18608" level="51" type="Monster" name="Kinsus" title="Fire Spirit">
+	<npc id="18608" level="39" type="Monster" name="Kinsus" title="Fire Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="150" />
 			<param name="MoveAroundSocial1" value="150" />
@@ -343,7 +358,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="2152" sp="164" />
+		<acquire exp="11224" sp="714" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="16291.374214561" hpRegen="9" mp="2770.2" mpRegen="1.8" />
 			<attack physical="166.06476" magical="82.76936" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -382,19 +397,20 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="22">
+					<item id="8603" min="1" max="1" chance="15" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="31" /> <!-- Superior Herb of Mana -->
+				</group>
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18609" level="50" type="Monster" name="Papion" title="Water Spirit">
+	<npc id="18609" level="36" type="Monster" name="Papion" title="Water Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="150" />
 			<param name="MoveAroundSocial1" value="150" />
@@ -405,7 +421,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="2012" sp="154" />
+		<acquire exp="10782" sp="652" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="10512.7777620382" hpRegen="9" mp="2770.2" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -444,19 +460,20 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="22">
+					<item id="8603" min="1" max="1" chance="15" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="31" /> <!-- Superior Herb of Mana -->
+				</group>
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18610" level="50" type="Monster" name="Hillas" title="Water Spirit">
+	<npc id="18610" level="36" type="Monster" name="Hillas" title="Water Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -469,7 +486,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="2012" sp="154" />
+		<acquire exp="10782" sp="652" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="12143.4125711026" hpRegen="9" mp="11080.8" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -508,19 +525,20 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="22">
+					<item id="8603" min="1" max="1" chance="15" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="31" /> <!-- Superior Herb of Mana -->
+				</group>
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18611" level="49" type="Monster" name="Water Spirit">
+	<npc id="18611" level="33" type="Monster" name="Water Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -535,7 +553,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1899" sp="155" />
+		<acquire exp="630" sp="22" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="685.8044" hpRegen="5.5" mp="11080.8" mpRegen="2.1" />
 			<attack physical="290.44588" magical="198.33688" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -587,7 +605,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18612" level="50" type="Monster" name="Water Spirit">
+	<npc id="18612" level="36" type="Monster" name="Water Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -602,7 +620,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="2012" sp="154" />
+		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="11080.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -654,7 +672,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18613" level="51" type="Monster" name="Water Spirit">
+	<npc id="18613" level="39" type="Monster" name="Water Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -669,7 +687,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="2152" sp="164" />
+		<acquire exp="852" sp="35" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="735.0157" hpRegen="6.5" mp="11290.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -721,7 +739,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18614" level="50" type="Monster" name="Fire Spirit">
+	<npc id="18614" level="36" type="Monster" name="Fire Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="215" />
 			<param name="MoveAroundSocial1" value="215" />
@@ -737,7 +755,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="150" lhand="103" /> <!-- Elemental Sword / Tower Shield -->
-		<acquire exp="2012" sp="154" />
+		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="11290.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -789,7 +807,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18615" level="51" type="Monster" name="Fire Spirit">
+	<npc id="18615" level="39" type="Monster" name="Fire Spirit">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -804,7 +822,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="2152" sp="164" />
+		<acquire exp="852" sp="35" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="735.0157" hpRegen="6.5" mp="3349.6" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -856,7 +874,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18616" level="50" type="Monster" name="Bloom">
+	<npc id="18616" level="36" type="Monster" name="Bloom">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -867,7 +885,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2012" sp="154" />
+		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="2512.2" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -918,9 +936,10 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18617" level="50" type="Monster">
+	<npc id="18617" level="36" type="Monster">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="20964.753" hpRegen="5.5" mp="2512.2" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -953,9 +972,10 @@
 			<height normal="0.1" />
 		</collision>
 	</npc>
-	<npc id="18618" level="50" type="Monster">
+	<npc id="18618" level="36" type="Monster">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2823.47946968528" hpRegen="5.5" mp="1507.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -987,9 +1007,10 @@
 			<height normal="0.1" />
 		</collision>
 	</npc>
-	<npc id="18619" level="50" type="Monster">
+	<npc id="18619" level="36" type="Monster">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2823.47946968528" hpRegen="5.5" mp="1507.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1021,10 +1042,10 @@
 			<height normal="0.1" />
 		</collision>
 	</npc>
-	<npc id="18620" level="52" type="Monster" name="Adiantum">
+	<npc id="18620" level="42" type="Monster" name="Adiantum">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="2271" sp="169" />
+		<acquire exp="91639" sp="4070" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="27474.7998115133" hpRegen="9" mp="1507.8" mpRegen="1.8" />
 			<attack physical="198.34591" magical="100.26304" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1060,6 +1081,7 @@
 	<npc id="18621" level="52" type="Monster">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="988" sp="44" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2823.47946968528" hpRegen="6.5" mp="1507.8" mpRegen="2.4" />
 			<attack physical="337.18867" magical="230.25615" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1094,7 +1116,7 @@
 	<npc id="18622" level="61" type="Monster" name="Powder Keg">
 		<race>CONSTRUCT</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="2085" sp="174" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="993.0599" hpRegen="7.5" mp="1507.8" mpRegen="2.7" />
 			<attack physical="501.08068" magical="342.17315" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1139,7 +1161,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="279" /> <!-- Reinforced Longbow -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="3210" sp="273" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="993.0599" hpRegen="7.5" mp="1507.8" mpRegen="2.7" />
 			<attack physical="501.08068" magical="342.17315" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -1270,7 +1292,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="78" /> <!-- Great Sword -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2085" sp="174" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="993.0599" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />
 			<attack physical="501.08068" magical="342.17315" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1337,7 +1359,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="225" lhand="945" /> <!-- Mithril Dagger / Skeleton Buckler -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2295" sp="199" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1070.662" hpRegen="7.5" mp="1158" mpRegen="2.7" />
 			<attack physical="562.02275" magical="383.78868" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -1404,7 +1426,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="225" lhand="945" /> <!-- Mithril Dagger / Skeleton Buckler -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2295" sp="199" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1070.662" hpRegen="7.5" mp="1158" mpRegen="2.7" />
 			<attack physical="562.02275" magical="383.78868" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1468,7 +1490,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="232" /> <!-- Dark Elven Dagger -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2933" sp="249" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="993.0599" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />
 			<attack physical="501.08068" magical="342.17315" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -1534,7 +1556,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="150" lhand="103" /> <!-- Elemental Sword / Tower Shield -->
-		<acquire exp="9" sp="1" />
+		<acquire exp="63182" sp="5562" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="22092.8243635408" hpRegen="15" mp="1066.8" mpRegen="2.7" />
 			<attack physical="501.08068" magical="342.17315" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1599,7 +1621,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="3" /> <!-- Broadsword -->
-		<acquire exp="9" sp="1" />
+		<acquire exp="63182" sp="5562" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="22092.8243635408" hpRegen="15" mp="1066.8" mpRegen="2.7" />
 			<attack physical="501.08068" magical="342.17315" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1664,7 +1686,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="232" /> <!-- Dark Elven Dagger -->
-		<acquire exp="10" sp="1" />
+		<acquire exp="64880" sp="5952" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="22860.7262608719" hpRegen="15" mp="1158" mpRegen="2.7" />
 			<attack physical="562.02275" magical="383.78868" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -1729,7 +1751,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="134" lhand="6721" /> <!-- Sword of Nightmare / Monster Only (Shield of Imperial Warlord Zombie) -->
-		<acquire exp="10" sp="1" />
+		<acquire exp="64880" sp="5952" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="24719.1969350524" hpRegen="15" mp="1158" mpRegen="2.7" />
 			<attack physical="562.02275" magical="383.78868" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1784,7 +1806,7 @@
 	<npc id="18633" level="67" type="Monster" name="Lematan">
 		<race>DRAGON</race>
 		<sex>MALE</sex>
-		<acquire exp="48" sp="1" />
+		<acquire exp="317821" sp="23080" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="49438.3938701049" hpRegen="15" mp="1674.8" mpRegen="2.7" />
 			<attack physical="624.93199" magical="426.74754" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1820,7 +1842,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="232" /> <!-- Dark Elven Dagger -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2295" sp="199" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2141.82127" hpRegen="7.5" mp="1922.80763872901" mpRegen="2.7" />
 			<attack physical="562.02275" magical="383.78868" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -1864,7 +1886,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2504" lhand="6918" /> <!-- Meteor Shower / Monster Only (Shield of Silenos) -->
-		<acquire exp="5" sp="1" />
+		<acquire exp="31556" sp="2980" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="7483.65031581907" hpRegen="17" mp="1922.80763872901" mpRegen="3" />
 			<attack physical="365.712" magical="124.8841975" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1927,7 +1949,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2504" lhand="6918" /> <!-- Meteor Shower / Monster Only (Shield of Silenos) -->
-		<acquire exp="5" sp="1" />
+		<acquire exp="31556" sp="2980" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="7483.65031581907" hpRegen="17" mp="1922.80763872901" mpRegen="3" />
 			<attack physical="365.712" magical="124.8841975" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1987,7 +2009,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="4087" sp="400" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2540.15331" hpRegen="8.5" mp="1922.80763872901" mpRegen="3" />
 			<attack physical="731.52506" magical="499.53679" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2048,7 +2070,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2504" lhand="6918" /> <!-- Meteor Shower / Monster Only (Shield of Silenos) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="3340" sp="338" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="7577.69917044356" hpRegen="8.5" mp="1922.80763872901" mpRegen="3" />
 			<attack physical="365.712" magical="124.8841975" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
@@ -2111,7 +2133,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6917" /> <!-- Monster Only (Poison Sting) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2905" sp="292" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2540.15331" hpRegen="8.5" mp="2512.2" mpRegen="3" />
 			<attack physical="731.52506" magical="499.53679" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -2174,7 +2196,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2905" sp="292" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2540.15331" hpRegen="8.5" mp="2512.2" mpRegen="3" />
 			<attack physical="731.52506" magical="499.53679" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2238,7 +2260,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="4802" sp="513" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2540.15331" hpRegen="8.5" mp="2512.2" mpRegen="3" />
 			<attack physical="731.52506" magical="499.53679" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2300,7 +2322,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="142" lhand="6918" /> <!-- Keshanberk / Monster Only (Shield of Silenos) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="3800" sp="402" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="7577.69917044356" hpRegen="17" mp="2512.2" mpRegen="3" />
 			<attack physical="386.5" magical="132.104" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2360,7 +2382,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="4201" sp="434" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2586.66898" hpRegen="8.5" mp="2512.2" mpRegen="3" />
 			<attack physical="752.73928" magical="514.02335" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2423,7 +2445,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2905" sp="316" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2540.15331" hpRegen="8.5" mp="11080.8" mpRegen="3" />
 			<attack physical="731.52506" magical="499.53679" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2487,7 +2509,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" lhand="6918" /> <!-- Monster Only (Silenos Shaman) / Monster Only (Shield of Silenos) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="3254" sp="360" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2586.66898" hpRegen="8.5" mp="11080.8" mpRegen="3" />
 			<attack physical="752.73928" magical="514.02335" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2549,7 +2571,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2504" lhand="6918" /> <!-- Meteor Shower / Monster Only (Shield of Silenos) -->
-		<acquire exp="6" sp="1" />
+		<acquire exp="37622" sp="3932" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="6660.84527194068" hpRegen="17" mp="11080.8" mpRegen="3" />
 			<attack physical="412.21" magical="140.74335" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2609,7 +2631,7 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="4133" sp="449" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2632.19636" hpRegen="8.5" mp="11080.8" mpRegen="3" />
 			<attack physical="773.81598" magical="528.41601" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2672,7 +2694,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2807" sp="308" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2586.66898" hpRegen="8.5" mp="11080.8" mpRegen="3" />
 			<attack physical="752.73928" magical="514.02335" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2734,7 +2756,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2500" lhand="6918" /> <!-- Dark Legion's Edge / Monster Only (Shield of Silenos) -->
-		<acquire exp="6" sp="1" />
+		<acquire exp="37089" sp="4028" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="9374.13308462609" hpRegen="17" mp="18000" mpRegen="3" />
 			<attack physical="438.22" magical="146.209" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2797,7 +2819,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2500" lhand="6918" /> <!-- Dark Legion's Edge / Monster Only (Shield of Silenos) -->
-		<acquire exp="6" sp="1" />
+		<acquire exp="37089" sp="4028" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="9374.13308462609" hpRegen="17" mp="18000" mpRegen="3" />
 			<attack physical="438.22" magical="146.209" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2858,7 +2880,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="4133" sp="467" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2632.19636" hpRegen="8.5" mp="18000" mpRegen="3" />
 			<attack physical="773.81598" magical="528.41601" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2921,7 +2943,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2884" sp="333" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2632.19636" hpRegen="8.5" mp="18000" mpRegen="3" />
 			<attack physical="773.81598" magical="528.41601" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2983,7 +3005,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2504" lhand="6918" /> <!-- Meteor Shower / Monster Only (Shield of Silenos) -->
-		<acquire exp="6" sp="1" />
+		<acquire exp="39208" sp="3836" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="6703.71622103469" hpRegen="17" mp="18000" mpRegen="3" />
 			<attack physical="386.51" magical="528.41601" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3044,7 +3066,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2500" lhand="6918" /> <!-- Dark Legion's Edge / Monster Only (Shield of Silenos) -->
-		<acquire exp="5" sp="1" />
+		<acquire exp="36599" sp="3398" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="6656.85971425381" hpRegen="17" mp="18000" mpRegen="3" />
 			<attack physical="397.12" magical="542.68324" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3106,7 +3128,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="142" lhand="6918" /> <!-- Keshanberk / Monster Only (Shield of Silenos) -->
-		<acquire exp="6" sp="1" />
+		<acquire exp="38112" sp="4028" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="8619.06371275888" hpRegen="17" mp="1674.8" mpRegen="3" />
 			<attack physical="428.243" magical="146.209" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3169,7 +3191,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2884" sp="333" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2632.19636" hpRegen="8.5" mp="3693.6" mpRegen="3" />
 			<attack physical="773.81598" magical="528.41601" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -3231,7 +3253,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2504" lhand="6918" /> <!-- Meteor Shower / Monster Only (Shield of Silenos) -->
-		<acquire exp="6" sp="1" />
+		<acquire exp="37565" sp="4122" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="8619.06371275888" hpRegen="17" mp="2512.2" mpRegen="3" />
 			<attack physical="445.25" magical="152.024" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3294,7 +3316,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2884" sp="333" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2632.19636" hpRegen="8.5" mp="2512.2" mpRegen="3" />
 			<attack physical="773.81598" magical="528.41601" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3358,7 +3380,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="6716" /> <!-- Monster Only (Silenos Shaman) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="2884" sp="346" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2632.19636" hpRegen="8.5" mp="1922.80763872901" mpRegen="3" />
 			<attack physical="773.81598" magical="528.41601" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -3411,7 +3433,7 @@
 	<npc id="18660" level="75" type="Monster" name="Latana">
 		<race>DRAGON</race>
 		<sex>FEMALE</sex>
-		<acquire exp="68" sp="1" />
+		<acquire exp="453825" sp="4067" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="60325.8102951336" hpRegen="17" mp="2512.2" mpRegen="2.7" />
 			<attack physical="4768.26" magical="542.68324" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3445,6 +3467,7 @@
 	<npc id="18661" level="75" type="Monster">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="8086" sp="614" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="19282.971" hpRegen="8.5" mp="11080.8" mpRegen="3" />
 			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3478,6 +3501,7 @@
 	<npc id="18662" level="73" type="Monster">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
+		<acquire exp="7660" sp="300" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2823.47946968528" hpRegen="8.5" mp="1507.8" mpRegen="3" />
 			<attack physical="752.73928" magical="514.02335" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3539,6 +3563,126 @@
 		<collision>
 			<radius normal="0.1" />
 			<height normal="0.1" />
+		</collision>
+	</npc>
+	<npc id="18664" level="52" type="Monster" name="Fortune Bug">
+		<parameters>
+			<param name="MoveAroundSocial" value="150" />
+			<param name="MoveAroundSocial1" value="150" />
+			<param name="MoveAroundSocial2" value="150" />
+			<param name="IsAggressive" value="1" />
+		</parameters>
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1520.38155" hpRegen="6.5" mp="804.0" mpRegen="2.4" />
+			<attack physical="337.18867" magical="230.25615" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="209.50106" magical="153.30378" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="45" />
+				<run ground="160" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="18665" level="70" type="Monster" name="Fortune Bug">
+		<parameters>
+			<param name="MoveAroundSocial" value="150" />
+			<param name="MoveAroundSocial1" value="150" />
+			<param name="MoveAroundSocial2" value="150" />
+			<param name="IsAggressive" value="1" />
+		</parameters>
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
+			<attack physical="688.86373" magical="470.40463" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="295.91597" magical="216.53847" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="45" />
+				<run ground="160" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="18666" level="75" type="Monster" name="Fortune Bug">
+		<parameters>
+			<param name="MoveAroundSocial" value="150" />
+			<param name="MoveAroundSocial1" value="150" />
+			<param name="MoveAroundSocial2" value="150" />
+			<param name="IsAggressive" value="1" />
+		</parameters>
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="45" />
+				<run ground="160" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="22.5" />
 		</collision>
 	</npc>
 	<npc id="18667" level="83" type="Monster" name="Ward of Death">
@@ -3951,6 +4095,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14016" min="1" max="2" chance="100" /> <!-- Water Energy Compression Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="10" />
@@ -3985,6 +4136,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14015" min="1" max="2" chance="100" /> <!-- Fire Energy Compression Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="10" />
@@ -4019,6 +4177,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14017" min="1" max="2" chance="100" /> <!-- Wind Energy Compression Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="10" />
@@ -4053,6 +4218,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14018" min="1" max="2" chance="100" /> <!-- Earth Energy Compression Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="10" />
@@ -4087,6 +4259,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14020" min="1" max="2" chance="100" /> <!-- Sacred Energy Compression Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="10" />
@@ -4121,6 +4300,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14019" min="1" max="2" chance="100" /> <!-- Darkness Energy Compression Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="10" />
@@ -4154,6 +4340,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14009" min="1" max="2" chance="100" /> <!-- Extracted Red Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="54" />
 			<height normal="61" />
@@ -4187,6 +4380,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14009" min="1" max="2" chance="100" /> <!-- Extracted Red Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="38" />
 			<height normal="43.5" />
@@ -4220,6 +4420,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14009" min="1" max="2" chance="100" /> <!-- Extracted Red Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="38" />
 			<height normal="30.5" />
@@ -4253,6 +4460,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14010" min="1" max="2" chance="100" /> <!-- Extracted Blue Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="54" />
 			<height normal="61" />
@@ -4286,6 +4500,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14010" min="1" max="2" chance="100" /> <!-- Extracted Blue Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="38" />
 			<height normal="43.5" />
@@ -4319,6 +4540,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14010" min="1" max="2" chance="100" /> <!-- Extracted Blue Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="38" />
 			<height normal="30.5" />
@@ -4352,6 +4580,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14011" min="1" max="2" chance="100" /> <!-- Extracted Green Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="54" />
 			<height normal="61" />
@@ -4385,6 +4620,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14011" min="1" max="2" chance="100" /> <!-- Extracted Green Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="38" />
 			<height normal="43.5" />
@@ -4418,6 +4660,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="14011" min="1" max="2" chance="100" /> <!-- Extracted Green Star Stone -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="38" />
 			<height normal="30.5" />

@@ -3,6 +3,7 @@
 	<npc id="24400" level="61" type="Monster" name="Fussy Arbor">
 		<race>ELEMENTAL</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="586" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2089.92274" hpRegen="7.5" mp="1127.4" mpRegen="2.7" />

@@ -914,6 +914,7 @@
 	<npc id="23821" level="61" type="Monster" name="Ketra Commando">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="586" />
 		<equipment rhand="279" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="9927.7963" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />
@@ -1075,6 +1076,7 @@
 	<npc id="23826" level="61" type="Monster" name="Kel Mahum Hunter">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="586" />
 		<equipment rhand="279" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="9927.7963" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />
@@ -2728,6 +2730,7 @@
 	<npc id="23879" level="61" type="Monster" name="Ketra Commando">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="586" />
 		<equipment rhand="279" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="9927.7963" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
@@ -2889,6 +2892,7 @@
 	<npc id="23884" level="61" type="Monster" name="Kel Mahum Hunter">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="586" />
 		<equipment rhand="279" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="9927.7963" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />

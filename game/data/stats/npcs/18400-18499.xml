@@ -2195,7 +2195,7 @@
 		<race>UNDEAD</race>
 		<sex>FEMALE</sex>
 		<equipment rhand="8527" /> <!-- Monster Only (Reinforced Bow) -->
-		<acquire exp="47" sp="1" />
+		<acquire exp="260216" sp="28102" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="65918.4456223521" hpRegen="113.26544062045" mp="1345.8" mpRegen="3" />
 			<attack physical="5655.33185929606" magical="3907.29217709046" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -2227,15 +2227,36 @@
 				<clan>RUIN</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="23038" max="47020" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="2.3256">
+					<item id="236" min="1" max="1" chance="0.2693" /> <!-- Soul Separator -->
+					<item id="5537" min="1" max="1" chance="99.7307" /> <!-- Soul Separator Head -->
+				</group>
+				<group chance="42.0584">
+					<item id="1873" min="3" max="9" chance="33.505" /> <!-- Silver Nugget -->
+					<item id="1868" min="32" max="96" chance="15.7055" /> <!-- Thread -->
+					<item id="1876" min="4" max="12" chance="11.1683" /> <!-- Mithril Ore -->
+					<item id="1895" min="3" max="9" chance="20.5133" /> <!-- Metallic Fiber -->
+					<item id="4042" min="1" max="1" chance="8.3762" /> <!-- Enria -->
+					<item id="1808" min="1" max="1" chance="0.2234" /> <!-- Recipe: Soulshot: S Grade -->
+					<item id="9675" min="5" max="15" chance="6.701" /> <!-- Prayer Fragment -->
+					<item id="1344" min="1650" max="4950" chance="3.8073" /> <!-- Mithril Arrow -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1895" min="1" max="27" chance="93.4652" /> <!-- Metallic Fiber -->
+				<item id="4042" min="1" max="1" chance="76.3299" /> <!-- Enria -->
+				<item id="6710" min="1" max="1" chance="49.53" /> <!-- Sealed Draconic Leather Helmet Pattern -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="8" />
 			<height normal="22" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="57" min="169" max="394" chance="70" /> <!-- Adena -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18464" level="81" type="Monster" name="Remnant Priest">
 		<parameters>
@@ -2258,7 +2279,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="8532" /> <!-- Monster Only (Spinebone Sword) -->
-		<acquire exp="46" sp="1" />
+		<acquire exp="254867" sp="27524" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="65918.4456223521" hpRegen="113.26544062045" mp="1345.8" mpRegen="3" />
 			<attack physical="5655.33185929606" magical="3907.29217709046" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2290,15 +2311,36 @@
 				<clan>RUIN</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="22408" max="45735" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="2.2612">
+					<item id="305" min="1" max="1" chance="0.2694" /> <!-- Tallum Glaive -->
+					<item id="5541" min="1" max="1" chance="99.7306" /> <!-- Tallum Glaive Edge -->
+				</group>
+				<group chance="36.9282">
+					<item id="1871" min="9" max="27" chance="30.9301" /> <!-- Charcoal -->
+					<item id="1866" min="14" max="42" chance="13.2558" /> <!-- Suede -->
+					<item id="1877" min="1" max="1" chance="22.2697" /> <!-- Adamantite Nugget -->
+					<item id="4041" min="1" max="1" chance="4.8412" /> <!-- Mold Hardener -->
+					<item id="4040" min="1" max="1" chance="11.1348" /> <!-- Mold Lubricant -->
+					<item id="6901" min="1" max="1" chance="0.5567" /> <!-- Recipe: Shining Arrow (100%) -->
+					<item id="9675" min="4" max="12" chance="9.279" /> <!-- Prayer Fragment -->
+					<item id="1344" min="900" max="2700" chance="7.7327" /> <!-- Mithril Arrow -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="6901" min="1" max="1" chance="4.4546" /> <!-- Recipe: Shining Arrow (100%) -->
+				<item id="6711" min="1" max="1" chance="14.7144" /> <!-- Sealed Major Arcana Robe Part -->
+				<item id="6901" min="1" max="1" chance="4.4546" /> <!-- Recipe: Shining Arrow (100%) -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="8" />
 			<height normal="23" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="57" min="169" max="394" chance="70" /> <!-- Adena -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18465" level="81" type="Monster" name="Derek" title="Founding Priest">
 		<parameters>
@@ -2326,7 +2368,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="8678" /> <!-- Sirra's Blade -->
-		<acquire exp="192" sp="1" />
+		<acquire exp="1067319" sp="115266" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="338766.60216791" hpRegen="194.030406814438" mp="1345.8" mpRegen="3" />
 			<attack physical="7824.36514865752" magical="5405.88624976893" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2358,15 +2400,40 @@
 				<clan>RUIN</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="116439" max="237651" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="72.6522">
+					<item id="5313" min="1" max="1" chance="0.1671" /> <!-- Sealed Gauntlets of Nightmare -->
+					<item id="5514" min="1" max="1" chance="24.8329" /> <!-- Sealed Gauntlets of Nightmare Design -->
+					<item id="5314" min="1" max="1" chance="0.1671" /> <!-- Sealed Boots of Nightmare -->
+					<item id="5502" min="1" max="1" chance="24.8329" /> <!-- Sealed Boots of Nightmare Lining -->
+					<item id="5318" min="1" max="1" chance="0.1671" /> <!-- Sealed Majestic Gauntlets -->
+					<item id="5515" min="1" max="1" chance="24.8329" /> <!-- Sealed Majestic Gauntlets Design -->
+					<item id="5319" min="1" max="1" chance="0.1671" /> <!-- Sealed Majestic Boots -->
+					<item id="5503" min="1" max="1" chance="24.8329" /> <!-- Sealed Majestic Boots Lining -->
+				</group>
+				<group chance="48.0074">
+					<item id="1875" min="3" max="9" chance="32.9683" /> <!-- Stone of Purity -->
+					<item id="1879" min="32" max="96" chance="7.727" /> <!-- Cokes -->
+					<item id="1885" min="22" max="66" chance="5.4947" /> <!-- High Grade Suede -->
+					<item id="5550" min="1" max="1" chance="39.562" /> <!-- Durable Metal Plate -->
+					<item id="5549" min="10" max="30" chance="14.1293" /> <!-- Metallic Thread -->
+					<item id="959" min="1" max="1" chance="0.1187" /> <!-- Scroll: Enchant Weapon (S) -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="6714" min="1" max="5" chance="69.5358" /> <!-- Sealed Major Arcana Circlet Pattern -->
+				<item id="6901" min="1" max="1" chance="23.1473" /> <!-- Recipe: Shining Arrow (100%) -->
+				<item id="7579" min="1" max="1" chance="28.1174" /> <!-- Draconic Bow Shaft -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="28.1" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="57" min="169" max="394" chance="70" /> <!-- Adena -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18466" level="81" type="Monster" name="Outpost Guard Captain">
 		<parameters>
@@ -2539,7 +2606,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="46" sp="1" />
+		<acquire exp="253630" sp="26086" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="98487.7" hpRegen="111.50705124295" mp="2227.484" mpRegen="3" />
 			<attack physical="5815.28895362847" magical="3971.08850697278" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2596,7 +2663,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="19" sp="1" />
+		<acquire exp="103028" sp="11126" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="32829.2831947712" hpRegen="111.50705124295" mp="2227.484" mpRegen="3" />
 			<attack physical="5815.28895362847" magical="3971.08850697278" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2664,7 +2731,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="8" sp="1" />
+		<acquire exp="45987" sp="4761" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="16414.51" hpRegen="111.50705124295" mp="2227.484" mpRegen="3" />
 			<attack physical="5815.28895362847" magical="3971.08850697278" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2721,7 +2788,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="20" sp="1" />
+		<acquire exp="112393" sp="12138" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="32829.2831947712" hpRegen="111.50705124295" mp="2227.484" mpRegen="3" />
 			<attack physical="5815.28895362847" magical="3971.08850697278" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2783,7 +2850,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="130" sp="1" />
+		<acquire exp="724449" sp="78237" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="266876.754788844" hpRegen="151.077722264187" mp="2227.484" mpRegen="3" />
 			<attack physical="7227.07474574248" magical="4935.15525582084" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2889,7 +2956,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="16" sp="1" />
+		<acquire exp="90677" sp="9792" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="32829.2831947712" hpRegen="111.50705124295" mp="1846.8" mpRegen="3" />
 			<attack physical="5815.28895362847" magical="3971.08850697278" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2949,7 +3016,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="19" sp="1" />
+		<acquire exp="104688" sp="11305" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="32829.2831947712" hpRegen="111.50705124295" mp="1188.8" mpRegen="3" />
 			<attack physical="5815.28895362847" magical="3971.08850697278" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3020,6 +3087,23 @@
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>7</sNpcPropHpRate>
 		<ai type="BALANCED" clanHelpRange="500" aggroRange="450" />
+		<dropLists>
+			<drop>
+				<group chance="22.9021">
+					<item id="6684" min="1" max="1" chance="5.274" /> <!-- Sealed Major Arcana Robe -->
+					<item id="6711" min="12" max="36" chance="94.726" /> <!-- Sealed Major Arcana Robe Part -->
+				</group>
+				<group chance="4.9356">
+					<item id="9460" min="1" max="1" chance="14.2857" /> <!-- Dynasty Ring -->
+					<item id="9463" min="1" max="1" chance="14.2857" /> <!-- Dynasty Ring -->
+					<item id="9466" min="1" max="1" chance="14.2857" /> <!-- Dynasty Ring -->
+					<item id="9469" min="1" max="1" chance="14.2857" /> <!-- Dynasty Ring -->
+					<item id="9472" min="1" max="1" chance="14.2857" /> <!-- Dynasty Ring -->
+					<item id="9475" min="1" max="1" chance="14.2857" /> <!-- Dynasty Ring -->
+					<item id="9478" min="1" max="1" chance="14.2858" /> <!-- Dynasty Ring -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="8.5" />
 			<height normal="8.5" />
@@ -3059,23 +3143,27 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="8600" min="3" max="5" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="3" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="50">
+					<item id="8603" min="3" max="5" chance="55" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="2" chance="38" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="7" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="1">
+					<item id="8614" min="1" max="1" chance="100" /> <!-- Herb of Recovery -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="8" />
 			<height normal="21.5" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18479" level="81" type="Monster" name="Inner Castle Sentry">
 		<parameters>
@@ -3305,7 +3393,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="286" sp="25"/>
+		<acquire exp="1352" sp="57" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="643.5331" hpRegen="2.5" mp="1846.8" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3573,7 +3661,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="10" sp="1" />
+		<acquire exp="65974" sp="6876" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="14684.4906653521" hpRegen="147.065726062023" mp="1507.8" mpRegen="3" />
 			<attack physical="8210.98608647281" magical="5607.03907248617" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -3614,15 +3702,36 @@
 			</clanList>
 		</ai>
 		<status attackable="true" />
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="5380" max="10776" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.6213">
+					<item id="164" min="1" max="1" chance="0.0674" /> <!-- Elysian -->
+					<item id="5533" min="1" max="1" chance="24.9401" /> <!-- Elysian Head -->
+					<item id="213" min="1" max="1" chance="0.0674" /> <!-- Branch of the Mother Tree -->
+					<item id="5544" min="1" max="1" chance="24.9155" /> <!-- Branch of the Mother Tree Head -->
+					<item id="7895" min="1" max="1" chance="0.0674" /> <!-- Flaming Dragon Skull -->
+					<item id="8342" min="1" max="1" chance="24.9401" /> <!-- Flaming Dragon Skull Piece -->
+					<item id="7902" min="1" max="1" chance="0.0674" /> <!-- Doom Crusher -->
+					<item id="8349" min="1" max="1" chance="24.9347" /> <!-- Doom Crusher Head -->
+				</group>
+				<group chance="43.3198">
+					<item id="1873" min="2" max="6" chance="14.9154" /> <!-- Silver Nugget -->
+					<item id="1868" min="15" max="45" chance="9.9436" /> <!-- Thread -->
+					<item id="1876" min="1" max="1" chance="29.8308" /> <!-- Mithril Ore -->
+					<item id="1895" min="1" max="1" chance="42.6155" /> <!-- Metallic Fiber -->
+					<item id="4042" min="1" max="1" chance="2.4859" /> <!-- Enria -->
+					<item id="960" min="1" max="1" chance="0.0597" /> <!-- Scroll: Enchant Armor (S) -->
+					<item id="6901" min="1" max="1" chance="0.1491" /> <!-- Recipe: Shining Arrow (100%) -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="8" />
 			<height normal="17.5" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="57" min="260" max="606" chance="70" /> <!-- Adena -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18491" level="87" type="Monster" name="Crystal" title="Tower of Naia">
 		<parameters>

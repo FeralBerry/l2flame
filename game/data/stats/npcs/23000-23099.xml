@@ -1501,7 +1501,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="45387" sp="786" />
 		<equipment rhand="1472" /> <!-- Dreadbane -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="7941.956" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />

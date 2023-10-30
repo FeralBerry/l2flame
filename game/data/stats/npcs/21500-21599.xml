@@ -1196,6 +1196,7 @@
 		</parameters>
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="486" />
 		<equipment rhand="326" /> <!-- Heathen's Book -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1985.55926" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />
@@ -1283,6 +1284,7 @@
 		</parameters>
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="486" />
 		<equipment rhand="242" /> <!-- Soulfire Dirk -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1985.55926" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />
@@ -1366,6 +1368,7 @@
 		</parameters>
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<acquire exp="5387" sp="486" />
 		<equipment rhand="242" /> <!-- Soulfire Dirk -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1985.55926" hpRegen="7.5" mp="1066.8" mpRegen="2.7" />
