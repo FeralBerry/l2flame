@@ -1034,7 +1034,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 30286 - 30287 -->
-	<npc id="30288" level="70" type="VillageMasterFighter" name="Rains" title="Grand Master">
+	<npc id="30288" level="70" type="VillageMaster" name="Rains" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="63" />
@@ -1073,7 +1073,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="30289" level="70" type="VillageMasterPriest" name="Raymond" title="High Priest">
+	<npc id="30289" level="70" type="VillageMaster" name="Raymond" title="High Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="135" />
@@ -1112,7 +1112,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="30290" level="70" type="VillageMasterDElf" name="Xenos" title="Grand Master">
+	<npc id="30290" level="70" type="VillageMaster" name="Xenos" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="103" />
@@ -1151,7 +1151,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30291" level="70" type="Trainer" name="Alex" title="Captain">
+	<npc id="30291" level="70" type="Folk" name="Alex" title="Captain">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -1192,7 +1192,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 30292 -->
-	<npc id="30293" level="70" type="Trainer" name="Manuel" title="Priest">
+	<npc id="30293" level="70" type="Folk" name="Manuel" title="Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="187" />
@@ -1273,7 +1273,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 30295 - 30296 -->
-	<npc id="30297" level="70" type="VillageMasterDElf" name="Tobias" title="Grand Master">
+	<npc id="30297" level="70" type="VillageMaster" name="Tobias" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="103" />
@@ -1312,7 +1312,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30298" level="70" type="Trainer" name="Pinter" title="Blacksmith">
+	<npc id="30298" level="70" type="Folk" name="Pinter" title="Blacksmith">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="93" />

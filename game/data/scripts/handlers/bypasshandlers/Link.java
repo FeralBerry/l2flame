@@ -16,15 +16,15 @@
  */
 package handlers.bypasshandlers;
 
-import java.util.HashSet;
-import java.util.Set;
-
 import org.l2jmobius.gameserver.cache.HtmCache;
 import org.l2jmobius.gameserver.handler.IBypassHandler;
 import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.actor.instance.Teleporter;
 import org.l2jmobius.gameserver.network.serverpackets.NpcHtmlMessage;
+
+import java.util.HashSet;
+import java.util.Set;
 
 public class Link implements IBypassHandler
 {
@@ -75,7 +75,7 @@ public class Link implements IBypassHandler
 		VALID_LINKS.add("common/welcomeback002.htm");
 		VALID_LINKS.add("common/welcomeback003.htm");
 		VALID_LINKS.add("default/BlessingOfProtection.htm");
-		VALID_LINKS.add("default/SupportMagic.htm");
+
 		VALID_LINKS.add("default/SupportMagicServitor.htm");
 		VALID_LINKS.add("fisherman/exchange_old_items.htm");
 		VALID_LINKS.add("fisherman/fish_appearance_exchange.htm");

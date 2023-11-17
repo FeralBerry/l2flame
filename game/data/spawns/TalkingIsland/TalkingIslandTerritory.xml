@@ -49,23 +49,6 @@
 			<npc id="19154" x="-112717" y="240064" z="-2920" heading="57511" respawnTime="60sec" /> <!-- Combat Officer - Combat Assistant -->
 			<npc id="19154" x="-112480" y="240764" z="-2920" heading="54021" respawnTime="60sec" /> <!-- Combat Officer - Combat Assistant -->
 			<npc id="19154" x="-110487" y="232521" z="-3296" heading="55886" respawnTime="60sec" /> <!-- Combat Officer - Combat Assistant -->
-			<npc id="20091" x="-113177" y="246216" z="-3688" heading="29783" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-113770" y="246611" z="-3704" heading="42594" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-113188" y="247196" z="-3728" heading="50687" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-113431" y="247535" z="-3320" heading="34522" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-108970" y="248779" z="-2976" heading="8466" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-109513" y="249483" z="-2880" heading="30068" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-108984" y="250910" z="-2888" heading="38902" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-109013" y="247560" z="-3056" heading="13120" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-107844" y="247369" z="-3296" heading="50307" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-106834" y="247465" z="-3384" heading="27280" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-106675" y="249650" z="-3176" heading="64958" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-106540" y="249319" z="-3248" heading="38658" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-108119" y="251228" z="-3136" heading="60192" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-106619" y="250808" z="-3672" heading="29474" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-108195" y="251372" z="-3120" heading="15196" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-105980" y="247372" z="-3520" heading="17753" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
-			<npc id="20091" x="-106210" y="247831" z="-3424" heading="20979" respawnTime="60sec" chaseRange="100" /> <!-- Young Fox -->
 			<npc id="20093" x="-117820" y="248520" z="-1960" heading="63263" respawnTime="60sec" /> <!-- Orc Warrior -->
 			<npc id="20093" x="-117334" y="248225" z="-2040" heading="27408" respawnTime="60sec" /> <!-- Orc Warrior -->
 			<npc id="20093" x="-117679" y="248295" z="-2016" heading="25403" respawnTime="60sec" /> <!-- Orc Warrior -->
@@ -105,28 +88,6 @@
 			<npc id="20094" x="-121040" y="243665" z="-2168" heading="60694" respawnTime="60sec" chaseRange="500" /> <!-- Orc Sniper -->
 			<npc id="20094" x="-121642" y="242782" z="-2184" heading="23259" respawnTime="60sec" chaseRange="500" /> <!-- Orc Sniper -->
 			<npc id="20094" x="-121225" y="243215" z="-2208" heading="12404" respawnTime="60sec" chaseRange="500" /> <!-- Orc Sniper -->
-			<npc id="20096" x="-117455" y="245959" z="-2152" heading="57508" respawnTime="60sec" chaseRange="400" /> <!-- Orc Lieutenant -->
-			<npc id="20096" x="-117549" y="246000" z="-2168" heading="61268" respawnTime="60sec" chaseRange="400" /> <!-- Orc Lieutenant -->
-			<npc id="20096" x="-119548" y="244312" z="-2136" heading="22538" respawnTime="60sec" chaseRange="400" /> <!-- Orc Lieutenant -->
-			<npc id="20096" x="-119576" y="244157" z="-2160" heading="41297" respawnTime="60sec" chaseRange="400" /> <!-- Orc Lieutenant -->
-			<npc id="20096" x="-121897" y="243142" z="-2112" heading="25410" respawnTime="60sec" chaseRange="400" /> <!-- Orc Lieutenant -->
-			<npc id="20096" x="-121459" y="243305" z="-2184" heading="50871" respawnTime="60sec" chaseRange="400" /> <!-- Orc Lieutenant -->
-			<npc id="20119" x="-113700" y="245637" z="-3712" heading="1534" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-114392" y="245725" z="-3648" heading="23536" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-114239" y="245439" z="-3640" heading="51434" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-114219" y="245433" z="-3656" heading="24436" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-109101" y="248098" z="-2936" heading="61727" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-109644" y="249006" z="-2728" heading="54053" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-109015" y="251130" z="-2864" heading="64813" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-108847" y="251414" z="-2896" heading="13758" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-108595" y="246818" z="-3192" heading="20352" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-107813" y="247617" z="-3272" heading="52962" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-107978" y="246714" z="-3296" heading="12745" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-106493" y="249320" z="-3280" heading="13684" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-105839" y="246685" z="-3496" heading="17863" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-106270" y="247288" z="-3464" heading="26553" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-106012" y="246459" z="-3448" heading="35753" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
-			<npc id="20119" x="-106151" y="250202" z="-3664" heading="55445" respawnTime="60sec" chaseRange="100" /> <!-- Elder Fox -->
 			<npc id="20120" x="-115384" y="246425" z="-3360" heading="31662" respawnTime="60sec" chaseRange="100" /> <!-- Wolf -->
 			<npc id="20120" x="-115580" y="246266" z="-3328" heading="25352" respawnTime="60sec" chaseRange="100" /> <!-- Wolf -->
 			<npc id="20120" x="-115489" y="246493" z="-3096" heading="3961" respawnTime="60sec" chaseRange="100" /> <!-- Wolf -->
@@ -143,16 +104,6 @@
 			<npc id="20120" x="-108041" y="250635" z="-3152" heading="5225" respawnTime="60sec" chaseRange="100" /> <!-- Wolf -->
 			<npc id="20120" x="-107350" y="251126" z="-3576" heading="7000" respawnTime="60sec" chaseRange="100" /> <!-- Wolf -->
 			<npc id="20120" x="-106265" y="248701" z="-3344" heading="15278" respawnTime="60sec" chaseRange="100" /> <!-- Wolf -->
-			<npc id="20151" x="-109849" y="248028" z="-2752" heading="10353" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-109807" y="248226" z="-2720" heading="19916" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-109662" y="248659" z="-2752" heading="49732" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-109586" y="247208" z="-2952" heading="40752" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-108241" y="246646" z="-3184" heading="50140" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-107765" y="246810" z="-3352" heading="6402" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-106742" y="247908" z="-3320" heading="64074" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-108513" y="251593" z="-3088" heading="25977" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-108379" y="250627" z="-3080" heading="27083" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
-			<npc id="20151" x="-106259" y="247530" z="-3456" heading="28719" respawnTime="60sec" chaseRange="300" /> <!-- Kobold -->
 			<npc id="20494" x="-113989" y="247347" z="-3520" heading="56060" respawnTime="60sec" /> <!-- Turek War Hound -->
 			<npc id="20494" x="-113763" y="246970" z="-3752" heading="65392" respawnTime="60sec" /> <!-- Turek War Hound -->
 			<npc id="20494" x="-114082" y="247253" z="-3544" heading="3435" respawnTime="60sec" /> <!-- Turek War Hound -->

@@ -16,9 +16,8 @@
  */
 package quests;
 
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
+import quests.Q00001_Newbie.Q00001_Newbie;
+import quests.Q00002_Newbie2.Q00002_Newbie2;
 import quests.Q00500_BrothersBoundInChains.Q00500_BrothersBoundInChains;
 import quests.Q00511_AwlUnderFoot.Q00511_AwlUnderFoot;
 import quests.Q00512_BladeUnderFoot.Q00512_BladeUnderFoot;
@@ -64,24 +63,10 @@ import quests.Q11024_PathOfDestinyBeginning.Q11024_PathOfDestinyBeginning;
 import quests.Q11025_PathOfDestinyProving.Q11025_PathOfDestinyProving;
 import quests.Q11026_PathOfDestinyConviction.Q11026_PathOfDestinyConviction;
 import quests.Q11027_PathOfDestinyOvercome.Q11027_PathOfDestinyOvercome;
-import quests.not_done.Q00504_CompetitionForTheBanditStronghold;
-import quests.not_done.Q00655_AGrandPlanForTamingWildBeasts;
-import quests.not_done.Q00836_RequestFromTheBlackbirdClan;
-import quests.not_done.Q00837_RequestFromTheGiantTrackers;
-import quests.not_done.Q00838_RequestFromTheMotherTreeGuardians;
-import quests.not_done.Q00839_RequestFromTheUnworldlyVisitors;
-import quests.not_done.Q00840_RequestFromTheKingdomsRoyalGuard;
-import quests.not_done.Q01900_StormIsleSecretSpot;
-import quests.not_done.Q01901_StormIsleFurtiveDeal;
-import quests.not_done.Q10595_TheDimensionalWarpPart8;
-import quests.not_done.Q10596_TheDimensionalWarpPart9;
-import quests.not_done.Q10904_JourneyToTheConquestWorld;
-import quests.not_done.Q10905_HuntingTime;
-import quests.not_done.Q10906_ChasingTheLight;
-import quests.not_done.Q10907_WhereFlowersBlossom;
-import quests.not_done.Q11028_WindOfDestinyEncounter;
-import quests.not_done.Q11029_WindOfDestinyPromise;
-import quests.not_done.Q11030_WindOfDestinyChoice;
+import quests.not_done.*;
+
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  * @author NosBit
@@ -92,6 +77,8 @@ public class QuestMasterHandler
 	
 	private static final Class<?>[] QUESTS =
 	{
+		Q00001_Newbie.class,
+		Q00002_Newbie2.class,
 		Q00500_BrothersBoundInChains.class,
 		Q00504_CompetitionForTheBanditStronghold.class, // TODO: Not done.
 		Q00511_AwlUnderFoot.class,
