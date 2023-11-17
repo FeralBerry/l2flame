@@ -29,8 +29,7 @@ public class Q00001_Newbie extends Quest {
         addStartNpc(NEWBIE_GUIDE);
         addTalkId(NEWBIE_GUIDE);
         addKillId(GREMLIN, YOUNG_KELTIR, PRAIRIE_KELTIR, ELDER_PRAIRIE_KELTIR);
-        setQuestNameNpcStringId(NpcStringId.LV_1_PATH_OF_DESTINY_BEGINNING);
-        // LV_1_PATH_OF_DESTINY_BEGINNING нужно заменить прописать новый параметр
+        setQuestNameNpcStringId(NpcStringId.TRAINING_START_HUNTING);
     }
 
     @Override

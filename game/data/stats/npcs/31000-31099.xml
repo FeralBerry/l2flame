@@ -2044,7 +2044,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="31078" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31078" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2085,7 +2085,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31079" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31079" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2126,7 +2126,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31080" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31080" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2167,7 +2167,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31081" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31081" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2208,7 +2208,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31082" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31082" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2249,7 +2249,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31083" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31083" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2290,7 +2290,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31084" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31084" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2331,7 +2331,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31085" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31085" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2372,7 +2372,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31086" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31086" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2413,7 +2413,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31087" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31087" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2454,7 +2454,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31088" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31088" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2495,7 +2495,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31089" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31089" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2536,7 +2536,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31090" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31090" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2577,7 +2577,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31091" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31091" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2619,7 +2619,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31092" level="70" type="SignsPriest" name="Black Marketeer of Mammon">
+	<npc id="31092" level="70" type="Merchant" name="Black Marketeer of Mammon">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="138" />
@@ -2747,7 +2747,7 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="31095" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31095" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />
@@ -2790,7 +2790,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31096" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31096" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />
@@ -2833,7 +2833,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31097" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31097" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />
@@ -2876,7 +2876,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31098" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31098" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />
@@ -2919,7 +2919,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31099" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31099" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />

@@ -1486,7 +1486,7 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="32139" level="70" type="VillageMasterKamael" name="Casca" title="Vice Hierarch">
+	<npc id="32139" level="70" type="VillageMaster" name="Casca" title="Vice Hierarch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="108" />
@@ -1525,7 +1525,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32140" level="70" type="VillageMasterKamael" name="Zenya" title="Vice Hierarch">
+	<npc id="32140" level="70" type="VillageMaster" name="Zenya" title="Vice Hierarch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="166" />
@@ -1564,7 +1564,7 @@
 			<height normal="22.25" />
 		</collision>
 	</npc>
-	<npc id="32141" level="70" type="Trainer" name="Nerga" title="Master">
+	<npc id="32141" level="70" type="Folk" name="Nerga" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="105" />
@@ -1604,7 +1604,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32142" level="70" type="Trainer" name="Tenor" title="Master">
+	<npc id="32142" level="70" type="Folk" name="Tenor" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="105" />
@@ -1644,7 +1644,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32143" level="70" type="Trainer" name="Belkis" title="Master">
+	<npc id="32143" level="70" type="Folk" name="Belkis" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -1685,7 +1685,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32144" level="70" type="Trainer" name="Xonia" title="Master">
+	<npc id="32144" level="70" type="Folk" name="Xonia" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -1726,7 +1726,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32145" level="70" type="VillageMasterKamael" name="Maynard" title="Grand Master">
+	<npc id="32145" level="70" type="VillageMaster" name="Maynard" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -1768,7 +1768,7 @@
 			<height normal="22.25" />
 		</collision>
 	</npc>
-	<npc id="32146" level="70" type="VillageMasterKamael" name="Valpor" title="Grand Master">
+	<npc id="32146" level="70" type="VillageMaster" name="Valpor" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="125" />
@@ -1809,7 +1809,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32147" level="70" type="VillageMasterMystic" name="Rivian" title="Grand Master">
+	<npc id="32147" level="70" type="VillageMaster" name="Rivian" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -1848,7 +1848,7 @@
 			<height normal="21.2" />
 		</collision>
 	</npc>
-	<npc id="32148" level="70" type="Trainer" name="Cindet" title="Master">
+	<npc id="32148" level="70" type="Folk" name="Cindet" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="187" />
@@ -1887,7 +1887,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="32149" level="70" type="Trainer" name="Ennear" title="Magister">
+	<npc id="32149" level="70" type="Folk" name="Ennear" title="Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="123" />
@@ -1926,7 +1926,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="32150" level="70" type="VillageMasterOrc" name="Took" title="High Prefect">
+	<npc id="32150" level="70" type="VillageMaster" name="Took" title="High Prefect">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="95" />
@@ -1965,7 +1965,7 @@
 			<height normal="26" />
 		</collision>
 	</npc>
-	<npc id="32151" level="70" type="Trainer" name="Herz" title="Prefect">
+	<npc id="32151" level="70" type="Folk" name="Herz" title="Prefect">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2004,7 +2004,7 @@
 			<height normal="28.5" />
 		</collision>
 	</npc>
-	<npc id="32152" level="70" type="Trainer" name="Henri" title="Seer">
+	<npc id="32152" level="70" type="Folk" name="Henri" title="Seer">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2043,7 +2043,7 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="32153" level="70" type="VillageMasterPriest" name="Prana" title="High Priest">
+	<npc id="32153" level="70" type="VillageMaster" name="Prana" title="High Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -2082,7 +2082,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="32154" level="70" type="VillageMasterFighter" name="Aldenia" title="Grand Master">
+	<npc id="32154" level="70" type="VillageMaster" name="Aldenia" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -2121,7 +2121,7 @@
 			<height normal="21.5" />
 		</collision>
 	</npc>
-	<npc id="32155" level="70" type="Trainer" name="Nabot" title="Priest">
+	<npc id="32155" level="70" type="Folk" name="Nabot" title="Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2162,7 +2162,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32156" level="70" type="Trainer" name="Talbot" title="Master">
+	<npc id="32156" level="70" type="Folk" name="Talbot" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -2201,7 +2201,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32157" level="70" type="VillageMasterDwarf" name="Moka" title="Head Blacksmith">
+	<npc id="32157" level="70" type="VillageMaster" name="Moka" title="Head Blacksmith">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="85" />
@@ -2240,7 +2240,7 @@
 			<height normal="16.5" />
 		</collision>
 	</npc>
-	<npc id="32158" level="70" type="VillageMasterDwarf" name="Fisler" title="Warehouse Chief">
+	<npc id="32158" level="70" type="VillageMaster" name="Fisler" title="Warehouse Chief">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -2279,7 +2279,7 @@
 			<height normal="18.4" />
 		</collision>
 	</npc>
-	<npc id="32159" level="70" type="Trainer" name="Kincaid" title="Blacksmith">
+	<npc id="32159" level="70" type="Folk" name="Kincaid" title="Blacksmith">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="93" />
@@ -2318,7 +2318,7 @@
 			<height normal="16.5" />
 		</collision>
 	</npc>
-	<npc id="32160" level="70" type="VillageMasterDElf" name="Devon" title="Grand Magister">
+	<npc id="32160" level="70" type="VillageMaster" name="Devon" title="Grand Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="156" />
@@ -2357,7 +2357,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="32161" level="70" type="Trainer" name="Black" title="Master">
+	<npc id="32161" level="70" type="Folk" name="Black" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2396,7 +2396,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32162" level="70" type="Trainer" name="Martika" title="Magister">
+	<npc id="32162" level="70" type="Folk" name="Martika" title="Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="106" />
@@ -2750,7 +2750,7 @@
 			<height normal="17" />
 		</collision>
 	</npc>
-	<npc id="32171" level="70" type="VillageMasterDwarf" name="Hoffa" title="Warehouse Chief">
+	<npc id="32171" level="70" type="VillageMaster" name="Hoffa" title="Warehouse Chief">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="150" />
@@ -3197,7 +3197,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="32182" level="70" type="Trainer" name="Coplan" title="Master">
+	<npc id="32182" level="70" type="Folk" name="Coplan" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="105" />
@@ -3237,7 +3237,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32183" level="70" type="Trainer" name="Yunha" title="Master">
+	<npc id="32183" level="70" type="Folk" name="Yunha" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -3562,7 +3562,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32191" level="70" type="VillageMasterKamael" name="Hanarin" title="Grand Master">
+	<npc id="32191" level="70" type="VillageMaster" name="Hanarin" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -3645,7 +3645,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32193" level="70" type="VillageMasterKamael" name="Yeniche" title="Grand Master">
+	<npc id="32193" level="70" type="VillageMaster" name="Yeniche" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -3687,7 +3687,7 @@
 			<height normal="22.25" />
 		</collision>
 	</npc>
-	<npc id="32194" level="70" type="Trainer" name="Shubain" title="Master">
+	<npc id="32194" level="70" type="Folk" name="Shubain" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="105" />
@@ -3727,7 +3727,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32195" level="70" type="Trainer" name="Sione" title="Master">
+	<npc id="32195" level="70" type="Folk" name="Sione" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -3768,7 +3768,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32196" level="70" type="VillageMasterKamael" name="Gershwin" title="Grand Master">
+	<npc id="32196" level="70" type="VillageMaster" name="Gershwin" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="125" />
@@ -3809,7 +3809,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32197" level="70" type="Trainer" name="Gwain" title="Master">
+	<npc id="32197" level="70" type="Folk" name="Gwain" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="105" />
@@ -3849,7 +3849,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="32198" level="70" type="Trainer" name="Gobie" title="Master">
+	<npc id="32198" level="70" type="Folk" name="Gobie" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -3890,7 +3890,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32199" level="70" type="VillageMasterKamael" name="Holst" title="Grand Master">
+	<npc id="32199" level="70" type="VillageMaster" name="Holst" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="125" />

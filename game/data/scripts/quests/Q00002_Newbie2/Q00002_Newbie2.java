@@ -28,40 +28,41 @@ public class Q00002_Newbie2 extends Quest {
         super(QUEST_ID);
         addStartNpc(NEWBIE_GUIDE);
         addTalkId(NEWBIE_GUIDE,PAPUMA,USKA,IMANTU,KUNAI,JAKAL,SUMARI);
-        setQuestNameNpcStringId(NpcStringId.LV_1_PATH_OF_DESTINY_BEGINNING);
-        // LV_1_PATH_OF_DESTINY_BEGINNING нужно заменить прописать новый параметр
+        setQuestNameNpcStringId(NpcStringId.TRAINING_GETTING_TO_KNOW_THE_POSSIBILITIES);
     }
     @Override
     public String onAdvEvent(String event, Npc npc, Player player){
-        final QuestState qs = getQuestState(player, false);
+        final QuestState qs = getQuestState(player, true);
         String htmltext = null;
-        if (qs == null)
-        {
-            return null;
-        }
-        switch (event) {
-            case "00002-02.htm": {
-                qs.startQuest();
-                htmltext = event;
+        switch (qs.getState()) {
+            case State.CREATED: {
+                if (npc.getId() == NEWBIE_GUIDE) {
+                    htmltext = "00002-01.htm";
+                }
                 break;
             }
-            case "00002-09.htm": {
-                if (qs.isCond(7)) {
-                    htmltext = event;
-                    if (player.getRace() == Race.KAMAEL){
-                        giveItems(player, WARRIOR_SWORD, 1);
-                    } else if (player.isMageClass()) {
-                        giveItems(player, GALLINT_OAK_WAND, 1);
-                    } else if(player.getRace() == Race.DWARF) {
-                        giveItems(player, MACE, 1);
-                    } else if(player.getRace() == Race.ORC) {
-                        giveItems(player,IRON_GLOVES,1);
-                    } else {
-                        giveItems(player,BROADSWORD,1);
-                    }
-                    giveItems(player, HEALING_POTION, 50);
-                    qs.exitQuest(false, true);
+        }
+        if (event.equalsIgnoreCase("00002-02.htm")) {
+            htmltext = event;
+            qs.startQuest();
+            qs.setCond(1);
+        }
+        if(event.equalsIgnoreCase("00002-09.htm")){
+            if (qs.isCond(7)) {
+                htmltext = event;
+                if (player.getRace() == Race.KAMAEL){
+                    giveItems(player, WARRIOR_SWORD, 1);
+                } else if (player.isMageClass()) {
+                    giveItems(player, GALLINT_OAK_WAND, 1);
+                } else if(player.getRace() == Race.DWARF) {
+                    giveItems(player, MACE, 1);
+                } else if(player.getRace() == Race.ORC) {
+                    giveItems(player,IRON_GLOVES,1);
+                } else {
+                    giveItems(player,BROADSWORD,1);
                 }
+                giveItems(player, HEALING_POTION, 50);
+                qs.exitQuest(false, true);
             }
         }
         return htmltext;
@@ -70,11 +71,11 @@ public class Q00002_Newbie2 extends Quest {
     public String onTalk(Npc npc, Player player) {
         final QuestState qs = getQuestState(player, true);
         String htmltext = getNoQuestMsg(player);
+        if (qs == null)
+        {
+            return null;
+        }
         switch (qs.getState()) {
-            case State.CREATED: {
-                qs.setCond(1);
-                break;
-            }
             case State.STARTED: {
                 switch (npc.getId()) {
                     case PAPUMA: {

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="31100" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31100" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />
@@ -43,7 +43,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31101" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31101" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />
@@ -86,7 +86,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31102" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31102" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="1" />
@@ -129,7 +129,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31103" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31103" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="-41567" />
@@ -171,7 +171,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31104" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31104" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="45248" />
@@ -213,7 +213,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31105" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31105" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="110966" />
@@ -255,7 +255,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31106" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31106" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="-22076" />
@@ -297,7 +297,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31107" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31107" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="-52610" />
@@ -339,7 +339,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31108" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31108" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="117980" />
@@ -381,7 +381,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31109" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31109" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="172031" />
@@ -423,7 +423,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31110" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31110" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="82700" />
@@ -549,7 +549,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31113" level="70" type="SignsPriest" name="Merchant of Mammon">
+	<npc id="31113" level="70" type="Merchant" name="Merchant of Mammon">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="203" />
@@ -612,7 +612,7 @@
 			<height normal="18" />
 		</collision>
 	</npc>
-	<npc id="31114" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31114" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="2" />
@@ -655,7 +655,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31115" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31115" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="2" />
@@ -698,7 +698,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31116" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31116" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="2" />
@@ -741,7 +741,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31117" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31117" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="2" />
@@ -784,7 +784,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31118" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31118" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="2" />
@@ -827,7 +827,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31119" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31119" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="0" />
 			<param name="SignNumber" value="2" />
@@ -870,7 +870,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31120" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31120" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="42710" />
@@ -912,7 +912,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31121" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31121" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="45913" />
@@ -954,7 +954,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31122" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31122" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="77147" />
@@ -996,7 +996,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31123" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31123" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="140130" />
@@ -1038,7 +1038,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31124" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31124" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="-19737" />
@@ -1080,7 +1080,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31125" level="70" type="DungeonGatekeeper" name="Gatekeeper Ziggurat">
+	<npc id="31125" level="70" type="Folk" name="Gatekeeper Ziggurat">
 		<parameters>
 			<param name="Role" value="1" />
 			<param name="PosX" value="113649" />
@@ -1122,7 +1122,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31126" level="70" type="SignsPriest" name="Blacksmith of Mammon">
+	<npc id="31126" level="70" type="Merchant" name="Blacksmith of Mammon">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="85" />
@@ -1179,7 +1179,7 @@
 			<height normal="16.5" />
 		</collision>
 	</npc>
-	<npc id="31127" level="70" type="FestivalGuide" name="Festival Guide" title="Level 31 and Below">
+	<npc id="31127" level="70" type="Folk" name="Festival Guide" title="Level 31 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1229,7 +1229,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31128" level="70" type="FestivalGuide" name="Festival Guide" title="Level 42 and Below">
+	<npc id="31128" level="70" type="Folk" name="Festival Guide" title="Level 42 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1278,7 +1278,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31129" level="70" type="FestivalGuide" name="Festival Guide" title="Level 53 and Below">
+	<npc id="31129" level="70" type="Folk" name="Festival Guide" title="Level 53 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1326,7 +1326,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31130" level="70" type="FestivalGuide" name="Festival Guide" title="Level 64 and Below">
+	<npc id="31130" level="70" type="Folk" name="Festival Guide" title="Level 64 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1375,7 +1375,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31131" level="70" type="FestivalGuide" name="Festival Guide" title="No Level Limit">
+	<npc id="31131" level="70" type="Folk" name="Festival Guide" title="No Level Limit">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1423,7 +1423,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31132" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31132" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1537,7 +1537,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31133" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31133" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1651,7 +1651,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31134" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31134" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1765,7 +1765,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31135" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31135" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1879,7 +1879,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31136" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31136" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1993,7 +1993,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31137" level="70" type="FestivalGuide" name="Festival Guide" title="Level 31 and Below">
+	<npc id="31137" level="70" type="Folk" name="Festival Guide" title="Level 31 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2042,7 +2042,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31138" level="70" type="FestivalGuide" name="Festival Guide" title="Level 42 and Below">
+	<npc id="31138" level="70" type="Folk" name="Festival Guide" title="Level 42 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2090,7 +2090,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31139" level="70" type="FestivalGuide" name="Festival Guide" title="Level 53 and Below">
+	<npc id="31139" level="70" type="Folk" name="Festival Guide" title="Level 53 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2138,7 +2138,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31140" level="70" type="FestivalGuide" name="Festival Guide" title="Level 64 and Below">
+	<npc id="31140" level="70" type="Folk" name="Festival Guide" title="Level 64 and Below">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2187,7 +2187,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31141" level="70" type="FestivalGuide" name="Festival Guide" title="No Level Limit">
+	<npc id="31141" level="70" type="Folk" name="Festival Guide" title="No Level Limit">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2236,7 +2236,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="31142" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31142" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2350,7 +2350,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31143" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31143" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2464,7 +2464,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31144" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31144" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2578,7 +2578,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31145" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31145" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2692,7 +2692,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="31146" level="70" type="FestivalGuide" name="Festival Witch">
+	<npc id="31146" level="70" type="Folk" name="Festival Witch">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2925,7 +2925,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="31168" level="70" type="DawnPriest" name="Priest of Dawn">
+	<npc id="31168" level="70" type="Folk" name="Priest of Dawn">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2966,7 +2966,7 @@
 			<height normal="30.5" />
 		</collision>
 	</npc>
-	<npc id="31169" level="70" type="DuskPriest" name="Dusk Priestess">
+	<npc id="31169" level="70" type="Folk" name="Dusk Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="80" />

@@ -6,7 +6,7 @@
 			<npc id="30573" x="-49382" y="-113685" z="-232" heading="0" respawnTime="60sec" />
 			<npc id="30578" x="-47360" y="-113791" z="-224" heading="32768" respawnTime="60sec" /><!-- Guard Накушин -->
 			<npc id="30579" x="-47360" y="-113424" z="-224" heading="32768" respawnTime="60sec" /><!-- Guard Тамай -->
-			<npc id="30602" x="-45032" y="-113598" z="-192" heading="32768" respawnTime="60sec" />
+			<npc id="30602" x="-45032" y="-113598" z="-192" heading="32768" respawnTime="60sec" /><!-- Помощник новичков -->
 			<npc id="30584" x="-45728" y="-113360" z="-240" heading="0" respawnTime="60sec" /><!-- Guard Вакул -->
 			<npc id="30583" x="-45731" y="-113844" z="-240" heading="0" respawnTime="60sec" /><!-- Guard Патукай -->
 			<npc id="30568" x="-46808" y="-113184" z="-112" heading="0" respawnTime="60sec" /><!-- Вождь Уруту Хатос -->
@@ -34,6 +34,7 @@
 			<npc id="30994" x="-45266" y="-112468" z="-240" heading="500" respawnTime="60sec" /><!-- Лотерея -->
 			<npc id="30587" x="-44624" y="-111873" z="-240" heading="40960" respawnTime="60sec" /><!-- Гентаки Зу Уруту -->
 			<npc id="30585" x="-45328" y="-114736" z="-240" heading="0" respawnTime="60sec" /><!-- Татару Зу Хестуи -->
+			<npc id="30564" x="-43264" y="-112532" z="-216" heading="32768" respawnTime="60sec" /><!-- кузнец Сумари -->
 
 
 

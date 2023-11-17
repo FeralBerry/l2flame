@@ -3244,7 +3244,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="32082" level="70" type="Adventurer" name="Dion Territory Manager" title="Adventure Guildsman">
+	<npc id="32082" level="70" type="Folk" name="Dion Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3283,7 +3283,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32083" level="70" type="Adventurer" name="Giran Territory Manager" title="Adventure Guildsman">
+	<npc id="32083" level="70" type="Folk" name="Giran Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3322,7 +3322,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32084" level="70" type="Adventurer" name="Oren Territory Manager" title="Adventure Guildsman">
+	<npc id="32084" level="70" type="Folk" name="Oren Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3361,7 +3361,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32085" level="70" type="Adventurer" name="Aden Territory Manager" title="Adventure Guildsman">
+	<npc id="32085" level="70" type="Folk" name="Aden Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3400,7 +3400,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32086" level="70" type="Adventurer" name="Innadril Territory Manager" title="Adventure Guildsman">
+	<npc id="32086" level="70" type="Folk" name="Innadril Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3439,7 +3439,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32087" level="70" type="Adventurer" name="Schuttgart Territory Manager" title="Adventure Guildsman">
+	<npc id="32087" level="70" type="Folk" name="Schuttgart Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3478,7 +3478,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32088" level="70" type="Adventurer" name="Goddard Territory Manager" title="Adventure Guildsman">
+	<npc id="32088" level="70" type="Folk" name="Goddard Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3517,7 +3517,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32089" level="70" type="Adventurer" name="Rune Territory Manager" title="Adventure Guildsman">
+	<npc id="32089" level="70" type="Folk" name="Rune Territory Manager" title="Adventure Guildsman">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3634,7 +3634,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="32092" level="70" type="VillageMasterDwarf" name="Alder" title="Warehouse Chief">
+	<npc id="32092" level="70" type="VillageMaster" name="Alder" title="Warehouse Chief">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="93" />
@@ -3673,7 +3673,7 @@
 			<height normal="17.5" />
 		</collision>
 	</npc>
-	<npc id="32093" level="70" type="VillageMasterDwarf" name="Bolin" title="Head Blacksmith">
+	<npc id="32093" level="70" type="VillageMaster" name="Bolin" title="Head Blacksmith">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="165" />
@@ -3713,7 +3713,7 @@
 			<height normal="17" />
 		</collision>
 	</npc>
-	<npc id="32094" level="70" type="VillageMasterFighter" name="Schule" title="Grand Master">
+	<npc id="32094" level="70" type="VillageMaster" name="Schule" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -3753,7 +3753,7 @@
 			<height normal="21.5" />
 		</collision>
 	</npc>
-	<npc id="32095" level="70" type="VillageMasterPriest" name="Marie" title="High Priest">
+	<npc id="32095" level="70" type="VillageMaster" name="Marie" title="High Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3793,7 +3793,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="32096" level="70" type="VillageMasterDElf" name="Helminter" title="Grand Master">
+	<npc id="32096" level="70" type="VillageMaster" name="Helminter" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="103" />
@@ -3833,7 +3833,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="32097" level="70" type="VillageMasterOrc" name="Finker" title="High Prefect">
+	<npc id="32097" level="70" type="VillageMaster" name="Finker" title="High Prefect">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="156" />
@@ -3872,7 +3872,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="32098" level="70" type="VillageMasterMystic" name="Celes" title="Grand Magister">
+	<npc id="32098" level="70" type="VillageMaster" name="Celes" title="Grand Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
