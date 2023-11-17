@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn>
+		<territories>
+			<territory name="start_position_orc_village_01" minZ="-250" maxZ="-160">
+				<node x="-47720" y="-115517" />
+				<node x="-47981" y="-112019" />
+				<node x="-51710" y="-112327" />
+				<node x="-50394" y="-115198" />
+			</territory>
+		</territories>
+		<npc id="20535" count="45" respawnTime="9sec" chaseRange="1500" /><!-- Степной шакал 2 лвл -->
+		<npc id="20531" count="50" respawnTime="9sec" chaseRange="1500" /><!-- Молодой степной шакал 1 лвл -->
+		<npc id="20538" count="40" respawnTime="9sec" chaseRange="1500" /><!-- Матерый степной шакал 3 лвл -->
+		<npc id="18342" count="100" respawnTime="9sec" chaseRange="1500" /><!-- Gremlin  1 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_001" minZ="-240" maxZ="-198">
+				<node x="-47809" y="-118169"/>
+				<node x="-47299" y="-119911"/>
+				<node x="-44256" y="-121030"/>
+				<node x="-43887" y="-119239"/>
+				<node x="-44800" y="-119436"/>
+			</territory>
+		</territories>
+		<npc id="20538" count="30" respawnTime="15sec" chaseRange="1500"/><!-- Матерый степной шакал 3 лвл -->
+		<npc id="20475" count="40" respawnTime="15sec" chaseRange="1500"/><!-- Волк Кхаши 4 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_002" minZ="-712" maxZ="-262">
+				<node x="-45858" y="-109427"/>
+				<node x="-48498" y="-109466"/>
+				<node x="-48794" y="-107091"/>
+				<node x="-46822" y="-106162"/>
+				<node x="-44887" y="-107038"/>
+			</territory>
+		</territories>
+		<npc id="20538" count="30" respawnTime="15sec" chaseRange="1500"/><!-- Матерый степной шакал 3 лвл -->
+		<npc id="20475" count="40" respawnTime="15sec" chaseRange="1500"/><!-- Волк Кхаши 4 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_003" minZ="-544" maxZ="-240">
+				<node x="-43327" y="-120640"/>
+				<node x="-43987" y="-121488"/>
+				<node x="-41486" y="-123190"/>
+				<node x="-39791" y="-123927"/>
+				<node x="-39313" y="-123570"/>
+				<node x="-40910" y="-122367"/>
+				<node x="-41372" y="-122419"/>
+				<node x="-41543" y="-121800"/>
+			</territory>
+		</territories>
+		<npc id="20475" count="12" respawnTime="15sec" chaseRange="1500"/><!-- Волк Кхаши 4 лвл -->
+		<npc id="20319" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Гоблин Грабитель Могил 5 лвл -->
+		<npc id="20477" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Древесный Волк Кхаши 6 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_004" minZ="-1752" maxZ="-840">
+				<node x="-41644" y="-108311"/>
+				<node x="-43393" y="-108344"/>
+				<node x="-44034" y="-106514"/>
+				<node x="-46113" y="-106030"/>
+				<node x="-45502" y="-105389"/>
+				<node x="-41654" y="-106517"/>
+			</territory>
+		</territories>
+		<npc id="20475" count="12" respawnTime="15sec" chaseRange="1500"/><!-- Волк Кхаши 4 лвл -->
+		<npc id="20319" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Гоблин Грабитель Могил 5 лвл -->
+		<npc id="20477" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Древесный Волк Кхаши 6 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_005" minZ="-1752" maxZ="-1560">
+				<node x="-36487" y="-122669"/>
+				<node x="-38780" y="-122741"/>
+				<node x="-40371" y="-121017"/>
+				<node x="-38883" y="-118693"/>
+				<node x="-37268" y="-119158"/>
+			</territory>
+		</territories>
+		<npc id="20311" count="20" respawnTime="15sec" chaseRange="1500" /><!-- Когтистый Бес 6 лвл -->
+		<npc id="20312" count="20" respawnTime="15sec" chaseRange="1500" /><!-- Охотник Когтистых Бесов 7 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_006" minZ="-2296" maxZ="-1800">
+				<node x="-40940" y="-107215"/>
+				<node x="-38081" y="-106685"/>
+				<node x="-38376" y="-109665"/>
+				<node x="-40476" y="-110726"/>
+				<node x="-41914" y="-109408"/>
+			</territory>
+		</territories>
+		<npc id="20311" count="25" respawnTime="15sec" chaseRange="1500" /><!-- Когтистый Бес 6 лвл -->
+		<npc id="20312" count="12" respawnTime="15sec" chaseRange="1500" /><!-- Охотник Когтистых Бесов 7 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_007" minZ="-2056" maxZ="-1672">
+				<node x="-41633" y="-109966"/>
+				<node x="-40620" y="-110831"/>
+				<node x="-39337" y="-113937"/>
+				<node x="-40864" y="-113848"/>
+				<node x="-42560" y="-110786"/>
+				<node x="-43199" y="-110325"/>
+				<node x="-42925" y="-109074"/>
+				<node x="-42306" y="-108942"/>
+			</territory>
+		</territories>
+		<npc id="20365" count="25" respawnTime="21sec" chaseRange="1500" /><!-- Горный Гриб 8 лвл -->
+		<npc id="20312" count="12" respawnTime="15sec" chaseRange="1500" /><!-- Охотник Когтистых Бесов 7 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_008" minZ="-1880" maxZ="-1784">
+				<node x="-40869" y="-109021"/>
+				<node x="-38795" y="-109546"/>
+				<node x="-38936" y="-108194"/>
+				<node x="-40853" y="-108255"/>
+			</territory>
+		</territories>
+		<npc id="20363" count="12" respawnTime="21sec" chaseRange="1500" /><!-- Оборотень Мараку 9 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_009" minZ="-2024" maxZ="-1776">
+				<node x="-40384" y="-112339"/>
+				<node x="-39509" y="-113361"/>
+				<node x="-36780" y="-113389"/>
+				<node x="-36260" y="-112718"/>
+				<node x="-36475" y="-111657"/>
+				<node x="-38486" y="-111233"/>
+				<node x="-40115" y="-111425"/>
+			</territory>
+		</territories>
+		<npc id="20363" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Оборотень Мараку 9 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_010" minZ="-1816" maxZ="-1672">
+				<node x="-37652" y="-115744"/>
+				<node x="-37726" y="-117505"/>
+				<node x="-37872" y="-117791"/>
+				<node x="-36334" y="-115054"/>
+			</territory>
+		</territories>
+		<npc id="20363" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Оборотень Мараку 9 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_011" minZ="-1920" maxZ="-1688">
+				<node x="-37804" y="-118638"/>
+				<node x="-37106" y="-117822"/>
+				<node x="-38733" y="-116545"/>
+				<node x="-40217" y="-117525"/>
+			</territory>
+		</territories>
+		<npc id="20363" count="20" respawnTime="21sec" chaseRange="1500" /><!-- Оборотень Мараку 9 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="orc_village_012" minZ="-1920" maxZ="-1792">
+				<node x="-41244" y="-116302"/>
+				<node x="-41808" y="-115067"/>
+				<node x="-42963" y="-117652"/>
+				<node x="-43653" y="-118380"/>
+				<node x="-40907" y="-120864"/>
+				<node x="-39875" y="-119939"/>
+				<node x="-41541" y="-118097"/>
+			</territory>
+		</territories>
+		<npc id="20312" count="15" respawnTime="15sec" chaseRange="1500" /><!-- Охотник Когтистых Бесов 7 лвл -->
+		<npc id="20365" count="30" respawnTime="21sec" chaseRange="1500" /><!-- Горный Гриб 8 лвл -->
+	</spawn>
+	<spawn>
+		<npc id="20313" x="-18556" y="-102088" z="-2096" heading="0" respawnTime="21sec" /><!-- Матерый Когтистый Бес 10 лвл -->
+		<npc id="20427" x="14828" y="-111716" z="-3384" heading="0" respawnTime="68sec" /><!-- Смотритель Око Зла 10 лвл -->
+		<npc id="20426" x="-18256" y="-132893" z="-2200" heading="0" respawnTime="21sec" /><!-- Око Зла 10 лвл -->
+		<npc id="20153" x="117705" y="-211099" z="-3520" heading="63250" respawnTime="20sec" /><!-- Магический Ткач 11 лвл -->
+		<npc id="22239" x="117705" y="-211099" z="-3520" heading="63250" respawnTime="20sec" /><!-- Страж Муэрто 11 лвл -->
+		<npc id="20316" x="-27592" y="-95984" z="-2840" heading="0" respawnTime="21sec" /><!-- Темнокрылая Летучая Мышь 11 лвл -->
+		<npc id="20370" x="124427" y="-200355" z="-3592" heading="40961" respawnTime="20sec" /><!-- Шипастая Летучая Мышь 12 лвл -->
+		<npc id="20510" x="125460" y="-206413" z="-3112" heading="15229" respawnTime="20sec" /><!-- Пума 12 лвл -->
+		<npc id="20517" x="-50865" y="53875" z="-4888" heading="62580" respawnTime="60sec" /><!-- Скелет Охотник 12 лвл -->
+		<npc id="20143" x="-18546" y="-132217" z="-2200" heading="0" respawnTime="21sec" /><!-- Гризли 12 лвл -->
+		<npc id="20340" x="14284" y="-110622" z="-3392" heading="0" respawnTime="68sec" /><!-- Скелет Невольник 12 лвл -->
+		<npc id="20320" x="-17860" y="-103810" z="-712" heading="0" respawnTime="21sec" /><!-- Предводитель Гоблинов Грабителей Могил 12 лвл -->
+		<npc id="20425" x="141529" y="-170921" z="-1777" heading="35525" respawnTime="34sec" /><!-- Костяной Воин Акаст 12 лвл -->
+		<npc id="20540" x="139904" y="-171165" z="-1777" heading="20652" respawnTime="34sec" /><!-- Самоцветный Зверь 12 лвл -->
+		<npc id="20528" x="124369" y="-208337" z="-2928" heading="27931" respawnTime="20sec" /><!-- Лорд Гоблинов 13 лвл -->
+		<npc id="20433" x="-29821" y="62878" z="-3560" heading="988" respawnTime="16sec" /><!-- Гнойная Летучая Мышь 13 лвл -->
+		<npc id="20518" x="-50632" y="53187" z="-4888" heading="0" respawnTime="60sec" /><!-- Скелет Охотник Стрелок 13 лвл -->
+		<npc id="20016" x="-106750" y="233439" z="-3608" heading="55512" respawnTime="20sec" /><!-- Каменный Голем 13 лвл -->
+		<npc id="20368" x="12962" y="-110450" z="-3481" heading="0" respawnTime="68sec" /><!-- Хранитель Могил 13 лвл -->
+		<npc id="20015" x="-22050" y="43248" z="-3744" heading="45448" respawnTime="16sec" /><!-- Болотный Зомби 13 лвл -->
+		<npc id="20333" x="-18428" y="-103810" z="-656" heading="0" respawnTime="21sec" /><!-- Серый Голем 13 лвл -->
+		<npc id="20455" x="-46345" y="52876" z="-4888" heading="45096" respawnTime="60sec" /><!-- Притягивающий Беду 14 лвл -->
+		<npc id="20521" x="126612" y="-193425" z="-3168" heading="6876" respawnTime="20sec" /><!-- Базальтовый Голем 14 лвл -->
+		<npc id="20323" x="127359" y="-197013" z="-3376" respawnTime="20sec" /> <!-- Goblin Brigand Leader 14 лвл -->
+		<npc id="20777" x="137425" y="-203475" z="-3720" heading="17437" respawnTime="20sec" /><!-- Медведь охотник 14 лвл -->
+		<npc id="20423" x="140778" y="-170157" z="-1777" heading="32048" respawnTime="34sec" /><!-- Костяной Стрелок Акаст 14 лвл -->
+		<npc id="20020" x="-29393" y="48071" z="-3640" heading="0" respawnTime="16sec" /><!-- Сыщик Болотных Зомби 14 лвл -->
+		<npc id="20429" x="16245" y="-120101" z="-3200" heading="0" respawnTime="68sec" /><!-- Защитник Око Зла 14 лвл -->
+		<npc id="20364" x="14336" y="-127570" z="-1432" heading="0" respawnTime="21sec" /><!-- Вожак Оборотней Мараку 14 лвл -->
+		<npc id="20428" x="-17653" y="-121113" z="-2128" heading="0" respawnTime="21sec" /><!-- Дозорный Око Зла 14 лвл -->
+		<npc id="20021" x="-61396" y="100640" z="-3672" heading="19781" respawnTime="60sec" /><!-- Red Bear 14 лвл -->
+		<npc id="20008" x="-66745" y="102598" z="-3726" heading="45385" respawnTime="25sec" /><!-- Ящер Фелим 14 лвл -->
+
+
+
+
+	</spawn>
+</list>

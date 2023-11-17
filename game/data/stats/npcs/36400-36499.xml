@@ -78,7 +78,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="36402" level="70" type="OlympiadManager" name="Olympiad Host">
+	<npc id="36402" level="70" type="Folk" name="Olympiad Host">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="63" />

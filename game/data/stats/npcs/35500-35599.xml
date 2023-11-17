@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="35500" level="75" type="CastleDoorman" name="Gatekeeper" title="Rune">
+	<npc id="35500" level="75" type="Folk" name="Gatekeeper" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -80,7 +80,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35501" level="75" type="CastleDoorman" name="Gatekeeper" title="Rune">
+	<npc id="35501" level="75" type="Folk" name="Gatekeeper" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -202,7 +202,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35503" level="75" type="CastleDoorman" name="Outer Doorman" title="Rune">
+	<npc id="35503" level="75" type="Folk" name="Outer Doorman" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -250,7 +250,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35504" level="75" type="CastleDoorman" name="Inner Doorman" title="Rune">
+	<npc id="35504" level="75" type="Folk" name="Inner Doorman" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -298,7 +298,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35505" level="75" type="CastleDoorman" name="Inner Doorman" title="Rune">
+	<npc id="35505" level="75" type="Folk" name="Inner Doorman" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1933,7 +1933,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35544" level="75" type="CastleDoorman" name="Gatekeeper" title="Schuttgart">
+	<npc id="35544" level="75" type="Monster" name="Gatekeeper" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1958,33 +1958,35 @@
 		</parameters>
 		<race>MERCENARY</race>
 		<sex>MALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
-			<attack physical="794.70901" magical="542.68324" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="319.24623" magical="233.61053" />
-			<attribute>
-				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
-			</attribute>
 			<speed>
 				<walk ground="50" />
 				<run ground="120" />
 			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
+			</attribute>
+			<abnormalResist physical="10" magical="10" />
 		</stats>
-		<status attackable="false" undying="false" canMove="false" />
+		<status attackable="false" canMove="false" />
 		<skillList>
-			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4416" level="23" /> <!-- Mercenaries -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
 			<skill id="4412" level="11" /> <!-- Average P. Def. -->
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="23" /> <!-- Mercenaries -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="600" isAggressive="false">
+		<ai type="BALANCED" clanHelpRange="600" aggroRange="1000">
 			<clanList>
 				<clan>DOOR</clan>
 				<clan>SCHUTT_SIEGE</clan>
@@ -1995,7 +1997,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35545" level="75" type="CastleDoorman" name="Gatekeeper" title="Schuttgart">
+	<npc id="35545" level="75" type="Monster" name="Gatekeeper" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2020,33 +2022,35 @@
 		</parameters>
 		<race>MERCENARY</race>
 		<sex>MALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
-			<attack physical="794.70901" magical="542.68324" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="319.24623" magical="233.61053" />
-			<attribute>
-				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
-			</attribute>
 			<speed>
 				<walk ground="50" />
 				<run ground="120" />
 			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
+			</attribute>
+			<abnormalResist physical="10" magical="10" />
 		</stats>
-		<status attackable="false" undying="false" canMove="false" />
+		<status attackable="false" canMove="false" />
 		<skillList>
-			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4416" level="23" /> <!-- Mercenaries -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
 			<skill id="4412" level="11" /> <!-- Average P. Def. -->
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="23" /> <!-- Mercenaries -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="600" isAggressive="false">
+		<ai type="BALANCED" clanHelpRange="600" aggroRange="1000">
 			<clanList>
 				<clan>DOOR</clan>
 				<clan>SCHUTT_SIEGE</clan>
@@ -2057,7 +2061,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35546" level="75" type="CastleDoorman" name="Gatekeeper" title="Schuttgart">
+	<npc id="35546" level="75" type="Monster" name="Gatekeeper" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2082,33 +2086,35 @@
 		</parameters>
 		<race>MERCENARY</race>
 		<sex>MALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
-			<attack physical="794.70901" magical="542.68324" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="319.24623" magical="233.61053" />
-			<attribute>
-				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
-			</attribute>
 			<speed>
 				<walk ground="50" />
 				<run ground="120" />
 			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
+			</attribute>
+			<abnormalResist physical="10" magical="10" />
 		</stats>
-		<status attackable="false" undying="false" canMove="false" />
+		<status attackable="false" canMove="false" />
 		<skillList>
-			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4416" level="23" /> <!-- Mercenaries -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
 			<skill id="4412" level="11" /> <!-- Average P. Def. -->
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="23" /> <!-- Mercenaries -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="600" isAggressive="false">
+		<ai type="BALANCED" clanHelpRange="600" aggroRange="1000">
 			<clanList>
 				<clan>DOOR</clan>
 				<clan>SCHUTT_SIEGE</clan>
@@ -2161,12 +2167,12 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35548" level="75" type="CastleDoorman" name="Outer Doorman" title="Schuttgart">
+	<npc id="35548" level="75" type="Folk" name="Outer Castle Gatekeeper" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
-			<param name="DoorName1" value="schutt_castle_outter_001" />
-			<param name="DoorName2" value="schutt_castle_outter_002" />
+			<param name="DoorId1" value="22130001" />
+			<param name="DoorId2" value="22130002" />
 			<param name="pos_x01" value="77558" />
 			<param name="pos_y01" value="-149383" />
 			<param name="pos_z01" value="-344" />
@@ -2177,43 +2183,45 @@
 		</parameters>
 		<race>HUMAN</race>
 		<sex>MALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
-			<attack physical="794.70901" magical="542.68324" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2676" hpRegen="8.5" mp="1507" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="319.24623" magical="233.61053" />
-			<attribute>
-				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
-			</attribute>
 			<speed>
 				<walk ground="50" />
 				<run ground="120" />
 			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
+			</attribute>
+			<abnormalResist physical="10" magical="10" />
 		</stats>
-		<status attackable="false" canMove="false" />
+		<status attackable="false" undying="true" canMove="false" />
 		<skillList>
-			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4416" level="14" /> <!-- Humans -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
 			<skill id="4412" level="11" /> <!-- Average P. Def. -->
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai type="BALANCED" clanHelpRange="300" aggroRange="1000" />
 		<collision>
 			<radius normal="8" />
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35549" level="75" type="CastleDoorman" name="Inner Doorman" title="Schuttgart">
+	<npc id="35549" level="75" type="Folk" name="Inner Castle Gatekeeper" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
-			<param name="DoorName1" value="schutt_castle_side_door_001" />
+			<param name="DoorId1" value="22130007" />
 			<param name="pos_x01" value="75555" />
 			<param name="pos_y01" value="-152317" />
 			<param name="pos_z01" value="-648" />
@@ -2224,43 +2232,45 @@
 		</parameters>
 		<race>HUMAN</race>
 		<sex>MALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
-			<attack physical="794.70901" magical="542.68324" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2676" hpRegen="8.5" mp="1507" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="319.24623" magical="233.61053" />
-			<attribute>
-				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
-			</attribute>
 			<speed>
 				<walk ground="50" />
 				<run ground="120" />
 			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
+			</attribute>
+			<abnormalResist physical="10" magical="10" />
 		</stats>
-		<status attackable="false" canMove="false" />
+		<status attackable="false" undying="true" canMove="false" />
 		<skillList>
-			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4416" level="14" /> <!-- Humans -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
 			<skill id="4412" level="11" /> <!-- Average P. Def. -->
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai type="BALANCED" clanHelpRange="300" aggroRange="1000" />
 		<collision>
 			<radius normal="8" />
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35550" level="75" type="CastleDoorman" name="Inner Doorman" title="Schuttgart">
+	<npc id="35550" level="75" type="Folk" name="Inner Castle Gatekeeper" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
-			<param name="DoorName1" value="schutt_castle_side_door_002" />
+			<param name="DoorId1" value="22130006" />
 			<param name="pos_x01" value="79500" />
 			<param name="pos_y01" value="-152297" />
 			<param name="pos_z01" value="-648" />
@@ -2271,39 +2281,41 @@
 		</parameters>
 		<race>HUMAN</race>
 		<sex>MALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
-			<attack physical="794.70901" magical="542.68324" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2676" hpRegen="8.5" mp="1507" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="319.24623" magical="233.61053" />
-			<attribute>
-				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
-			</attribute>
 			<speed>
 				<walk ground="50" />
 				<run ground="120" />
 			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="40" water="40" wind="40" earth="40" holy="40" dark="40" />
+			</attribute>
+			<abnormalResist physical="10" magical="10" />
 		</stats>
-		<status attackable="false" canMove="false" />
+		<status attackable="false" undying="true" canMove="false" />
 		<skillList>
-			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+			<skill id="4416" level="14" /> <!-- Humans -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
 			<skill id="4412" level="11" /> <!-- Average P. Def. -->
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai type="BALANCED" clanHelpRange="300" aggroRange="1000" />
 		<collision>
 			<radius normal="8" />
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35551" level="75" type="CastleDoorman" name="Doorman" title="Schuttgart">
+	<npc id="35551" level="75" type="Folk" name="Doorman" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2350,7 +2362,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35552" level="75" type="CastleDoorman" name="Doorman" title="Schuttgart">
+	<npc id="35552" level="75" type="Folk" name="Doorman" title="Schuttgart">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2971,7 +2983,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="35566" level="70" type="ClanHallManager" name="Ronald" title="Clan Hall Manager">
+	<npc id="35566" level="70" type="Merchant" name="Ronald" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3009,7 +3021,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35567" level="70" type="ClanHallDoorman" name="Emil" title="Clan Hall Gatekeeper">
+	<npc id="35567" level="70" type="Folk" name="Emil" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3079,7 +3091,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35568" level="70" type="ClanHallManager" name="Wayne" title="Clan Hall Manager">
+	<npc id="35568" level="70" type="Merchant" name="Wayne" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3117,7 +3129,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35569" level="70" type="ClanHallDoorman" name="Daniel" title="Clan Hall Gatekeeper">
+	<npc id="35569" level="70" type="Folk" name="Daniel" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3187,7 +3199,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35570" level="70" type="ClanHallManager" name="Patty" title="Clan Hall Manager">
+	<npc id="35570" level="70" type="Merchant" name="Patty" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3225,7 +3237,7 @@
 			<height normal="22.25" />
 		</collision>
 	</npc>
-	<npc id="35571" level="70" type="ClanHallDoorman" name="Dale" title="Clan Hall Gatekeeper">
+	<npc id="35571" level="70" type="Folk" name="Dale" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3295,7 +3307,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35572" level="70" type="ClanHallManager" name="Jimmy" title="Clan Hall Manager">
+	<npc id="35572" level="70" type="Merchant" name="Jimmy" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3333,7 +3345,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35573" level="70" type="ClanHallDoorman" name="Shawn" title="Clan Hall Gatekeeper">
+	<npc id="35573" level="70" type="Folk" name="Shawn" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3403,7 +3415,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35574" level="70" type="ClanHallManager" name="Michael" title="Clan Hall Manager">
+	<npc id="35574" level="70" type="Merchant" name="Michael" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3441,7 +3453,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35575" level="70" type="ClanHallDoorman" name="Ryan" title="Clan Hall Gatekeeper">
+	<npc id="35575" level="70" type="Folk" name="Ryan" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3511,7 +3523,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35576" level="70" type="ClanHallManager" name="Jack" title="Clan Hall Manager">
+	<npc id="35576" level="70" type="Merchant" name="Jack" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3549,7 +3561,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35577" level="70" type="ClanHallDoorman" name="Harry" title="Clan Hall Gatekeeper">
+	<npc id="35577" level="70" type="Folk" name="Harry" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3619,7 +3631,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35578" level="70" type="ClanHallManager" name="Karuto" title="Clan Hall Manager">
+	<npc id="35578" level="70" type="Merchant" name="Karuto" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3657,7 +3669,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35579" level="70" type="ClanHallDoorman" name="Egon" title="Clan Hall Gatekeeper">
+	<npc id="35579" level="70" type="Folk" name="Egon" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3727,7 +3739,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35580" level="70" type="ClanHallManager" name="Carol" title="Clan Hall Manager">
+	<npc id="35580" level="70" type="Merchant" name="Carol" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3765,7 +3777,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35581" level="70" type="ClanHallDoorman" name="Osho" title="Clan Hall Gatekeeper">
+	<npc id="35581" level="70" type="Folk" name="Osho" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3804,7 +3816,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35582" level="70" type="ClanHallManager" name="Stanley" title="Clan Hall Manager">
+	<npc id="35582" level="70" type="Merchant" name="Stanley" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3842,7 +3854,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35583" level="70" type="ClanHallDoorman" name="Walter" title="Clan Hall Gatekeeper">
+	<npc id="35583" level="70" type="Folk" name="Walter" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3881,7 +3893,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35584" level="70" type="ClanHallManager" name="Billy" title="Clan Hall Manager">
+	<npc id="35584" level="70" type="Merchant" name="Billy" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3919,7 +3931,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35585" level="70" type="ClanHallDoorman" name="Alice" title="Clan Hall Gatekeeper">
+	<npc id="35585" level="70" type="Folk" name="Alice" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -3958,7 +3970,7 @@
 			<height normal="22.25" />
 		</collision>
 	</npc>
-	<npc id="35586" level="70" type="ClanHallManager" name="Serena" title="Clan Hall Manager">
+	<npc id="35586" level="70" type="Merchant" name="Serena" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="102" />
@@ -3996,7 +4008,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35587" level="70" type="ClanHallDoorman" name="Neria" title="Clan Hall Gatekeeper">
+	<npc id="35587" level="70" type="Folk" name="Neria" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="154" />

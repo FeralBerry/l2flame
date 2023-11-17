@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="35400" level="70" type="ClanHallManager" name="Horner" title="Clan Hall Manager">
+	<npc id="35400" level="70" type="Merchant" name="Horner" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -48,7 +48,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35401" level="70" type="ClanHallDoorman" name="Amiel" title="Clan Hall Gatekeeper">
+	<npc id="35401" level="70" type="Folk" name="Amiel" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -87,7 +87,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35402" level="70" type="ClanHallDoorman" name="Borna" title="Clan Hall Gatekeeper">
+	<npc id="35402" level="70" type="Folk" name="Borna" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -135,7 +135,7 @@
 			<height normal="22.25" />
 		</collision>
 	</npc>
-	<npc id="35403" level="70" type="ClanHallManager" name="Ron" title="Clan Hall Manager">
+	<npc id="35403" level="70" type="Merchant" name="Ron" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -183,7 +183,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35404" level="70" type="ClanHallDoorman" name="Jamal" title="Clan Hall Gatekeeper">
+	<npc id="35404" level="70" type="Folk" name="Jamal" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -231,7 +231,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35405" level="70" type="ClanHallManager" name="Flynn" title="Clan Hall Manager">
+	<npc id="35405" level="70" type="Merchant" name="Flynn" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -279,7 +279,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35406" level="70" type="ClanHallDoorman" name="Jabilo" title="Clan Hall Gatekeeper">
+	<npc id="35406" level="70" type="Folk" name="Jabilo" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -327,7 +327,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35407" level="70" type="ClanHallManager" name="Seth" title="Clan Hall Manager">
+	<npc id="35407" level="70" type="Merchant" name="Seth" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -830,7 +830,7 @@
 			<height normal="45" grown="52" />
 		</collision>
 	</npc>
-	<npc id="35417" level="75" type="CastleDoorman" name="Doorman of Hell">
+	<npc id="35417" level="75" type="Folk" name="Doorman of Hell">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -872,7 +872,7 @@
 			<height normal="16.5" />
 		</collision>
 	</npc>
-	<npc id="35418" level="75" type="CastleDoorman" name="Doorman of Hell">
+	<npc id="35418" level="75" type="Folk" name="Doorman of Hell">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -995,7 +995,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35421" level="75" type="ClanHallManager" name="Biggerstaff" title="Steward">
+	<npc id="35421" level="75" type="Merchant" name="Biggerstaff" title="Steward">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1475,7 +1475,7 @@
 			<height normal="19" />
 		</collision>
 	</npc>
-	<npc id="35433" level="75" type="CastleDoorman" name="Inner Doorman">
+	<npc id="35433" level="75" type="Folk" name="Inner Doorman">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -1518,7 +1518,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="35434" level="75" type="CastleDoorman" name="Inner Doorman">
+	<npc id="35434" level="75" type="Folk" name="Inner Doorman">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -1561,7 +1561,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="35435" level="75" type="CastleDoorman" name="Outer Doorman">
+	<npc id="35435" level="75" type="Folk" name="Outer Doorman">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -1604,7 +1604,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="35436" level="75" type="CastleDoorman" name="Outer Doorman">
+	<npc id="35436" level="75" type="Folk" name="Outer Doorman">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -1693,7 +1693,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="35438" level="75" type="ClanHallManager" name="Chamberlain">
+	<npc id="35438" level="75" type="Merchant" name="Chamberlain">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -1739,7 +1739,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="35439" level="70" type="ClanHallManager" name="Carey" title="Clan Hall Manager">
+	<npc id="35439" level="70" type="Merchant" name="Carey" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -1778,7 +1778,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35440" level="70" type="ClanHallDoorman" name="Daniel" title="Clan Hall Gatekeeper">
+	<npc id="35440" level="70" type="Folk" name="Daniel" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1848,7 +1848,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35441" level="70" type="ClanHallManager" name="Dianne" title="Clan Hall Manager">
+	<npc id="35441" level="70" type="Merchant" name="Dianne" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="102" />
@@ -1887,7 +1887,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35442" level="70" type="ClanHallDoorman" name="Jacques" title="Clan Hall Gatekeeper">
+	<npc id="35442" level="70" type="Folk" name="Jacques" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1957,7 +1957,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35443" level="70" type="ClanHallManager" name="Crissy" title="Clan Hall Manager">
+	<npc id="35443" level="70" type="Merchant" name="Crissy" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1996,7 +1996,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35444" level="70" type="ClanHallDoorman" name="Joff" title="Clan Hall Gatekeeper">
+	<npc id="35444" level="70" type="Folk" name="Joff" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2066,7 +2066,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35445" level="70" type="ClanHallManager" name="Albert" title="Clan Hall Manager">
+	<npc id="35445" level="70" type="Merchant" name="Albert" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2105,7 +2105,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35446" level="70" type="ClanHallDoorman" name="Niels" title="Clan Hall Gatekeeper">
+	<npc id="35446" level="70" type="Folk" name="Niels" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2175,7 +2175,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35447" level="70" type="ClanHallManager" name="Korgen" title="Clan Hall Manager">
+	<npc id="35447" level="70" type="Merchant" name="Korgen" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2214,7 +2214,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35448" level="70" type="ClanHallDoorman" name="Rudy" title="Clan Hall Gatekeeper">
+	<npc id="35448" level="70" type="Folk" name="Rudy" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2284,7 +2284,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35449" level="70" type="ClanHallManager" name="DiMaggio" title="Clan Hall Manager">
+	<npc id="35449" level="70" type="Merchant" name="DiMaggio" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2323,7 +2323,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35450" level="70" type="ClanHallDoorman" name="Gellar" title="Clan Hall Gatekeeper">
+	<npc id="35450" level="70" type="Folk" name="Gellar" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2393,7 +2393,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35451" level="70" type="ClanHallManager" name="Emma" title="Clan Hall Manager">
+	<npc id="35451" level="70" type="Merchant" name="Emma" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2432,7 +2432,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35452" level="70" type="ClanHallDoorman" name="Theobolt" title="Clan Hall Gatekeeper">
+	<npc id="35452" level="70" type="Folk" name="Theobolt" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2471,7 +2471,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35453" level="70" type="ClanHallManager" name="Adrienne" title="Clan Hall Manager">
+	<npc id="35453" level="70" type="Merchant" name="Adrienne" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="102" />
@@ -2510,7 +2510,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35454" level="70" type="ClanHallDoorman" name="Rosconne" title="Clan Hall Gatekeeper">
+	<npc id="35454" level="70" type="Folk" name="Rosconne" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2549,7 +2549,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35455" level="70" type="ClanHallManager" name="Bianca" title="Clan Hall Manager">
+	<npc id="35455" level="70" type="Merchant" name="Bianca" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -2588,7 +2588,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35456" level="70" type="ClanHallDoorman" name="Stewart" title="Clan Hall Gatekeeper">
+	<npc id="35456" level="70" type="Folk" name="Stewart" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2627,7 +2627,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35457" level="70" type="ClanHallManager" name="Gladys" title="Clan Hall Manager">
+	<npc id="35457" level="70" type="Merchant" name="Gladys" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="102" />
@@ -2666,7 +2666,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35458" level="70" type="ClanHallDoorman" name="Theron" title="Clan Hall Gatekeeper">
+	<npc id="35458" level="70" type="Folk" name="Theron" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2705,7 +2705,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35459" level="70" type="ClanHallManager" name="Regina" title="Clan Hall Manager">
+	<npc id="35459" level="70" type="Merchant" name="Regina" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -2744,7 +2744,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35460" level="70" type="ClanHallDoorman" name="Trey" title="Clan Hall Gatekeeper">
+	<npc id="35460" level="70" type="Folk" name="Trey" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2783,7 +2783,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35461" level="70" type="ClanHallManager" name="Aida" title="Clan Hall Manager">
+	<npc id="35461" level="70" type="Merchant" name="Aida" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="154" />
@@ -2822,7 +2822,7 @@
 			<height normal="17.7" />
 		</collision>
 	</npc>
-	<npc id="35462" level="70" type="ClanHallDoorman" name="Kalmer" title="Clan Hall Gatekeeper">
+	<npc id="35462" level="70" type="Folk" name="Kalmer" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2861,7 +2861,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35463" level="70" type="ClanHallManager" name="Helga" title="Clan Hall Manager">
+	<npc id="35463" level="70" type="Merchant" name="Helga" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2900,7 +2900,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35464" level="70" type="ClanHallDoorman" name="Volfrem" title="Clan Hall Gatekeeper">
+	<npc id="35464" level="70" type="Folk" name="Volfrem" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2939,7 +2939,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="35465" level="70" type="ClanHallManager" name="Millicent" title="Clan Hall Manager">
+	<npc id="35465" level="70" type="Merchant" name="Millicent" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2978,7 +2978,7 @@
 			<height normal="20.5" />
 		</collision>
 	</npc>
-	<npc id="35466" level="70" type="ClanHallDoorman" name="Gerard" title="Clan Hall Gatekeeper">
+	<npc id="35466" level="70" type="Folk" name="Gerard" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3017,7 +3017,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="35467" level="70" type="ClanHallManager" name="Branhillde" title="Clan Hall Manager">
+	<npc id="35467" level="70" type="Merchant" name="Branhillde" title="Clan Hall Manager">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3056,7 +3056,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="35468" level="70" type="ClanHallDoorman" name="Lambert" title="Clan Hall Gatekeeper">
+	<npc id="35468" level="70" type="Folk" name="Lambert" title="Clan Hall Gatekeeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -4257,7 +4257,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35497" level="75" type="CastleDoorman" name="Gatekeeper" title="Rune">
+	<npc id="35497" level="75" type="Folk" name="Gatekeeper" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -4337,7 +4337,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35498" level="75" type="CastleDoorman" name="Gatekeeper" title="Rune">
+	<npc id="35498" level="75" type="Folk" name="Gatekeeper" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -4417,7 +4417,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="35499" level="75" type="CastleDoorman" name="Gatekeeper" title="Rune">
+	<npc id="35499" level="75" type="Folk" name="Gatekeeper" title="Rune">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />

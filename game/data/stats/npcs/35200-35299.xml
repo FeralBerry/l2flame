@@ -782,7 +782,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35218" level="75" type="CastleDoorman" name="Gatekeeper" title="Oren">
+	<npc id="35218" level="75" type="Folk" name="Gatekeeper" title="Oren">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -845,7 +845,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35219" level="75" type="CastleDoorman" name="Gatekeeper" title="Oren">
+	<npc id="35219" level="75" type="Folk" name="Gatekeeper" title="Oren">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -908,7 +908,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35220" level="75" type="CastleDoorman" name="Gatekeeper" title="Oren">
+	<npc id="35220" level="75" type="Folk" name="Gatekeeper" title="Oren">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1014,7 +1014,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35222" level="75" type="CastleDoorman" name="Outer Doorman" title="Oren">
+	<npc id="35222" level="75" type="Folk" name="Outer Doorman" title="Oren">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1063,7 +1063,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35223" level="75" type="CastleDoorman" name="Inner Doorman" title="Oren">
+	<npc id="35223" level="75" type="Folk" name="Inner Doorman" title="Oren">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2677,7 +2677,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35261" level="75" type="CastleDoorman" name="Gatekeeper" title="Aden">
+	<npc id="35261" level="75" type="Folk" name="Gatekeeper" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2758,7 +2758,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35262" level="75" type="CastleDoorman" name="Gatekeeper" title="Aden">
+	<npc id="35262" level="75" type="Folk" name="Gatekeeper" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2839,7 +2839,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35263" level="75" type="CastleDoorman" name="Gatekeeper" title="Aden">
+	<npc id="35263" level="75" type="Folk" name="Gatekeeper" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -2920,7 +2920,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35264" level="75" type="CastleDoorman" name="Gatekeeper" title="Aden">
+	<npc id="35264" level="75" type="Folk" name="Gatekeeper" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3001,7 +3001,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35265" level="75" type="CastleDoorman" name="Gatekeeper" title="Aden">
+	<npc id="35265" level="75" type="Folk" name="Gatekeeper" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3125,7 +3125,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35267" level="75" type="CastleDoorman" name="Outer Doorman" title="Aden">
+	<npc id="35267" level="75" type="Folk" name="Outer Doorman" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3174,7 +3174,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35268" level="75" type="CastleDoorman" name="Inner Doorman" title="Aden">
+	<npc id="35268" level="75" type="Folk" name="Inner Doorman" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3223,7 +3223,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35269" level="75" type="CastleDoorman" name="Hall Doorman" title="Aden">
+	<npc id="35269" level="75" type="Folk" name="Hall Doorman" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3272,7 +3272,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35270" level="75" type="CastleDoorman" name="Inner Doorman" title="Aden">
+	<npc id="35270" level="75" type="Folk" name="Inner Doorman" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3321,7 +3321,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35271" level="75" type="CastleDoorman" name="Gatekeeper" title="Aden">
+	<npc id="35271" level="75" type="Folk" name="Gatekeeper" title="Aden">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />

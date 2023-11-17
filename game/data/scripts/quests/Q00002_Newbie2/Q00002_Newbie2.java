@@ -39,34 +39,30 @@ public class Q00002_Newbie2 extends Quest {
         {
             return null;
         }
-
-        if (event.equalsIgnoreCase("30602-1.htm"))
-        {
-            qs.startQuest();
-            return event;
-        }
-        if (qs.isCond(8))
-        {
-            htmltext = event;
-            if (player.getRace() == Race.KAMAEL)
-            {
-                giveItems(player, WARRIOR_SWORD, 1);
+        switch (event) {
+            case "00002-02.htm": {
+                qs.startQuest();
+                htmltext = event;
+                break;
             }
-            else if (player.isMageClass())
-            {
-                giveItems(player, GALLINT_OAK_WAND, 1);
+            case "00002-09.htm": {
+                if (qs.isCond(7)) {
+                    htmltext = event;
+                    if (player.getRace() == Race.KAMAEL){
+                        giveItems(player, WARRIOR_SWORD, 1);
+                    } else if (player.isMageClass()) {
+                        giveItems(player, GALLINT_OAK_WAND, 1);
+                    } else if(player.getRace() == Race.DWARF) {
+                        giveItems(player, MACE, 1);
+                    } else if(player.getRace() == Race.ORC) {
+                        giveItems(player,IRON_GLOVES,1);
+                    } else {
+                        giveItems(player,BROADSWORD,1);
+                    }
+                    giveItems(player, HEALING_POTION, 50);
+                    qs.exitQuest(false, true);
+                }
             }
-            else if(player.getRace() == Race.DWARF)
-            {
-                giveItems(player, MACE, 1);
-            }
-            else if(player.getRace() == Race.ORC){
-                giveItems(player,IRON_GLOVES,1);
-            } else {
-                giveItems(player,BROADSWORD,1);
-            }
-            giveItems(player, HEALING_POTION, 50);
-            qs.exitQuest(false, true);
         }
         return htmltext;
     }
@@ -74,57 +70,60 @@ public class Q00002_Newbie2 extends Quest {
     public String onTalk(Npc npc, Player player) {
         final QuestState qs = getQuestState(player, true);
         String htmltext = getNoQuestMsg(player);
-        switch (npc.getId()) {
-            case NEWBIE_GUIDE: {
-                switch (qs.getState()) {
-                    case State.CREATED: {
-                        htmltext = "30602-1.htm";
-                        break;
-                    }
-                    case State.STARTED: {
-                        if (npc.getId() == PAPUMA) {
-                            if (qs.isCond(1)) {
-                                qs.setCond(2);
-                                htmltext = "30602-02.htm";
-                            }
-                        } else if (npc.getId() == USKA) {
-                            if (qs.isCond(2)) {
-                                qs.setCond(3);
-                                htmltext = "30602-03.htm";
-                            }
-                        } else if (npc.getId() == IMANTU) {
-                            if (qs.isCond(3)) {
-                                qs.setCond(4);
-                                htmltext = "30602-04.htm";
-                            }
-                        } else if (npc.getId() == KUNAI) {
-                            if (qs.isCond(4)) {
-                                qs.setCond(5);
-                                htmltext = "30602-05.htm";
-                            }
-                        } else if (npc.getId() == JAKAL) {
-                            if (qs.isCond(5)) {
-                                qs.setCond(6);
-                                htmltext = "30602-06.htm";
-                            }
-                        } else if (npc.getId() == SUMARI) {
-                            if (qs.isCond(6)) {
-                                qs.setCond(7);
-                                htmltext = "30602-07.htm";
-                            }
-                        } else if (npc.getId() == NEWBIE_GUIDE) {
-                            if (qs.isCond(7)) {
-                                qs.setCond(8);
-                                htmltext = "30602-08.htm";
-                            }
+        switch (qs.getState()) {
+            case State.CREATED: {
+                qs.setCond(1);
+                break;
+            }
+            case State.STARTED: {
+                switch (npc.getId()) {
+                    case PAPUMA: {
+                        if (qs.isCond(1)) {
+                            qs.setCond(2);
+                            htmltext = "00002-03.htm";
                         }
                         break;
                     }
-                    case State.COMPLETED: {
-                        htmltext = getAlreadyCompletedMsg(player);
+                    case USKA: {
+                        if (qs.isCond(2)) {
+                            qs.setCond(3);
+                            htmltext = "00002-04.htm";
+                        }
+                        break;
+                    }
+                    case IMANTU: {
+                        if (qs.isCond(3)) {
+                            qs.setCond(4);
+                            htmltext = "00002-05.htm";
+                        }
+                        break;
+                    }
+                    case KUNAI: {
+                        if (qs.isCond(4)) {
+                            qs.setCond(5);
+                            htmltext = "00002-06.htm";
+                        }
+                        break;
+                    }
+                    case JAKAL: {
+                        if (qs.isCond(5)) {
+                            qs.setCond(6);
+                            htmltext = "00002-07.htm";
+                        }
+                        break;
+                    }
+                    case SUMARI: {
+                        if (qs.isCond(6)) {
+                            qs.setCond(7);
+                            htmltext = "00002-08.htm";
+                        }
                         break;
                     }
                 }
+                break;
+            }
+            case State.COMPLETED: {
+                htmltext = getAlreadyCompletedMsg(player);
                 break;
             }
         }

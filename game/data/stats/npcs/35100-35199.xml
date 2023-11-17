@@ -1472,7 +1472,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35134" level="75" type="CastleDoorman" name="Gatekeeper" title="Dion">
+	<npc id="35134" level="75" type="Folk" name="Gatekeeper" title="Dion">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1535,7 +1535,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35135" level="75" type="CastleDoorman" name="Gatekeeper" title="Dion">
+	<npc id="35135" level="75" type="Folk" name="Gatekeeper" title="Dion">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1598,7 +1598,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35136" level="75" type="CastleDoorman" name="Gatekeeper" title="Dion">
+	<npc id="35136" level="75" type="Folk" name="Gatekeeper" title="Dion">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1704,7 +1704,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35138" level="75" type="CastleDoorman" name="Outer Doorman" title="Dion">
+	<npc id="35138" level="75" type="Folk" name="Outer Doorman" title="Dion">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -1753,7 +1753,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35139" level="75" type="CastleDoorman" name="Inner Doorman" title="Dion">
+	<npc id="35139" level="75" type="Folk" name="Inner Doorman" title="Dion">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3353,7 +3353,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35176" level="75" type="CastleDoorman" name="Gatekeeper" title="Giran">
+	<npc id="35176" level="75" type="Folk" name="Gatekeeper" title="Giran">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3416,7 +3416,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35177" level="75" type="CastleDoorman" name="Gatekeeper" title="Giran">
+	<npc id="35177" level="75" type="Folk" name="Gatekeeper" title="Giran">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3479,7 +3479,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35178" level="75" type="CastleDoorman" name="Gatekeeper" title="Giran">
+	<npc id="35178" level="75" type="Folk" name="Gatekeeper" title="Giran">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3585,7 +3585,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35180" level="75" type="CastleDoorman" name="Outer Doorman" title="Giran">
+	<npc id="35180" level="75" type="Folk" name="Outer Doorman" title="Giran">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
@@ -3634,7 +3634,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="35181" level="75" type="CastleDoorman" name="Inner Doorman" title="Giran">
+	<npc id="35181" level="75" type="Folk" name="Inner Doorman" title="Giran">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="92" />
