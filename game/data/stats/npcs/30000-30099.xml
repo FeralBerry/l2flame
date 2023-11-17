@@ -314,7 +314,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30010" level="70" type="Trainer" name="Auron" title="Master">
+	<npc id="30010" level="70" type="Folk" name="Auron" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -354,7 +354,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 30011 - 30013 -->
-	<npc id="30014" level="70" type="Trainer" name="Celma" title="Master">
+	<npc id="30014" level="70" type="Folk" name="Celma" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -474,7 +474,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 30020 - 30021 -->
-	<npc id="30022" level="70" type="Trainer" name="Zigaunt" title="Priest">
+	<npc id="30022" level="70" type="Folk" name="Zigaunt" title="Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -516,7 +516,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 30023 - 30025 -->
-	<npc id="30026" level="70" type="VillageMasterFighter" name="Bitz" title="Grand Master">
+	<npc id="30026" level="70" type="VillageMaster" name="Bitz" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="63" />
@@ -555,7 +555,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="30027" level="70" type="Trainer" name="Gwinter" title="Master">
+	<npc id="30027" level="70" type="Folk" name="Gwinter" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -594,7 +594,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30028" level="70" type="Trainer" name="Pintage" title="Master">
+	<npc id="30028" level="70" type="Folk" name="Pintage" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -633,7 +633,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30029" level="70" type="Trainer" name="Minia" title="Master">
+	<npc id="30029" level="70" type="Folk" name="Minia" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -672,7 +672,7 @@
 			<height normal="22.4" />
 		</collision>
 	</npc>
-	<npc id="30030" level="70" type="Trainer" name="Vivyan" title="Priestess">
+	<npc id="30030" level="70" type="Folk" name="Vivyan" title="Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -713,7 +713,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="30031" level="70" type="VillageMasterPriest" name="Biotin" title="High Priest">
+	<npc id="30031" level="70" type="VillageMaster" name="Biotin" title="High Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="135" />
@@ -752,7 +752,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="30032" level="70" type="Trainer" name="Yohanes" title="Priest">
+	<npc id="30032" level="70" type="Folk" name="Yohanes" title="Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -793,7 +793,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30033" level="70" type="Trainer" name="Baulro" title="Magister">
+	<npc id="30033" level="70" type="Folk" name="Baulro" title="Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -832,7 +832,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30034" level="70" type="Trainer" name="Iris" title="Magister">
+	<npc id="30034" level="70" type="Folk" name="Iris" title="Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="133" />
@@ -871,7 +871,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="30035" level="70" type="Trainer" name="Harrys" title="Magister">
+	<npc id="30035" level="70" type="Folk" name="Harrys" title="Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -910,7 +910,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30036" level="70" type="Trainer" name="Petron" title="Priest">
+	<npc id="30036" level="70" type="Folk" name="Petron" title="Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -951,7 +951,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30037" level="70" type="VillageMasterPriest" name="Levian" title="High Priestess">
+	<npc id="30037" level="70" type="VillageMaster" name="Levian" title="High Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1858,7 +1858,7 @@
 			<height normal="24.5" />
 		</collision>
 	</npc>
-	<npc id="30064" level="70" type="Trainer" name="Terry" title="Master">
+	<npc id="30064" level="70" type="Folk" name="Terry" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -1897,7 +1897,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30065" level="70" type="Trainer" name="Arnelle" title="Master">
+	<npc id="30065" level="70" type="Folk" name="Arnelle" title="Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -1936,7 +1936,7 @@
 			<height normal="22.4" />
 		</collision>
 	</npc>
-	<npc id="30066" level="70" type="VillageMasterFighter" name="Pabris" title="Grand Master">
+	<npc id="30066" level="70" type="VillageMaster" name="Pabris" title="Grand Master">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="63" />
@@ -1975,7 +1975,7 @@
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="30067" level="70" type="Trainer" name="Glyvka" title="Priestess">
+	<npc id="30067" level="70" type="Folk" name="Glyvka" title="Priestess">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2016,7 +2016,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="30068" level="70" type="Trainer" name="Shegfield" title="Priest">
+	<npc id="30068" level="70" type="Folk" name="Shegfield" title="Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="187" />
@@ -2057,7 +2057,7 @@
 			<height normal="22.2" />
 		</collision>
 	</npc>
-	<npc id="30069" level="70" type="Trainer" name="Rollant" title="Magister">
+	<npc id="30069" level="70" type="Folk" name="Rollant" title="Magister">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -2096,7 +2096,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="30070" level="70" type="VillageMasterPriest" name="Sylvain" title="High Priest">
+	<npc id="30070" level="70" type="VillageMaster" name="Sylvain" title="High Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="135" />

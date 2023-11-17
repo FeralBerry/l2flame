@@ -9,11 +9,6 @@
 			<npc id="31035" x="138565" y="-212712" z="-3544" heading="58647" respawnTime="60sec" /> <!-- Protector -->
 			<npc id="31035" x="150281" y="-217843" z="-3432" heading="65028" respawnTime="60sec" /> <!-- Protector -->
 			<npc id="31035" x="160293" y="-218195" z="-3544" heading="60956" respawnTime="60sec" /> <!-- Protector -->
-			<npc id="20323" x="133863" y="-198354" z="-3632" heading="21695" respawnTime="20sec" /> <!-- Goblin Brigand Leader -->
-			<npc id="20323" x="132130" y="-199714" z="-3328" heading="59450" respawnTime="20sec" /> <!-- Goblin Brigand Leader -->
-			<npc id="20370" x="132140" y="-201469" z="-3448" heading="26784" respawnTime="20sec" /> <!-- Barbed Bat -->
-			<npc id="20370" x="132834" y="-204603" z="-3576" heading="42757" respawnTime="20sec" /> <!-- Barbed Bat -->
-			<npc id="20370" x="132816" y="-202387" z="-3648" heading="17990" respawnTime="20sec" /> <!-- Barbed Bat -->
 			<npc id="20403" x="141887" y="-199927" z="-3368" heading="18332" respawnTime="20sec" /> <!-- Hunter Tarantula -->
 			<npc id="20403" x="140140" y="-204938" z="-3568" heading="37688" respawnTime="20sec" /> <!-- Hunter Tarantula -->
 			<npc id="20403" x="143311" y="-201271" z="-3184" heading="19304" respawnTime="20sec" /> <!-- Hunter Tarantula -->
@@ -104,44 +99,9 @@
 			<npc id="20508" x="152954" y="-212532" z="-3720" heading="13595" respawnTime="20sec" /> <!-- Plunder Tarantula -->
 			<npc id="20508" x="147508" y="-212689" z="-3488" respawnTime="20sec" /> <!-- Plunder Tarantula -->
 			<npc id="20508" x="147508" y="-212590" z="-3488" respawnTime="20sec" /> <!-- Plunder Tarantula -->
-			<npc id="20510" x="132421" y="-202126" z="-3560" heading="14557" respawnTime="20sec" /> <!-- Crystal Puma -->
-			<npc id="20510" x="132404" y="-201981" z="-3536" respawnTime="20sec" /> <!-- Crystal Puma -->
-			<npc id="20510" x="131922" y="-205864" z="-3528" heading="10207" respawnTime="20sec" /> <!-- Crystal Puma -->
-			<npc id="20521" x="132780" y="-199202" z="-3456" heading="15562" respawnTime="20sec" /> <!-- Whinstone Golem -->
-			<npc id="20521" x="132982" y="-198520" z="-3616" respawnTime="20sec" /> <!-- Whinstone Golem -->
 			<npc id="20526" x="133972" y="-197134" z="-3640" heading="1142" respawnTime="20sec" /> <!-- Obsidian Golem -->
 			<npc id="20526" x="132400" y="-198977" z="-3480" heading="1039" respawnTime="20sec" /> <!-- Obsidian Golem -->
 			<npc id="20526" x="131718" y="-198520" z="-3496" respawnTime="20sec" /> <!-- Obsidian Golem -->
-			<npc id="20528" x="134968" y="-204857" z="-3696" heading="44310" respawnTime="20sec" /> <!-- Goblin Lord -->
-			<npc id="20528" x="132741" y="-204493" z="-3560" heading="6440" respawnTime="20sec" /> <!-- Goblin Lord -->
-			<npc id="20528" x="131672" y="-202661" z="-3448" heading="2323" respawnTime="20sec" /> <!-- Goblin Lord -->
-			<npc id="20528" x="131709" y="-208163" z="-3568" heading="25194" respawnTime="20sec" /> <!-- Goblin Lord -->
-			<npc id="20528" x="131880" y="-208894" z="-3584" heading="45175" respawnTime="20sec" /> <!-- Goblin Lord -->
-			<npc id="20777" x="136506" y="-198318" z="-3656" heading="11748" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="136029" y="-198550" z="-3592" heading="27684" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138352" y="-198484" z="-3536" heading="65297" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="136752" y="-199970" z="-3528" heading="2401" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137023" y="-199734" z="-3512" heading="35324" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="136286" y="-199215" z="-3544" heading="23948" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="135941" y="-200139" z="-3560" heading="57345" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="135455" y="-199543" z="-3592" heading="22276" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138253" y="-199728" z="-3504" heading="52518" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138416" y="-200367" z="-3520" heading="25253" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138527" y="-199475" z="-3504" heading="50641" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138573" y="-199599" z="-3504" heading="29467" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137893" y="-199447" z="-3552" heading="57345" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138493" y="-199125" z="-3520" heading="24686" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138320" y="-201413" z="-3512" heading="11577" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137866" y="-201868" z="-3560" heading="44370" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="138144" y="-202487" z="-3560" heading="13252" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137425" y="-203475" z="-3720" heading="17437" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137231" y="-203901" z="-3616" heading="56870" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137061" y="-202989" z="-3648" heading="9482" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137153" y="-203226" z="-3672" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137066" y="-202516" z="-3696" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137179" y="-203520" z="-3648" heading="14243" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="136464" y="-202111" z="-3592" heading="55175" respawnTime="20sec" /> <!-- Hunter Bear -->
-			<npc id="20777" x="137217" y="-203157" z="-3696" heading="52590" respawnTime="20sec" /> <!-- Hunter Bear -->
 			<npc id="21124" x="159325" y="-210225" z="-3632" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
 			<npc id="21124" x="159015" y="-210080" z="-3656" heading="61695" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
 			<npc id="21124" x="159077" y="-213999" z="-3632" heading="43371" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->

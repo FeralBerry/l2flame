@@ -6869,6 +6869,92 @@
 			<height normal="50" />
 		</collision>
 	</npc>
+	<npc id="20669" level="55" type="Monster" name="Taik Orc Supply Leader">
+		<parameters>
+			<param name="MoveAroundSocial" value="90" />
+			<param name="MoveAroundSocial1" value="65" />
+			<param name="MoveAroundSocial2" value="90" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="PhysicalSpecial" id="4073" level="5" /> <!-- Stun -->
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="75" /> <!-- rhand: Caliburs -->
+		<acquire exp="6408" sp="517" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1673.05473" hpRegen="6.5" mp="889.8" mpRegen="2.4" />
+			<attack physical="388.11142" magical="265.02979" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="223.6362" magical="148.899508363765" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="36" />
+				<run ground="174" />
+			</speed>
+			<hitTime>540</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4073" level="5" /> <!-- Stun -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="851" max="1734" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.1845">
+					<item id="286" min="1" max="1" chance="0.9143" /> <!-- Eminence Bow -->
+					<item id="2121" min="1" max="1" chance="99.0857" /> <!-- Eminence Bow Shaft -->
+				</group>
+				<group chance="11.3797">
+					<item id="1871" min="1" max="1" chance="49.9038" /> <!-- Charcoal -->
+					<item id="1866" min="1" max="1" chance="33.2692" /> <!-- Suede -->
+					<item id="1877" min="1" max="1" chance="1.9962" /> <!-- Adamantite Nugget -->
+					<item id="4041" min="1" max="1" chance="0.4339" /> <!-- Mold Hardener -->
+					<item id="4040" min="1" max="1" chance="0.9981" /> <!-- Mold Lubricant -->
+					<item id="4191" min="1" max="1" chance="0.0575" /> <!-- Recipe: Great Axe (100%) -->
+					<item id="4186" min="1" max="1" chance="0.0575" /> <!-- Recipe: Sword of Valhalla (100%) -->
+					<item id="5160" min="1" max="1" chance="0.0998" /> <!-- Recipe: Spiritshot (B) Compressed Package (100%) -->
+					<item id="5275" min="1" max="1" chance="0.0998" /> <!-- Recipe: Greater Spiritshot (B) Compressed Package(100%) -->
+					<item id="6669" min="1" max="1" chance="11.6055" /> <!-- Deluxe Chest Key - Grade 5 -->
+					<item id="8726" min="1" max="1" chance="1.1552" /> <!-- Life Stone: level 55 -->
+					<item id="8736" min="1" max="1" chance="0.2888" /> <!-- Mid-Grade Life Stone: level 55 -->
+					<item id="8746" min="1" max="1" chance="0.0289" /> <!-- High-Grade Life Stone: level 55 -->
+					<item id="8756" min="1" max="1" chance="0.0058" /> <!-- Top-Grade Life Stone: level 55 -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="4057" min="1" max="1" chance="6.0231" /> <!-- Zubei's Gaiter Material -->
+				<item id="4198" min="1" max="1" chance="0.1644" /> <!-- Recipe: Bellion Cestus (100%) -->
+				<item id="4589" min="1" max="1" chance="0.7177" /> <!-- Greater Dye of STR <Str+2 Con-2> -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="12" grown="14" />
+			<height normal="24" grown="28.8" />
+		</collision>
+	</npc>
 	<npc id="20670" level="61" type="Monster" name="Crimson Drake">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
