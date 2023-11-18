@@ -18,7 +18,7 @@ public class Q00002_Newbie2 extends Quest {
     private static final int JAKAL = 30558; // id NPC оружейник
     private static final int SUMARI = 30564; // id NPC кузнец
     // Rewards
-    private static final int GALLINT_OAK_WAND = 748; // дубинка для магов
+    private static final int GALLINT_OAK_WAND = 748; // дубинка для маговq
     private static final int MACE = 5; // Дубина для гномов
     private static final int BROADSWORD = 3; // Меч для воинов
     private static final int IRON_GLOVES = 254; // Кастет для орков
@@ -39,6 +39,10 @@ public class Q00002_Newbie2 extends Quest {
                 if (npc.getId() == NEWBIE_GUIDE) {
                     htmltext = "00002-01.htm";
                 }
+                break;
+            }
+            case State.COMPLETED: {
+                htmltext = getAlreadyCompletedMsg(player);
                 break;
             }
         }
@@ -121,10 +125,6 @@ public class Q00002_Newbie2 extends Quest {
                         break;
                     }
                 }
-                break;
-            }
-            case State.COMPLETED: {
-                htmltext = getAlreadyCompletedMsg(player);
                 break;
             }
         }

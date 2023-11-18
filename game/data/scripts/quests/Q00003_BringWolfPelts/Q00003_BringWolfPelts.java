@@ -27,7 +27,6 @@ import org.l2jmobius.gameserver.network.NpcStringId;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Set;
 
 /**
@@ -37,6 +36,7 @@ import java.util.Set;
 public class Q00003_BringWolfPelts extends Quest
 {
 	private static final int QUEST_ID = 3;
+	private static final String KILL_COUNT_VAR = "KillCount";
 	// Npc
 	private static final int TIKU = 30582;
 	private static final int PAPURION = 30580;
@@ -74,22 +74,59 @@ public class Q00003_BringWolfPelts extends Quest
 	@Override
 	public String onAdvEvent(String event, Npc npc, Player player)
 	{
-		final QuestState qs = getQuestState(player, false);
-		if ((qs != null) && event.equalsIgnoreCase("00003-03.html"))
+		final QuestState qs = getQuestState(player, true);
+		String htmltext = getNoQuestMsg(player);
+		switch (qs.getState()) {
+			case State.CREATED: {
+				if (npc.getId() == TIKU || npc.getId() == PAPURION && player.getLevel() >= MIN_LEVEL) {
+					htmltext = "00003-02.htm";
+				} else {
+					htmltext = "00003-01.htm";
+				}
+				break;
+			}
+			case State.STARTED: {
+				if(qs.isCond(1)){
+					htmltext = "00003-04.html";
+				}
+				if(qs.isCond(2)){
+					if (getQuestItemsCount(player, WOLF_PELT) >= WOLF_PELT_COUNT)
+					{
+						final int chance = getRandom(16);
+						for (Map.Entry<Integer, Integer> reward : REWARDS.entrySet())
+						{
+							if (chance < reward.getValue())
+							{
+								giveItems(player, reward.getKey(), 1);
+								break;
+							}
+						}
+						qs.unset(KILL_COUNT_VAR);
+						qs.exitQuest(true, true);
+						htmltext = "00003-05.html";
+					}
+				}
+				break;
+			}
+		}
+		if (event.equalsIgnoreCase("00003-03.html"))
 		{
 			qs.startQuest();
-			return event;
+			htmltext = event;
 		}
-		return null;
+		return htmltext;
 	}
 	
 	@Override
 	public String onKill(Npc npc, Player killer, boolean isSummon)
 	{
 		final QuestState qs = getQuestState(killer, false);
-		if ((qs != null) && qs.isCond(1))
+		final int killCount = qs.getInt(KILL_COUNT_VAR) + 1;
+		if (qs.isCond(1))
 		{
 			giveItems(killer, WOLF_PELT, 1);
+			qs.set(KILL_COUNT_VAR, killCount);
+			sendNpcLogList(killer);
 			if (getQuestItemsCount(killer, WOLF_PELT) >= WOLF_PELT_COUNT)
 			{
 				qs.setCond(2, true);
@@ -103,43 +140,10 @@ public class Q00003_BringWolfPelts extends Quest
 	{
 		final QuestState qs = getQuestState(player, true);
 		String htmltext = getNoQuestMsg(player);
-		switch (qs.getState())
+		System.out.println(qs);
+		if (qs == null)
 		{
-			case State.CREATED:
-			{
-				htmltext = (player.getLevel() >= MIN_LEVEL) ? "00003-02.htm" : "00003-01.html";
-				break;
-			}
-			case State.STARTED:
-			{
-				switch (qs.getCond())
-				{
-					case 1:
-					{
-						htmltext = "00003-04.html";
-						break;
-					}
-					case 2:
-					{
-						if (getQuestItemsCount(player, WOLF_PELT) >= WOLF_PELT_COUNT)
-						{
-							final int chance = getRandom(16);
-							for (Entry<Integer, Integer> reward : REWARDS.entrySet())
-							{
-								if (chance < reward.getValue())
-								{
-									giveItems(player, reward.getKey(), 1);
-									break;
-								}
-							}
-							qs.exitQuest(true, true);
-							htmltext = "00003-05.html";
-							break;
-						}
-					}
-				}
-				break;
-			}
+			return null;
 		}
 		return htmltext;
 	}
@@ -147,13 +151,12 @@ public class Q00003_BringWolfPelts extends Quest
 	public Set<NpcLogListHolder> getNpcLogList(Player player)
 	{
 		final QuestState qs = getQuestState(player, false);
-		int countPelt = (int) getQuestItemsCount(player, WOLF_PELT);
 		if (qs != null)
 		{
-			if (qs.isCond(2))
+			if (qs.isCond(1))
 			{
 				final Set<NpcLogListHolder> holder = new HashSet<>();
-				holder.add(new NpcLogListHolder(NpcStringId.WOLF_SKINS.getId(), true, countPelt));
+				holder.add(new NpcLogListHolder(NpcStringId.WOLF_SKINS.getId(), true, qs.getInt(KILL_COUNT_VAR)));
 				return holder;
 			}
 		}
