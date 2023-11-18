@@ -2997,7 +2997,7 @@
 	<npc id="18775" level="81" type="Monster" name="Seed of Destruction Control Device">
 		<race>CONSTRUCT</race>
 		<sex>FEMALE</sex>
-		<acquire exp="27" sp="1" />
+		<acquire exp="147312" sp="11412" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="99011.98" hpRegen="113.419259781018" mp="1674.8" mpRegen="3" />
 			<attack physical="5827.40072171705" magical="4002.76724651153" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4059,7 +4059,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="9" sp="1" />
+		<acquire exp="49440" sp="5079" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="17140.69" hpRegen="8.5" mp="11290.8" mpRegen="3" />
 			<attack physical="856.44055895414" magical="584.837886935576" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -4104,9 +4104,24 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="6695" min="1" max="1" chance="0.482" /> <!-- Demon Splinter Blade -->
-				<item id="6371" min="1" max="1" chance="0.003" /> <!-- Demon Splinter -->
+				<group chance="70">
+					<item id="57" min="2420" max="4913" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.5196">
+					<item id="6371" min="1" max="1" chance="0.2201" /> <!-- Demon Splinter -->
+					<item id="6695" min="1" max="1" chance="99.7799" /> <!-- Demon Splinter Blade -->
+				</group>
+				<group chance="2.8451">
+					<item id="9628" min="1" max="1" chance="44.9357" /> <!-- Leonard -->
+					<item id="9630" min="1" max="1" chance="30.1542" /> <!-- Orichalcum -->
+					<item id="9629" min="1" max="1" chance="24.9101" /> <!-- Adamantine -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="960" min="1" max="1" chance="0.5298" /> <!-- Scroll: Enchant Armor (S) -->
+				<item id="1894" min="1" max="1" chance="46.4713" /> <!-- Crafted Leather -->
+				<item id="9540" min="1" max="1" chance="2.3694" /> <!-- Sealed Dynasty Tunic Piece -->
+			</spoil>
 		</dropLists>
 	</npc>
 </list>

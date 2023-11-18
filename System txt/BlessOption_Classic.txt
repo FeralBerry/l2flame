@@ -1,0 +1,280 @@
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=sword
+	effect={{base_effect;0;50392;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=buster
+	effect={{base_effect;0;50393;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=rapier
+	effect={{base_effect;0;50394;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=twohandsword
+	effect={{base_effect;0;50395;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=ancientsword
+	effect={{base_effect;0;50396;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=blunt
+	effect={{base_effect;0;50397;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=staff
+	effect={{base_effect;0;50398;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=twohandblunt
+	effect={{base_effect;0;50399;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=twohandstaff
+	effect={{base_effect;0;50400;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=bow
+	effect={{base_effect;0;50401;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=dagger
+	effect={{base_effect;0;50402;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=dual
+	effect={{base_effect;0;50403;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=fist2
+	effect={{base_effect;0;50404;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=c	unk_1=0	bodypart=lhand	wpn_type=pole
+	effect={{base_effect;0;50405;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=sword
+	effect={{base_effect;0;50392;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=buster
+	effect={{base_effect;0;50393;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=rapier
+	effect={{base_effect;0;50394;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=twohandsword
+	effect={{base_effect;0;50395;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=ancientsword
+	effect={{base_effect;0;50396;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=blunt
+	effect={{base_effect;0;50397;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=staff
+	effect={{base_effect;0;50398;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=twohandblunt
+	effect={{base_effect;0;50399;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=twohandstaff
+	effect={{base_effect;0;50400;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=bow
+	effect={{base_effect;0;50401;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=dagger
+	effect={{base_effect;0;50402;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=dual
+	effect={{base_effect;0;50403;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=fist2
+	effect={{base_effect;0;50404;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_common	grade=b	unk_1=0	bodypart=lhand	wpn_type=pole
+	effect={{base_effect;0;50405;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=sword
+	effect={{base_effect;0;50392;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=buster
+	effect={{base_effect;0;50393;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=rapier
+	effect={{base_effect;0;50394;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=twohandsword
+	effect={{base_effect;0;50395;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=ancientsword
+	effect={{base_effect;0;50396;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=blunt
+	effect={{base_effect;0;50397;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=staff
+	effect={{base_effect;0;50398;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=twohandblunt
+	effect={{base_effect;0;50399;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=twohandstaff
+	effect={{base_effect;0;50400;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=bow
+	effect={{base_effect;0;50401;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=dagger
+	effect={{base_effect;0;50402;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=dual
+	effect={{base_effect;0;50403;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=fist2
+	effect={{base_effect;0;50404;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_high	grade=a	unk_1=0	bodypart=lhand	wpn_type=pole
+	effect={{base_effect;0;50405;1};{enchant_effect;16;50421;1};{enchant_effect;20;50422;1};{enchant_effect;25;50423;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=sword
+	effect={{base_effect;0;50392;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=buster
+	effect={{base_effect;0;50393;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=rapier
+	effect={{base_effect;0;50394;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=twohandsword
+	effect={{base_effect;0;50395;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=ancientsword
+	effect={{base_effect;0;50396;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=blunt
+	effect={{base_effect;0;50397;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=staff
+	effect={{base_effect;0;50398;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=twohandblunt
+	effect={{base_effect;0;50399;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=twohandstaff
+	effect={{base_effect;0;50400;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=bow
+	effect={{base_effect;0;50401;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=dagger
+	effect={{base_effect;0;50402;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=dual
+	effect={{base_effect;0;50403;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=fist2
+	effect={{base_effect;0;50404;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=wpn_special	grade=s	unk_1=0	bodypart=lhand	wpn_type=pole
+	effect={{base_effect;0;50405;1};{enchant_effect;16;50424;1};{enchant_effect;20;50425;1};{enchant_effect;25;50426;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=head	wpn_type=fist
+	effect={{base_effect;0;83161;1};{enchant_effect;11;83107;1};{enchant_effect;13;83108;1};{enchant_effect;15;83109;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=head	wpn_type=fist
+	effect={{base_effect;0;83161;2};{enchant_effect;11;83110;1};{enchant_effect;13;83111;1};{enchant_effect;15;83112;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=chest	wpn_type=fist
+	effect={{base_effect;0;83162;1};{enchant_effect;11;83113;1};{enchant_effect;13;83114;1};{enchant_effect;15;83115;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=chest	wpn_type=fist
+	effect={{base_effect;0;83162;2};{enchant_effect;11;83116;1};{enchant_effect;13;83117;1};{enchant_effect;15;83118;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_prot	grade=s	unk_1=0	bodypart=chest	wpn_type=fist
+	effect={{base_effect;0;83163;1};{enchant_effect;11;83122;1};{enchant_effect;13;83123;1};{enchant_effect;15;83124;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=legs	wpn_type=fist
+	effect={{base_effect;0;83164;1};{enchant_effect;11;83125;1};{enchant_effect;13;83126;1};{enchant_effect;15;83127;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=legs	wpn_type=fist
+	effect={{base_effect;0;83164;2};{enchant_effect;11;83128;1};{enchant_effect;13;83129;1};{enchant_effect;15;83130;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_prot	grade=s	unk_1=0	bodypart=legs	wpn_type=fist
+	effect={{base_effect;0;83165;1};{enchant_effect;11;83134;1};{enchant_effect;13;83135;1};{enchant_effect;15;83136;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=onepiece	wpn_type=fist
+	effect={{base_effect;0;83166;1};{enchant_effect;11;83137;1};{enchant_effect;13;83138;1};{enchant_effect;15;83139;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_special	grade=s	unk_1=0	bodypart=onepiece	wpn_type=fist
+	effect={{base_effect;0;83167;1};{enchant_effect;11;83143;1};{enchant_effect;13;83144;1};{enchant_effect;15;83145;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=gloves	wpn_type=fist
+	effect={{base_effect;0;83168;1};{enchant_effect;11;83149;1};{enchant_effect;13;83150;1};{enchant_effect;15;83151;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=gloves	wpn_type=fist
+	effect={{base_effect;0;83168;2};{enchant_effect;11;83152;1};{enchant_effect;13;83153;1};{enchant_effect;15;83154;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_common	grade=s	unk_1=0	bodypart=feet	wpn_type=fist
+	effect={{base_effect;0;83169;1};{enchant_effect;11;83155;1};{enchant_effect;13;83156;1};{enchant_effect;15;83157;1}}
+blessoption_end
+blessoption_begin
+	item_type=armor_high	grade=s	unk_1=0	bodypart=feet	wpn_type=fist
+	effect={{base_effect;0;83169;2};{enchant_effect;11;83158;1};{enchant_effect;13;83159;1};{enchant_effect;15;83160;1}}
+blessoption_end

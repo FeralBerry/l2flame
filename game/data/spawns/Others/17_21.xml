@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
-	<spawn name="17_21">
-		<group>
-			<npc id="20038" x="-72600" y="122113" z="-3736" heading="26144" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
-		</group>
-	</spawn>
-</list>

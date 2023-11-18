@@ -2,15 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="EvilHuntingGrounds">
 		<group>
-			<npc id="20009" x="-10359" y="102619" z="-2640" heading="6455" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-11527" y="102503" z="-2648" heading="55414" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-11268" y="100114" z="-2776" heading="65073" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-11123" y="102328" z="-2680" heading="32223" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-11143" y="101049" z="-2720" heading="24493" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-10486" y="101065" z="-2704" heading="40303" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-13669" y="100368" z="-2848" heading="40470" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-14252" y="101455" z="-2728" heading="48228" respawnTime="60sec" /> <!-- Vuku Orc -->
-			<npc id="20009" x="-15537" y="100846" z="-2976" heading="35885" respawnTime="60sec" /> <!-- Vuku Orc -->
 			<npc id="20011" x="-10608" y="102727" z="-2640" heading="63555" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
 			<npc id="20011" x="-10184" y="101553" z="-2712" heading="3453" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
 			<npc id="20011" x="-10768" y="98985" z="-3120" heading="15569" respawnTime="60sec" /> <!-- Vuku Orc Archer -->

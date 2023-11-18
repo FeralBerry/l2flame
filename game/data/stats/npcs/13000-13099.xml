@@ -1242,6 +1242,27 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="9170" min="1" max="4" chance="100" /> <!-- Magic Reagents -->
+				</group>
+				<group chance="100">
+					<item id="9168" min="1" max="2" chance="100" /> <!-- Philosopher's Stone Ore -->
+				</group>
+				<group chance="10">
+					<item id="9169" min="1" max="1" chance="100" /> <!-- Philosopher's Stone Conversion Formula -->
+				</group>
+				<group chance="10">
+					<item id="9162" min="1" max="1" chance="16.5" /> <!-- Red Philosopher's Stone Transmutation Circle -->
+					<item id="9163" min="1" max="1" chance="16.5" /> <!-- Blue Philosopher's Stone Transmutation Circle -->
+					<item id="9164" min="1" max="1" chance="16.5" /> <!-- Orange Philosopher's Stone Transmutation Circle -->
+					<item id="9165" min="1" max="1" chance="16.5" /> <!-- Black Philosopher's Stone Transmutation Circle -->
+					<item id="9166" min="1" max="1" chance="16.5" /> <!-- White Philosopher's Stone Transmutation Circle -->
+					<item id="9167" min="1" max="1" chance="17.5" /> <!-- Green Philosopher's Stone Transmutation Circle -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="8.5" />
 			<height normal="8.5" />
@@ -3727,6 +3748,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="10272" min="3" max="7" chance="100" /> <!-- Treasure Sack Piece -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="8.5" />
 			<height normal="8.5" />

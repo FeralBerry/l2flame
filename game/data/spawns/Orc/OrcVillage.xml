@@ -2,8 +2,43 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="OrcVillage">
 		<group>
-			<npc id="30576" x="-43964" y="-113389" z="-240" respawnTime="60sec" /> <!-- Teleport Device -->
-			<npc id="33787" x="-52082" y="-113604" z="-80" respawnTime="60sec" /> <!-- Pa'agrio Temple -->
+			<npc id="30575" x="-49382" y="-113560" z="-232" heading="0" respawnTime="60sec" />
+			<npc id="30573" x="-49382" y="-113685" z="-232" heading="0" respawnTime="60sec" />
+			<npc id="30578" x="-47360" y="-113791" z="-224" heading="32768" respawnTime="60sec" /><!-- Guard Накушин -->
+			<npc id="30579" x="-47360" y="-113424" z="-224" heading="32768" respawnTime="60sec" /><!-- Guard Тамай -->
+			<npc id="30602" x="-45032" y="-113598" z="-192" heading="32768" respawnTime="60sec" /><!-- Помощник новичков -->
+			<npc id="30584" x="-45728" y="-113360" z="-240" heading="0" respawnTime="60sec" /><!-- Guard Вакул -->
+			<npc id="30583" x="-45731" y="-113844" z="-240" heading="0" respawnTime="60sec" /><!-- Guard Патукай -->
+			<npc id="30568" x="-46808" y="-113184" z="-112" heading="0" respawnTime="60sec" /><!-- Вождь Уруту Хатос -->
+			<npc id="30566" x="-46802" y="-114011" z="-112" heading="0" respawnTime="60sec" /><!-- Вождь Атуба Варкис -->
+			<npc id="30567" x="-46247" y="-113866" z="-16" heading="16384" respawnTime="60sec" /><!-- Вождь Неруга Тантус -->
+			<npc id="30565" x="-46768" y="-113610" z="-3" heading="0" respawnTime="60sec" /><!-- Монарх Пламени Кекей -->
+			<npc id="31688" x="-15120" y="122096" z="-3064" heading="3000" respawnTime="60sec" /><!-- Управляющий олимпиадой -->
+			<npc id="31771" x="-45360" y="-114688" z="-240" heading="0" respawnTime="60sec" /><!-- Памятник Героям -->
+			<npc id="30560" x="-43910" y="-115518" z="-194" heading="39000" respawnTime="60sec" /><!-- Ювелир Аска -->
+			<npc id="30561" x="-43950" y="-115457" z="-194" heading="39000" respawnTime="60sec" /><!-- Бакалейщик Папума -->
+			<npc id="31031" x="-44032" y="-114000" z="-236" heading="16384" respawnTime="5sec" /><!-- Кристал просмотра -->
+			<npc id="32478" x="-43728" y="-113472" z="-240" heading="33000" respawnTime="60sec" /><!-- Игровой помощник -->
+			<npc id="30562" x="-43109" y="-113770" z="-216" heading="24576" respawnTime="60sec" /><!-- Рабочий Склада Грукин -->
+			<npc id="30563" x="-43114" y="-113404" z="-216" heading="38000" respawnTime="60sec" /><!-- Рабочий Склада Иманту -->
+			<npc id="35645" x="-44172" y="-112236" z="-240" heading="40000" respawnTime="60sec" /><!-- Управляющий владениями -->
+			<npc id="30559" x="-43905" y="-111824" z="-216" heading="28672" respawnTime="60sec" /><!-- Торговец оружием Кунай -->
+			<npc id="30558" x="-44416" y="-111486" z="-216" heading="57600" respawnTime="60sec" /><!-- Торговец Доспехами Джакал -->
+			<npc id="30582" x="-45808" y="-110055" z="-256" heading="16384" respawnTime="60sec" /><!-- Guard Тику -->
+			<npc id="30581" x="-46528" y="-109968" z="-248" heading="16384" respawnTime="60sec" /><!-- Guard Оринак -->
+			<npc id="30580" x="-45744" y="-117165" z="-240" heading="49152" respawnTime="60sec" /><!-- Guard Паругон -->
+			<npc id="30577" x="-46576" y="-117311" z="-240" heading="49152" respawnTime="60sec" /><!-- Guard Рукайн -->
+			<npc id="31365" x="-48820" y="-113748" z="-233" heading="0" respawnTime="60sec" /><!-- Хранитель Пламени Яканд -->
+			<npc id="31364" x="-46512" y="-117696" z="-252" heading="0" respawnTime="60sec" /><!-- Хранитель Пламени Рокар -->
+			<npc id="30576" x="-45264" y="-112512" z="-240" heading="0" respawnTime="60sec" /><!-- Телепорт -->
+			<npc id="30994" x="-45266" y="-112468" z="-240" heading="500" respawnTime="60sec" /><!-- Лотерея -->
+			<npc id="30587" x="-44624" y="-111873" z="-240" heading="40960" respawnTime="60sec" /><!-- Гентаки Зу Уруту -->
+			<npc id="30585" x="-45328" y="-114736" z="-240" heading="0" respawnTime="60sec" /><!-- Татару Зу Хестуи -->
+			<npc id="30564" x="-43264" y="-112532" z="-216" heading="32768" respawnTime="60sec" /><!-- кузнец Сумари -->
+
+
+
+
 		</group>
 	</spawn>
 </list>

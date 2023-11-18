@@ -833,6 +833,13 @@
 				<clan>RAT</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="10639" min="1" max="2" chance="100" /> <!-- Mouse Coin -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="15" />
 			<height normal="20" />
@@ -930,7 +937,12 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="10639" min="4" max="6" chance="100" /> <!-- Rat Coin -->
+				<group chance="100">
+					<item id="10639" min="4" max="6" chance="100" /> <!-- Mouse Coin -->
+				</group>
+				<group chance="5">
+					<item id="9140" min="1" max="1" chance="100" /> <!-- Salvation Bow -->
+				</group>
 			</drop>
 		</dropLists>
 	</npc>
@@ -981,7 +993,12 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="10639" min="1" max="3" chance="100" /> <!-- Rat Coin -->
+				<group chance="100">
+					<item id="10639" min="1" max="3" chance="100" /> <!-- Mouse Coin -->
+				</group>
+				<group chance="10">
+					<item id="9140" min="1" max="1" chance="100" /> <!-- Salvation Bow -->
+				</group>
 			</drop>
 		</dropLists>
 	</npc>

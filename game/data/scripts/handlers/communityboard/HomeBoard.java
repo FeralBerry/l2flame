@@ -96,7 +96,7 @@ public class HomeBoard implements IParseBoardHandler
 		return commandCheck && (player.isCastingNow() || player.isInCombat() || player.isInDuel() || player.isInOlympiadMode() || player.isInsideZone(ZoneId.SIEGE) || player.isInsideZone(ZoneId.PVP) || (player.getPvpFlag() > 0) || player.isAlikeDead() || player.isOnEvent());
 	};
 	
-	private static final Predicate<Player> KARMA_CHECK = player -> Config.COMMUNITYBOARD_KARMA_DISABLED && (player.getReputation() < 0);
+	public static final Predicate<Player> KARMA_CHECK = player -> Config.COMMUNITYBOARD_KARMA_DISABLED && (player.getReputation() < 0);
 	
 	@Override
 	public String[] getCommunityBoardCommands()
@@ -233,7 +233,6 @@ public class HomeBoard implements IParseBoardHandler
 					}
 				}
 			}
-			
 			returnHtml = HtmCache.getInstance().getHtm(player, "data/html/CommunityBoard/Custom/" + page + ".html");
 		}
 		else if (command.startsWith("_bbsheal"))

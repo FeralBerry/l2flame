@@ -9,7 +9,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="158" /> <!-- Tarbar -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="1751" sp="100" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
 			<attack physical="113.49065" magical="77.49941" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -51,7 +51,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1672" sp="145" />
+		<acquire exp="8453" sp="599" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="11068.14" hpRegen="16.5" mp="637.8" mpRegen="2.1" />
 			<attack physical="248.0526" magical="169.38777" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -96,7 +96,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="172" /> <!-- Heavy Bone Club -->
-		<acquire exp="1491" sp="123" />
+		<acquire exp="3113" sp="213" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1138.62924" hpRegen="5.5" mp="584" mpRegen="2.1" />
 			<attack physical="222.23112" magical="151.75505" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -138,7 +138,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="12979" sp="1079" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="15989.27" hpRegen="19.5" mp="948" mpRegen="2.4" />
 			<attack physical="424.23295" magical="289.69611" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -183,7 +183,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="91" /> <!-- Heavy War Axe -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="4864" sp="393" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1673.05473" hpRegen="6.5" mp="889.8" mpRegen="2.4" />
 			<attack physical="388.11142" magical="265.02979" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -225,7 +225,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="18473" sp="1784" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="21111.67" hpRegen="22.5" mp="1282.4" mpRegen="2.7" />
 			<attack physical="646.17968" magical="441.25696" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -270,7 +270,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2503" /> <!-- Yaksa Mace -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7004" sp="659" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2244.67715" hpRegen="7.5" mp="1219.8" mpRegen="2.7" />
 			<attack physical="603.79903" magical="412.31647" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -312,7 +312,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="4" sp="1" />
+		<acquire exp="24933" sp="2763" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="25837.22" hpRegen="25.755" mp="1657.41" mpRegen="3.03" />
 			<attack physical="884.2525659" magical="609.868172336" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -357,7 +357,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="175" /> <!-- Art of Battle Axe -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="9533" sp="1032" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2762.08447" hpRegen="8.5" mp="1574" mpRegen="3" />
 			<attack physical="835.75573" magical="570.71283" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -399,7 +399,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="733" sp="50" />
+		<acquire exp="4893" sp="290" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="6954.574" hpRegen="13.5" mp="402.6" mpRegen="1.8" />
 			<attack physical="129.32896" magical="88.31491" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -444,7 +444,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="158" /> <!-- Tarbar -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="1751" sp="100" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
 			<attack physical="113.49065" magical="77.49941" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -486,7 +486,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1672" sp="145" />
+		<acquire exp="8453" sp="599" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="11068.14" hpRegen="16.5" mp="637.8" mpRegen="2.1" />
 			<attack physical="248.0526" magical="169.38777" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -531,7 +531,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="172" /> <!-- Heavy Bone Club -->
-		<acquire exp="1491" sp="123" />
+		<acquire exp="3113" sp="213" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1138.62924" hpRegen="5.5" mp="584" mpRegen="2.1" />
 			<attack physical="222.23112" magical="151.75505" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -573,7 +573,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="12979" sp="1079" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="15989.27" hpRegen="19.5" mp="948" mpRegen="2.4" />
 			<attack physical="424.23295" magical="289.69611" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -618,7 +618,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="91" /> <!-- Heavy War Axe -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="4864" sp="393" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1673.05473" hpRegen="6.5" mp="889.8" mpRegen="2.4" />
 			<attack physical="388.11142" magical="265.02979" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -660,7 +660,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="3" sp="1" />
+		<acquire exp="18473" sp="1784" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="21111.67" hpRegen="22.5" mp="1282.4" mpRegen="2.7" />
 			<attack physical="646.17968" magical="441.25696" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -705,7 +705,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2503" /> <!-- Yaksa Mace -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7004" sp="659" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2244.67715" hpRegen="7.5" mp="1219.8" mpRegen="2.7" />
 			<attack physical="603.79903" magical="412.31647" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -747,7 +747,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="4" sp="1" />
+		<acquire exp="24933" sp="2763" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="25581.07" hpRegen="25.5" mp="1641" mpRegen="3" />
 			<attack physical="875.49759" magical="609.868172336" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -792,7 +792,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="175" /> <!-- Art of Battle Axe -->
-		<acquire exp="2" sp="1" />
+		<acquire exp="9533" sp="1032" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2762.08447" hpRegen="8.5" mp="1574" mpRegen="3" />
 			<attack physical="835.75573" magical="570.71283" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -836,7 +836,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="120" sp="13" />
+		<acquire exp="421" sp="14" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
 			<attack physical="19.33758" magical="13.20506" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -865,19 +865,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.1159">
+					<item id="6529" min="1" max="1" chance="100" /> <!-- Baby Duck Rod -->
+				</group>
+				<group chance="33.8149">
+					<item id="6535" min="12" max="36" chance="35.7143" /> <!-- Fishing Shot: non-grade -->
+					<item id="6520" min="1" max="1" chance="25.7143" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="17.1429" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="1" max="1" chance="21.4285" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="20" />
 			<height normal="10" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="1" max="1" chance="2.6" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="1" max="1" chance="1.733" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="1" max="1" chance="2.08" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6535" min="3" max="9" chance="17.333" /> <!-- Corroded No-grade Fishing Shot - Not used -->
-				<item id="6529" min="1" max="1" chance="0.478" /> <!-- Corroded Baby Duck Rod - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18320" level="20" type="Monster" name="Caught Undine">
 		<parameters>
@@ -889,7 +893,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="308" sp="27"/>
+		<acquire exp="843" sp="37" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -918,19 +922,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.0527">
+					<item id="6530" min="1" max="1" chance="100" /> <!-- Albatross Rod -->
+				</group>
+				<group chance="43.904">
+					<item id="6536" min="12" max="36" chance="25" /> <!-- Fishing Shot: D-grade -->
+					<item id="6520" min="1" max="1" chance="30" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="20" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="1" max="1" chance="25" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="12" />
 			<height normal="27" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="1" max="1" chance="3.938" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="1" max="1" chance="2.625" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="1" max="1" chance="3.151" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6536" min="3" max="9" chance="15.753" /> <!-- Corroded D-grade Fishing Shot - Not used -->
-				<item id="6530" min="1" max="1" chance="0.217" /> <!-- Corroded Albatross Rod - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18321" level="30" type="Monster" name="Caught Rakul">
 		<parameters>
@@ -943,7 +951,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="156" /> <!-- Hand Axe -->
-		<acquire exp="621" sp="45"/>
+		<acquire exp="1550" sp="85" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -972,19 +980,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.02">
+					<item id="6531" min="1" max="1" chance="100" /> <!-- Pelican Rod -->
+				</group>
+				<group chance="39.5841">
+					<item id="6537" min="12" max="36" chance="30" /> <!-- Fishing Shot: C-grade -->
+					<item id="6520" min="2" max="6" chance="8.4" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="28" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="1" max="1" chance="33.6" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="30" />
 			<height normal="39" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="1" max="1" chance="6.449" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="1" max="1" chance="4.299" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="1" max="1" chance="5.159" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6537" min="3" max="9" chance="18.425" /> <!-- Corroded C-grade Fishing Shot - Not used -->
-				<item id="6531" min="1" max="1" chance="0.089" /> <!-- Corroded Pelican Rod - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18322" level="40" type="Monster" name="Caught Sea Giant">
 		<parameters>
@@ -997,7 +1009,7 @@
 		<race>GIANT</race>
 		<sex>MALE</sex>
 		<equipment rhand="131" /> <!-- Spirit Sword -->
-		<acquire exp="913" sp="70" />
+		<acquire exp="2755" sp="178" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1026,19 +1038,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.0108">
+					<item id="6532" min="1" max="1" chance="100" /> <!-- KingFisher Rod -->
+				</group>
+				<group chance="32.6943">
+					<item id="6538" min="15" max="45" chance="13.2231" /> <!-- Fishing Shot: B-grade -->
+					<item id="6520" min="2" max="6" chance="20.6612" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="55.0964" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="3" max="9" chance="11.0193" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="13" />
 			<height normal="44" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="1" max="1" chance="11.08" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="1" max="1" chance="7.387" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="1" max="1" chance="8.864" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6538" min="3" max="9" chance="8.864" /> <!-- Corroded B-grade Fishing Shot - Not used -->
-				<item id="6532" min="1" max="1" chance="0.051" /> <!-- Corroded KingFisher Rod - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18323" level="50" type="Monster" name="Caught Sea Horse Soldier">
 		<parameters>
@@ -1051,7 +1067,7 @@
 		<race>ELEMENTAL</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- Trident -->
-		<acquire exp="2012" sp="154" />
+		<acquire exp="4305" sp="324" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1421.00103" hpRegen="5.5" mp="747.8" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="0" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
@@ -1080,19 +1096,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.0041">
+					<item id="6533" min="1" max="1" chance="100" /> <!-- Cygnus Pole -->
+				</group>
+				<group chance="48.4811">
+					<item id="6539" min="3" max="9" chance="34.8837" /> <!-- Fishing Shot: A-grade -->
+					<item id="6520" min="2" max="6" chance="13.9535" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="41.8605" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="2" max="6" chance="9.3023" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="9" />
 			<height normal="32" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="2" max="6" chance="4.334" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="1" max="1" chance="11.558" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="1" max="1" chance="13.87" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6539" min="3" max="9" chance="8.669" /> <!-- Corroded A-grade Fishing Shot - Not used -->
-				<item id="6533" min="1" max="1" chance="0.024" /> <!-- Corroded Cygnus Pole - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18324" level="60" type="Monster" name="Caught Homunculus">
 		<parameters>
@@ -1104,7 +1124,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="6200" sp="538" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1933.24044" hpRegen="6.5" mp="1036.8" mpRegen="2.4" />
 			<attack physical="481.34551" magical="328.69659" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -1133,19 +1153,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.0061">
+					<item id="6533" min="1" max="1" chance="100" /> <!-- Cygnus Pole -->
+				</group>
+				<group chance="58.4811">
+					<item id="6539" min="3" max="9" chance="34.8837" /> <!-- Fishing Shot: A-grade -->
+					<item id="6520" min="2" max="6" chance="13.9535" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="41.8605" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="2" max="6" chance="9.3023" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="12" />
 			<height normal="32.5" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="2" max="6" chance="6.348" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="1" max="1" chance="16.929" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="2" max="6" chance="4.063" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6539" min="3" max="9" chance="12.697" /> <!-- Corroded A-grade Fishing Shot - Not used -->
-				<item id="6533" min="1" max="1" chance="0.035" /> <!-- Corroded Cygnus Pole - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18325" level="70" type="Monster" name="Caught Flava">
 		<parameters>
@@ -1157,7 +1181,7 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="8438" sp="837" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
 			<attack physical="688.86373" magical="470.40463" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1186,19 +1210,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.0017">
+					<item id="6534" min="1" max="1" chance="100" /> <!-- Triton Pole -->
+				</group>
+				<group chance="47.1822">
+					<item id="6540" min="3" max="9" chance="30" /> <!-- Fishing Shot: S-grade -->
+					<item id="6520" min="2" max="6" chance="15" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="45" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="2" max="6" chance="10" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="18" />
 			<height normal="34" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="2" max="6" chance="8.879" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="3" max="9" chance="3.946" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="2" max="6" chance="5.683" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6540" min="3" max="9" chance="14.207" /> <!-- S-grade Corroded Fishing Shot - Not used -->
-				<item id="6534" min="1" max="1" chance="0.02" /> <!-- Corroded Triton Pole - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18326" level="78" type="Monster" name="Caught Gigantic Eye">
 		<parameters>
@@ -1210,7 +1238,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="11022" sp="1237" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="2880.37628" hpRegen="8.5" mp="1674.8" mpRegen="3" />
 			<attack physical="894.75854" magical="635.688655236" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1239,19 +1267,23 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="0.0030">
+					<item id="6534" min="1" max="1" chance="100" /> <!-- Triton Pole -->
+				</group>
+				<group chance="57.1822">
+					<item id="6540" min="3" max="9" chance="30" /> <!-- Fishing Shot: S-grade -->
+					<item id="6520" min="2" max="6" chance="15" /> <!-- Green Colored Lure -->
+					<item id="6523" min="1" max="1" chance="45" /> <!-- Purple Colored Lure -->
+					<item id="6526" min="2" max="6" chance="10" /> <!-- Yellow Colored Lure -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="21" />
 			<height normal="55" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="6520" min="2" max="6" chance="19.682" /> <!-- Corroded Green Bait - Not used -->
-				<item id="6523" min="3" max="9" chance="8.748" /> <!-- Corroded Purple Bait - Not used -->
-				<item id="6526" min="2" max="6" chance="12.597" /> <!-- Corroded Yellow Bait - Not used -->
-				<item id="6540" min="21" max="63" chance="4.499" /> <!-- S-grade Corroded Fishing Shot - Not used -->
-				<item id="6534" min="1" max="1" chance="0.023" /> <!-- Corroded Triton Pole - Not used -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18327" level="58" type="Monster" name="Freya's Servant">
 		<parameters>
@@ -2050,7 +2082,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="1" />
+		<acquire exp="29" sp="2" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="39.74519" hpRegen="2" mp="40" mpRegen="0.9" />
 			<attack physical="8.47458" magical="5.78704" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2076,6 +2108,13 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="450" />
+		<dropLists>
+			<drop>
+				<group chance="100">
+					<item id="57" min="7" max="13" chance="100" /> <!-- Adena -->
+				</group>
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="15" />
@@ -2183,7 +2222,7 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="8266" sp="961" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="743.8486" hpRegen="8.5" mp="300.96" mpRegen="3" />
 			<attack physical="890.50085998804" magical="608.096657928153" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2214,15 +2253,22 @@
 		<exCrtEffect>true</exCrtEffect>
 		<sNpcPropHpRate>0.25</sNpcPropHpRate>
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true" />
+		<dropLists>
+			<drop>
+				<group chance="39.76">
+					<item id="8787" min="1" max="1" chance="100" /> <!-- Sprigant's Fruit -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="960" min="1" max="1" chance="0.0931" /> <!-- Scroll: Enchant Armor (S) -->
+				<item id="1894" min="1" max="1" chance="8.168" /> <!-- Crafted Leather -->
+				<item id="4039" min="1" max="1" chance="7.7596" /> <!-- Mold Glue -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="45" />
 			<height normal="67" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="57" min="156" max="363" chance="70" /> <!-- Adena -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18346" level="78" type="Monster" name="Sprigant">
 		<parameters>
@@ -2234,7 +2280,7 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="8266" sp="961" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="743.8486" hpRegen="8.5" mp="447.96" mpRegen="3" />
 			<attack physical="890.50085998804" magical="608.096657928153" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2265,15 +2311,22 @@
 		<exCrtEffect>true</exCrtEffect>
 		<sNpcPropHpRate>0.25</sNpcPropHpRate>
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true" />
+		<dropLists>
+			<drop>
+				<group chance="39.76">
+					<item id="8787" min="1" max="1" chance="100" /> <!-- Sprigant's Fruit -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="6701" min="1" max="1" chance="0.6885" /> <!-- Sealed Imperial Crusader Breastplate Part -->
+				<item id="6901" min="1" max="1" chance="0.2328" /> <!-- Recipe: Shining Arrow (100%) -->
+				<item id="6702" min="1" max="1" chance="0.8863" /> <!-- Sealed Imperial Crusader Gaiters Pattern -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="45" />
 			<height normal="67" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="57" min="156" max="363" chance="70" /> <!-- Adena -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18347" level="20" type="Monster" name="Garden Guard">
 		<parameters>
@@ -2288,7 +2341,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="308" sp="27"/>
+		<acquire exp="707" sp="31" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="692.4" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2336,7 +2389,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="325" sp="28"/>
+		<acquire exp="948" sp="35" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="364.30351" hpRegen="3.5" mp="977.4" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2386,7 +2439,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="10128" /> <!-- For Monster only (Crossbow) -->
-		<acquire exp="325" sp="28"/>
+		<acquire exp="906" sp="41" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="364.30351" hpRegen="3.5" mp="1282.4" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="5" critical="10" accuracy="5" attackSpeed="253" type="BOW" range="700" distance="10" width="0" />
@@ -2434,7 +2487,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="325" sp="28"/>
+		<acquire exp="999" sp="35" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="364.30351" hpRegen="3.5" mp="2411.1" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2488,7 +2541,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="325" sp="28"/>
+		<acquire exp="951" sp="35" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="364.30351" hpRegen="3.5" mp="2770.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2542,7 +2595,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="1807" sp="68" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="774.1325" hpRegen="3.5" mp="1507.8" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2574,15 +2627,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9703" min="1" max="1" chance="100" /> <!-- Gate Key: Kamael -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18353" level="22" type="Monster" name="Archivist">
 		<parameters>
@@ -2604,7 +2657,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="2401" sp="99" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1160.883" hpRegen="3.5" mp="1507.8" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2636,15 +2689,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<item id="9704" min="1" max="1" chance="100" /> <!-- Gate Key: Archives -->
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="15.5" />
 			<height normal="22.5" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="9704" min="1" max="1" chance="100" /> <!-- Key from Gate of Archives -->
-			</drop>
-		</dropLists>
 	</npc>
 	<npc id="18354" level="22" type="Monster" name="Guardian of Observation">
 		<parameters>
@@ -2663,7 +2716,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="1807" sp="68" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="774.1325" hpRegen="3.5" mp="1507.8" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2695,15 +2748,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9705" min="1" max="1" chance="100" /> <!-- Gate Key: Observation -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18355" level="22" type="Monster" name="Spicula's Guard">
 		<parameters>
@@ -2725,7 +2778,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="2541" sp="99" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1160.883" hpRegen="3.5" mp="1507.8" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2758,15 +2811,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9706" min="1" max="1" chance="100" /> <!-- Gate Key: Spicula -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18356" level="22" type="Monster" name="Harkilgamed's Gatekeeper">
 		<parameters>
@@ -2789,7 +2842,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="10128" /> <!-- For Monster only (Crossbow) -->
-		<acquire exp="380" sp="30"/>
+		<acquire exp="2469" sp="111" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1160.883" hpRegen="3.5" mp="1507.8" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="10" accuracy="5" attackSpeed="253" type="BOW" range="700" distance="10" width="0" />
@@ -2820,15 +2873,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15" />
-			<height normal="24.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9707" min="1" max="1" chance="100" /> <!-- Gate Key: Harkilgamed -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15" />
+			<height normal="24.5" />
+		</collision>
 	</npc>
 	<npc id="18357" level="22" type="Monster" name="Rodenpicula's Gatekeeper">
 		<parameters>
@@ -2848,7 +2901,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="2401" sp="99" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1160.883" hpRegen="3.5" mp="2512.2" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2880,15 +2933,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9708" min="1" max="1" chance="100" /> <!-- Gate Key: Rodenpicula -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18358" level="22" type="Monster" name="Guardian of Secrets">
 		<parameters>
@@ -2904,7 +2957,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="1807" sp="68" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="774.1325" hpRegen="3.5" mp="2614.5" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2936,15 +2989,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9713" min="1" max="1" chance="100" /> <!-- Nornil's Power -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18359" level="22" type="Monster" name="Arviterre's Guardian">
 		<parameters>
@@ -2963,7 +3016,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="1807" sp="68" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="64.51104" hpRegen="3.5" mp="2666.1" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2995,15 +3048,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9709" min="1" max="1" chance="100" /> <!-- Gate Key: Arviterre -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18360" level="22" type="Monster" name="Katenar's Gatekeeper">
 		<parameters>
@@ -3023,7 +3076,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="1807" sp="68" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="774.1325" hpRegen="3.5" mp="40" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -3055,15 +3108,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9710" min="1" max="1" chance="100" /> <!-- Gate Key: Katenar -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18361" level="22" type="Monster" name="Guardian of Prediction">
 		<parameters>
@@ -3084,7 +3137,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="380" sp="30"/>
+		<acquire exp="2401" sp="99" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1160.883" hpRegen="3.5" mp="40" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -3116,15 +3169,15 @@
 				<clan>NDG</clan>
 			</clanList>
 		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
 		<dropLists>
 			<drop>
 				<item id="9711" min="1" max="1" chance="100" /> <!-- Gate Key: Prediction -->
 			</drop>
 		</dropLists>
+		<collision>
+			<radius normal="15.5" />
+			<height normal="22.5" />
+		</collision>
 	</npc>
 	<npc id="18362" level="19" type="Monster" name="Garden Guard">
 		<parameters>
@@ -3138,7 +3191,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="286" sp="25"/>
+		<acquire exp="742" sp="30" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="321.63954" hpRegen="2.5" mp="40" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -3188,7 +3241,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="10128" /> <!-- For Monster only (Crossbow) -->
-		<acquire exp="286" sp="25"/>
+		<acquire exp="670" sp="29" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="321.63954" hpRegen="2.5" mp="40" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="5" critical="10" accuracy="5" attackSpeed="253" type="BOW" range="700" distance="10" width="0" />
@@ -3421,7 +3474,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="8217" /> <!-- Monster Only (Zombie Gate Guard Spear) -->
-		<acquire exp="2" sp="1" />
+		<acquire exp="8578" sp="962" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3290.11306877694" hpRegen="8.5" mp="40" mpRegen="3" />
 			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3470,7 +3523,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="9308" sp="1017" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="40" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3521,7 +3574,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2" sp="1" />
+		<acquire exp="8545" sp="934" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="1507.8" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3562,7 +3615,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="8217" /> <!-- Monster Only (Zombie Gate Guard Spear) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7697" sp="841" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="18000" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3601,7 +3654,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="123" /> <!-- Saber -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7697" sp="841" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="18000" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3639,7 +3692,7 @@
 	<npc id="18373" level="82" type="Monster" name="Beleth' Sample">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1" sp="1" />
+		<acquire exp="7697" sp="841" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="1846.8" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3678,7 +3731,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="8215" /> <!-- Monster Only (Zombie Enlisted Man Sword) -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7697" sp="841" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="610.8" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3717,7 +3770,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" lhand="945" /> <!-- Skeleton Dagger / Skeleton Buckler -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7697" sp="841" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="610.8" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3756,7 +3809,7 @@
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<equipment rhand="205" /> <!-- Ghoul's Staff -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7697" sp="841" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="610.8" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3795,7 +3848,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="150" lhand="103" /> <!-- Elemental Sword / Tower Shield -->
-		<acquire exp="1" sp="1" />
+		<acquire exp="7697" sp="841" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="3643.38976668326" hpRegen="8.5" mp="889.8" mpRegen="3" />
 			<attack physical="1055.28566004965" magical="720.623302603812" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

@@ -3,13 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-
-			<npc id="20008" x="-63427" y="105600" z="-3536" heading="4510" respawnTime="60sec" /> <!-- Felim Lizardman -->
-			<npc id="20008" x="-63520" y="105714" z="-3528" heading="8020" respawnTime="60sec" /> <!-- Felim Lizardman -->
-			<npc id="20008" x="-63634" y="108388" z="-3536" heading="11059" respawnTime="60sec" /> <!-- Felim Lizardman -->
-			<npc id="20008" x="-64016" y="105386" z="-3520" heading="31667" respawnTime="60sec" /> <!-- Felim Lizardman -->
-			<npc id="20008" x="-64100" y="106567" z="-3552" heading="14182" respawnTime="60sec" /> <!-- Felim Lizardman -->
-			<npc id="20008" x="-65375" y="107519" z="-3672" heading="40676" respawnTime="60sec" /> <!-- Felim Lizardman -->
 			<npc id="20010" x="-63905" y="105613" z="-3528" heading="45375" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
 			<npc id="20010" x="-64322" y="105976" z="-3528" heading="16261" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
 			<npc id="20010" x="-64741" y="105404" z="-3512" heading="49516" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
@@ -45,18 +38,6 @@
 			<npc id="20014" x="-68676" y="111506" z="-3520" heading="1557" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
 			<npc id="20014" x="-69138" y="109126" z="-3768" heading="34832" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
 			<npc id="20014" x="-70160" y="110418" z="-3712" heading="64686" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20021" x="-61396" y="100640" z="-3672" heading="19781" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-62536" y="102620" z="-3536" heading="38347" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-63008" y="102204" z="-3544" heading="8468" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-63089" y="101388" z="-3536" heading="48502" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-63340" y="101665" z="-3544" heading="20681" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-63372" y="101177" z="-3536" heading="938" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-63724" y="104916" z="-3504" heading="41132" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-63803" y="99463" z="-3560" heading="5549" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-64372" y="103572" z="-3504" heading="36822" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-64494" y="99805" z="-3608" heading="19739" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-64634" y="100644" z="-3600" heading="38920" respawnTime="60sec" /> <!-- Red Bear -->
-			<npc id="20021" x="-64861" y="99526" z="-3632" heading="42924" respawnTime="60sec" /> <!-- Red Bear -->
 			<npc id="20038" x="-65777" y="104346" z="-3616" heading="53330" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
 			<npc id="20038" x="-66786" y="101573" z="-3704" heading="30480" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
 			<npc id="20038" x="-68453" y="103668" z="-3824" heading="37706" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
