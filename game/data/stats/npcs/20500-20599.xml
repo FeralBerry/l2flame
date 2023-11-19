@@ -1329,7 +1329,7 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="20516" level="14" type="Monster" usingServerSideName="true" name="Скелет Часовой">
+	<npc id="20516" level="14" type="Monster" name="Скелет Часовой">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -1339,7 +1339,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" /> <!-- rhand: Skeleton Dagger -->
-		<acquire exp="424" sp="16" />
+		<acquire exp="363" sp="13" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
 			<attack physical="27.24646" magical="18.6058" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -1367,18 +1367,40 @@
 			<skill id="4415" level="7" /> <!-- Daggers -->
 			<skill id="4416" level="1" /> <!-- Undead -->
 		</skillList>
+
 		<exCrtEffect>false</exCrtEffect>
 		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="95" max="131" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0791">
+					<item id="2371" min="1" max="1" chance="68.0851" /> <!-- Fist of Butcher -->
+					<item id="255" min="1" max="1" chance="31.9149" /> <!-- Fox Claw Gloves -->
+				</group>
+				<group chance="9.941">
+					<item id="1870" min="1" max="1" chance="35.2071" /> <!-- Coal -->
+					<item id="1865" min="1" max="1" chance="35.2071" /> <!-- Varnish -->
+					<item id="1803" min="1" max="1" chance="29.5858" /> <!-- Recipe: Necklace of Wisdom -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1792" min="1" max="1" chance="1.3068" /> <!-- Recipe: Short Spear -->
+				<item id="1792" min="1" max="1" chance="1.3068" /> <!-- Recipe: Short Spear -->
+				<item id="1792" min="1" max="1" chance="1.3068" /> <!-- Recipe: Short Spear -->
+			</spoil>
+		</dropLists>
 		<collision>
-			<radius normal="11" />
-			<height normal="31" />
+			<radius normal="11" grown="13" />
+			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="20517" level="12" type="Monster" usingServerSideName="true" name="Скелет Охотник">
+	<npc id="20517" level="12" type="Monster" name="Скелет Охотник">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
