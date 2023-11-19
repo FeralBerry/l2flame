@@ -2897,6 +2897,7 @@
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
 			<param name="MoveAroundSocial2" value="167" />
+			<param name="SetAggressiveTime" value="0" />
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
@@ -2930,7 +2931,7 @@
 			<skill id="4416" level="1" /> <!-- Undead -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>

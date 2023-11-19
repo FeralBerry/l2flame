@@ -1329,11 +1329,12 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="20516" level="14" type="Monster" name="Skeleton Sentinel">
+	<npc id="20516" level="14" type="Monster" usingServerSideName="true" name="Скелет Часовой">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
 			<param name="MoveAroundSocial2" value="167" />
+			<param name="SetAggressiveTime" value="0" />
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
@@ -1367,7 +1368,7 @@
 			<skill id="4416" level="1" /> <!-- Undead -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
@@ -1377,11 +1378,12 @@
 			<height normal="31" />
 		</collision>
 	</npc>
-	<npc id="20517" level="12" type="Monster" name="Skeleton Hunter">
+	<npc id="20517" level="12" type="Monster" usingServerSideName="true" name="Скелет Охотник">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
 			<param name="MoveAroundSocial2" value="167" />
+			<param name="SetAggressiveTime" value="0" />
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
@@ -1415,7 +1417,7 @@
 			<skill id="4416" level="1" /> <!-- Undead -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
