@@ -156,50 +156,6 @@
 			<height normal="40" />
 		</collision>
 	</npc>
-	<npc id="18003" level="1" type="Monster" name="Bearded Keltir">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-		</parameters>
-		<race>ANIMAL</race>
-		<sex>MALE</sex>
-		<acquire exp="29" sp="2" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="39.7" hpRegen="2" mp="1507.8" mpRegen="0.9" />
-			<attack physical="4" magical="5.79" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="44.44" magical="26.9214336743691" />
-			<speed>
-				<walk ground="23" />
-				<run ground="110" />
-			</speed>
-			<hitTime>370</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="4" /> <!-- Animals -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-		</skillList>
-		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" clanHelpRange="300" aggroRange="450" />
-		<dropLists>
-			<spoil>
-				<item id="1871" min="1" max="1" chance="0.9797" /> <!-- Charcoal -->
-			</spoil>
-		</dropLists>
-		<collision>
-			<radius normal="9.5" />
-			<height normal="10" />
-		</collision>
-	</npc>
 	<npc id="18004" level="49" type="Monster" name="Susceptor Prime">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
