@@ -907,7 +907,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ELEMENTAL3</clan>
 			</clanList>
@@ -4602,104 +4602,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="20471" level="10" type="Monster" name="Kaboo Orc Fighter">
-		<parameters>
-			<param name="MoveAroundSocial" value="75" />
-			<param name="MoveAroundSocial1" value="75" />
-			<param name="MoveAroundSocial2" value="75" />
-		</parameters>
-		<race>HUMANOID</race>
-		<sex>MALE</sex>
-		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="363" sp="12" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
-			<attack physical="19.33758" magical="13.20506" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="61.82527" magical="41.16396260604" />
-			<attribute>
-				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
-			</attribute>
-			<speed>
-				<walk ground="45" />
-				<run ground="110" />
-			</speed>
-			<hitTime>460</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="6" /> <!-- Humanoids -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="98" max="132" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.4959">
-					<item id="3" min="1" max="1" chance="22.5806" /> <!-- Broadsword -->
-					<item id="2005" min="1" max="1" chance="77.4194" /> <!-- Broadsword Blade -->
-				</group>
-				<group chance="11.9438">
-					<item id="1869" min="1" max="1" chance="30" /> <!-- Iron Ore -->
-					<item id="1864" min="1" max="1" chance="60" /> <!-- Stem -->
-					<item id="1666" min="1" max="1" chance="10" /> <!-- Recipe: Wooden Arrow -->
-				</group>
-				<group chance="42">
-					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
-					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
-					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
-				</group>
-				<group chance="11">
-					<item id="8603" min="1" max="1" chance="50" /> <!-- Herb of Mana -->
-					<item id="8604" min="1" max="1" chance="43" /> <!-- Greater Herb of Mana -->
-					<item id="8605" min="1" max="1" chance="7" /> <!-- Superior Herb of Mana -->
-				</group>
-				<group chance="25">
-					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
-					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
-					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
-					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
-					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
-				</group>
-				<group chance="10">
-					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
-					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
-				</group>
-				<group chance="1">
-					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
-					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
-					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
-				</group>
-				<group chance="11">
-					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
-					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
-					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="1797" min="1" max="1" chance="36.7589" /> <!-- Recipe: Leather Stockings -->
-				<item id="428" min="1" max="1" chance="1.9461" /> <!-- Feriotic Tunic -->
-				<item id="1869" min="1" max="1" chance="18.1957" /> <!-- Iron Ore -->
-			</spoil>
-		</dropLists>
-		<collision>
-			<radius normal="12" grown="14" />
-			<height normal="22" grown="26.4" />
-		</collision>
-	</npc>
+
 	<npc id="20472" level="12" type="Monster" name="Kaboo Orc Fighter Leader">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
@@ -5481,105 +5384,6 @@
 		<collision>
 			<radius normal="21" />
 			<height normal="50" />
-		</collision>
-	</npc>
-	<npc id="20480" level="10" type="Monster" name="Blade Bat">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<param name="HalfAggressive" value="2" />
-		</parameters>
-		<race>ANIMAL</race>
-		<sex>MALE</sex>
-		<acquire exp="356" sp="12" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
-			<attack physical="19.33758" magical="13.20506" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="61.82527" magical="41.16396260604" />
-			<attribute>
-				<defence fire="20" water="20" wind="-5" earth="20" holy="20" dark="20" />
-			</attribute>
-			<speed>
-				<walk ground="60" />
-				<run ground="80" />
-			</speed>
-			<hitTime>500</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4276" level="1" /> <!-- Weak Point against Bow/Crossbow Weapons -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="4" /> <!-- Animals -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="96" max="130" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="1.4643">
-					<item id="22" min="1" max="1" chance="38.4868" /> <!-- Leather Shirt -->
-					<item id="29" min="1" max="1" chance="61.5132" /> <!-- Leather Pants -->
-				</group>
-				<group chance="11.188">
-					<item id="1864" min="1" max="1" chance="62.7974" /> <!-- Stem -->
-					<item id="1869" min="1" max="1" chance="31.3987" /> <!-- Iron Ore -->
-					<item id="1789" min="1" max="1" chance="5.8039" /> <!-- Recipe: Cedar Staff -->
-				</group>
-				<group chance="42">
-					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
-					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
-					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
-				</group>
-				<group chance="11">
-					<item id="8603" min="1" max="1" chance="50" /> <!-- Herb of Mana -->
-					<item id="8604" min="1" max="1" chance="43" /> <!-- Greater Herb of Mana -->
-					<item id="8605" min="1" max="1" chance="7" /> <!-- Superior Herb of Mana -->
-				</group>
-				<group chance="25">
-					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
-					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
-					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
-					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
-					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
-				</group>
-				<group chance="10">
-					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
-					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
-				</group>
-				<group chance="1">
-					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
-					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
-					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
-				</group>
-				<group chance="11">
-					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
-					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
-					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="1864" min="1" max="1" chance="35.6778" /> <!-- Stem -->
-				<item id="2007" min="1" max="1" chance="1.2742" /> <!-- Bow Shaft -->
-				<item id="2005" min="1" max="1" chance="1.2742" /> <!-- Broadsword Blade -->
-			</spoil>
-		</dropLists>
-		<collision>
-			<radius normal="10" />
-			<height normal="33.5" />
 		</collision>
 	</npc>
 	<npc id="20481" level="1" type="Monster" name="Bearded Keltir">

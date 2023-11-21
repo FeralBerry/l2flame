@@ -822,7 +822,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ELEMENTAL3</clan>
 			</clanList>
@@ -1016,7 +1016,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ELEMENTAL3</clan>
 			</clanList>
@@ -1160,7 +1160,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ELEMENTAL3</clan>
 			</clanList>
@@ -4963,51 +4963,6 @@
 		<collision>
 			<radius normal="20" />
 			<height normal="35" grown="42" />
-		</collision>
-	</npc>
-	<npc id="20172" level="10" type="Monster" name="Sylph">
-		<parameters>
-			<param name="MoveAroundSocial" value="80" />
-			<param name="MoveAroundSocial1" value="80" />
-			<param name="MoveAroundSocial2" value="80" />
-			<skill name="DDMagic" id="4001" level="1" />
-		</parameters>
-		<race>ELEMENTAL</race>
-		<sex>FEMALE</sex>
-		<acquire exp="296" sp="10" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
-			<attack physical="19.33758" magical="13.20506" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="61.82527" magical="45.24105" />
-			<speed>
-				<walk ground="60" />
-				<run ground="60" />
-			</speed>
-			<hitTime>560</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="7" /> <!-- Spirits -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4001" level="1" /> <!-- Gust -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
-			<clanList>
-				<clan>ELEMENTAL2</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="11" />
-			<height normal="35" />
 		</collision>
 	</npc>
 	<npc id="20173" level="33" type="Monster" name="Troll">

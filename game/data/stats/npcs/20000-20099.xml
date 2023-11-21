@@ -2139,7 +2139,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
 			</clanList>
@@ -2838,7 +2838,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
 			</clanList>
@@ -7350,77 +7350,6 @@
 			<height normal="10" />
 		</collision>
 	</npc>
-	<npc id="20092" level="10" type="Monster" name="Monster Eye">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<skill name="W_LongRangeDDMagic" id="4151" level="1" /> <!-- NPC Windstrike - Magic -->
-			<skill name="W_ShortRangeDDMagic" id="4160" level="1" /> <!-- NPC Aura Burn - Magic -->
-		</parameters>
-		<race>CONSTRUCT</race>
-		<sex>MALE</sex>
-		<acquire exp="294" sp="10" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
-			<attack physical="19.33758" magical="13.20506" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="61.82527" magical="41.16396260604" />
-			<attribute>
-				<defence fire="20" water="20" wind="-5" earth="20" holy="20" dark="20" />
-			</attribute>
-			<speed>
-				<walk ground="90" />
-				<run ground="134" />
-			</speed>
-			<hitTime>300</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4151" level="1" /> <!-- NPC Windstrike - Magic -->
-			<skill id="4160" level="1" /> <!-- NPC Aura Burn - Magic -->
-			<skill id="4276" level="1" /> <!-- Weak Point against Bow/Crossbow Weapons -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapons -->
-			<skill id="4416" level="2" /> <!-- Magic Creatures -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="79" max="107" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="3.0136">
-					<item id="113" min="1" max="1" chance="31.0253" /> <!-- Mystic's Earring -->
-					<item id="906" min="1" max="1" chance="23.1755" /> <!-- Necklace of Knowledge -->
-					<item id="875" min="1" max="1" chance="45.7992" /> <!-- Ring of Knowledge -->
-				</group>
-				<group chance="8.6384">
-					<item id="1869" min="1" max="1" chance="16.7763" /> <!-- Iron Ore -->
-					<item id="1870" min="1" max="1" chance="16.7763" /> <!-- Coal -->
-					<item id="1871" min="1" max="1" chance="16.7763" /> <!-- Charcoal -->
-					<item id="1872" min="1" max="1" chance="22.3684" /> <!-- Animal Bone -->
-					<item id="1867" min="1" max="1" chance="22.3684" /> <!-- Animal Skin -->
-					<item id="2137" min="1" max="1" chance="4.9343" /> <!-- Recipe: Steel -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="1666" min="1" max="1" chance="4.9062" /> <!-- Recipe: Wooden Arrow -->
-				<item id="1866" min="1" max="1" chance="9.8124" /> <!-- Suede -->
-				<item id="2005" min="1" max="1" chance="1.0513" /> <!-- Broadsword Blade -->
-			</spoil>
-		</dropLists>
-		<collision>
-			<radius normal="21" />
-			<height normal="43" />
-		</collision>
-	</npc>
 	<npc id="20093" level="10" type="Monster" name="Orc Warrior">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
@@ -7564,76 +7493,6 @@
 		<collision>
 			<radius normal="14" />
 			<height normal="25" />
-		</collision>
-	</npc>
-	<npc id="20095" level="10" type="Monster" name="Vampire Bat">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<param name="HalfAggressive" value="2" />
-		</parameters>
-		<race>ANIMAL</race>
-		<sex>MALE</sex>
-		<acquire exp="296" sp="10" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
-			<attack physical="19.33758" magical="13.20506" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="61.82527" magical="41.16396260604" />
-			<attribute>
-				<defence fire="20" water="20" wind="-5" earth="20" holy="20" dark="20" />
-			</attribute>
-			<speed>
-				<walk ground="60" />
-				<run ground="80" />
-			</speed>
-			<hitTime>500</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4276" level="1" /> <!-- Weak Point against Bow/Crossbow Weapons -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapons -->
-			<skill id="4416" level="4" /> <!-- Animals -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="80" max="108" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="1.2203">
-					<item id="428" min="1" max="1" chance="19.2434" /> <!-- Feriotic Tunic -->
-					<item id="1100" min="1" max="1" chance="19.2434" /> <!-- Cotton Tunic -->
-					<item id="463" min="1" max="1" chance="30.7566" /> <!-- Feriotic Stockings -->
-					<item id="1103" min="1" max="1" chance="30.7566" /> <!-- Cotton Stockings -->
-				</group>
-				<group chance="9.3233">
-					<item id="1864" min="1" max="1" chance="62.7974" /> <!-- Stem -->
-					<item id="1869" min="1" max="1" chance="31.3987" /> <!-- Iron Ore -->
-					<item id="1789" min="1" max="1" chance="5.8039" /> <!-- Recipe: Cedar Staff -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="1864" min="1" max="1" chance="29.7315" /> <!-- Stem -->
-				<item id="2006" min="1" max="1" chance="1.0618" /> <!-- Willow Staff Head -->
-				<item id="2006" min="1" max="1" chance="1.0618" /> <!-- Willow Staff Head -->
-			</spoil>
-		</dropLists>
-		<collision>
-			<radius normal="10" />
-			<height normal="33.5" />
 		</collision>
 	</npc>
 	<npc id="20096" level="11" type="Monster" name="Orc Lieutenant">
