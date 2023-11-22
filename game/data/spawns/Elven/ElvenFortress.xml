@@ -2,24 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ElvenFortress">
 		<group>
-			<npc id="20033" x="12897" y="76729" z="-4272" heading="18483" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="13071" y="76382" z="-4224" heading="20915" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="13116" y="76814" z="-4272" heading="17981" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="13242" y="77318" z="-4200" heading="60457" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="13535" y="76685" z="-4272" heading="6554" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="14717" y="78950" z="-4288" heading="32611" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="14774" y="79086" z="-4288" heading="7084" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="16444" y="79560" z="-4416" heading="59013" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="16739" y="78566" z="-4416" heading="64806" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="17006" y="79488" z="-4416" heading="6384" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="18449" y="75735" z="-4384" heading="33151" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="18481" y="75849" z="-4384" heading="4601" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="18738" y="75615" z="-4384" heading="41906" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="18860" y="75598" z="-4384" heading="28524" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="18959" y="79656" z="-4384" heading="30294" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="19623" y="79624" z="-4384" heading="22744" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="20142" y="75676" z="-4384" heading="46604" respawnTime="60sec" /> <!-- Shade Horror -->
-			<npc id="20033" x="20304" y="75646" z="-4384" heading="15586" respawnTime="60sec" /> <!-- Shade Horror -->
 			<npc id="20036" x="10311" y="62901" z="-3544" heading="37890" respawnTime="60sec" /> <!-- Lirein -->
 			<npc id="20036" x="11361" y="61728" z="-3552" heading="15292" respawnTime="60sec" /> <!-- Lirein -->
 			<npc id="20036" x="11614" y="62562" z="-3624" heading="4522" respawnTime="60sec" /> <!-- Lirein -->
@@ -141,16 +123,6 @@
 			<npc id="20353" x="10805" y="74851" z="-3840" heading="44230" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
 			<npc id="20353" x="10816" y="75020" z="-3840" heading="52199" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
 			<npc id="20353" x="10905" y="82079" z="-3840" heading="48632" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20371" x="16431" y="76582" z="-4416" heading="49466" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="16750" y="77507" z="-4384" heading="14477" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="17630" y="77058" z="-4384" heading="32767" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="17862" y="81269" z="-4352" heading="33255" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="18136" y="80916" z="-4360" heading="36937" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="18301" y="77005" z="-4384" heading="30594" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="18317" y="77068" z="-4384" heading="62024" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="18392" y="81941" z="-4384" heading="32806" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="18663" y="81855" z="-4384" heading="626" respawnTime="60sec" /> <!-- Mist Terror -->
-			<npc id="20371" x="20407" y="76947" z="-4320" heading="32417" respawnTime="60sec" /> <!-- Mist Terror -->
 			<npc id="20460" x="11439" y="55042" z="-3472" heading="50731" respawnTime="60sec" /> <!-- Crimson Spider -->
 			<npc id="20460" x="11833" y="60496" z="-3464" heading="29984" respawnTime="60sec" /> <!-- Crimson Spider -->
 			<npc id="20460" x="12942" y="59581" z="-3392" heading="5942" respawnTime="60sec" /> <!-- Crimson Spider -->
