@@ -330,7 +330,7 @@
 		<npc id="20479" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Медведь Кхаши 15 лвл -->
 		<npc id="20777" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Медведь охотник 14 лвл -->
 		<npc id="20428" count="10" respawnTime="21sec" chaseRange="1500" /><!-- Дозорный Око Зла 14 лвл -->
-		<npc id="20021" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Red Bear 14 лвл -->
+		<npc id="20021" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Рыжий медведь 14 лвл -->
 	</spawn>
 	<spawn>
 		<!-- Территория РБ Zombie Lord Ferkel (20) с призраками -->
@@ -402,6 +402,7 @@
 		<npc id="20778" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Владыка Орков Рагна 39 лвл -->
 
 	</spawn>
+
 	<spawn>
 		<npc id="25378" x="-3619" y="-114487" z="-3512" heading="16723" dbSave="true" dbName="Madness Beast (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Зверь Безумия (20)* -->
 	</spawn>
