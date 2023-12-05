@@ -366,7 +366,6 @@
 		<npc id="20416" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Старшая Алая Саламандра 18* лвл -->
 	</spawn>
 	<spawn>
-
 		<npc id="20323" x="127359" y="-197013" z="-3376" respawnTime="20sec" /> <!-- Goblin Brigand Leader 14 лвл -->
 		<npc id="20423" x="140778" y="-170157" z="-1777" heading="32048" respawnTime="34sec" /><!-- Костяной Стрелок Акаст 14 лвл -->
 		<npc id="20020" x="-29393" y="48071" z="-3640" heading="0" respawnTime="16sec" /><!-- Сыщик Болотных Зомби 14 лвл -->

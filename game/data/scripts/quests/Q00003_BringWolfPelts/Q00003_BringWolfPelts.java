@@ -121,6 +121,10 @@ public class Q00003_BringWolfPelts extends Quest
 	public String onKill(Npc npc, Player killer, boolean isSummon)
 	{
 		final QuestState qs = getQuestState(killer, false);
+		if (qs == null)
+		{
+			return null;
+		}
 		final int killCount = qs.getInt(KILL_COUNT_VAR) + 1;
 		if (qs.isCond(1))
 		{

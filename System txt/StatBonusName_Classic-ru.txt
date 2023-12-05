@@ -1,0 +1,18 @@
+statbonus_begin	stat_bonus_type=str	stat_grade=60	desc=[<60 и выше> Физ. Атк. +20]	statbonus_end
+statbonus_begin	stat_bonus_type=str	stat_grade=70	desc=[<70 и выше> Сила Крит. Атк. физ. умений +200]	statbonus_end
+statbonus_begin	stat_bonus_type=str	stat_grade=90	desc=[<90 и выше> Мощность физ. умений +10%]	statbonus_end
+statbonus_begin	stat_bonus_type=int	stat_grade=60	desc=[<60 и выше> Маг. Атк. +20]	statbonus_end
+statbonus_begin	stat_bonus_type=int	stat_grade=70	desc=[<70 и выше> Сила Крит. Атк. маг. умений +200]	statbonus_end
+statbonus_begin	stat_bonus_type=int	stat_grade=90	desc=[<90 и выше> Мощность маг. умений +10%]	statbonus_end
+statbonus_begin	stat_bonus_type=dex	stat_grade=50	desc=[<50 и выше> Шанс Физ. Крит. Атк. +50]	statbonus_end
+statbonus_begin	stat_bonus_type=dex	stat_grade=60	desc=[<60 и выше> Время перезарядки физ. умений -10%]	statbonus_end
+statbonus_begin	stat_bonus_type=dex	stat_grade=80	desc=[<80 и выше> Уклонение от физ. умений +20%]	statbonus_end
+statbonus_begin	stat_bonus_type=wit	stat_grade=40	desc=[<40 и выше> Шанс Маг. Крит. Атк. +50]	statbonus_end
+statbonus_begin	stat_bonus_type=wit	stat_grade=50	desc=[<50 и выше> Время перезарядки маг. умений -10%]	statbonus_end
+statbonus_begin	stat_bonus_type=wit	stat_grade=70	desc=[<70 и выше> Уклонение от маг. умений +20%]	statbonus_end
+statbonus_begin	stat_bonus_type=con	stat_grade=50	desc=[<50 и выше> Физ. Защ. +200]	statbonus_end
+statbonus_begin	stat_bonus_type=con	stat_grade=65	desc=[<65 и выше> Макс. HP +1000]	statbonus_end
+statbonus_begin	stat_bonus_type=con	stat_grade=90	desc=[<90 и выше> Бонус восстановления HP +10]	statbonus_end
+statbonus_begin	stat_bonus_type=men	stat_grade=45	desc=[<45 и выше> Маг. Защ. +200]	statbonus_end
+statbonus_begin	stat_bonus_type=men	stat_grade=60	desc=[<60 и выше> Макс. MP +1000]	statbonus_end
+statbonus_begin	stat_bonus_type=men	stat_grade=85	desc=[<85 и выше> Бонус восстановления MP +10]	statbonus_end

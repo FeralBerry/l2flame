@@ -1,0 +1,6 @@
+statbonus_begin	range=1	consume_items={{91663;200};{57;200000}}	statbonus_end
+statbonus_begin	range=6	consume_items={{91663;300};{57;500000}}	statbonus_end
+statbonus_begin	range=11	consume_items={{91663;400};{57;1000000}}	statbonus_end
+statbonus_begin	range=16	consume_items={{91663;500};{57;2000000}}	statbonus_end
+statbonus_begin	range=21	consume_items={{91663;600};{57;5000000}}	statbonus_end
+statbonus_begin	range=26	consume_items={{91663;700};{57;10000000}}	statbonus_end
