@@ -19,10 +19,16 @@ package quests.Q00004_CollectSpores;
 import org.l2jmobius.Config;
 import org.l2jmobius.gameserver.model.actor.Npc;
 import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.holders.NpcLogListHolder;
 import org.l2jmobius.gameserver.model.quest.Quest;
 import org.l2jmobius.gameserver.model.quest.QuestState;
 import org.l2jmobius.gameserver.model.quest.State;
+import org.l2jmobius.gameserver.network.NpcStringId;
 import org.l2jmobius.gameserver.util.Util;
+
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
 
 /**
  * Collect Spores (313)
@@ -30,6 +36,9 @@ import org.l2jmobius.gameserver.util.Util;
  */
 public class Q00004_CollectSpores extends Quest {
     private static final int QUEST_ID = 4;
+    private static final int MAX_CHANCE = 100;
+    private static final int MIN_CHANCE = 1;
+    private static final String KILL_COUNT_VAR = "KillCount";
     // NPC
     private static final int PAPUMA = 30561;
     // Item
@@ -80,9 +89,24 @@ public class Q00004_CollectSpores extends Quest {
     public String onKill(Npc npc, Player killer, boolean isSummon)
     {
         final QuestState qs = getQuestState(killer, false);
-        if ((qs != null) && qs.isCond(1) && Util.checkIfInRange(Config.ALT_PARTY_RANGE, npc, killer, false) && giveItemRandomly(killer, npc, SPORE_SAC, 1, REQUIRED_SAC_COUNT, 0.4, true))
+        if(qs == null) {
+            return null;
+        }
+        Random rn = new Random();
+        int randomNum;
+        int killCount = 0;
+        if (qs.isCond(1) && Util.checkIfInRange(Config.ALT_PARTY_RANGE, npc, killer, false))
         {
-            qs.setCond(2);
+            randomNum = rn.nextInt(MAX_CHANCE - MIN_CHANCE + 1) + MIN_CHANCE;
+            if(randomNum > 40) {
+                killCount = qs.getInt(KILL_COUNT_VAR) + 1;
+                giveItems(killer, SPORE_SAC, 1);
+                qs.set(KILL_COUNT_VAR, killCount);
+                sendNpcLogList(killer);
+            }
+            if(killCount == REQUIRED_SAC_COUNT){
+                qs.setCond(2, true);
+            }
         }
         return super.onKill(npc, killer, isSummon);
     }
@@ -125,5 +149,20 @@ public class Q00004_CollectSpores extends Quest {
             }
         }
         return htmltext;
+    }
+    @Override
+    public Set<NpcLogListHolder> getNpcLogList(Player player)
+    {
+        final QuestState qs = getQuestState(player, false);
+        if (qs != null)
+        {
+            if (qs.isCond(1))
+            {
+                final Set<NpcLogListHolder> holder = new HashSet<>();
+                holder.add(new NpcLogListHolder(NpcStringId.SPORE_SACS.getId(), true, qs.getInt(KILL_COUNT_VAR)));
+                return holder;
+            }
+        }
+        return super.getNpcLogList(player);
     }
 }

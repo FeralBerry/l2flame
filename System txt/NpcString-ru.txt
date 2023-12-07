@@ -13,6 +13,7 @@ string_begin	stringID=12	string=[Обучение начало - охота]	str
 string_begin	stringID=13	string=[Для продолжения обучения идите в деревню.]	string_end
 string_begin	stringID=14	string=[Обучение - Знакомство с возможностями.]	string_end
 string_begin	stringID=15	string=[Шкуры волков]	string_end
+string_begin	stringID=16	string=[Мешков со спорами]	string_end
 string_begin	stringID=1000001	string=[Обнаружен нарушитель.]	string_end
 string_begin	stringID=1000002	string=[Включена система ликвидации посторонних.]	string_end
 string_begin	stringID=1000003	string=[Ликвидация посторонних.]	string_end

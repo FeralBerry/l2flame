@@ -360,48 +360,11 @@
 				<node x="-18105" y="-132027"/>
 			</territory>
 		</territories>
-		<npc id="20109" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Саламандра 18* лвл -->
-		<npc id="20112" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Старшая Саламандра 18* лвл -->
-		<npc id="20114" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Элитная Саламандра 19* лвл -->
-		<npc id="20416" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Старшая Алая Саламандра 18* лвл -->
+		<npc id="20109" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Саламандра 18 лвл -->
+		<npc id="20112" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Старшая Саламандра 18 лвл -->
+		<npc id="20114" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Элитная Саламандра 19 лвл -->
+		<npc id="20416" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Старшая Алая Саламандра 18 лвл -->
 	</spawn>
-	<spawn>
-		<npc id="20323" x="127359" y="-197013" z="-3376" respawnTime="20sec" /> <!-- Goblin Brigand Leader 14 лвл -->
-		<npc id="20423" x="140778" y="-170157" z="-1777" heading="32048" respawnTime="34sec" /><!-- Костяной Стрелок Акаст 14 лвл -->
-		<npc id="20020" x="-29393" y="48071" z="-3640" heading="0" respawnTime="16sec" /><!-- Сыщик Болотных Зомби 14 лвл -->
-		<npc id="20429" x="16245" y="-120101" z="-3200" heading="0" respawnTime="68sec" /><!-- Защитник Око Зла 14 лвл -->
-		<npc id="20364" x="14336" y="-127570" z="-1432" heading="0" respawnTime="21sec" /><!-- Вожак Оборотней Мараку 14 лвл -->
-		<npc id="20008" x="-66745" y="102598" z="-3726" heading="45385" respawnTime="25sec" /><!-- Ящер Фелим 14 лвл -->
-		<npc id="20449" x="141930" y="-172171" z="328" heading="0" respawnTime="34sec" /><!-- Блуждающий огонь 14 лвл -->
-
-		<npc id="20474" x="-3788" y="-127809" z="-2720" heading="0" respawnTime="21sec" /><!-- Паук Кхаши 15 лвл -->
-
-		<npc id="20491" x="14491" y="-109929" z="-3416" heading="0" respawnTime="68sec" /><!-- Ужас склепа 15 лвл -->
-		<npc id="20371" x="16091" y="76999" z="-4384" heading="218" respawnTime="71sec" /><!-- Туманный жнец 15 лвл -->
-		<npc id="20170" x="16091" y="76999" z="-4384" heading="218" respawnTime="71sec" /><!-- Призрачный Скелет 15 лвл -->
-
-		<npc id="20389" x="140490" y="-169326" z="-1777" heading="4199" respawnTime="34sec" /><!-- Крысолюд Бугл 16 лвл -->
-
-
-		<npc id="20113" x="45174" y="242779" z="-6502" heading="0" respawnTime="100sec" /><!-- Старшая Ундина 19* лвл -->
-		<npc id="21117" x="-17882" y="-81023" z="-3544" heading="0" respawnTime="20sec" /><!-- Бес Кхаши 19 лвл -->
-
-		<npc id="21118" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Баал Дре Ванул 20 лвл -->
-
-		<npc id="21119" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- ХобГоблин Кхаши 20 лвл -->
-
-		<npc id="21120" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Бес Турен Кхаши 22 лвл -->
-
-		<npc id="21123" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Баал Разрушитель Дре Ванул 25 лвл -->
-		<npc id="21122" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Людоед Кхаши 24 лвл -->
-		<npc id="21121" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Жуткий Волк Кхаши 23 лвл -->
-
-
-		<npc id="20779" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Провидец Орков Рагна 39 лвл -->
-		<npc id="20778" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Владыка Орков Рагна 39 лвл -->
-
-	</spawn>
-
 	<spawn>
 		<npc id="25378" x="-3619" y="-114487" z="-3512" heading="16723" dbSave="true" dbName="Madness Beast (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Зверь Безумия (20)* -->
 	</spawn>
