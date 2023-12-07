@@ -2,18 +2,31 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ImmortalPlateauNorth">
 		<!-- Вырезаны все до 15 уровня до Орк Вуку-->
+		<!-- 14 лвл-->
 		<npc id="20323" x="127359" y="-197013" z="-3376" respawnTime="20sec" /> <!-- Goblin Brigand Leader 14 лвл -->
 		<npc id="20423" x="140778" y="-170157" z="-1777" heading="32048" respawnTime="34sec" /><!-- Костяной Стрелок Акаст 14 лвл -->
 		<npc id="20020" x="-29393" y="48071" z="-3640" heading="0" respawnTime="16sec" /><!-- Сыщик Болотных Зомби 14 лвл -->
 		<npc id="20429" x="16245" y="-120101" z="-3200" heading="0" respawnTime="68sec" /><!-- Защитник Око Зла 14 лвл -->
 		<npc id="20364" x="14336" y="-127570" z="-1432" heading="0" respawnTime="21sec" /><!-- Вожак Оборотней Мараку 14 лвл -->
 		<npc id="20008" x="-66745" y="102598" z="-3726" heading="45385" respawnTime="25sec" /><!-- Ящер Фелим 14 лвл -->
-		<npc id="20449" x="141930" y="-172171" z="328" heading="0" respawnTime="34sec" /><!-- Блуждающий огонь 14 лвл -->
-
+		<!-- 15 лвл-->
+		<npc id="20526" x="127981" y="-197578" z="-3440" heading="63150" respawnTime="20sec" /><!-- Обсидиановый Голем 15 лвл-->
+		<npc id="20392" x="-30055" y="63847" z="-3624" heading="30615" respawnTime="16sec" /><!-- Красноглазая Летучая Мышь 15 лвл-->
+		<npc id="20502" x="136459" y="-207219" z="-3568" heading="56950" respawnTime="20sec" /><!-- Зеркальная Пума 15 лвл-->
+		<npc id="20449" x="141930" y="-172171" z="328" heading="0" respawnTime="34sec" /><!-- Блуждающий огонь 15 лвл -->
 		<npc id="20474" x="-3788" y="-127809" z="-2720" heading="0" respawnTime="21sec" /><!-- Паук Кхаши 15 лвл -->
-		<npc id="20491" x="14491" y="-109929" z="-3416" heading="0" respawnTime="68sec" /><!-- Ужас склепа 15 лвл -->
+		<npc id="20435" x="141992" y="-172658" z="364" heading="48062" respawnTime="34sec" /><!-- Опаловый Зверь 15 лвл -->
 		<npc id="20371" x="16091" y="76999" z="-4384" heading="218" respawnTime="71sec" /><!-- Туманный жнец 15 лвл -->
+		<npc id="20491" x="14491" y="-109929" z="-3416" heading="0" respawnTime="68sec" /><!-- Ужас склепа 15 лвл -->
 		<npc id="20170" x="16091" y="76999" z="-4384" heading="218" respawnTime="71sec" /><!-- Призрачный Скелет 15 лвл -->
+		<npc id="20410" x="-17976" y="81514" z="-3624" heading="24415" respawnTime="20sec" /><!-- Паук Падальщик 15 лвл -->
+		<npc id="20460" x="14834" y="51624" z="-3568" heading="0" respawnTime="15sec" /><!-- Багровый Паук 15 лвл -->
+		<npc id="20489" x="18213" y="-120374" z="-3192" heading="0" respawnTime="68sec" /><!-- Ртутный Зверь 15 лвл -->
+		<npc id="20025" x="-18520" y="47226" z="-3632" heading="0" respawnTime="16sec" /><!-- Младший Темный Ужас 15 лвл -->
+		<npc id="20514" x="-28904" y="146185" z="-3565" heading="30998" respawnTime="30sec" /><!-- Скелет Щитоносец 15 лвл -->
+		<npc id="20023" x="-15334" y="97785" z="-3432" heading="5119" respawnTime="30sec" /><!-- Сумеречный Зверь 15 лвл -->
+		<!-- 16 лвл-->
+
 		<npc id="20389" x="140490" y="-169326" z="-1777" heading="4199" respawnTime="34sec" /><!-- Крысолюд Бугл 16 лвл -->
 		<npc id="20113" x="45174" y="242779" z="-6502" heading="0" respawnTime="100sec" /><!-- Старшая Ундина 19* лвл -->
 		<npc id="21117" x="-17882" y="-81023" z="-3544" heading="0" respawnTime="20sec" /><!-- Бес Кхаши 19 лвл -->

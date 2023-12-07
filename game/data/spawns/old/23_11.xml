@@ -6,9 +6,6 @@
 			<npc id="31035" x="118325" y="-206758" z="-3632" heading="13897" respawnTime="60sec" /> <!-- Protector -->
 			<npc id="31035" x="119843" y="-217462" z="-3504" respawnTime="60sec" /> <!-- Protector -->
 			<npc id="31035" x="129301" y="-201623" z="-3600" heading="64918" respawnTime="60sec" /> <!-- Protector -->
-			<npc id="20526" x="127981" y="-197578" z="-3440" heading="63150" respawnTime="20sec" /> <!-- Obsidian Golem -->
-			<npc id="20526" x="127542" y="-196876" z="-3392" respawnTime="20sec" /> <!-- Obsidian Golem -->
-			<npc id="20526" x="130653" y="-197972" z="-3632" respawnTime="20sec" /> <!-- Obsidian Golem -->
 		</group>
 	</spawn>
 </list>

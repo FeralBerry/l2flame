@@ -2,8 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="IrisLake">
 		<group>
-			<npc id="20460" x="56136" y="87117" z="-3584" heading="37792" respawnTime="60sec" /> <!-- Crimson Spider -->
-			<npc id="20460" x="56568" y="83007" z="-3584" heading="56215" respawnTime="60sec" /> <!-- Crimson Spider -->
 			<npc id="30423" x="28928" y="74248" z="-3776" heading="8192" respawnTime="60sec" /> <!-- Northwind -->
 			<npc id="31033" x="38768" y="73517" z="-3584" heading="10165" respawnTime="60sec" /> <!-- Sentinel -->
 			<npc id="31033" x="45611" y="89381" z="-3528" heading="22872" respawnTime="60sec" /> <!-- Sentinel -->
