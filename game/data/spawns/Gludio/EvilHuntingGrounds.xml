@@ -2,15 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="EvilHuntingGrounds">
 		<group>
-			<npc id="20028" x="-13341" y="99494" z="-3072" heading="15093" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-14152" y="101352" z="-2704" heading="6065" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-15817" y="98991" z="-3304" heading="24492" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-14634" y="99044" z="-3208" heading="52220" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-14914" y="100759" z="-2824" heading="8850" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-17834" y="98497" z="-3560" heading="22982" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-18956" y="100009" z="-3664" heading="24575" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-19494" y="100753" z="-3640" heading="49972" respawnTime="60sec" /> <!-- Pincher -->
-			<npc id="20028" x="-20286" y="98688" z="-3712" heading="2379" respawnTime="60sec" /> <!-- Pincher -->
 			<npc id="20032" x="-823" y="108101" z="-3688" heading="26748" respawnTime="60sec" /> <!-- Pinrul -->
 			<npc id="20032" x="-774" y="106811" z="-3664" heading="4577" respawnTime="60sec" /> <!-- Pinrul -->
 			<npc id="20032" x="-6052" y="108075" z="-3176" heading="20965" respawnTime="60sec" /> <!-- Pinrul -->
@@ -53,27 +44,6 @@
 			<npc id="20358" x="-1093" y="104426" z="-3656" heading="42345" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-4519" y="101478" z="-3328" heading="49162" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-2285" y="102038" z="-3592" heading="36435" respawnTime="60sec" /> <!-- Ratman Hunter -->
-			<npc id="20360" x="-3782" y="107650" z="-3280" heading="32089" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-2817" y="107388" z="-3440" heading="50063" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3944" y="107797" z="-3272" heading="37430" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3244" y="105780" z="-3320" heading="52824" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3616" y="105576" z="-3264" heading="39990" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-4027" y="102212" z="-3344" heading="57966" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3882" y="103580" z="-3248" heading="1844" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3682" y="103854" z="-3272" heading="50771" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3252" y="102966" z="-3400" heading="54890" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-2560" y="102943" z="-3512" heading="60545" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-357" y="102658" z="-3704" heading="23405" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-846" y="102357" z="-3696" heading="37795" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-1883" y="106033" z="-3560" heading="25302" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-629" y="104289" z="-3688" heading="60556" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-2782" y="102008" z="-3552" heading="3218" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3654" y="101639" z="-3464" heading="31227" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-409" y="101080" z="-3720" heading="34393" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-3385" y="98909" z="-3688" heading="30196" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-2184" y="99870" z="-3712" heading="31226" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-1692" y="98560" z="-3720" heading="29863" respawnTime="60sec" /> <!-- Ratman Spy -->
-			<npc id="20360" x="-439" y="99400" z="-3720" heading="57700" respawnTime="60sec" /> <!-- Ratman Spy -->
 			<npc id="20775" x="-4622" y="113247" z="-3344" heading="34679" respawnTime="60sec" /> <!-- Bugbear Raider -->
 			<npc id="20775" x="-4409" y="112601" z="-3360" heading="38797" respawnTime="60sec" /> <!-- Bugbear Raider -->
 			<npc id="20775" x="-2640" y="113704" z="-3504" heading="1566" respawnTime="60sec" /> <!-- Bugbear Raider -->

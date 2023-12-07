@@ -418,75 +418,7 @@
 			<height normal="25.5" />
 		</collision>
 	</npc>
-	<npc id="20404" level="16" type="Monster" name="Silent Horror">
-		<parameters>
-			<param name="MoveAroundSocial" value="110" />
-			<param name="MoveAroundSocial1" value="110" />
-			<param name="MoveAroundSocial2" value="110" />
-		</parameters>
-		<race>UNDEAD</race>
-		<sex>MALE</sex>
-		<acquire exp="485" sp="20" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
-			<attack physical="32.16396" magical="21.96382" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="76.08628" magical="50.6590964478128" />
-			<attribute>
-				<attack type="DARK" value="20" />
-				<defence fire="20" water="20" wind="20" earth="20" holy="-32" dark="53" />
-			</attribute>
-			<speed>
-				<walk ground="100" />
-				<run ground="100" />
-			</speed>
-			<hitTime>370</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapons -->
-			<skill id="4416" level="1" /> <!-- Undead -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="100" max="156" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.1986">
-					<item id="1101" min="1" max="1" chance="38.5101" /> <!-- Tunic of Devotion -->
-					<item id="1104" min="1" max="1" chance="61.4899" /> <!-- Stockings of Devotion -->
-				</group>
-				<group chance="5.3414">
-					<item id="1866" min="1" max="1" chance="37.2235" /> <!-- Suede -->
-					<item id="1871" min="1" max="1" chance="55.8352" /> <!-- Charcoal -->
-					<item id="2254" min="1" max="1" chance="2.2883" /> <!-- Recipe: Composite Bow -->
-					<item id="6035" min="1" max="1" chance="4.653" /> <!-- Magic Haste Potion -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="2253" min="1" max="1" chance="0.8276" /> <!-- Recipe: Sword Breaker -->
-				<item id="735" min="1" max="1" chance="1.6828" /> <!-- Potion of Alacrity -->
-				<item id="1897" min="1" max="1" chance="4.8079" /> <!-- Necklace of Wisdom Chain -->
-			</spoil>
-		</dropLists>
-		<collision>
-			<radius normal="20" />
-			<height normal="35" grown="42" />
-		</collision>
-	</npc>
+
 	<npc id="20405" level="1" type="Monster" name="Young Brown Fox">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
