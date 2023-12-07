@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ImmortalPlateauNorth">
-		<!-- Вырезаны все до 14 уровня до Кобольд Налетчик Бипук-->
+		<!-- Вырезаны все до 15 уровня до Орк Вуку-->
 		<npc id="20323" x="127359" y="-197013" z="-3376" respawnTime="20sec" /> <!-- Goblin Brigand Leader 14 лвл -->
 		<npc id="20423" x="140778" y="-170157" z="-1777" heading="32048" respawnTime="34sec" /><!-- Костяной Стрелок Акаст 14 лвл -->
 		<npc id="20020" x="-29393" y="48071" z="-3640" heading="0" respawnTime="16sec" /><!-- Сыщик Болотных Зомби 14 лвл -->
@@ -9,6 +9,7 @@
 		<npc id="20364" x="14336" y="-127570" z="-1432" heading="0" respawnTime="21sec" /><!-- Вожак Оборотней Мараку 14 лвл -->
 		<npc id="20008" x="-66745" y="102598" z="-3726" heading="45385" respawnTime="25sec" /><!-- Ящер Фелим 14 лвл -->
 		<npc id="20449" x="141930" y="-172171" z="328" heading="0" respawnTime="34sec" /><!-- Блуждающий огонь 14 лвл -->
+
 		<npc id="20474" x="-3788" y="-127809" z="-2720" heading="0" respawnTime="21sec" /><!-- Паук Кхаши 15 лвл -->
 		<npc id="20491" x="14491" y="-109929" z="-3416" heading="0" respawnTime="68sec" /><!-- Ужас склепа 15 лвл -->
 		<npc id="20371" x="16091" y="76999" z="-4384" heading="218" respawnTime="71sec" /><!-- Туманный жнец 15 лвл -->
@@ -28,7 +29,7 @@
 	<spawn>
 		<!-- Территория РБ Discarded Guardian (20) с призраками -->
 		<territories>
-			<territory name="orc_village_023" minZ="-2200" maxZ="-1752">
+			<territory name="ImmortalPlateauNorth_001" minZ="-2200" maxZ="-1752">
 				<node x="-17290" y="-133186"/>
 				<node x="-18511" y="-134310"/>
 				<node x="-20250" y="-131879"/>

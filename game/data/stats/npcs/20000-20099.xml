@@ -826,50 +826,6 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20018" level="14" type="Monster" name="Carnivorous Fungus">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-		</parameters>
-		<race>PLANT</race>
-		<sex>MALE</sex>
-		<acquire exp="424" sp="16" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
-			<attack physical="27.24646" magical="18.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="71.08179" magical="52.01457" />
-			<speed>
-				<walk ground="70" />
-				<run ground="110" />
-			</speed>
-			<hitTime>410</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="5" /> <!-- Plants -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4277" level="5" /> <!-- Poison Resistance -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="15" />
-			<height normal="22.5" />
-		</collision>
-	</npc>
 	<npc id="20020" level="14" type="Monster" name="Marsh Zombie Lord">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
@@ -1069,75 +1025,6 @@
 				<item id="1793" min="1" max="1" chance="1.6388" /> <!-- Recipe: Sword of Reflection -->
 			</spoil>
 		</dropLists>
-	</npc>
-	<npc id="20022" level="14" type="Monster" name="Misery Skeleton">
-		<parameters>
-			<param name="MoveAroundSocial" value="167" />
-			<param name="MoveAroundSocial1" value="167" />
-			<param name="MoveAroundSocial2" value="167" />
-		</parameters>
-		<race>UNDEAD</race>
-		<sex>MALE</sex>
-		<equipment rhand="946" lhand="945" /> <!-- rhand: Skeleton Dagger lhand: Skeleton Buckler -->
-		<acquire exp="424" sp="16" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
-			<attack physical="27.24646" magical="18.6058" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
-			<defence physical="71.08179" magical="47.3270583783809" shield="36" shieldRate="20" />
-			<attribute>
-				<attack type="DARK" value="20" />
-				<defence fire="20" water="20" wind="20" earth="20" holy="-32" dark="53" />
-			</attribute>
-			<speed>
-				<walk ground="60" />
-				<run ground="140" />
-			</speed>
-			<hitTime>300</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4274" level="1" /> <!-- Blunt Weapon Weak Point -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="7" /> <!-- Daggers -->
-			<skill id="4416" level="1" /> <!-- Undead -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
-			<clanList>
-				<clan>SKELETON</clan>
-			</clanList>
-		</ai>
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="97" max="143" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.8887">
-					<item id="20" min="1" max="1" chance="58.8462" /> <!-- Buckler -->
-					<item id="43" min="1" max="1" chance="41.1538" /> <!-- Wooden Helmet -->
-				</group>
-				<group chance="16.7191">
-					<item id="1864" min="1" max="1" chance="44.6281" /> <!-- Stem -->
-					<item id="1869" min="1" max="1" chance="22.314" /> <!-- Iron Ore -->
-					<item id="1799" min="1" max="1" chance="33.0579" /> <!-- Recipe: Leather Gloves -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="1872" min="1" max="1" chance="25.2599" /> <!-- Animal Bone -->
-				<item id="1831" min="1" max="1" chance="50.5199" /> <!-- Antidote -->
-				<item id="1921" min="1" max="1" chance="12.2225" /> <!-- Leather Shoes Texture -->
-			</spoil>
-		</dropLists>
-		<collision>
-			<radius normal="11" grown="13" />
-			<height normal="25" grown="31" />
-		</collision>
 	</npc>
 	<npc id="20023" level="15" type="Monster" name="Shadow Beast">
 		<parameters>
