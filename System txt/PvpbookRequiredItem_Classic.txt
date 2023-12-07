@@ -1,0 +1,7 @@
+pvpbook_required_item_begin	type=[location]	item_id=57	item_amount={0;50000;100000;100000;200000}	pvpbook_required_item_end
+pvpbook_required_item_begin	type=[teleport]	item_id=91663	item_amount={10;50;100;100;200}	pvpbook_required_item_end
+pvpbook_required_item_begin	type=[ShareTeleport]	item_id=91663	item_amount={100}	pvpbook_required_item_end
+pvpbook_required_item_begin	type=[ShareRevengeCost_Pledge]	item_id=57	item_amount={100000}	pvpbook_required_item_end
+pvpbook_required_item_begin	type=[ShareRevengeCost_Ranker]	item_id=57	item_amount={100000}	pvpbook_required_item_end
+pvpbook_required_item_begin	type=[ShareTeleport_Karma]	item_id=91663	item_amount={0}	pvpbook_required_item_end
+pvpbook_required_item_begin	type=[ShareRevenge_Karma]	item_id=0	item_amount={-27001}	pvpbook_required_item_end

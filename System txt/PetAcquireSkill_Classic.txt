@@ -1,0 +1,3 @@
+pet_acquire_skill_begin	pet_id=11
+	skill_begin	get_evolve_step=1	get_lv=1	skill_id=11111	skill_level=1	item_needed={{11;10000};{111;100}}	skill_end
+pet_acquire_skill_end

@@ -5637,54 +5637,6 @@
 			<height normal="24" grown="28.8" />
 		</collision>
 	</npc>
-	<npc id="20260" level="14" type="Monster" name="Orc Hero">
-		<parameters>
-			<param name="MoveAroundSocial" value="70" />
-			<param name="MoveAroundSocial1" value="70" />
-			<param name="MoveAroundSocial2" value="70" />
-			<param name="SetHateOccupation" value="swordsinger" />
-			<param name="SetHateOccupationRatio" value="10" />
-			<skill name="Buff" id="4028" level="1" />
-		</parameters>
-		<race>HUMANOID</race>
-		<sex>MALE</sex>
-		<equipment rhand="2" /> <!-- Long Sword -->
-		<acquire exp="435" sp="17" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
-			<attack physical="27.24646" magical="18.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="71.08179" magical="52.01457" />
-			<speed>
-				<walk ground="45" />
-				<run ground="130" />
-			</speed>
-			<hitTime>760</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4028" level="1" /> <!-- Might -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="10" grown="12" />
-			<height normal="23" grown="27.6" />
-		</collision>
-	</npc>
 	<npc id="20261" level="17" type="Monster" name="Orc Shaman">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />

@@ -3,15 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-			<npc id="20010" x="-63905" y="105613" z="-3528" heading="45375" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-64322" y="105976" z="-3528" heading="16261" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-64741" y="105404" z="-3512" heading="49516" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-64894" y="111856" z="-3536" heading="12606" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-65068" y="106611" z="-3592" heading="10205" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-67359" y="103149" z="-3744" heading="61571" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-67842" y="101399" z="-3784" heading="35638" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-68415" y="100888" z="-3824" heading="44750" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
-			<npc id="20010" x="-69946" y="101686" z="-3904" heading="65294" respawnTime="60sec" /> <!-- Felim Lizardman Scout -->
 			<npc id="20012" x="-63550" y="100645" z="-3544" heading="62805" respawnTime="60sec" /> <!-- Gora Werewolf -->
 			<npc id="20012" x="-64215" y="100492" z="-3576" heading="23333" respawnTime="60sec" /> <!-- Gora Werewolf -->
 			<npc id="20012" x="-64404" y="99098" z="-3632" heading="3059" respawnTime="60sec" /> <!-- Gora Werewolf -->

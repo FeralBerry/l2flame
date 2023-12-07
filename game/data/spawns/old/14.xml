@@ -2,7 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="14">
 		<npc id="21316" x="150566" y="-117658" z="-1336" heading="53862" respawnTime="70sec" />
-		<npc id="20435" x="150568" y="-171556" z="366" heading="54390" respawnTime="34sec" />
 		<npc id="21318" x="150601" y="-110980" z="-2199" heading="14961" respawnTime="70sec" />
 		<npc id="30846" x="150608" y="28510" z="-2247" heading="49152" respawnTime="60sec" />
 		<npc id="32342" x="150616" y="169953" z="-4344" heading="0" respawnTime="60sec" />
@@ -13,7 +12,6 @@
 		<npc id="21322" x="150632" y="-116078" z="-1852" heading="0" respawnTime="70sec" />
 		<npc id="21116" x="150653" y="-23194" z="-3431" heading="61807" respawnTime="45sec" />
 		<npc id="21320" x="150659" y="-112208" z="-2236" heading="26593" respawnTime="70sec" />
-		<npc id="20502" x="150675" y="-217550" z="-3400" heading="51631" respawnTime="20sec" />
 		<npc id="21115" x="150687" y="-17639" z="-2992" heading="19372" respawnTime="45sec" />
 		<npc id="21320" x="150696" y="-121284" z="-2333" heading="28019" respawnTime="70sec" />
 		<npc id="21336" x="150697" y="-89202" z="-4434" heading="5827" respawnTime="120sec" />
@@ -159,7 +157,6 @@
 		<npc id="22265" x="151951" y="154232" z="-3680" heading="11959" respawnTime="60sec" />
 		<npc id="20677" x="151961" y="-9269" z="-4504" heading="45704" respawnTime="45sec" />
 		<npc id="21335" x="151963" y="-87194" z="-4693" heading="15755" respawnTime="120sec" />
-		<npc id="20502" x="151964" y="-212183" z="-3680" heading="21642" respawnTime="20sec" />
 		<npc id="21331" x="151975" y="-77104" z="-4743" heading="0" respawnTime="120sec" />
 		<npc id="20633" x="151991" y="74721" z="-3353" heading="9460" respawnTime="23sec" />
 		<npc id="22263" x="151999" y="148088" z="-3208" heading="0" respawnTime="60sec" />
@@ -199,7 +196,6 @@
 		<npc id="21331" x="152334" y="-77795" z="-4745" heading="10154" respawnTime="120sec" />
 		<npc id="22267" x="152336" y="150096" z="-3408" heading="0" respawnTime="310sec" />
 		<npc id="20634" x="152339" y="65482" z="-3336" heading="0" respawnTime="23sec" />
-		<npc id="20502" x="152343" y="-210942" z="-3720" heading="25615" respawnTime="20sec" />
 		<npc id="21334" x="152346" y="-86074" z="-4764" heading="20072" respawnTime="120sec" />
 		<npc id="21108" x="152359" y="-7779" z="-4486" heading="44814" respawnTime="45sec" />
 		<npc id="21332" x="152378" y="-78172" z="-4743" heading="0" respawnTime="120sec" />

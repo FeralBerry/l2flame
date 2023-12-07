@@ -1,0 +1,8 @@
+gacha_shop_begin	shop_id=1	item_list={{1234;10};{12345;20}}
+	group_node_begin	group_id=1	group_prob=20.5	item_list={{3456;10};{3457;20}}	title_item_id=2345	cost={{45;1;0.01};{46;2;0.09};{47;3;99.9}}	group_node_end
+	group_node_begin	group_id=2	group_prob=30.5	item_list={{3456;10};{3457;20}}	title_item_id=2346	cost={{45;1;0.01};{46;2;0.09};{47;3;99.9}}	group_node_end
+	group_node_begin	group_id=3	group_prob=49.0	item_list={{3456;10};{3457;20}}	title_item_id=2347	cost={{45;1;0.01};{46;2;0.09};{47;3;99.9}}	group_node_end
+gacha_shop_end
+gacha_shop_begin	shop_id=2	item_list={{1234;10};{12345;20}}
+	group_node_begin	group_id=1	group_prob=100.0	item_list={{3456;10};{3457;20}}	title_item_id=2345	cost={{45;1;0.01};{46;2;0.09};{47;3;99.9}}	group_node_end
+gacha_shop_end

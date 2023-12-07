@@ -1,0 +1,76 @@
+slot_fee_data_begin
+	dyeSlotId=1	dyePotentialMinLevel=0	dyePotentialMaxLevel=10
+	unkValues_begin
+		optionId=1	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=10000000	availableOptions_end
+unkValues_end
+	unkValues_begin
+		optionId=2	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=20000000	availableOptions_end
+unkValues_end
+slot_fee_data_end
+slot_fee_data_begin
+	dyeSlotId=2	dyePotentialMinLevel=0	dyePotentialMaxLevel=10
+	unkValues_begin
+		optionId=1	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=10000000	availableOptions_end
+unkValues_end
+	unkValues_begin
+		optionId=2	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=20000000	availableOptions_end
+unkValues_end
+slot_fee_data_end
+slot_fee_data_begin
+	dyeSlotId=3	dyePotentialMinLevel=0	dyePotentialMaxLevel=10
+	unkValues_begin
+		optionId=1	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=10000000	availableOptions_end
+unkValues_end
+	unkValues_begin
+		optionId=2	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=20000000	availableOptions_end
+unkValues_end
+slot_fee_data_end
+slot_fee_data_begin
+	dyeSlotId=4	dyePotentialMinLevel=0	dyePotentialMaxLevel=10
+	unkValues_begin
+		optionId=1	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=10000000	availableOptions_end
+unkValues_end
+	unkValues_begin
+		optionId=2	maxDailyStep=5
+		availableOptions_begin	rollNumber=2	chance=85.0	availableOptions_end
+		availableOptions_begin	rollNumber=3	chance=12.0	availableOptions_end
+		availableOptions_begin	rollNumber=4	chance=2.0	availableOptions_end
+		availableOptions_begin	rollNumber=5	chance=1.0	availableOptions_end
+		availableOptions_begin	itemId=57	itemCount=20000000	availableOptions_end
+unkValues_end
+slot_fee_data_end

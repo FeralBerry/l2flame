@@ -1,0 +1,301 @@
+statistic_begin	id=1	type=-1	type_reserved=0	category=0	name=[Общие достижения]	unit=[Шт.]	unit_type=0	zero_invisible=0	category_list={6;7;8;9;10;11;12;22;32;42;52;53;54;61;68;69;70}	statistic_end
+statistic_begin	id=6	type=0	type_reserved=0	category=1	name=[Полученные EXP]	unit=[]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=7	type=1	type_reserved=0	category=1	name=[Полученные Адены]	unit=[Адены]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=8	type=2	type_reserved=0	category=1	name=[Время игры]	unit=[Минут]	unit_type=2	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=9	type=3	type_reserved=0	category=1	name=[Время битвы]	unit=[Минут]	unit_type=2	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=10	type=4	type_reserved=0	category=1	name=[Время группы]	unit=[Минут]	unit_type=2	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=11	type=5	type_reserved=0	category=1	name=[Время полной группы]	unit=[Минут]	unit_type=2	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=12	type=-1	type_reserved=0	category=1	name=[Макс. Модификация оружия]	unit=[]	unit_type=0	zero_invisible=0	category_list={13;14;15;16;17;18;19;20;21}	statistic_end
+statistic_begin	id=13	type=21	type_reserved=10	category=12	name=[R99]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=14	type=21	type_reserved=9	category=12	name=[R95]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=15	type=21	type_reserved=8	category=12	name=[R]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=16	type=21	type_reserved=6	category=12	name=[S80]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=17	type=21	type_reserved=5	category=12	name=[S]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=18	type=21	type_reserved=4	category=12	name=[A]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=19	type=21	type_reserved=3	category=12	name=[B]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=20	type=21	type_reserved=2	category=12	name=[C]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=21	type=21	type_reserved=1	category=12	name=[D]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=22	type=-1	type_reserved=0	category=1	name=[Макс. Модификация доспехов]	unit=[]	unit_type=0	zero_invisible=0	category_list={23;24;25;26;27;28;29;30;31}	statistic_end
+statistic_begin	id=23	type=23	type_reserved=10	category=22	name=[R99]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=24	type=23	type_reserved=9	category=22	name=[R95]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=25	type=23	type_reserved=8	category=22	name=[R]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=26	type=23	type_reserved=6	category=22	name=[S80]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=27	type=23	type_reserved=5	category=22	name=[S]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=28	type=23	type_reserved=4	category=22	name=[A]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=29	type=23	type_reserved=3	category=22	name=[B]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=30	type=23	type_reserved=2	category=22	name=[C]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=31	type=23	type_reserved=1	category=22	name=[D]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=32	type=-1	type_reserved=0	category=1	name=[Попытка модификации оружия]	unit=[]	unit_type=0	zero_invisible=0	category_list={33;34;35;36;37;38;39;40;41}	statistic_end
+statistic_begin	id=33	type=22	type_reserved=10	category=32	name=[R99]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=34	type=22	type_reserved=9	category=32	name=[R95]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=35	type=22	type_reserved=8	category=32	name=[R]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=36	type=22	type_reserved=6	category=32	name=[S80]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=37	type=22	type_reserved=5	category=32	name=[S]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=38	type=22	type_reserved=4	category=32	name=[A]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=39	type=22	type_reserved=3	category=32	name=[B]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=40	type=22	type_reserved=2	category=32	name=[C]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=41	type=22	type_reserved=1	category=32	name=[D]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=42	type=-1	type_reserved=0	category=1	name=[Попытка модификации доспехов]	unit=[]	unit_type=0	zero_invisible=0	category_list={43;44;45;46;47;48;49;50;51}	statistic_end
+statistic_begin	id=43	type=24	type_reserved=10	category=42	name=[R99]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=44	type=24	type_reserved=9	category=42	name=[R95]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=45	type=24	type_reserved=8	category=42	name=[R]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=46	type=24	type_reserved=6	category=42	name=[S80]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=47	type=24	type_reserved=5	category=42	name=[S]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=48	type=24	type_reserved=4	category=42	name=[A]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=49	type=24	type_reserved=3	category=42	name=[B]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=50	type=24	type_reserved=2	category=42	name=[C]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=51	type=24	type_reserved=1	category=42	name=[D]	unit=[Раз]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=52	type=11	type_reserved=0	category=1	name=[Объем продаж в личной лавке]	unit=[Раз]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=53	type=12	type_reserved=0	category=1	name=[Очистка квеста]	unit=[Раз]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=54	type=-1	type_reserved=0	category=1	name=[Зарядов Души использовано]	unit=[]	unit_type=0	zero_invisible=0	category_list={55;56;57;58;59;60}	statistic_end
+statistic_begin	id=55	type=13	type_reserved=8	category=54	name=[R]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=56	type=13	type_reserved=5	category=54	name=[S]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=57	type=13	type_reserved=4	category=54	name=[A]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=58	type=13	type_reserved=3	category=54	name=[B]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=59	type=13	type_reserved=2	category=54	name=[C]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=60	type=13	type_reserved=1	category=54	name=[D]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=61	type=-1	type_reserved=0	category=1	name=[Зарядов Духа использовано]	unit=[]	unit_type=0	zero_invisible=0	category_list={62;63;64;65;66;67}	statistic_end
+statistic_begin	id=62	type=14	type_reserved=8	category=61	name=[R]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=63	type=14	type_reserved=5	category=61	name=[S]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=64	type=14	type_reserved=4	category=61	name=[A]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=65	type=14	type_reserved=3	category=61	name=[B]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=66	type=14	type_reserved=2	category=61	name=[C]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=67	type=14	type_reserved=1	category=61	name=[D]	unit=[Шт.]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=68	type=18	type_reserved=0	category=1	name=[Воскрешений запрошено]	unit=[Шт.]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=69	type=19	type_reserved=0	category=1	name=[Воскрешений получено]	unit=[Шт.]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=70	type=20	type_reserved=0	category=1	name=[Кол-во смертей]	unit=[Шт.]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=2	type=-1	type_reserved=0	category=0	name=[Охотничьи достижения]	unit=[Шт.]	unit_type=0	zero_invisible=0	category_list={71;72;73;82;91;100}	statistic_end
+statistic_begin	id=71	type=1000	type_reserved=0	category=2	name=[Кол-во убийств монстров]	unit=[Голов]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=72	type=1001	type_reserved=0	category=2	name=[EXP убийств монстров]	unit=[]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=73	type=-1	type_reserved=0	category=2	name=[Максимальный урон по NPC]	unit=[]	unit_type=0	zero_invisible=0	category_list={74;75;76;77;78;79;80;81}	statistic_end
+statistic_begin	id=74	type=1003	type_reserved=139	category=73	name=[Рыцарь Сигеля]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=75	type=1003	type_reserved=140	category=73	name=[Воин Тира]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=76	type=1003	type_reserved=142	category=73	name=[Лучник Эура]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=77	type=1003	type_reserved=141	category=73	name=[Разбойник Одала]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=78	type=1003	type_reserved=144	category=73	name=[Заклинатель Иса]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=79	type=1003	type_reserved=143	category=73	name=[Волшебник Фео]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=80	type=1003	type_reserved=145	category=73	name=[Призыватель Веньо]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=81	type=1003	type_reserved=146	category=73	name=[Целитель Альгиза]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=82	type=-1	type_reserved=0	category=2	name=[Накопленный урон по NPC]	unit=[]	unit_type=0	zero_invisible=0	category_list={83;84;85;86;87;88;89;90}	statistic_end
+statistic_begin	id=83	type=1004	type_reserved=139	category=82	name=[Рыцарь Сигеля]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=84	type=1004	type_reserved=140	category=82	name=[Воин Тира]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=85	type=1004	type_reserved=142	category=82	name=[Лучник Эура]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=86	type=1004	type_reserved=141	category=82	name=[Разбойник Одала]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=87	type=1004	type_reserved=144	category=82	name=[Заклинатель Иса]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=88	type=1004	type_reserved=143	category=82	name=[Волшебник Фео]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=89	type=1004	type_reserved=145	category=82	name=[Призыватель Веньо]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=90	type=1004	type_reserved=146	category=82	name=[Целитель Альгиза]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=91	type=-1	type_reserved=0	category=2	name=[Накопленный ущерб от NPC]	unit=[]	unit_type=0	zero_invisible=0	category_list={92;93;94;95;96;97;98;99}	statistic_end
+statistic_begin	id=92	type=1005	type_reserved=139	category=91	name=[Рыцарь Сигеля]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=93	type=1005	type_reserved=140	category=91	name=[Воин Тира]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=94	type=1005	type_reserved=142	category=91	name=[Лучник Эура]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=95	type=1005	type_reserved=141	category=91	name=[Разбойник Одала]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=96	type=1005	type_reserved=144	category=91	name=[Заклинатель Иса]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=97	type=1005	type_reserved=143	category=91	name=[Волшебник Фео]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=98	type=1005	type_reserved=145	category=91	name=[Призыватель Веньо]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=99	type=1005	type_reserved=146	category=91	name=[Целитель Альгиза]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=100	type=1002	type_reserved=0	category=2	name=[Количество убийств монстрами]	unit=[Раз]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=3	type=-1	type_reserved=0	category=0	name=[Рейдовые достижения]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={101;102;103;104;105;106;107;108;109;110;111;112}	statistic_end
+statistic_begin	id=101	type=1006	type_reserved=25774	category=3	name=[Злой Дух Харнака]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=102	type=1006	type_reserved=25785	category=3	name=[Траджан]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=103	type=1006	type_reserved=29195	category=3	name=[Истхина]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=104	type=1006	type_reserved=25779	category=3	name=[Спасия]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=105	type=1006	type_reserved=25866	category=3	name=[Афрос]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=106	type=1006	type_reserved=29194	category=3	name=[Октавис]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=107	type=1006	type_reserved=29218	category=3	name=[Валлок]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=108	type=1006	type_reserved=29213	category=3	name=[Байлор]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=109	type=1006	type_reserved=29196	category=3	name=[Истхина (экстремальная)]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=110	type=1006	type_reserved=25867	category=3	name=[Спасия (экстремальная)]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=111	type=1006	type_reserved=29212	category=3	name=[Октавис (экстремальный)]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=112	type=1006	type_reserved=29197	category=3	name=[Земляной Червь]	unit=[Раз]	unit_type=4	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=4	type=-1	type_reserved=0	category=0	name=[Достижения в PVP]	unit=[Шт.]	unit_type=0	zero_invisible=0	category_list={113;114;115;116;117;126;135}	statistic_end
+statistic_begin	id=113	type=2004	type_reserved=0	category=4	name=[Количество побед PK]	unit=[Персонажей]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=114	type=2005	type_reserved=0	category=4	name=[Количество побед PVP]	unit=[Персонажей]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=115	type=2001	type_reserved=0	category=4	name=[Количество поражений PK]	unit=[Раз]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=116	type=2002	type_reserved=0	category=4	name=[Количество поражений PVP]	unit=[Раз]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=117	type=-1	type_reserved=0	category=4	name=[Максимальный урон по PC]	unit=[]	unit_type=0	zero_invisible=0	category_list={118;119;120;121;122;123;124;125}	statistic_end
+statistic_begin	id=118	type=2006	type_reserved=139	category=117	name=[Рыцарь Сигеля]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=119	type=2006	type_reserved=140	category=117	name=[Воин Тира]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=120	type=2006	type_reserved=142	category=117	name=[Лучник Эура]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=121	type=2006	type_reserved=141	category=117	name=[Разбойник Одала]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=122	type=2006	type_reserved=144	category=117	name=[Заклинатель Иса]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=123	type=2006	type_reserved=143	category=117	name=[Волшебник Фео]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=124	type=2006	type_reserved=145	category=117	name=[Призыватель Веньо]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=125	type=2006	type_reserved=146	category=117	name=[Целитель Альгиза]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=126	type=-1	type_reserved=0	category=4	name=[Накопленный урон по PC]	unit=[]	unit_type=0	zero_invisible=0	category_list={127;128;129;130;131;132;133;134}	statistic_end
+statistic_begin	id=127	type=2007	type_reserved=139	category=126	name=[Рыцарь Сигеля]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=128	type=2007	type_reserved=140	category=126	name=[Воин Тира]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=129	type=2007	type_reserved=142	category=126	name=[Лучник Эура]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=130	type=2007	type_reserved=141	category=126	name=[Разбойник Одала]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=131	type=2007	type_reserved=144	category=126	name=[Заклинатель Иса]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=132	type=2007	type_reserved=143	category=126	name=[Волшебник Фео]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=133	type=2007	type_reserved=145	category=126	name=[Призыватель Веньо]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=134	type=2007	type_reserved=146	category=126	name=[Целитель Альгиза]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=135	type=-1	type_reserved=0	category=4	name=[Накопленный ущерб от PC]	unit=[]	unit_type=0	zero_invisible=0	category_list={136;137;138;139;140;141;142;143}	statistic_end
+statistic_begin	id=136	type=2008	type_reserved=139	category=135	name=[Рыцарь Сигеля]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=137	type=2008	type_reserved=140	category=135	name=[Воин Тира]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=138	type=2008	type_reserved=142	category=135	name=[Лучник Эура]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=139	type=2008	type_reserved=141	category=135	name=[Разбойник Одала]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=140	type=2008	type_reserved=144	category=135	name=[Заклинатель Иса]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=141	type=2008	type_reserved=143	category=135	name=[Волшебник Фео]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=142	type=2008	type_reserved=145	category=135	name=[Призыватель Веньо]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=143	type=2008	type_reserved=146	category=135	name=[Целитель Альгиза]	unit=[]	unit_type=0	zero_invisible=1	category_list={}	statistic_end
+statistic_begin	id=5	type=-1	type_reserved=0	category=0	name=[Достижения кланов]	unit=[Шт.]	unit_type=0	zero_invisible=0	category_list={144;145;146;147;148;149;150}	statistic_end
+statistic_begin	id=144	type=3000	type_reserved=0	category=5	name=[Количество членов клана]	unit=[Персонажей]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=145	type=3001	type_reserved=0	category=5	name=[Количество вступивших]	unit=[Персонажей]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=146	type=3002	type_reserved=0	category=5	name=[Количество вышедших]	unit=[Персонажей]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=147	type=3003	type_reserved=0	category=5	name=[Значение репутации]	unit=[]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=148	type=3004	type_reserved=0	category=5	name=[Имущество]	unit=[Адены]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=149	type=3005	type_reserved=0	category=5	name=[Кратность PVP]	unit=[Персонажей]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=150	type=3006	type_reserved=0	category=5	name=[Победа в Битве Клана]	unit=[Раз]	unit_type=0	zero_invisible=0	category_list={}	statistic_end
+statistic_begin	id=0	type=-1	type_reserved=-1	category=-1	name=[]	unit=[]	unit_type=0	zero_invisible=0	category_list={1;2;3;4;5}	statistic_end
+statistic2_begin	id2=1	type2=-1	type_reserved2=0	category2=0	name2=[Общие достижения]	unit2=[Шт.]	unit_type2=0	zero_invisible2=0	category_list2={6;7;8;9;10;11;12;22;32;42;52;53;54;61;68;69;70}	statistic2_end
+statistic2_begin	id2=2	type2=-1	type_reserved2=0	category2=0	name2=[Охотничьи достижения]	unit2=[Шт.]	unit_type2=0	zero_invisible2=0	category_list2={71;72;73;82;91;100}	statistic2_end
+statistic2_begin	id2=3	type2=-1	type_reserved2=0	category2=0	name2=[Рейдовые достижения]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={101;102;103;104;105;106;107;108;109;110;111;112}	statistic2_end
+statistic2_begin	id2=4	type2=-1	type_reserved2=0	category2=0	name2=[Достижения в PVP]	unit2=[Шт.]	unit_type2=0	zero_invisible2=0	category_list2={113;114;115;116;117;126;135}	statistic2_end
+statistic2_begin	id2=5	type2=-1	type_reserved2=0	category2=0	name2=[Достижения кланов]	unit2=[Шт.]	unit_type2=0	zero_invisible2=0	category_list2={144;145;146;147;148;149;150}	statistic2_end
+statistic2_begin	id2=6	type2=0	type_reserved2=0	category2=1	name2=[Полученные EXP]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=7	type2=1	type_reserved2=0	category2=1	name2=[Полученные Адены]	unit2=[Адены]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=8	type2=2	type_reserved2=0	category2=1	name2=[Время игры]	unit2=[Минут]	unit_type2=2	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=9	type2=3	type_reserved2=0	category2=1	name2=[Время битвы]	unit2=[Минут]	unit_type2=2	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=10	type2=4	type_reserved2=0	category2=1	name2=[Время группы]	unit2=[Минут]	unit_type2=2	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=11	type2=5	type_reserved2=0	category2=1	name2=[Время полной группы]	unit2=[Минут]	unit_type2=2	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=12	type2=-1	type_reserved2=0	category2=1	name2=[Макс. Модификация оружия]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={13;14;15;16;17;18;19;20;21}	statistic2_end
+statistic2_begin	id2=13	type2=21	type_reserved2=10	category2=12	name2=[R99]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=14	type2=21	type_reserved2=9	category2=12	name2=[R95]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=15	type2=21	type_reserved2=8	category2=12	name2=[R]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=16	type2=21	type_reserved2=6	category2=12	name2=[S80]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=17	type2=21	type_reserved2=5	category2=12	name2=[S]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=18	type2=21	type_reserved2=4	category2=12	name2=[A]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=19	type2=21	type_reserved2=3	category2=12	name2=[B]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=20	type2=21	type_reserved2=2	category2=12	name2=[C]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=21	type2=21	type_reserved2=1	category2=12	name2=[D]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=22	type2=-1	type_reserved2=0	category2=1	name2=[Макс. Модификация доспехов]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={23;24;25;26;27;28;29;30;31}	statistic2_end
+statistic2_begin	id2=23	type2=23	type_reserved2=10	category2=22	name2=[R99]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=24	type2=23	type_reserved2=9	category2=22	name2=[R95]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=25	type2=23	type_reserved2=8	category2=22	name2=[R]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=26	type2=23	type_reserved2=6	category2=22	name2=[S80]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=27	type2=23	type_reserved2=5	category2=22	name2=[S]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=28	type2=23	type_reserved2=4	category2=22	name2=[A]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=29	type2=23	type_reserved2=3	category2=22	name2=[B]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=30	type2=23	type_reserved2=2	category2=22	name2=[C]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=31	type2=23	type_reserved2=1	category2=22	name2=[D]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=32	type2=-1	type_reserved2=0	category2=1	name2=[Попытка модификации оружия]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={33;34;35;36;37;38;39;40;41}	statistic2_end
+statistic2_begin	id2=33	type2=22	type_reserved2=10	category2=32	name2=[R99]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=34	type2=22	type_reserved2=9	category2=32	name2=[R95]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=35	type2=22	type_reserved2=8	category2=32	name2=[R]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=36	type2=22	type_reserved2=6	category2=32	name2=[S80]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=37	type2=22	type_reserved2=5	category2=32	name2=[S]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=38	type2=22	type_reserved2=4	category2=32	name2=[A]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=39	type2=22	type_reserved2=3	category2=32	name2=[B]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=40	type2=22	type_reserved2=2	category2=32	name2=[C]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=41	type2=22	type_reserved2=1	category2=32	name2=[D]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=42	type2=-1	type_reserved2=0	category2=1	name2=[Попытка модификации доспехов]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={43;44;45;46;47;48;49;50;51}	statistic2_end
+statistic2_begin	id2=43	type2=24	type_reserved2=10	category2=42	name2=[R99]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=44	type2=24	type_reserved2=9	category2=42	name2=[R95]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=45	type2=24	type_reserved2=8	category2=42	name2=[R]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=46	type2=24	type_reserved2=6	category2=42	name2=[S80]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=47	type2=24	type_reserved2=5	category2=42	name2=[S]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=48	type2=24	type_reserved2=4	category2=42	name2=[A]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=49	type2=24	type_reserved2=3	category2=42	name2=[B]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=50	type2=24	type_reserved2=2	category2=42	name2=[C]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=51	type2=24	type_reserved2=1	category2=42	name2=[D]	unit2=[Раз]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=52	type2=11	type_reserved2=0	category2=1	name2=[Объем продаж в личной лавке]	unit2=[Раз]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=53	type2=12	type_reserved2=0	category2=1	name2=[Очистка квеста]	unit2=[Раз]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=54	type2=-1	type_reserved2=0	category2=1	name2=[Зарядов Души использовано]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={55;56;57;58;59;60}	statistic2_end
+statistic2_begin	id2=55	type2=13	type_reserved2=8	category2=54	name2=[R]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=56	type2=13	type_reserved2=5	category2=54	name2=[S]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=57	type2=13	type_reserved2=4	category2=54	name2=[A]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=58	type2=13	type_reserved2=3	category2=54	name2=[B]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=59	type2=13	type_reserved2=2	category2=54	name2=[C]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=60	type2=13	type_reserved2=1	category2=54	name2=[D]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=61	type2=-1	type_reserved2=0	category2=1	name2=[Зарядов Духа использовано]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={62;63;64;65;66;67}	statistic2_end
+statistic2_begin	id2=62	type2=14	type_reserved2=8	category2=61	name2=[R]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=63	type2=14	type_reserved2=5	category2=61	name2=[S]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=64	type2=14	type_reserved2=4	category2=61	name2=[A]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=65	type2=14	type_reserved2=3	category2=61	name2=[B]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=66	type2=14	type_reserved2=2	category2=61	name2=[C]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=67	type2=14	type_reserved2=1	category2=61	name2=[D]	unit2=[Шт.]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=68	type2=18	type_reserved2=0	category2=1	name2=[Воскрешений запрошено]	unit2=[Шт.]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=69	type2=19	type_reserved2=0	category2=1	name2=[Воскрешений получено]	unit2=[Шт.]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=70	type2=20	type_reserved2=0	category2=1	name2=[Кол-во смертей]	unit2=[Шт.]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=71	type2=1000	type_reserved2=0	category2=2	name2=[Кол-во убийств монстров]	unit2=[Голов]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=72	type2=1001	type_reserved2=0	category2=2	name2=[EXP убийств монстров]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=73	type2=-1	type_reserved2=0	category2=2	name2=[Максимальный урон по NPC]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={74;75;76;77;78;79;80;81}	statistic2_end
+statistic2_begin	id2=74	type2=1003	type_reserved2=139	category2=73	name2=[Рыцарь Сигеля]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=75	type2=1003	type_reserved2=140	category2=73	name2=[Воин Тира]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=76	type2=1003	type_reserved2=142	category2=73	name2=[Лучник Эура]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=77	type2=1003	type_reserved2=141	category2=73	name2=[Разбойник Одала]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=78	type2=1003	type_reserved2=144	category2=73	name2=[Заклинатель Иса]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=79	type2=1003	type_reserved2=143	category2=73	name2=[Волшебник Фео]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=80	type2=1003	type_reserved2=145	category2=73	name2=[Призыватель Веньо]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=81	type2=1003	type_reserved2=146	category2=73	name2=[Целитель Альгиза]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=82	type2=-1	type_reserved2=0	category2=2	name2=[Накопленный урон по NPC]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={83;84;85;86;87;88;89;90}	statistic2_end
+statistic2_begin	id2=83	type2=1004	type_reserved2=139	category2=82	name2=[Рыцарь Сигеля]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=84	type2=1004	type_reserved2=140	category2=82	name2=[Воин Тира]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=85	type2=1004	type_reserved2=142	category2=82	name2=[Лучник Эура]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=86	type2=1004	type_reserved2=141	category2=82	name2=[Разбойник Одала]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=87	type2=1004	type_reserved2=144	category2=82	name2=[Заклинатель Иса]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=88	type2=1004	type_reserved2=143	category2=82	name2=[Волшебник Фео]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=89	type2=1004	type_reserved2=145	category2=82	name2=[Призыватель Веньо]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=90	type2=1004	type_reserved2=146	category2=82	name2=[Целитель Альгиза]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=91	type2=-1	type_reserved2=0	category2=2	name2=[Накопленный ущерб от NPC]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={92;93;94;95;96;97;98;99}	statistic2_end
+statistic2_begin	id2=92	type2=1005	type_reserved2=139	category2=91	name2=[Рыцарь Сигеля]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=93	type2=1005	type_reserved2=140	category2=91	name2=[Воин Тира]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=94	type2=1005	type_reserved2=142	category2=91	name2=[Лучник Эура]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=95	type2=1005	type_reserved2=141	category2=91	name2=[Разбойник Одала]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=96	type2=1005	type_reserved2=144	category2=91	name2=[Заклинатель Иса]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=97	type2=1005	type_reserved2=143	category2=91	name2=[Волшебник Фео]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=98	type2=1005	type_reserved2=145	category2=91	name2=[Призыватель Веньо]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=99	type2=1005	type_reserved2=146	category2=91	name2=[Целитель Альгиза]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=100	type2=1002	type_reserved2=0	category2=2	name2=[Количество убийств монстрами]	unit2=[Раз]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=101	type2=1006	type_reserved2=25774	category2=3	name2=[Злой Дух Харнака]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=102	type2=1006	type_reserved2=25785	category2=3	name2=[Траджан]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=103	type2=1006	type_reserved2=29195	category2=3	name2=[Истхина]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=104	type2=1006	type_reserved2=25779	category2=3	name2=[Спасия]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=105	type2=1006	type_reserved2=25866	category2=3	name2=[Афрос]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=106	type2=1006	type_reserved2=29194	category2=3	name2=[Октавис]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=107	type2=1006	type_reserved2=29218	category2=3	name2=[Валлок]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=108	type2=1006	type_reserved2=29213	category2=3	name2=[Байлор]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=109	type2=1006	type_reserved2=29196	category2=3	name2=[Истхина (экстремальная)]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=110	type2=1006	type_reserved2=25867	category2=3	name2=[Спасия (экстремальная)]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=111	type2=1006	type_reserved2=29212	category2=3	name2=[Октавис (экстремальный)]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=112	type2=1006	type_reserved2=29197	category2=3	name2=[Земляной Червь]	unit2=[Раз]	unit_type2=4	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=113	type2=2004	type_reserved2=0	category2=4	name2=[Количество побед PK]	unit2=[Персонажей]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=114	type2=2005	type_reserved2=0	category2=4	name2=[Количество побед PVP]	unit2=[Персонажей]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=115	type2=2001	type_reserved2=0	category2=4	name2=[Количество поражений PK]	unit2=[Раз]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=116	type2=2002	type_reserved2=0	category2=4	name2=[Количество поражений PVP]	unit2=[Раз]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=117	type2=-1	type_reserved2=0	category2=4	name2=[Максимальный урон по PC]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={118;119;120;121;122;123;124;125}	statistic2_end
+statistic2_begin	id2=118	type2=2006	type_reserved2=139	category2=117	name2=[Рыцарь Сигеля]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=119	type2=2006	type_reserved2=140	category2=117	name2=[Воин Тира]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=120	type2=2006	type_reserved2=142	category2=117	name2=[Лучник Эура]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=121	type2=2006	type_reserved2=141	category2=117	name2=[Разбойник Одала]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=122	type2=2006	type_reserved2=144	category2=117	name2=[Заклинатель Иса]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=123	type2=2006	type_reserved2=143	category2=117	name2=[Волшебник Фео]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=124	type2=2006	type_reserved2=145	category2=117	name2=[Призыватель Веньо]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=125	type2=2006	type_reserved2=146	category2=117	name2=[Целитель Альгиза]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=126	type2=-1	type_reserved2=0	category2=4	name2=[Накопленный урон по PC]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={127;128;129;130;131;132;133;134}	statistic2_end
+statistic2_begin	id2=127	type2=2007	type_reserved2=139	category2=126	name2=[Рыцарь Сигеля]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=128	type2=2007	type_reserved2=140	category2=126	name2=[Воин Тира]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=129	type2=2007	type_reserved2=142	category2=126	name2=[Лучник Эура]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=130	type2=2007	type_reserved2=141	category2=126	name2=[Разбойник Одала]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=131	type2=2007	type_reserved2=144	category2=126	name2=[Заклинатель Иса]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=132	type2=2007	type_reserved2=143	category2=126	name2=[Волшебник Фео]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=133	type2=2007	type_reserved2=145	category2=126	name2=[Призыватель Веньо]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=134	type2=2007	type_reserved2=146	category2=126	name2=[Целитель Альгиза]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=135	type2=-1	type_reserved2=0	category2=4	name2=[Накопленный ущерб от PC]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={136;137;138;139;140;141;142;143}	statistic2_end
+statistic2_begin	id2=136	type2=2008	type_reserved2=139	category2=135	name2=[Рыцарь Сигеля]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=137	type2=2008	type_reserved2=140	category2=135	name2=[Воин Тира]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=138	type2=2008	type_reserved2=142	category2=135	name2=[Лучник Эура]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=139	type2=2008	type_reserved2=141	category2=135	name2=[Разбойник Одала]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=140	type2=2008	type_reserved2=144	category2=135	name2=[Заклинатель Иса]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=141	type2=2008	type_reserved2=143	category2=135	name2=[Волшебник Фео]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=142	type2=2008	type_reserved2=145	category2=135	name2=[Призыватель Веньо]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=143	type2=2008	type_reserved2=146	category2=135	name2=[Целитель Альгиза]	unit2=[]	unit_type2=0	zero_invisible2=1	category_list2={}	statistic2_end
+statistic2_begin	id2=144	type2=3000	type_reserved2=0	category2=5	name2=[Количество членов клана]	unit2=[Персонажей]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=145	type2=3001	type_reserved2=0	category2=5	name2=[Количество вступивших]	unit2=[Персонажей]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=146	type2=3002	type_reserved2=0	category2=5	name2=[Количество вышедших]	unit2=[Персонажей]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=147	type2=3003	type_reserved2=0	category2=5	name2=[Значение репутации]	unit2=[]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=148	type2=3004	type_reserved2=0	category2=5	name2=[Имущество]	unit2=[Адены]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=149	type2=3005	type_reserved2=0	category2=5	name2=[Кратность PVP]	unit2=[Персонажей]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end
+statistic2_begin	id2=150	type2=3006	type_reserved2=0	category2=5	name2=[Победа в Битве Клана]	unit2=[Раз]	unit_type2=0	zero_invisible2=0	category_list2={}	statistic2_end

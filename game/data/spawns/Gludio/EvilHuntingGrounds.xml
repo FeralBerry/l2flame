@@ -2,27 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="EvilHuntingGrounds">
 		<group>
-			<npc id="20011" x="-10608" y="102727" z="-2640" heading="63555" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-10184" y="101553" z="-2712" heading="3453" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-10768" y="98985" z="-3120" heading="15569" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-11727" y="101362" z="-2704" heading="16208" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-14125" y="99259" z="-3128" heading="63206" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-13726" y="102233" z="-3456" heading="37138" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-15325" y="101607" z="-3432" heading="44729" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-19336" y="101162" z="-3648" heading="47684" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20011" x="-19188" y="101426" z="-3664" heading="40635" respawnTime="60sec" /> <!-- Vuku Orc Archer -->
-			<npc id="20023" x="-10261" y="102640" z="-2648" heading="55622" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-10867" y="99733" z="-2888" heading="62892" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-10760" y="98832" z="-3168" heading="23625" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-10245" y="101639" z="-2704" heading="57345" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-12364" y="101260" z="-2672" heading="63274" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-15611" y="100312" z="-3048" heading="29429" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-15125" y="101142" z="-2808" heading="46556" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-14793" y="100655" z="-2840" heading="347" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-17534" y="99882" z="-3392" heading="43808" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-16325" y="101474" z="-3456" heading="46457" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-16904" y="101107" z="-3456" heading="34415" respawnTime="60sec" /> <!-- Shadow Beast -->
-			<npc id="20023" x="-19560" y="99018" z="-3720" heading="31121" respawnTime="60sec" /> <!-- Shadow Beast -->
 			<npc id="20028" x="-13341" y="99494" z="-3072" heading="15093" respawnTime="60sec" /> <!-- Pincher -->
 			<npc id="20028" x="-14152" y="101352" z="-2704" heading="6065" respawnTime="60sec" /> <!-- Pincher -->
 			<npc id="20028" x="-15817" y="98991" z="-3304" heading="24492" respawnTime="60sec" /> <!-- Pincher -->

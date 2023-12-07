@@ -4741,7 +4741,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="800" clanHelpRange="600" isAggressive="false">
+		<ai aggroRange="800" clanHelpRange="600" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
 			</clanList>
