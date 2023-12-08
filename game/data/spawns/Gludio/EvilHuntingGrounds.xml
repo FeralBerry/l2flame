@@ -2,22 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="EvilHuntingGrounds">
 		<group>
-			<npc id="20032" x="-823" y="108101" z="-3688" heading="26748" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-774" y="106811" z="-3664" heading="4577" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-6052" y="108075" z="-3176" heading="20965" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-3692" y="106302" z="-3280" heading="293" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-3536" y="104621" z="-3256" heading="64282" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-6708" y="102606" z="-2872" heading="24729" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-3003" y="103376" z="-3416" heading="22960" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-3750" y="102995" z="-3312" heading="38339" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-1603" y="103399" z="-3608" heading="17373" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-1203" y="106177" z="-3616" heading="56650" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-4125" y="102334" z="-3320" heading="52827" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-2587" y="100072" z="-3688" heading="11928" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-3561" y="98987" z="-3688" heading="45451" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-1513" y="99400" z="-3720" heading="51255" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-1155" y="98728" z="-3720" heading="59450" respawnTime="60sec" /> <!-- Pinrul -->
-			<npc id="20032" x="-1155" y="99400" z="-3720" heading="40021" respawnTime="60sec" /> <!-- Pinrul -->
 			<npc id="20358" x="-6920" y="118010" z="-3272" heading="34223" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-6854" y="118670" z="-3296" heading="43350" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-7552" y="114267" z="-3432" heading="15005" respawnTime="60sec" /> <!-- Ratman Hunter -->
@@ -44,26 +28,6 @@
 			<npc id="20358" x="-1093" y="104426" z="-3656" heading="42345" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-4519" y="101478" z="-3328" heading="49162" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-2285" y="102038" z="-3592" heading="36435" respawnTime="60sec" /> <!-- Ratman Hunter -->
-			<npc id="20775" x="-4622" y="113247" z="-3344" heading="34679" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-4409" y="112601" z="-3360" heading="38797" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-2640" y="113704" z="-3504" heading="1566" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-2572" y="112434" z="-3592" heading="51156" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-2927" y="112414" z="-3536" heading="48679" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-3783" y="112524" z="-3400" heading="32005" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-4650" y="111660" z="-3328" heading="33152" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-4360" y="112377" z="-3360" heading="379" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-4044" y="111926" z="-3376" heading="30419" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-3704" y="111886" z="-3408" heading="56205" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-3922" y="110584" z="-3360" heading="52823" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-3170" y="111831" z="-3472" heading="31557" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-2997" y="110379" z="-3472" heading="39376" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-2382" y="110400" z="-3568" heading="57211" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-3798" y="111701" z="-3392" heading="1566" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-1994" y="110589" z="-3632" heading="15180" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-736" y="111781" z="-3720" heading="31529" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-1279" y="110621" z="-3704" heading="24169" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-670" y="112055" z="-3720" heading="51536" respawnTime="60sec" /> <!-- Bugbear Raider -->
-			<npc id="20775" x="-1859" y="111562" z="-3672" heading="34585" respawnTime="60sec" /> <!-- Bugbear Raider -->
 			<npc id="21093" x="265" y="107585" z="-3720" heading="55488" respawnTime="60sec" /> <!-- Ratman Chieftain -->
 			<npc id="21093" x="-5781" y="119250" z="-3192" heading="29865" respawnTime="60sec" /> <!-- Ratman Chieftain -->
 			<npc id="21093" x="-4935" y="116218" z="-3344" heading="58656" respawnTime="60sec" /> <!-- Ratman Chieftain -->

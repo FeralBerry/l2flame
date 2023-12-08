@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ImmortalPlateauNorth">
-		<!-- Вырезаны все до 15 уровня до Орк Вуку-->
 		<!-- 14 лвл-->
 		<npc id="20323" x="127359" y="-197013" z="-3376" respawnTime="20sec" /> <!-- Goblin Brigand Leader 14 лвл -->
 		<npc id="20423" x="140778" y="-170157" z="-1777" heading="32048" respawnTime="34sec" /><!-- Костяной Стрелок Акаст 14 лвл -->
@@ -40,6 +39,20 @@
 		<npc id="20487" x="17255" y="-116711" z="-3160" heading="0" respawnTime="68sec" /><!-- Крысолюд Курука 16 лвл -->
 		<npc id="20360" x="-6959" y="101607" z="-2869" heading="30244" respawnTime="30sec" /><!-- Шпион Крысолюдов 16 лвл -->
 		<!-- 17 лвл-->
+		<npc id="20369" x="-6621" y="78384" z="-3408" heading="0" respawnTime="20sec" /><!-- Зверь Лунного Камня 17 лвл -->
+		<npc id="20466" x="1184" y="68454" z="-3688" heading="0" respawnTime="15sec" /><!-- Паук Хелицера 17 лвл -->
+		<npc id="20508" x="141323" y="-200939" z="-3520" heading="17501" respawnTime="20sec" /><!-- Тарантул Хищник 17 лвл -->
+		<npc id="20034" x="-50595" y="76992" z="-3296" heading="87" respawnTime="20sec" /><!-- Паук Скиталец 17 лвл -->
+		<npc id="20111" x="-50595" y="76992" z="-3296" heading="87" respawnTime="20sec" /><!-- Крысолюд Адъютант 17 лвл -->
+		<npc id="20782" x="-50145" y="151922" z="-2790" heading="22843" respawnTime="45sec" /><!-- Новобранец Гноллов 17 лвл -->
+		<npc id="20422" x="141831" y="-170443" z="-1777" heading="19787" respawnTime="34sec" /><!-- Костяной Владыка Акаст 17 лвл -->
+		<npc id="20483" x="150847" y="-174890" z="-1777" heading="0" respawnTime="34sec" /><!-- Мертвая Свеча 17 лвл -->
+		<npc id="20415" x="16007" y="-112618" z="-3138" heading="17217" respawnTime="68sec" /><!-- Алая Саламандра 17 лвл -->
+		<npc id="20110" x="44772" y="242779" z="-6502" heading="0" respawnTime="100sec" /><!-- Ундина 17 лвл -->
+		<npc id="20488" x="18182" y="-108269" z="-3040" heading="0" respawnTime="68sec" /><!-- Охотник Крысолюдов Курука 17 лвл -->
+		<npc id="20775" x="-5398" y="113089" z="-3347" heading="45487" respawnTime="30sec" /><!-- Людоед Налетчик 17 лвл -->
+		<npc id="20335" x="-73252" y="98416" z="-3610" heading="32266" respawnTime="25sec" /><!-- Гризли 17 лвл -->
+		<!-- Вырезаны все до 18 уровня-->
 
 		<npc id="20113" x="45174" y="242779" z="-6502" heading="0" respawnTime="100sec" /><!-- Старшая Ундина 19* лвл -->
 		<npc id="21117" x="-17882" y="-81023" z="-3544" heading="0" respawnTime="20sec" /><!-- Бес Кхаши 19 лвл -->
@@ -65,9 +78,5 @@
 				<node x="-18105" y="-132027"/>
 			</territory>
 		</territories>
-		<!--<npc id="20109" count="15" respawnTime="40sec" chaseRange="1500" />&lt;!&ndash; Саламандра 18* лвл &ndash;&gt;
-		<npc id="20112" count="15" respawnTime="40sec" chaseRange="1500" />&lt;!&ndash; Старшая Саламандра 18* лвл &ndash;&gt;
-		<npc id="20114" count="15" respawnTime="40sec" chaseRange="1500" />&lt;!&ndash; Элитная Саламандра 19* лвл &ndash;&gt;
-		<npc id="20416" count="15" respawnTime="40sec" chaseRange="1500" />&lt;!&ndash; Старшая Алая Саламандра 18* лвл &ndash;&gt;-->
 	</spawn>
 </list>

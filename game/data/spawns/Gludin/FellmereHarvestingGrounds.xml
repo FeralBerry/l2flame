@@ -3,22 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-			<npc id="20014" x="-63706" y="105965" z="-3528" heading="58572" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-64238" y="105822" z="-3528" heading="14561" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-64686" y="107238" z="-3600" heading="60500" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-64918" y="105258" z="-3528" heading="15344" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-65094" y="106001" z="-3576" heading="30127" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-65133" y="105654" z="-3560" heading="51623" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-65382" y="107268" z="-3664" heading="8970" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-65385" y="107786" z="-3688" heading="15224" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-67257" y="108487" z="-3760" heading="50859" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-67370" y="110480" z="-3536" heading="30391" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-67709" y="107065" z="-3824" heading="49454" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-67726" y="106106" z="-3848" heading="47773" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-68465" y="106652" z="-3864" heading="29379" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-68676" y="111506" z="-3520" heading="1557" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-69138" y="109126" z="-3768" heading="34832" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
-			<npc id="20014" x="-70160" y="110418" z="-3712" heading="64686" respawnTime="60sec" /> <!-- Felim Lizardman Warrior -->
 			<npc id="20038" x="-65777" y="104346" z="-3616" heading="53330" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
 			<npc id="20038" x="-66786" y="101573" z="-3704" heading="30480" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
 			<npc id="20038" x="-68453" y="103668" z="-3824" heading="37706" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
@@ -61,12 +45,6 @@
 			<npc id="20050" x="-75014" y="102374" z="-3880" heading="48694" respawnTime="60sec" /> <!-- Arachnid Predator -->
 			<npc id="20050" x="-77310" y="104018" z="-3840" heading="30161" respawnTime="60sec" /> <!-- Arachnid Predator -->
 			<npc id="20050" x="-77697" y="102544" z="-3840" heading="34563" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20335" x="-65760" y="104673" z="-3616" heading="62500" respawnTime="60sec" /> <!-- Grizzly Bear -->
-			<npc id="20335" x="-66614" y="103768" z="-3704" heading="5222" respawnTime="60sec" /> <!-- Grizzly Bear -->
-			<npc id="20335" x="-67802" y="102723" z="-3768" heading="10806" respawnTime="60sec" /> <!-- Grizzly Bear -->
-			<npc id="20335" x="-68991" y="101722" z="-3864" heading="4487" respawnTime="60sec" /> <!-- Grizzly Bear -->
-			<npc id="20335" x="-69002" y="103979" z="-3856" heading="12904" respawnTime="60sec" /> <!-- Grizzly Bear -->
-			<npc id="20335" x="-69125" y="102487" z="-3888" heading="14359" respawnTime="60sec" /> <!-- Grizzly Bear -->
 			<npc id="20358" x="-67145" y="106067" z="-3808" heading="41861" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-68160" y="106731" z="-3856" heading="10702" respawnTime="60sec" /> <!-- Ratman Hunter -->
 			<npc id="20358" x="-68542" y="107236" z="-3856" heading="61108" respawnTime="60sec" /> <!-- Ratman Hunter -->

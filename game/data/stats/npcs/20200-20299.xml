@@ -5637,55 +5637,7 @@
 			<height normal="24" grown="28.8" />
 		</collision>
 	</npc>
-	<npc id="20261" level="17" type="Monster" name="Orc Shaman">
-		<parameters>
-			<param name="MoveAroundSocial" value="70" />
-			<param name="MoveAroundSocial1" value="70" />
-			<param name="MoveAroundSocial2" value="70" />
-			<param name="SetHateOccupation" value="elven_wizard" />
-			<param name="SetHateOccupationRatio" value="10" />
-			<skill name="DeBuff" id="4037" level="1" />
-		</parameters>
-		<race>HUMANOID</race>
-		<sex>MALE</sex>
-		<equipment rhand="7" /> <!-- Apprentice's Rod -->
-		<acquire exp="504" sp="21" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
-			<attack physical="34.8979" magical="23.83074" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="78.68469" magical="57.57804" />
-			<speed>
-				<walk ground="45" />
-				<run ground="120" />
-			</speed>
-			<hitTime>260</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- One-handed Blunt Weapon -->
-			<skill id="4037" level="1" /> <!-- Weakness -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" clanHelpRange="300" aggroRange="450">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="9" />
-			<height normal="22" />
-		</collision>
-	</npc>
+
 	<!-- пропуск 20262 - 20264 -->
 	<npc id="20265" level="22" type="Monster" name="Monster Eye Searcher">
 		<parameters>
