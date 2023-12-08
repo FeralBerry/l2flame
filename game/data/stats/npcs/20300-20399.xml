@@ -2793,77 +2793,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 20344 -->
-	<npc id="20345" level="16" type="Monster" name="Dark Terror">
-		<parameters>
-			<param name="MoveAroundSocial" value="110" />
-			<param name="MoveAroundSocial1" value="110" />
-			<param name="MoveAroundSocial2" value="110" />
-			<skill name="DeBuff" id="4035" level="1" />
-		</parameters>
-		<race>UNDEAD</race>
-		<sex>MALE</sex>
-		<acquire exp="533" sp="22" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
-			<attack physical="32.16396" magical="21.96382" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="76.08628" magical="55.67663" />
-			<speed>
-				<walk ground="100" />
-				<run ground="100" />
-			</speed>
-			<hitTime>370</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4035" level="1" /> <!-- Poison -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="20" />
-			<height normal="35" grown="42" />
-		</collision>
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="110" max="171" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.2184">
-					<item id="24" min="1" max="1" chance="19.255" /> <!-- Bone Breastplate -->
-					<item id="390" min="1" max="1" chance="19.255" /> <!-- Cotton Shirt -->
-					<item id="31" min="1" max="1" chance="30.745" /> <!-- Bone Gaiters -->
-					<item id="412" min="1" max="1" chance="30.745" /> <!-- Cotton Pants -->
-				</group>
-				<group chance="12.303">
-					<item id="1866" min="1" max="1" chance="14.2213" /> <!-- Suede -->
-					<item id="1871" min="1" max="1" chance="21.332" /> <!-- Charcoal -->
-					<item id="1800" min="1" max="1" chance="6.7082" /> <!-- Recipe: Piece Bone Breastplate -->
-					<item id="5268" min="1" max="1" chance="0.8533" /> <!-- Recipe: Greater Soulshot (D) Compressed Package (100%) -->
-					<item id="1831" min="1" max="1" chance="56.8852" /> <!-- Antidote -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="2174" min="1" max="1" chance="9.6576" /> <!-- Recipe: Hard Leather Gaiters -->
-				<item id="1925" min="1" max="1" chance="14.5655" /> <!-- Leather Gloves Lining -->
-				<item id="5220" min="1" max="1" chance="0.8885" /> <!-- Metal Hardener -->
-			</spoil>
-		</dropLists>
-	</npc>
+
 	<npc id="20347" level="55" type="Monster" name="Fate Knight">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
