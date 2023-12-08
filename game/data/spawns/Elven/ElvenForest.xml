@@ -2,24 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ElvenForest">
 		<group>
-			<npc id="20036" x="11532" y="61411" z="-3528" heading="46401" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="1493" y="63219" z="-3480" heading="36399" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="1539" y="64268" z="-3560" heading="28646" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="1816" y="64268" z="-3544" heading="3643" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="2128" y="56140" z="-3304" heading="34861" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="2920" y="57404" z="-3408" heading="64689" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="3636" y="56246" z="-3512" heading="2619" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="3712" y="55192" z="-3432" heading="62855" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="3712" y="56456" z="-3528" heading="1939" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="4261" y="63229" z="-3456" heading="34216" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="4850" y="61053" z="-3488" heading="35647" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="5032" y="56772" z="-3528" heading="60836" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="5537" y="59796" z="-3600" heading="52822" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6051" y="61657" z="-3600" heading="26743" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="7748" y="58163" z="-3664" heading="4796" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="7748" y="61053" z="-3592" heading="45259" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="8700" y="62986" z="-3496" heading="4405" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="9762" y="65236" z="-3616" heading="53638" respawnTime="60sec" /> <!-- Lirein -->
 			<npc id="20044" x="2093" y="59452" z="-3296" heading="25602" respawnTime="60sec" /> <!-- Lirein Elder -->
 			<npc id="20044" x="2924" y="61516" z="-3488" heading="14359" respawnTime="60sec" /> <!-- Lirein Elder -->
 			<npc id="20044" x="3413" y="62506" z="-3576" heading="12447" respawnTime="60sec" /> <!-- Lirein Elder -->

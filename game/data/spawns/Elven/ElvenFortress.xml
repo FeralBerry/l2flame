@@ -2,39 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ElvenFortress">
 		<group>
-			<npc id="20036" x="10311" y="62901" z="-3544" heading="37890" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="11361" y="61728" z="-3552" heading="15292" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="11614" y="62562" z="-3624" heading="4522" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="2430" y="75378" z="-3624" heading="64754" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="2508" y="71294" z="-3592" heading="5444" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="2744" y="78472" z="-3592" heading="41954" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="2916" y="73051" z="-3648" heading="62104" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="4767" y="74072" z="-3680" heading="34418" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="5187" y="74480" z="-3640" heading="15283" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6004" y="71044" z="-3328" heading="29325" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6467" y="66881" z="-3632" heading="49413" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6496" y="71044" z="-3352" heading="19315" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6660" y="69652" z="-3408" heading="57352" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6660" y="71276" z="-3376" heading="56966" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6930" y="64786" z="-3616" heading="59255" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="6980" y="66428" z="-3672" heading="36856" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="8136" y="70116" z="-3416" heading="37646" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20036" x="8667" y="62799" z="-3520" heading="44975" respawnTime="60sec" /> <!-- Lirein -->
-			<npc id="20040" x="12468" y="80035" z="-4080" heading="39908" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="12471" y="75531" z="-4176" heading="31218" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="12549" y="77773" z="-4176" heading="25301" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="12594" y="80227" z="-4080" heading="52498" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="12614" y="75584" z="-4176" heading="28798" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="12891" y="77733" z="-4176" heading="29115" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="13343" y="80107" z="-4080" heading="1136" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="13500" y="78280" z="-4096" heading="22571" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="13541" y="78204" z="-4096" heading="45426" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="13741" y="78852" z="-4096" heading="59862" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="13791" y="76371" z="-4128" heading="40364" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="13860" y="77021" z="-4128" heading="62823" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="15114" y="81110" z="-4088" heading="48545" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="15217" y="80810" z="-4096" heading="18954" respawnTime="60sec" /> <!-- Sukar Ratman -->
-			<npc id="20040" x="15294" y="81635" z="-4096" heading="27611" respawnTime="60sec" /> <!-- Sukar Ratman -->
 			<npc id="20044" x="20886" y="71546" z="-3184" heading="8903" respawnTime="60sec" /> <!-- Lirein Elder -->
 			<npc id="20044" x="2508" y="72047" z="-3512" heading="17482" respawnTime="60sec" /> <!-- Lirein Elder -->
 			<npc id="20044" x="2508" y="72800" z="-3568" heading="41887" respawnTime="60sec" /> <!-- Lirein Elder -->

@@ -1581,53 +1581,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20037" level="18" type="Monster" name="Mana Seeker">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<skill name="DDMagic" id="4039" level="1" />
-		</parameters>
-		<race>CONSTRUCT</race>
-		<sex>MALE</sex>
-		<acquire exp="992" sp="43" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="603.1546" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
-			<attack physical="37.82932" magical="25.83252" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="81.34791" magical="59.52687" />
-			<speed>
-				<walk ground="90" />
-				<run ground="90" />
-			</speed>
-			<hitTime>390</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- One-handed Blunt Weapon -->
-			<skill id="4039" level="1" /> <!-- Mana Drain -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai clanHelpRange="300" aggroRange="450">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="11" />
-			<height normal="20" />
-		</collision>
-	</npc>
+
 	<npc id="20038" level="18" type="Monster" name="Giant Poisonous Spider">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />

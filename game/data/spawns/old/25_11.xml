@@ -2,23 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_11">
 		<group>
-			<npc id="21124" x="165137" y="-215145" z="-3600" heading="40951" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="164024" y="-216262" z="-3608" heading="45485" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="164905" y="-212526" z="-3568" heading="43418" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="164851" y="-212479" z="-3592" heading="5711" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="164826" y="-209455" z="-3496" heading="61480" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="164582" y="-209323" z="-3512" heading="52157" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="166220" y="-206814" z="-3592" heading="27440" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="164261" y="-204706" z="-3560" heading="2718" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="165867" y="-206733" z="-3568" heading="28667" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="166452" y="-205364" z="-3504" heading="45312" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="166695" y="-203478" z="-3560" heading="27508" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="168344" y="-211286" z="-3520" heading="31032" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="168023" y="-211639" z="-3544" heading="49551" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="171381" y="-214434" z="-3560" heading="22168" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="172348" y="-211582" z="-3648" heading="36650" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="172555" y="-213702" z="-3584" heading="9790" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
-			<npc id="21124" x="172758" y="-213693" z="-3560" heading="20985" respawnTime="120sec" /> <!-- Red Eye Barbed Bat -->
 			<npc id="21125" x="164040" y="-216501" z="-3624" heading="39392" respawnTime="120sec" /> <!-- Northern Trimden -->
 			<npc id="21125" x="164672" y="-215350" z="-3576" heading="43561" respawnTime="120sec" /> <!-- Northern Trimden -->
 			<npc id="21125" x="166068" y="-213004" z="-3584" respawnTime="120sec" /> <!-- Northern Trimden -->
