@@ -2,22 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_11">
 		<group>
-			<npc id="21125" x="164040" y="-216501" z="-3624" heading="39392" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="164672" y="-215350" z="-3576" heading="43561" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="166068" y="-213004" z="-3584" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="166337" y="-213586" z="-3600" heading="581" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="165430" y="-210532" z="-3520" heading="48121" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="165589" y="-208805" z="-3504" heading="56389" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="166216" y="-206989" z="-3560" heading="22182" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="164389" y="-202432" z="-3536" heading="15015" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="164248" y="-202363" z="-3536" heading="52876" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="164572" y="-201563" z="-3544" heading="5650" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="172150" y="-208175" z="-3520" heading="9253" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="171644" y="-210354" z="-3648" heading="25775" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="171868" y="-211117" z="-3648" heading="5663" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="170537" y="-212737" z="-3536" heading="38935" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="170512" y="-213730" z="-3568" heading="33190" respawnTime="120sec" /> <!-- Northern Trimden -->
-			<npc id="21125" x="172470" y="-213180" z="-3632" heading="21254" respawnTime="120sec" /> <!-- Northern Trimden -->
 			<npc id="21126" x="164544" y="-214596" z="-3544" heading="54904" respawnTime="120sec" /> <!-- Kerope Werewolf -->
 			<npc id="21126" x="164586" y="-216175" z="-3632" heading="47336" respawnTime="120sec" /> <!-- Kerope Werewolf -->
 			<npc id="21126" x="164749" y="-213328" z="-3536" heading="45377" respawnTime="120sec" /> <!-- Kerope Werewolf -->

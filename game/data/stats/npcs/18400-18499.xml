@@ -3385,51 +3385,7 @@
 			<height normal="80.5" />
 		</collision>
 	</npc>
-	<npc id="18483" level="19" type="Monster" name="Garden Guard">
-		<parameters>
-			<param name="IsAggressive" value="1" />
-			<param name="Aggressive_Time" value="7" />
-			<skill name="Skill01_ID" id="4032" level="2" />
-		</parameters>
-		<race>HUMANOID</race>
-		<sex>MALE</sex>
-		<acquire exp="1352" sp="57" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="643.5331" hpRegen="2.5" mp="1846.8" mpRegen="1.2" />
-			<attack physical="40.96915" magical="27.97662" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="84.07638" magical="61.52345" />
-			<speed>
-				<walk ground="36" />
-				<run ground="120" />
-			</speed>
-			<hitTime>470</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4032" level="2" /> <!-- NPC Strike -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai type="ARCHER" clanHelpRange="300" aggroRange="300">
-			<clanList>
-				<clan>NDG</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
-	</npc>
+
 	<npc id="18484" level="83" type="Monster" name="Naia Failan">
 		<parameters>
 			<param name="FieldCycle" value="1" />

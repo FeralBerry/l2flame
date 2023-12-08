@@ -2,35 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ElvenFortress">
 		<group>
-			<npc id="20044" x="20886" y="71546" z="-3184" heading="8903" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="2508" y="72047" z="-3512" heading="17482" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="2508" y="72800" z="-3568" heading="41887" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="2587" y="79186" z="-3584" heading="37156" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="2744" y="75854" z="-3608" heading="34897" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="2744" y="76806" z="-3600" heading="37525" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="2901" y="75854" z="-3632" heading="4601" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="3992" y="80363" z="-3504" heading="53911" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="4403" y="83324" z="-3376" heading="34824" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="4574" y="78895" z="-3536" heading="46262" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="4782" y="77069" z="-3616" heading="46716" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="4880" y="78011" z="-3600" heading="8078" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="4978" y="77383" z="-3608" heading="6296" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="5156" y="81097" z="-3624" heading="4712" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="5350" y="79262" z="-3592" heading="57513" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="5350" y="80363" z="-3640" heading="27277" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="5932" y="81831" z="-3568" heading="64715" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="6320" y="82932" z="-3504" heading="17557" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20047" x="13084" y="80102" z="-4080" heading="55021" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13280" y="78568" z="-4096" heading="34956" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13319" y="80568" z="-4096" heading="12748" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13338" y="77747" z="-4096" heading="61939" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13518" y="79172" z="-4096" heading="18788" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13793" y="76257" z="-4128" heading="15257" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13825" y="79268" z="-4096" heading="41559" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13871" y="76384" z="-4128" heading="17849" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="13898" y="80168" z="-4080" heading="2777" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="14128" y="80302" z="-4080" heading="36371" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
-			<npc id="20047" x="14164" y="80185" z="-4080" heading="36904" respawnTime="60sec" /> <!-- Sukar Ratman Captain -->
 			<npc id="20351" x="10338" y="74921" z="-3840" heading="19842" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
 			<npc id="20351" x="10370" y="82019" z="-3840" heading="27538" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
 			<npc id="20351" x="10383" y="81938" z="-3840" heading="23591" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->

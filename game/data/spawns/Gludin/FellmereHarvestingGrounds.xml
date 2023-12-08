@@ -3,25 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-			<npc id="20043" x="-63981" y="107434" z="-3584" heading="2358" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-65831" y="110983" z="-3560" heading="33715" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-66923" y="108051" z="-3760" heading="14232" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-67686" y="110151" z="-3576" heading="21064" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-68500" y="110529" z="-3568" heading="64261" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-68827" y="110032" z="-3616" heading="33556" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-68921" y="112048" z="-3448" heading="24203" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-69222" y="105879" z="-3856" heading="63529" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-69360" y="104684" z="-3856" heading="28636" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-69587" y="107164" z="-3816" heading="8069" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-70587" y="108566" z="-3616" heading="42319" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-71928" y="101385" z="-3880" heading="47856" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-72316" y="102004" z="-3888" heading="61192" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-72993" y="104956" z="-3648" heading="11352" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-73011" y="108152" z="-3472" heading="26811" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-73598" y="102820" z="-3864" heading="4952" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-73921" y="106851" z="-3576" heading="23897" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-74685" y="103956" z="-3800" heading="22177" respawnTime="60sec" /> <!-- Arachnid Tracker -->
-			<npc id="20043" x="-76934" y="102841" z="-3872" heading="32987" respawnTime="60sec" /> <!-- Arachnid Tracker -->
 			<npc id="20050" x="-69023" y="105081" z="-3856" heading="62045" respawnTime="60sec" /> <!-- Arachnid Predator -->
 			<npc id="20050" x="-70708" y="108871" z="-3592" heading="12533" respawnTime="60sec" /> <!-- Arachnid Predator -->
 			<npc id="20050" x="-70926" y="109200" z="-3600" heading="11469" respawnTime="60sec" /> <!-- Arachnid Predator -->

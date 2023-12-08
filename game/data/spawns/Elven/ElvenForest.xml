@@ -2,10 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ElvenForest">
 		<group>
-			<npc id="20044" x="2093" y="59452" z="-3296" heading="25602" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="2924" y="61516" z="-3488" heading="14359" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="3413" y="62506" z="-3576" heading="12447" respawnTime="60sec" /> <!-- Lirein Elder -->
-			<npc id="20044" x="3755" y="63924" z="-3528" heading="15769" respawnTime="60sec" /> <!-- Lirein Elder -->
 			<npc id="30980" x="2908" y="44128" z="-2712" respawnTime="60sec" /> <!-- Ark Guardian's Corpse -->
 			<npc id="31033" x="13991" y="42670" z="-3848" heading="34292" respawnTime="60sec" /> <!-- Sentinel -->
 			<npc id="31033" x="19395" y="43958" z="-3696" heading="34397" respawnTime="60sec" /> <!-- Sentinel -->
