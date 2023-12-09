@@ -2,40 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="WindawoodManor">
 		<group>
-			<npc id="20050" x="-31009" y="139462" z="-3904" heading="40529" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-31080" y="145452" z="-3720" heading="47501" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-31122" y="141922" z="-3904" heading="4816" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-31185" y="144306" z="-3680" heading="16340" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-31471" y="139192" z="-3904" heading="37605" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-31670" y="144256" z="-3800" heading="37527" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-32176" y="145859" z="-3904" heading="50428" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-32490" y="140131" z="-3912" heading="21885" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-32510" y="139410" z="-3904" heading="27070" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-33473" y="137292" z="-3480" heading="26523" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-33839" y="138252" z="-3464" heading="27653" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-34715" y="141904" z="-3512" heading="61759" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-34937" y="138132" z="-3432" heading="40008" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-35120" y="138972" z="-3384" heading="15214" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-35335" y="141686" z="-3416" heading="27507" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-35669" y="137532" z="-3344" heading="40241" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-36265" y="139070" z="-3248" heading="46820" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-36420" y="141686" z="-3240" heading="37526" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20055" x="-30169" y="146681" z="-3784" heading="6084" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
-			<npc id="20055" x="-30915" y="143677" z="-3672" heading="44614" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
-			<npc id="20055" x="-31990" y="147745" z="-3904" heading="23753" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
-			<npc id="20055" x="-32160" y="146106" z="-3904" heading="25933" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
-			<npc id="20058" x="-23615" y="159665" z="-3240" heading="10612" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-24544" y="161305" z="-2920" heading="10279" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-24676" y="155466" z="-3016" heading="12469" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-26028" y="157716" z="-2912" heading="27743" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-26583" y="161383" z="-2480" heading="64428" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-27044" y="158197" z="-2864" heading="31821" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-27502" y="160666" z="-2560" heading="37075" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-28625" y="157509" z="-3336" heading="26040" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-30446" y="162826" z="-2840" heading="28118" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-31537" y="160692" z="-3152" heading="60006" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-32022" y="161433" z="-2944" heading="24426" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
-			<npc id="20058" x="-32372" y="163434" z="-2944" heading="33606" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
 			<npc id="20059" x="-23607" y="167298" z="-2928" heading="15101" respawnTime="60sec" /> <!-- Monster Eye Patrol -->
 			<npc id="20059" x="-24280" y="167702" z="-2952" heading="62181" respawnTime="60sec" /> <!-- Monster Eye Patrol -->
 			<npc id="20059" x="-24372" y="163196" z="-3096" heading="26321" respawnTime="60sec" /> <!-- Monster Eye Patrol -->

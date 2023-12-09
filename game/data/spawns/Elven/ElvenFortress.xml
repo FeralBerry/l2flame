@@ -2,30 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ElvenFortress">
 		<group>
-			<npc id="20351" x="10338" y="74921" z="-3840" heading="19842" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="10370" y="82019" z="-3840" heading="27538" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="10383" y="81938" z="-3840" heading="23591" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="10479" y="82281" z="-3840" heading="29411" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="10562" y="74530" z="-3840" heading="59319" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="11789" y="80956" z="-4080" heading="60438" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12002" y="80937" z="-4080" heading="63213" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12012" y="80953" z="-4080" heading="28987" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12110" y="81113" z="-4080" heading="20263" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12117" y="76632" z="-4176" heading="34573" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12124" y="77188" z="-4176" heading="28373" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12407" y="76681" z="-4176" heading="59259" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12411" y="76750" z="-4176" heading="52387" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12675" y="75414" z="-4176" heading="49798" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12753" y="77934" z="-4176" heading="9070" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12805" y="77878" z="-4176" heading="6278" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="12886" y="75688" z="-4176" heading="10904" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20351" x="13087" y="75391" z="-4176" heading="19305" respawnTime="60sec" /> <!-- Dre Vanul Tracker -->
-			<npc id="20353" x="10463" y="81892" z="-3840" heading="48282" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10647" y="74719" z="-3840" heading="59598" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10805" y="74851" z="-3840" heading="44230" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10816" y="75020" z="-3840" heading="52199" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10905" y="82079" z="-3840" heading="48632" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="30423" x="28928" y="74248" z="-3776" heading="8192" respawnTime="60sec" /> <!-- Northwind -->
 			<npc id="30639" x="17925" y="86183" z="-3608" heading="8192" respawnTime="60sec" /> <!-- Celestiel - Summoner -->
 			<npc id="31033" x="11897" y="90002" z="-3744" heading="10890" respawnTime="60sec" /> <!-- Sentinel -->
 			<npc id="31033" x="20034" y="86453" z="-3584" heading="53442" respawnTime="60sec" /> <!-- Sentinel -->

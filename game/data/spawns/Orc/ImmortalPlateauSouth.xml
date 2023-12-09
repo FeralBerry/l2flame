@@ -5,4 +5,72 @@
 			<npc id="30669" x="-9563" y="-89959" z="-2320" heading="0" respawnTime="60sec" /> <!-- Kakan -->
 		</group>
 	</spawn>
+	<spawn>
+		<!-- Территория РБ Sukar Ratman Chief (21) с ретманами -->
+		<territories>
+			<territory name="ImmortalPlateauSouth_001" minZ="-3144" maxZ="-2808">
+				<node x="3460" y="-94991"/>
+				<node x="3692" y="-92383"/>
+				<node x="2149" y="-91575"/>
+				<node x="1666" y="-92069"/>
+				<node x="647" y="-93329"/>
+				<node x="893" y="-94622"/>
+				<node x="2253" y="-95829"/>
+			</territory>
+		</territories>
+		<npc id="20111" count="20" respawnTime="00sec" chaseRange="1500" /><!-- Крысолюд Адъютант 17 лвл -->
+		<npc id="20358" count="20" respawnTime="30sec" chaseRange="1500" /><!-- Охотник Крысолюдов 18 лвл -->
+		<npc id="20390" count="10" respawnTime="35sec" chaseRange="1500" /><!-- Главарь Крысолюдов Бугл 18 лвл -->
+		<npc id="20359" count="20" respawnTime="40sec" chaseRange="1500" /><!-- Воин Крысолюдов 19 лвл-->
+		<npc id="21094" count="10" respawnTime="40sec" chaseRange="1500" /><!-- Вождь Крысолюдов 20 лвл-->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauSouth_002" minZ="-3144" maxZ="-2984">
+				<node x="-179" y="-94069"/>
+				<node x="-507" y="-92747"/>
+				<node x="-2764" y="-92747"/>
+				<node x="-2431" y="-94015"/>
+			</territory>
+		</territories>
+		<npc id="20488" count="10" respawnTime="28sec" chaseRange="1500" /><!-- Охотник Крысолюдов Курука 17 лвл -->
+		<npc id="20039" count="10" respawnTime="20sec" chaseRange="1500" /><!-- Крысолюд Падальщик 18 лвл -->
+		<npc id="20040" count="10" respawnTime="30sec" chaseRange="1500" /><!-- Трусливый Крысолюд 18 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauSouth_003" minZ="-3144" maxZ="-2872">
+				<node x="-2764" y="-92747"/>
+				<node x="-2431" y="-94015"/>
+				<node x="-4150" y="-95535"/>
+				<node x="-4188" y="-95239"/>
+				<node x="-3772" y="-94141"/>
+			</territory>
+		</territories>
+		<npc id="20487" count="10" respawnTime="40sec" chaseRange="1500" /><!-- Крысолюд Курука 16 лвл -->
+		<npc id="20389" count="10" respawnTime="40sec" chaseRange="1500" /><!-- Крысолюд Бугл 16 лвл -->
+		<npc id="20107" count="10" respawnTime="40sec" chaseRange="1500" /><!-- Крысолюд 16 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauSouth_004" minZ="-3736" maxZ="-3448">
+				<node x="-24309" y="-86701"/>
+				<node x="-25239" y="-86508"/>
+				<node x="-25111" y="-83232"/>
+				<node x="-22367" y="-81874"/>
+				<node x="-21133" y="-84499"/>
+				<node x="-23370" y="-87378"/>
+			</territory>
+		</territories>
+		<npc id="20110" count="25" respawnTime="30sec" chaseRange="1500" /><!-- Ундина 17 лвл -->
+		<npc id="20036" count="25" respawnTime="30sec" chaseRange="1500" /><!-- Лирейн 18 лвл -->
+		<npc id="20113" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Старшая Ундина 18* лвл -->
+		<npc id="20044" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Старшая Лирейн 19 лвл-->
+	</spawn>
+	<spawn>
+		<npc id="25357" x="2026" y="-93733" z="-3144" heading="16723" dbSave="true" dbName="Sukar Ratman Chief (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Трусливых Крысолюдов (21) -->
+	</spawn>
+	<spawn>
+		<npc id="25380" x="-24191" y="-84645" z="-3736" heading="16723" dbSave="true" dbName="Icarus' Herald Kaysha (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Икара Кайша (21) -->
+	</spawn>
 </list>

@@ -3,65 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-			<npc id="20050" x="-69023" y="105081" z="-3856" heading="62045" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-70708" y="108871" z="-3592" heading="12533" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-70926" y="109200" z="-3600" heading="11469" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-70962" y="111533" z="-3624" heading="41206" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-71084" y="103436" z="-3824" heading="56402" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-71766" y="114291" z="-3000" heading="21661" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-71804" y="106819" z="-3664" heading="27359" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-72150" y="102265" z="-3888" heading="910" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-72934" y="102405" z="-3872" heading="11703" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73095" y="102423" z="-3880" heading="17345" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73168" y="102824" z="-3504" heading="20401" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73259" y="102644" z="-3496" heading="58246" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73463" y="106983" z="-3584" heading="21706" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-74586" y="105480" z="-3616" heading="39759" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-74761" y="107167" z="-3544" heading="46751" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-75014" y="102374" z="-3880" heading="48694" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-77310" y="104018" z="-3840" heading="30161" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-77697" y="102544" z="-3840" heading="34563" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="21095" x="-71724" y="111904" z="-3616" heading="40654" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-71793" y="111880" z="-3616" heading="24122" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-71801" y="109247" z="-3544" heading="61374" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-72432" y="105986" z="-3680" heading="36313" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-72462" y="105644" z="-3672" heading="30454" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-72488" y="112573" z="-3448" heading="60356" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-73347" y="113731" z="-3064" heading="32622" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-73352" y="112210" z="-3400" heading="30465" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-74460" y="105632" z="-3608" heading="32767" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-75373" y="106240" z="-3600" heading="42441" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-72935" y="118005" z="-3600" heading="35954" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-73067" y="119894" z="-3600" heading="63023" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-73439" y="120223" z="-3616" heading="34752" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-73492" y="118538" z="-3584" heading="18840" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-73944" y="119786" z="-3568" heading="27619" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-74461" y="118904" z="-3528" heading="31216" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-74794" y="119620" z="-3272" heading="30338" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-74794" y="119620" z="-3272" heading="40656" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-75125" y="120610" z="-3616" heading="2770" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-75230" y="118417" z="-3472" heading="38645" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-75880" y="121636" z="-3712" heading="61761" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21095" x="-76232" y="118828" z="-3264" heading="29649" respawnTime="60sec" /> <!-- Giant Poison Bee -->
-			<npc id="21096" x="-70292" y="111862" z="-3512" heading="14461" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-70591" y="112614" z="-3408" heading="37291" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-71693" y="112210" z="-3592" heading="44472" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-71749" y="112482" z="-3520" heading="26243" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-72767" y="112363" z="-3488" heading="34077" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-73660" y="112621" z="-3344" heading="50070" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-73248" y="122275" z="-3688" heading="37084" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-74864" y="121569" z="-3688" heading="24575" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76058" y="119714" z="-3456" heading="37344" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76223" y="119905" z="-3464" heading="21766" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76718" y="120025" z="-3448" heading="7032" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76974" y="120564" z="-3520" heading="8191" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-77281" y="123429" z="-3632" heading="62940" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-77353" y="124889" z="-3688" heading="2618" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-77901" y="120541" z="-3424" heading="60321" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-78006" y="121466" z="-3560" heading="26569" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-79342" y="124880" z="-3688" heading="37344" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-79414" y="124529" z="-3672" heading="48394" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-79414" y="124816" z="-3680" heading="45913" respawnTime="60sec" /> <!-- Cloudy Beast -->
 			<npc id="21097" x="-67204" y="110795" z="-3480" heading="3218" respawnTime="60sec" /> <!-- Young Araneid -->
 			<npc id="21097" x="-67347" y="110309" z="-3552" heading="62235" respawnTime="60sec" /> <!-- Young Araneid -->
 			<npc id="21097" x="-67521" y="110913" z="-3472" heading="61374" respawnTime="60sec" /> <!-- Young Araneid -->
