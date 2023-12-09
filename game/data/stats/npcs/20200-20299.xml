@@ -7453,57 +7453,6 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="20296" level="21" type="Monster" name="Virud Lizardman Scout">
-		<parameters>
-			<param name="MoveAroundSocial" value="139" />
-			<param name="MoveAroundSocial1" value="35" />
-			<param name="MoveAroundSocial2" value="139" />
-			<param name="SoulShot" value="100" />
-			<param name="SoulShotRate" value="10" />
-			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="5" />
-		</parameters>
-		<race>HUMANOID</race>
-		<sex>MALE</sex>
-		<equipment rhand="2507" /> <!-- rhand: Lizardspear -->
-		<acquire exp="787" sp="36" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
-			<attack physical="47.91924" magical="32.72263" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
-			<defence physical="89.73059" magical="59.7436374813816" />
-			<attribute>
-				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
-			</attribute>
-			<speed>
-				<walk ground="43" />
-				<run ground="130" />
-			</speed>
-			<hitTime>720</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="9" /> <!-- Bows -->
-			<skill id="4416" level="6" /> <!-- Humanoids -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
-			<clanList>
-				<clan>LIZARDMAN</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="10" grown="12" />
-			<height normal="22" grown="27" />
-		</collision>
-	</npc>
 	<npc id="20297" level="23" type="Monster" name="Virud Lizardman Shaman">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />

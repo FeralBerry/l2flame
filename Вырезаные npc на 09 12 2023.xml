@@ -3060,6 +3060,88 @@
 	<height normal="25.5" />
 </collision>
 </npc>
+<npc id="20118" level="21" type="Monster" name="Dre Vanul Scout">
+<parameters>
+	<param name="MoveAroundSocial" value="0" />
+	<param name="MoveAroundSocial1" value="0" />
+	<param name="MoveAroundSocial2" value="0" />
+	<param name="SoulShot" value="100" />
+	<param name="SoulShotRate" value="10" />
+	<param name="SpiritShot" value="100" />
+	<param name="SpiritShotRate" value="5" />
+	<param name="LongRangeGuardRate" value="5" />
+	<skill name="DDMagic1" id="4100" level="2" /> <!-- NPC Prominence -->
+	<skill name="DDMagic2" id="4002" level="2" /> <!-- NPC HP Drain -->
+	<skill name="DeBuff" id="4038" level="3" /> <!-- Decrease Atk. Spd. -->
+</parameters>
+<race>DEMONIC</race>
+<sex>MALE</sex>
+<acquire exp="779" sp="36" />
+<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+	<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
+	<attack physical="47.91924" magical="32.72263" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+	<defence physical="89.73059" magical="59.7436374813816" />
+	<attribute>
+		<attack type="DARK" value="20" />
+		<defence fire="20" water="20" wind="20" earth="20" holy="-13" dark="184" />
+	</attribute>
+	<speed>
+		<walk ground="80" />
+		<run ground="80" />
+	</speed>
+	<hitTime>350</hitTime>
+</stats>
+<status undying="false" canBeSown="true" />
+<skillList>
+	<skill id="4002" level="2" /> <!-- NPC HP Drain -->
+	<skill id="4038" level="3" /> <!-- Decrease Atk. Spd. -->
+	<skill id="4100" level="2" /> <!-- NPC Prominence -->
+	<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+	<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+	<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+	<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+	<skill id="4414" level="2" /> <!-- Standard Type -->
+	<skill id="4415" level="5" /> <!-- Blunt Weapons -->
+	<skill id="4416" level="9" /> <!-- Demons -->
+</skillList>
+<shots shotChance="30" spiritChance="30" />
+<exCrtEffect>false</exCrtEffect>
+<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+	<clanList>
+		<clan>DEMONIC</clan>
+	</clanList>
+</ai>
+<dropLists>
+	<drop>
+		<group chance="70">
+			<item id="57" min="132" max="236" chance="100" /> <!-- Adena -->
+		</group>
+		<group chance="0.063">
+			<item id="87" min="1" max="1" chance="7.244" /> <!-- Iron Hammer -->
+			<item id="2014" min="1" max="1" chance="78.2681" /> <!-- Iron Hammer Head -->
+			<item id="155" min="1" max="1" chance="7.244" /> <!-- Flanged Mace -->
+			<item id="177" min="1" max="1" chance="7.2439" /> <!-- Mage Staff -->
+		</group>
+		<group chance="12.52">
+			<item id="1868" min="1" max="1" chance="68.5291" /> <!-- Thread -->
+			<item id="1873" min="1" max="1" chance="13.7058" /> <!-- Silver Nugget -->
+			<item id="2179" min="1" max="1" chance="16.3945" /> <!-- Recipe: Crafted Leather Gloves -->
+			<item id="5273" min="1" max="1" chance="1.3706" /> <!-- Recipe: Greater Spiritshot (D) Compressed Package(100%) -->
+		</group>
+	</drop>
+	<spoil>
+		<item id="1866" min="1" max="1" chance="19.3642" /> <!-- Suede -->
+		<item id="846" min="1" max="1" chance="0.4723" /> <!-- Coral Earring -->
+		<item id="5549" min="1" max="1" chance="2.9046" /> <!-- Metallic Thread -->
+	</spoil>
+</dropLists>
+<collision>
+	<radius normal="14" />
+	<height normal="36" />
+</collision>
+</npc>
 <npc id="20152" level="19" type="Monster" name="Lizardman">
 <parameters>
 	<param name="MoveAroundSocial" value="58" />
@@ -3427,6 +3509,57 @@
 <collision>
 	<radius normal="10" />
 	<height normal="23" />
+</collision>
+</npc>
+<npc id="20296" level="21" type="Monster" name="Virud Lizardman Scout">
+<parameters>
+	<param name="MoveAroundSocial" value="139" />
+	<param name="MoveAroundSocial1" value="35" />
+	<param name="MoveAroundSocial2" value="139" />
+	<param name="SoulShot" value="100" />
+	<param name="SoulShotRate" value="10" />
+	<param name="SpiritShot" value="100" />
+	<param name="SpiritShotRate" value="5" />
+</parameters>
+<race>HUMANOID</race>
+<sex>MALE</sex>
+<equipment rhand="2507" /> <!-- rhand: Lizardspear -->
+<acquire exp="787" sp="36" />
+<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+	<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
+	<attack physical="47.91924" magical="32.72263" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+	<defence physical="89.73059" magical="59.7436374813816" />
+	<attribute>
+		<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+	</attribute>
+	<speed>
+		<walk ground="43" />
+		<run ground="130" />
+	</speed>
+	<hitTime>720</hitTime>
+</stats>
+<status undying="false" canBeSown="true" />
+<skillList>
+	<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+	<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+	<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+	<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+	<skill id="4414" level="2" /> <!-- Standard Type -->
+	<skill id="4415" level="9" /> <!-- Bows -->
+	<skill id="4416" level="6" /> <!-- Humanoids -->
+</skillList>
+<shots shotChance="30" spiritChance="30" />
+<exCrtEffect>false</exCrtEffect>
+<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+	<clanList>
+		<clan>LIZARDMAN</clan>
+	</clanList>
+</ai>
+<collision>
+	<radius normal="10" grown="12" />
+	<height normal="22" grown="27" />
 </collision>
 </npc>
 <npc id="20321" level="10" type="Monster" name="Goblin Thief">
@@ -5145,6 +5278,61 @@
 <collision>
 	<radius normal="5" />
 	<height normal="4.5" />
+</collision>
+</npc>
+<npc id="20451" level="21" type="Monster" name="Relic Spartoi">
+<parameters>
+	<param name="MoveAroundSocial" value="110" />
+	<param name="MoveAroundSocial1" value="110" />
+	<param name="MoveAroundSocial2" value="110" />
+	<param name="SoulShot" value="100" />
+	<param name="SoulShotRate" value="10" />
+	<param name="SpiritShot" value="100" />
+	<param name="SpiritShotRate" value="5" />
+	<param name="LongRangeGuardRate" value="5" />
+</parameters>
+<race>UNDEAD</race>
+<sex>MALE</sex>
+<equipment rhand="68" /> <!-- rhand: Falchion -->
+<acquire exp="1421" sp="65" />
+<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+	<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
+	<attack physical="47.91924" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+	<defence physical="89.73059" magical="59.7436374813816" />
+	<attribute>
+		<attack type="DARK" value="20" />
+		<defence fire="20" water="20" wind="20" earth="20" holy="-32" dark="53" />
+	</attribute>
+	<speed>
+		<walk ground="60" />
+		<run ground="140" />
+	</speed>
+	<hitTime>300</hitTime>
+</stats>
+<status undying="false" canBeSown="true" />
+<skillList>
+	<skill id="4274" level="1" /> <!-- Blunt Weapon Weak Point -->
+	<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+	<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+	<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+	<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+	<skill id="4414" level="2" /> <!-- Standard Type -->
+	<skill id="4415" level="3" /> <!-- One-handed Sword -->
+	<skill id="4416" level="1" /> <!-- Undead -->
+</skillList>
+<shots shotChance="30" spiritChance="30" />
+<exCrtEffect>false</exCrtEffect>
+<sNpcPropHpRate>2</sNpcPropHpRate>
+<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+	<clanList>
+		<clan>SKELETON</clan>
+	</clanList>
+</ai>
+<collision>
+	<radius normal="11" grown="13" />
+	<height normal="27" grown="34" />
 </collision>
 </npc>
 <npc id="20454" level="17" type="Monster" name="Oblivion Watcher">

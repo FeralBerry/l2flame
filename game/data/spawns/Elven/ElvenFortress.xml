@@ -2,12 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="ElvenFortress">
 		<group>
-			<npc id="20353" x="10463" y="81892" z="-3840" heading="48282" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10647" y="74719" z="-3840" heading="59598" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10805" y="74851" z="-3840" heading="44230" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10816" y="75020" z="-3840" heading="52199" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="20353" x="10905" y="82079" z="-3840" heading="48632" respawnTime="60sec" /> <!-- Dre Vanul Beholder -->
-			<npc id="30423" x="28928" y="74248" z="-3776" heading="8192" respawnTime="60sec" /> <!-- Northwind -->
 			<npc id="30639" x="17925" y="86183" z="-3608" heading="8192" respawnTime="60sec" /> <!-- Celestiel - Summoner -->
 			<npc id="31033" x="11897" y="90002" z="-3744" heading="10890" respawnTime="60sec" /> <!-- Sentinel -->
 			<npc id="31033" x="20034" y="86453" z="-3584" heading="53442" respawnTime="60sec" /> <!-- Sentinel -->

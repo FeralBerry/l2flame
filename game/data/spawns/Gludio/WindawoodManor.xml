@@ -2,10 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="WindawoodManor">
 		<group>
-			<npc id="20055" x="-30169" y="146681" z="-3784" heading="6084" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
-			<npc id="20055" x="-30915" y="143677" z="-3672" heading="44614" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
-			<npc id="20055" x="-31990" y="147745" z="-3904" heading="23753" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
-			<npc id="20055" x="-32160" y="146106" z="-3904" heading="25933" respawnTime="60sec" /> <!-- Monster Eye Watchman -->
 			<npc id="20058" x="-23615" y="159665" z="-3240" heading="10612" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
 			<npc id="20058" x="-24544" y="161305" z="-2920" heading="10279" respawnTime="60sec" /> <!-- Ol Mahum Guard -->
 			<npc id="20058" x="-24676" y="155466" z="-3016" heading="12469" respawnTime="60sec" /> <!-- Ol Mahum Guard -->

@@ -2,31 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_11">
 		<group>
-			<npc id="21127" x="167174" y="-198133" z="-3496" heading="46366" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="171445" y="-197729" z="-3576" heading="53491" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="169446" y="-199022" z="-3392" heading="18106" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="172058" y="-200018" z="-3440" heading="7074" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="174534" y="-197975" z="-3512" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="177293" y="-201671" z="-2952" heading="31587" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="173995" y="-204927" z="-3520" heading="12629" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="171334" y="-205654" z="-3592" heading="12181" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="170832" y="-206412" z="-3472" heading="33558" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="173985" y="-210505" z="-3672" heading="52709" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="177063" y="-211228" z="-3712" heading="40177" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="175065" y="-209659" z="-3624" heading="39544" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="176758" y="-210685" z="-3720" heading="56970" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="174936" y="-207680" z="-3248" heading="54844" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="175720" y="-204450" z="-3296" heading="19243" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="177396" y="-203859" z="-2976" heading="61313" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="179270" y="-208676" z="-3056" heading="35650" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="183436" y="-204164" z="-3344" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="184408" y="-208012" z="-3368" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="185137" y="-207124" z="-3376" heading="37552" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="185834" y="-207900" z="-3440" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="185380" y="-204460" z="-3296" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="185182" y="-210177" z="-3680" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="184566" y="-209549" z="-3688" respawnTime="120sec" /> <!-- Northern Goblin -->
-			<npc id="21127" x="188340" y="-209130" z="-3472" respawnTime="120sec" /> <!-- Northern Goblin -->
 			<npc id="21128" x="169543" y="-198680" z="-3432" heading="45622" respawnTime="120sec" /> <!-- Spine Golem -->
 			<npc id="21128" x="168476" y="-198922" z="-3392" heading="40768" respawnTime="120sec" /> <!-- Spine Golem -->
 			<npc id="21128" x="169486" y="-199758" z="-3336" heading="39791" respawnTime="120sec" /> <!-- Spine Golem -->
