@@ -2,23 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_11">
 		<group>
-			<npc id="21126" x="164544" y="-214596" z="-3544" heading="54904" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="164586" y="-216175" z="-3632" heading="47336" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="164749" y="-213328" z="-3536" heading="45377" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="166108" y="-211966" z="-3560" heading="9501" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="165411" y="-209593" z="-3512" heading="59015" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="165653" y="-210363" z="-3544" heading="18664" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="165858" y="-206733" z="-3568" heading="16478" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="166621" y="-207738" z="-3584" heading="51846" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="164708" y="-203289" z="-3536" heading="25278" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="164212" y="-202770" z="-3552" heading="56235" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="167302" y="-202961" z="-3568" heading="21535" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="170091" y="-209864" z="-3512" heading="63627" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="171676" y="-212659" z="-3648" heading="31189" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="171753" y="-215067" z="-3536" heading="44996" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="172170" y="-211372" z="-3648" heading="61126" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="172264" y="-208412" z="-3592" heading="61000" respawnTime="120sec" /> <!-- Kerope Werewolf -->
-			<npc id="21126" x="172956" y="-215059" z="-3520" heading="49200" respawnTime="120sec" /> <!-- Kerope Werewolf -->
 			<npc id="21127" x="167174" y="-198133" z="-3496" heading="46366" respawnTime="120sec" /> <!-- Northern Goblin -->
 			<npc id="21127" x="171445" y="-197729" z="-3576" heading="53491" respawnTime="120sec" /> <!-- Northern Goblin -->
 			<npc id="21127" x="169446" y="-199022" z="-3392" heading="18106" respawnTime="120sec" /> <!-- Northern Goblin -->

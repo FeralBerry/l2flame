@@ -2328,55 +2328,7 @@
 			<height normal="67" />
 		</collision>
 	</npc>
-	<npc id="18347" level="20" type="Monster" name="Garden Guard">
-		<parameters>
-			<param name="MoveAroundSocial" value="150" />
-			<param name="MoveAroundSocial1" value="150" />
-			<param name="MoveAroundSocial2" value="150" />
-			<param name="IsAggressive" value="1" />
-			<param name="Aggressive_Time" value="7" />
-			<param name="MoveArounding" value="0" />
-			<param name="Skill01_AttackSplash" value="1" />
-			<skill name="Skill01_ID" id="4078" level="2" />
-		</parameters>
-		<race>HUMANOID</race>
-		<sex>MALE</sex>
-		<acquire exp="707" sp="31" />
-		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="342.5127" hpRegen="2.5" mp="692.4" mpRegen="1.2" />
-			<attack physical="44.32863" magical="30.2707" random="5" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
-			<defence physical="86.87049" magical="63.56806" />
-			<speed>
-				<walk ground="36" />
-				<run ground="120" />
-			</speed>
-			<hitTime>470</hitTime>
-			<abnormalResist physical="10" magical="10" />
-		</stats>
-		<status attackable="true" />
-		<skillList>
-			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4078" level="2" /> <!-- Flame Strike -->
-		</skillList>
-		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" clanHelpRange="300" aggroRange="300">
-			<clanList>
-				<clan>NDG</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="15.5" />
-			<height normal="22.5" />
-		</collision>
-	</npc>
+
 	<npc id="18348" level="21" type="Monster" name="Garden Guard">
 		<parameters>
 			<param name="MoveAroundSocial" value="150" />

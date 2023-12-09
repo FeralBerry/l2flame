@@ -3,24 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-			<npc id="20050" x="-69023" y="105081" z="-3856" heading="62045" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-70708" y="108871" z="-3592" heading="12533" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-70926" y="109200" z="-3600" heading="11469" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-70962" y="111533" z="-3624" heading="41206" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-71084" y="103436" z="-3824" heading="56402" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-71766" y="114291" z="-3000" heading="21661" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-71804" y="106819" z="-3664" heading="27359" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-72150" y="102265" z="-3888" heading="910" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-72934" y="102405" z="-3872" heading="11703" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73095" y="102423" z="-3880" heading="17345" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73168" y="102824" z="-3504" heading="20401" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73259" y="102644" z="-3496" heading="58246" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-73463" y="106983" z="-3584" heading="21706" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-74586" y="105480" z="-3616" heading="39759" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-74761" y="107167" z="-3544" heading="46751" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-75014" y="102374" z="-3880" heading="48694" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-77310" y="104018" z="-3840" heading="30161" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="20050" x="-77697" y="102544" z="-3840" heading="34563" respawnTime="60sec" /> <!-- Arachnid Predator -->
 			<npc id="21095" x="-71724" y="111904" z="-3616" heading="40654" respawnTime="60sec" /> <!-- Giant Poison Bee -->
 			<npc id="21095" x="-71793" y="111880" z="-3616" heading="24122" respawnTime="60sec" /> <!-- Giant Poison Bee -->
 			<npc id="21095" x="-71801" y="109247" z="-3544" heading="61374" respawnTime="60sec" /> <!-- Giant Poison Bee -->

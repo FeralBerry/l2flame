@@ -2,40 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="MailleLizardmenBarracks">
 		<group>
-			<npc id="20919" x="-20507" y="121734" z="-3312" heading="40015" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-21108" y="122683" z="-3440" heading="6469" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-21635" y="121487" z="-3472" heading="19436" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-21719" y="121999" z="-3488" heading="54851" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-22243" y="122882" z="-3568" heading="38176" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-22344" y="121043" z="-3544" heading="10788" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-22564" y="120992" z="-3568" heading="7733" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-23190" y="123031" z="-3640" heading="2027" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-23345" y="123654" z="-3560" heading="45453" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-24043" y="121129" z="-3648" heading="28844" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-24055" y="123687" z="-3560" heading="8020" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-24104" y="121513" z="-3664" heading="53638" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-24453" y="122980" z="-3640" heading="64202" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20919" x="-24567" y="119490" z="-3632" heading="32116" respawnTime="60sec" /> <!-- Maille Lizardman -->
-			<npc id="20920" x="-20646" y="122743" z="-3400" heading="11711" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-20651" y="122942" z="-3408" heading="33748" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-20896" y="122943" z="-3440" heading="40213" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-21207" y="122394" z="-3440" heading="7891" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-21661" y="123747" z="-3472" heading="35089" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-21687" y="122883" z="-3528" heading="847" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-22491" y="122131" z="-3576" heading="62358" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-22676" y="119765" z="-3560" heading="9137" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-23024" y="123122" z="-3632" heading="18835" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-23052" y="123017" z="-3640" heading="3451" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-23082" y="123511" z="-3600" heading="58050" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-23094" y="119997" z="-3576" heading="17358" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-23302" y="123117" z="-3640" heading="20838" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-23370" y="123512" z="-3560" heading="46715" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-23961" y="123038" z="-3608" heading="51591" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-25701" y="114266" z="-3656" heading="47776" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-25800" y="114667" z="-3624" heading="33014" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-26781" y="112885" z="-3536" heading="60341" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-26916" y="113922" z="-3520" heading="18506" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
-			<npc id="20920" x="-27363" y="115789" z="-3712" heading="44533" respawnTime="60sec" /> <!-- Maille Lizardman Scout -->
 			<npc id="20921" x="-21570" y="123555" z="-3464" heading="49153" respawnTime="60sec" /> <!-- Maille Lizardman Guard -->
 			<npc id="20921" x="-21666" y="123642" z="-3480" heading="12527" respawnTime="60sec" /> <!-- Maille Lizardman Guard -->
 			<npc id="20921" x="-22092" y="122719" z="-3560" heading="2437" respawnTime="60sec" /> <!-- Maille Lizardman Guard -->
