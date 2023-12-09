@@ -2,35 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_11">
 		<group>
-			<npc id="21128" x="169543" y="-198680" z="-3432" heading="45622" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="168476" y="-198922" z="-3392" heading="40768" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="169486" y="-199758" z="-3336" heading="39791" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="172599" y="-200625" z="-3344" heading="27200" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="174177" y="-197670" z="-3520" heading="22318" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="176636" y="-202506" z="-3104" heading="51130" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="169708" y="-205913" z="-3536" heading="7324" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="173965" y="-206571" z="-3424" heading="17820" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="171133" y="-207591" z="-3528" heading="37912" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="174975" y="-212311" z="-3656" heading="45797" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="175701" y="-212026" z="-3696" heading="31344" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="175542" y="-211883" z="-3704" heading="52575" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="177430" y="-211754" z="-3680" heading="16281" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="177442" y="-212475" z="-3616" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="177120" y="-208293" z="-3096" heading="55670" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="177295" y="-206794" z="-3320" heading="50295" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="174663" y="-205124" z="-3432" heading="57198" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="176255" y="-205366" z="-3424" heading="12472" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="175608" y="-202765" z="-3304" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="182478" y="-210771" z="-3704" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="182478" y="-209793" z="-3680" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="183193" y="-207716" z="-3416" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="183193" y="-205940" z="-3496" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="183436" y="-205940" z="-3504" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="182464" y="-205348" z="-3264" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="186013" y="-208638" z="-3536" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="184566" y="-208921" z="-3528" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="185490" y="-210177" z="-3688" respawnTime="120sec" /> <!-- Spine Golem -->
-			<npc id="21128" x="187266" y="-209376" z="-3448" respawnTime="120sec" /> <!-- Spine Golem -->
 			<npc id="21129" x="167727" y="-198702" z="-3488" heading="28903" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
 			<npc id="21129" x="171108" y="-197326" z="-3584" heading="65219" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
 			<npc id="21129" x="170838" y="-198870" z="-3544" heading="49788" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->

@@ -3,57 +3,7 @@
 	<!-- пропуск 20700 - 20737 -->
 
 	<!-- пропуск 20740 - 20742 -->
-	<npc id="20742" level="22" type="Monster" name="Mystical Weaver">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<param name="SoulShot" value="100" />
-			<param name="SoulShotRate" value="10" />
-			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="5" />
-			<param name="LongRangeGuardRate" value="5" />
-		</parameters>
-		<race>CONSTRUCT</race>
-		<sex>MALE</sex>
-		<acquire exp="821" sp="38" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="387.02878" hpRegen="3.5" mp="218.52" mpRegen="1.5" />
-			<attack physical="51.75278" magical="35.34044" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="92.65694" magical="61.6920289224665" />
-			<attribute>
-				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
-			</attribute>
-			<speed>
-				<walk ground="90" />
-				<run ground="90" />
-			</speed>
-			<hitTime>390</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="2" /> <!-- Magic Creatures -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
-			<clanList>
-				<clan>PARTISAN</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="11" grown="13" />
-			<height normal="20" grown="24" />
-		</collision>
-	</npc>
+
 	<npc id="20743" level="25" type="Monster" name="Howler">
 		<parameters>
 			<param name="MoveAroundSocial" value="72" />
@@ -103,58 +53,6 @@
 		<collision>
 			<radius normal="10" />
 			<height normal="26" />
-		</collision>
-	</npc>
-	<npc id="20744" level="22" type="Monster" name="Red Eye Vampire Bat">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<param name="SoulShot" value="100" />
-			<param name="SoulShotRate" value="10" />
-			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="5" />
-			<param name="LongRangeGuardRate" value="5" />
-		</parameters>
-		<race>ANIMAL</race>
-		<sex>MALE</sex>
-		<acquire exp="821" sp="38" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="387.02878" hpRegen="3.5" mp="218.52" mpRegen="1.5" />
-			<attack physical="51.75278" magical="35.34044" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="92.65694" magical="61.6920289224665" />
-			<attribute>
-				<defence fire="20" water="20" wind="-5" earth="20" holy="20" dark="20" />
-			</attribute>
-			<speed>
-				<walk ground="60" />
-				<run ground="80" />
-			</speed>
-			<hitTime>500</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4276" level="1" /> <!-- Weak Point against Bow/Crossbow Weapons -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4416" level="4" /> <!-- Animals -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
-			<clanList>
-				<clan>PARTISAN</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="10" />
-			<height normal="33.5" />
 		</collision>
 	</npc>
 	<npc id="20745" level="35" type="Monster" name="Gigantiops">

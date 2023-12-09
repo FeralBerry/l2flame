@@ -2,7 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="21_22">
 		<group>
-			<npc id="20265" x="34709" y="133380" z="-2968" heading="59577" respawnTime="24sec" /> <!-- Monster Eye Searcher -->
 			<npc id="20266" x="33770" y="139756" z="-3168" heading="63735" respawnTime="24sec" /> <!-- Monster Eye Overseer -->
 			<npc id="20266" x="33329" y="141091" z="-3200" heading="64131" respawnTime="24sec" /> <!-- Monster Eye Overseer -->
 			<npc id="20266" x="33924" y="134785" z="-3080" heading="6470" respawnTime="24sec" /> <!-- Monster Eye Overseer -->

@@ -3,25 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-			<npc id="21096" x="-70292" y="111862" z="-3512" heading="14461" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-70591" y="112614" z="-3408" heading="37291" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-71693" y="112210" z="-3592" heading="44472" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-71749" y="112482" z="-3520" heading="26243" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-72767" y="112363" z="-3488" heading="34077" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-73660" y="112621" z="-3344" heading="50070" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-73248" y="122275" z="-3688" heading="37084" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-74864" y="121569" z="-3688" heading="24575" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76058" y="119714" z="-3456" heading="37344" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76223" y="119905" z="-3464" heading="21766" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76718" y="120025" z="-3448" heading="7032" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-76974" y="120564" z="-3520" heading="8191" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-77281" y="123429" z="-3632" heading="62940" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-77353" y="124889" z="-3688" heading="2618" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-77901" y="120541" z="-3424" heading="60321" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-78006" y="121466" z="-3560" heading="26569" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-79342" y="124880" z="-3688" heading="37344" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-79414" y="124529" z="-3672" heading="48394" respawnTime="60sec" /> <!-- Cloudy Beast -->
-			<npc id="21096" x="-79414" y="124816" z="-3680" heading="45913" respawnTime="60sec" /> <!-- Cloudy Beast -->
 			<npc id="21097" x="-67204" y="110795" z="-3480" heading="3218" respawnTime="60sec" /> <!-- Young Araneid -->
 			<npc id="21097" x="-67347" y="110309" z="-3552" heading="62235" respawnTime="60sec" /> <!-- Young Araneid -->
 			<npc id="21097" x="-67521" y="110913" z="-3472" heading="61374" respawnTime="60sec" /> <!-- Young Araneid -->
