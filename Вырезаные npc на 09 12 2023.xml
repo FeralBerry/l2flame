@@ -1303,6 +1303,102 @@
 	<height normal="22.5" />
 </collision>
 </npc>
+<npc id="20008" level="14" type="Monster" name="Felim Lizardman">
+<parameters>
+	<param name="MoveAroundSocial" value="58" />
+	<param name="MoveAroundSocial1" value="58" />
+	<param name="MoveAroundSocial2" value="58" />
+</parameters>
+<race>HUMANOID</race>
+<sex>MALE</sex>
+<equipment rhand="1" /> <!-- Short Sword -->
+<acquire exp="498" sp="19" />
+<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
+	<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
+	<attack physical="27.24646" magical="18.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+	<defence physical="71.08179" magical="52.01457" />
+	<speed>
+		<walk ground="43" />
+		<run ground="130" />
+	</speed>
+	<hitTime>480</hitTime>
+	<abnormalResist physical="10" magical="10" />
+</stats>
+<status attackable="true" />
+<skillList>
+	<skill id="4416" level="6" /> <!-- Humanoids -->
+	<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+	<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+	<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+	<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+	<skill id="4414" level="2" /> <!-- Standard Type -->
+	<skill id="4415" level="3" /> <!-- One-handed Sword -->
+</skillList>
+<exCrtEffect>false</exCrtEffect>
+<ai clanHelpRange="300" aggroRange="450">
+	<clanList>
+		<clan>LIZARDMAN</clan>
+	</clanList>
+</ai>
+<collision>
+	<radius normal="10" />
+	<height normal="23" />
+</collision>
+<dropLists>
+	<drop>
+		<group chance="70">
+			<item id="57" min="114" max="168" chance="100" /> <!-- Adena -->
+		</group>
+		<group chance="0.0992">
+			<item id="2371" min="1" max="1" chance="68.0851" /> <!-- Fist of Butcher -->
+			<item id="255" min="1" max="1" chance="31.9149" /> <!-- Fox Claw Gloves -->
+		</group>
+		<group chance="9.1008">
+			<item id="1870" min="1" max="1" chance="48.227" /> <!-- Coal -->
+			<item id="1865" min="1" max="1" chance="48.227" /> <!-- Varnish -->
+			<item id="1792" min="1" max="1" chance="3.546" /> <!-- Recipe: Short Spear -->
+		</group>
+		<group chance="42">
+			<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+			<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+			<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+		</group>
+		<group chance="11">
+			<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+			<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+			<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+		</group>
+		<group chance="25">
+			<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+			<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+			<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+			<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+			<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+		</group>
+		<group chance="10">
+			<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+			<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+		</group>
+		<group chance="1">
+			<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+			<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+			<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+		</group>
+		<group chance="11">
+			<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+			<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+			<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+		</group>
+	</drop>
+	<spoil>
+		<item id="1793" min="1" max="1" chance="1.6388" /> <!-- Recipe: Sword of Reflection -->
+		<item id="1871" min="1" max="1" chance="22.2882" /> <!-- Charcoal -->
+		<item id="1870" min="1" max="1" chance="22.2882" /> <!-- Coal -->
+	</spoil>
+</dropLists>
+</npc>
 <npc id="20009" level="14" type="Monster" name="Vuku Orc">
 <parameters>
 	<param name="MoveAroundSocial" value="138" />
@@ -4213,6 +4309,110 @@
 <collision>
 	<radius normal="10" grown="12" />
 	<height normal="22" grown="27" />
+</collision>
+</npc>
+<npc id="20297" level="23" type="Monster" name="Virud Lizardman Shaman">
+<parameters>
+	<param name="MoveAroundSocial" value="75" />
+	<param name="MoveAroundSocial1" value="75" />
+	<param name="MoveAroundSocial2" value="75" />
+	<param name="SoulShot" value="100" />
+	<param name="SoulShotRate" value="10" />
+	<param name="SpiritShot" value="100" />
+	<param name="SpiritShotRate" value="5" />
+	<param name="LongRangeGuardRate" value="5" />
+</parameters>
+<race>HUMANOID</race>
+<sex>MALE</sex>
+<equipment rhand="7" /> <!-- rhand: Apprentice's Rod -->
+<acquire exp="878" sp="42" />
+<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+	<vitals hp="410.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
+	<attack physical="55.84125" magical="38.13234" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+	<defence physical="95.64976" magical="63.6846860642986" />
+	<attribute>
+		<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+	</attribute>
+	<speed>
+		<walk ground="43" />
+		<run ground="120" />
+	</speed>
+	<hitTime>480</hitTime>
+</stats>
+<status undying="false" canBeSown="true" />
+<skillList>
+	<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+	<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+	<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+	<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+	<skill id="4414" level="2" /> <!-- Standard Type -->
+	<skill id="4415" level="5" /> <!-- Blunt Weapons -->
+	<skill id="4416" level="6" /> <!-- Humanoids -->
+</skillList>
+<shots shotChance="30" spiritChance="30" />
+<exCrtEffect>false</exCrtEffect>
+<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="false">
+	<clanList>
+		<clan>LIZARDMAN</clan>
+	</clanList>
+</ai>
+<collision>
+	<radius normal="10" />
+	<height normal="29" />
+</collision>
+</npc>
+<npc id="20298" level="23" type="Monster" name="Virud Lizardman Shaman">
+<parameters>
+	<param name="MoveAroundSocial" value="75" />
+	<param name="MoveAroundSocial1" value="75" />
+	<param name="MoveAroundSocial2" value="75" />
+	<param name="SoulShot" value="100" />
+	<param name="SoulShotRate" value="10" />
+	<param name="SpiritShot" value="100" />
+	<param name="SpiritShotRate" value="5" />
+	<param name="LongRangeGuardRate" value="5" />
+</parameters>
+<race>HUMANOID</race>
+<sex>MALE</sex>
+<equipment rhand="7" /> <!-- rhand: Apprentice's Rod -->
+<acquire exp="878" sp="42" />
+<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+	<vitals hp="410.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
+	<attack physical="55.84125" magical="38.13234" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+	<defence physical="95.64976" magical="63.6846860642986" />
+	<attribute>
+		<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+	</attribute>
+	<speed>
+		<walk ground="43" />
+		<run ground="120" />
+	</speed>
+	<hitTime>480</hitTime>
+</stats>
+<status undying="false" canBeSown="true" />
+<skillList>
+	<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+	<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+	<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+	<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+	<skill id="4414" level="2" /> <!-- Standard Type -->
+	<skill id="4415" level="5" /> <!-- Blunt Weapons -->
+	<skill id="4416" level="6" /> <!-- Humanoids -->
+</skillList>
+<shots shotChance="30" spiritChance="30" />
+<exCrtEffect>false</exCrtEffect>
+<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="false">
+	<clanList>
+		<clan>LIZARDMAN</clan>
+	</clanList>
+</ai>
+<collision>
+	<radius normal="10" />
+	<height normal="29" />
 </collision>
 </npc>
 <npc id="20321" level="10" type="Monster" name="Goblin Thief">
@@ -8534,6 +8734,83 @@
 <collision>
 	<radius normal="10" />
 	<height normal="33.5" />
+</collision>
+</npc>
+<npc id="21256" level="23" type="Monster" name="Underground Werewolf">
+<parameters>
+	<param name="MoveAroundSocial" value="72" />
+	<param name="MoveAroundSocial1" value="72" />
+	<param name="MoveAroundSocial2" value="72" />
+	<param name="SoulShot" value="100" />
+	<param name="SoulShotRate" value="10" />
+	<param name="SpiritShot" value="100" />
+	<param name="SpiritShotRate" value="5" />
+	<param name="LongRangeGuardRate" value="5" />
+</parameters>
+<race>HUMANOID</race>
+<sex>MALE</sex>
+<acquire exp="904" sp="43" />
+<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+	<vitals hp="410.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
+	<attack physical="55.84125" magical="38.13234" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+	<defence physical="95.64976" magical="63.6846860642986" />
+	<attribute>
+		<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+	</attribute>
+	<speed>
+		<walk ground="50" />
+		<run ground="135" />
+	</speed>
+	<hitTime>430</hitTime>
+</stats>
+<status undying="false" canBeSown="true" />
+<skillList>
+	<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+	<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+	<skill id="4412" level="11" /> <!-- Average P. Def. -->
+	<skill id="4413" level="11" /> <!-- Average M. Def. -->
+	<skill id="4414" level="3" /> <!-- Light Armor Type -->
+	<skill id="4415" level="5" /> <!-- Blunt Weapons -->
+	<skill id="4416" level="6" /> <!-- Humanoids -->
+</skillList>
+<shots shotChance="30" spiritChance="30" />
+<exCrtEffect>false</exCrtEffect>
+<ai aggroRange="800" clanHelpRange="600">
+	<clanList>
+		<clan>ALL</clan>
+	</clanList>
+</ai>
+<dropLists>
+	<drop>
+		<group chance="70">
+			<item id="57" min="149" max="262" chance="100" /> <!-- Adena -->
+		</group>
+		<group chance="1.089">
+			<item id="27" min="1" max="1" chance="3.1003" /> <!-- Hard Leather Shirt -->
+			<item id="1927" min="1" max="1" chance="35.1206" /> <!-- Hard Leather Shirt Pattern -->
+			<item id="33" min="1" max="1" chance="4.9744" /> <!-- Hard Leather Gaiters -->
+			<item id="1929" min="1" max="1" chance="56.8047" /> <!-- Hard Leather Gaiters Material -->
+		</group>
+		<group chance="9.7055">
+			<item id="1867" min="1" max="1" chance="43.9077" /> <!-- Animal Skin -->
+			<item id="1872" min="1" max="1" chance="43.9077" /> <!-- Animal Bone -->
+			<item id="1882" min="1" max="1" chance="7.318" /> <!-- Leather -->
+			<item id="5153" min="1" max="1" chance="1.3172" /> <!-- Recipe: Soulshot (D) Compressed Package (100%) -->
+			<item id="8294" min="1" max="1" chance="0.8052" /> <!-- Recipe: Steel Sword (100%) -->
+			<item id="735" min="1" max="1" chance="2.7442" /> <!-- Potion of Alacrity -->
+		</group>
+	</drop>
+	<spoil>
+		<item id="1804" min="1" max="1" chance="1.2984" /> <!-- Recipe: Soulshot: D-Grade -->
+		<item id="1898" min="1" max="1" chance="3.3344" /> <!-- Blue Diamond Necklace Gem -->
+		<item id="1872" min="1" max="1" chance="43.2806" /> <!-- Animal Bone -->
+	</spoil>
+</dropLists>
+<collision>
+	<radius normal="11" />
+	<height normal="29.7" />
 </collision>
 </npc>
 <npc id="22239" level="11" type="Monster" name="Muertos Guard">

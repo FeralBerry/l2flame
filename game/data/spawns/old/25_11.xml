@@ -2,34 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_11">
 		<group>
-			<npc id="21129" x="167727" y="-198702" z="-3488" heading="28903" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="171108" y="-197326" z="-3584" heading="65219" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="170838" y="-198870" z="-3544" heading="49788" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="169219" y="-198850" z="-3400" heading="764" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="170694" y="-201003" z="-3360" heading="15596" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="171067" y="-202626" z="-3616" heading="32442" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="172420" y="-198194" z="-3560" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="176705" y="-202303" z="-3016" heading="34401" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="171678" y="-205126" z="-3632" heading="523" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="170082" y="-206795" z="-3560" heading="39481" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="173716" y="-205994" z="-3496" heading="57512" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="173533" y="-210961" z="-3672" heading="14530" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="174875" y="-211151" z="-3712" heading="46198" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="177901" y="-213036" z="-3536" heading="31648" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="175348" y="-209530" z="-3560" heading="12450" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="177754" y="-208707" z="-3128" heading="42985" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="177762" y="-206464" z="-3160" heading="1714" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="176982" y="-203410" z="-3064" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="181978" y="-206236" z="-3312" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="182280" y="-209693" z="-3672" heading="573" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="183117" y="-209630" z="-3680" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="182464" y="-207124" z="-3464" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="183193" y="-207420" z="-3416" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="184408" y="-208308" z="-3384" heading="678" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="185834" y="-206670" z="-3352" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="188340" y="-207654" z="-3616" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="186260" y="-210648" z="-3680" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
-			<npc id="21129" x="185798" y="-210648" z="-3696" respawnTime="120sec" /> <!-- Kerope Werewolf Chief -->
 			<npc id="21130" x="184048" y="-203224" z="-3368" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
 			<npc id="21130" x="182868" y="-201280" z="-2808" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
 			<npc id="21130" x="184284" y="-201712" z="-3352" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->

@@ -3,28 +3,6 @@
 	<spawn name="OrcBarracks">
 		<group>
 			<npc id="20495" x="-90818" y="111365" z="-3448" heading="21114" respawnTime="60sec" /> <!-- Turek Orc Prefect -->
-			<npc id="21097" x="-67204" y="110795" z="-3480" heading="3218" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-67347" y="110309" z="-3552" heading="62235" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-67521" y="110913" z="-3472" heading="61374" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-67713" y="111906" z="-3440" heading="1307" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-73005" y="119597" z="-3608" heading="38733" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-73111" y="117563" z="-3568" heading="40438" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-73391" y="116746" z="-3464" heading="52728" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-73502" y="117045" z="-3504" heading="8487" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-74245" y="118599" z="-3544" heading="45792" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-74399" y="123537" z="-3776" heading="52424" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-75172" y="120178" z="-3560" heading="5457" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-76187" y="119766" z="-3448" heading="9359" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-76738" y="121535" z="-3632" heading="17826" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-76776" y="123578" z="-3680" heading="41411" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-77992" y="124859" z="-3680" heading="34873" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-78119" y="126239" z="-3704" heading="37449" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-78152" y="125146" z="-3680" heading="18192" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-78403" y="126997" z="-3672" heading="45325" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-78644" y="124913" z="-3688" heading="12762" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-79456" y="126804" z="-3688" heading="46495" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-79607" y="125894" z="-3648" heading="35109" respawnTime="60sec" /> <!-- Young Araneid -->
-			<npc id="21097" x="-83249" y="126466" z="-3592" heading="47447" respawnTime="60sec" /> <!-- Young Araneid -->
 			<npc id="21098" x="-66458" y="110406" z="-3576" heading="14018" respawnTime="60sec" /> <!-- Plain Grizzly -->
 			<npc id="21098" x="-67603" y="110093" z="-3576" heading="37488" respawnTime="60sec" /> <!-- Plain Grizzly -->
 			<npc id="21098" x="-67919" y="111832" z="-3464" heading="6781" respawnTime="60sec" /> <!-- Plain Grizzly -->

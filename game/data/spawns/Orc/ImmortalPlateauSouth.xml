@@ -52,6 +52,7 @@
 		<npc id="20107" count="10" respawnTime="40sec" chaseRange="1500" /><!-- Крысолюд 16 лвл -->
 	</spawn>
 	<spawn>
+		<!-- Территория РБ Icarus' Herald Kaysha (21) с Лирейн и Ундина -->
 		<territories>
 			<territory name="ImmortalPlateauSouth_004" minZ="-3736" maxZ="-3448">
 				<node x="-24309" y="-86701"/>
