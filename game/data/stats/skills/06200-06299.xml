@@ -497,13 +497,20 @@
 		<targetType>TARGET</targetType>
 		<affectScope>SINGLE</affectScope>
 	</skill>
-	<skill id="6209" toLevel="4" name="Grade Penalty">
+	<skill id="6209" toLevel="11" name="Grade Penalty">
 		<!-- The grade of equipment doesn't match your level, so the following penalties are incurred: Accuracy -16, P. Critical Rate -10%, P. Critical Damage -10%, Atk. Spd. -10%, and P. Atk. -10%. -->
 		<icon>
-			<value level="1">icon.skill6209_1</value>
-			<value level="2">icon.skill6209_2</value>
-			<value level="3">icon.skill6209_3</value>
-			<value level="4">icon.skill6209_4</value>
+			<value level="1">icon.skill0239</value>
+			<value level="2">icon.skill0240</value>
+			<value level="3">icon.skill0241</value>
+			<value level="4">icon.skill0242</value>
+			<value level="5">icon.skill0243</value>
+			<value level="6">icon.skill0243</value>
+			<value level="7">icon.skill0243</value>
+			<value level="8">icon.skill0243_1</value>
+			<value level="9">icon.skill0243_1</value>
+			<value level="10">icon.skill0243_1</value>
+			<value level="11">icon.skill0243_1</value>
 		</icon>
 		<magicLevel>1</magicLevel>
 		<operateType>P</operateType>
@@ -511,44 +518,117 @@
 		<magicCriticalRate>-5</magicCriticalRate>
 		<effects>
 			<effect name="PAtk">
-				<amount>-10</amount>
+				<amount>
+					<value level="1">-20</value>
+					<value level="2">-40</value>
+					<value level="3">-60</value>
+					<value level="4">-80</value>
+					<value level="5">-85</value>
+					<value level="6">-88</value>
+					<value level="7">-90</value>
+					<value level="8">-92</value>
+					<value level="9">-94</value>
+					<value level="10">-96</value>
+					<value level="11">-98</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>
+					<value level="1">-20</value>
+					<value level="2">-40</value>
+					<value level="3">-60</value>
+					<value level="4">-80</value>
+					<value level="5">-85</value>
+					<value level="6">-88</value>
+					<value level="7">-90</value>
+					<value level="8">-92</value>
+					<value level="9">-94</value>
+					<value level="10">-96</value>
+					<value level="11">-98</value>
+				</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="Accuracy">
-				<amount>-16</amount>
+				<amount>
+					<value level="1">-2.5</value>
+					<value level="2">-5</value>
+					<value level="3">-7.5</value>
+					<value level="4">-10</value>
+					<value level="5">-15</value>
+					<value level="6">-20</value>
+					<value level="7">-23</value>
+					<value level="8">-28</value>
+					<value level="9">-32</value>
+					<value level="10">-35</value>
+					<value level="11">-40</value>
+				</amount>
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="PhysicalAttackSpeed">
-				<amount>-10</amount>
+				<amount>
+					<value level="1">-20</value>
+					<value level="2">-40</value>
+					<value level="3">-60</value>
+					<value level="4">-80</value>
+					<value level="5">-85</value>
+					<value level="6">-88</value>
+					<value level="7">-90</value>
+					<value level="8">-92</value>
+					<value level="9">-94</value>
+					<value level="10">-96</value>
+					<value level="11">-98</value>
+				</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="CriticalDamage">
 				<amount>
-					<value level="1">-10</value>
-					<value level="2">-20</value>
-					<value level="3">-30</value>
-					<value level="4">-40</value>
+					<value level="1">-20</value>
+					<value level="2">-40</value>
+					<value level="3">-60</value>
+					<value level="4">-80</value>
+					<value level="5">-85</value>
+					<value level="6">-88</value>
+					<value level="7">-90</value>
+					<value level="8">-92</value>
+					<value level="9">-94</value>
+					<value level="10">-96</value>
+					<value level="11">-98</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="CriticalRate">
 				<amount>
-					<value level="1">-10</value>
-					<value level="2">-20</value>
-					<value level="3">-30</value>
-					<value level="4">-40</value>
+					<value level="1">-20</value>
+					<value level="2">-40</value>
+					<value level="3">-60</value>
+					<value level="4">-80</value>
+					<value level="5">-85</value>
+					<value level="6">-88</value>
+					<value level="7">-90</value>
+					<value level="8">-92</value>
+					<value level="9">-94</value>
+					<value level="10">-96</value>
+					<value level="11">-98</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
 		</effects>
 	</skill>
-	<skill id="6213" toLevel="4" name="Grade Penalty">
+	<skill id="6213" toLevel="11" name="Grade Penalty">
 		<!-- When equipped with armor or accessories whose grade doesn't fit with your Lv., a penalty is incurred with decreases in P. Evasion -2.5, Atk. Spd./ Casting Spd./ Speed -16.67%. -->
 		<icon>
-			<value level="1">icon.skill6213_1</value>
-			<value level="2">icon.skill6213_2</value>
-			<value level="3">icon.skill6213_3</value>
-			<value level="4">icon.skill6213_4</value>
+			<value level="1">icon.skill0239</value>
+			<value level="2">icon.skill0240</value>
+			<value level="3">icon.skill0241</value>
+			<value level="4">icon.skill0242</value>
+			<value level="5">icon.skill0243</value>
+			<value level="6">icon.skill0243</value>
+			<value level="7">icon.skill0243</value>
+			<value level="8">icon.skill0243_1</value>
+			<value level="9">icon.skill0243_1</value>
+			<value level="10">icon.skill0243_1</value>
+			<value level="11">icon.skill0243_1</value>
 		</icon>
 		<magicLevel>1</magicLevel>
 		<operateType>P</operateType>
@@ -561,6 +641,13 @@
 					<value level="2">-30.56</value>
 					<value level="3">-42.13</value>
 					<value level="4">-51.77</value>
+					<value level="5">-60.00</value>
+					<value level="6">-68.75</value>
+					<value level="7">-72.77</value>
+					<value level="8">-78.77</value>
+					<value level="9">-83.77</value>
+					<value level="10">-87.75</value>
+					<value level="11">-95.00</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
@@ -570,8 +657,47 @@
 					<value level="2">-5</value>
 					<value level="3">-7.5</value>
 					<value level="4">-10</value>
+					<value level="5">-15</value>
+					<value level="6">-20</value>
+					<value level="7">-23</value>
+					<value level="8">-28</value>
+					<value level="9">-32</value>
+					<value level="10">-35</value>
+					<value level="11">-40</value>
 				</amount>
 				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>
+					<value level="1">-16.67</value>
+					<value level="2">-30.56</value>
+					<value level="3">-42.13</value>
+					<value level="4">-51.77</value>
+					<value level="5">-60.00</value>
+					<value level="6">-68.75</value>
+					<value level="7">-72.77</value>
+					<value level="8">-78.77</value>
+					<value level="9">-83.77</value>
+					<value level="10">-87.75</value>
+					<value level="11">-95.00</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalDefence">
+				<amount>
+					<value level="1">-16.67</value>
+					<value level="2">-30.56</value>
+					<value level="3">-42.13</value>
+					<value level="4">-51.77</value>
+					<value level="5">-60.00</value>
+					<value level="6">-68.75</value>
+					<value level="7">-72.77</value>
+					<value level="8">-78.77</value>
+					<value level="9">-83.77</value>
+					<value level="10">-87.75</value>
+					<value level="11">-95.00</value>
+				</amount>
+				<mode>PER</mode>
 			</effect>
 			<effect name="PhysicalAttackSpeed">
 				<amount>
@@ -579,6 +705,13 @@
 					<value level="2">-30.56</value>
 					<value level="3">-42.13</value>
 					<value level="4">-51.77</value>
+					<value level="5">-60.00</value>
+					<value level="6">-68.75</value>
+					<value level="7">-72.77</value>
+					<value level="8">-78.77</value>
+					<value level="9">-83.77</value>
+					<value level="10">-87.75</value>
+					<value level="11">-95.00</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
@@ -588,6 +721,13 @@
 					<value level="2">-30.56</value>
 					<value level="3">-42.13</value>
 					<value level="4">-51.77</value>
+					<value level="5">-60.00</value>
+					<value level="6">-68.75</value>
+					<value level="7">-72.77</value>
+					<value level="8">-78.77</value>
+					<value level="9">-83.77</value>
+					<value level="10">-87.75</value>
+					<value level="11">-95.00</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
