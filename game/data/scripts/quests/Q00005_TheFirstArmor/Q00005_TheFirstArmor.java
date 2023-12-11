@@ -147,7 +147,7 @@ public class Q00005_TheFirstArmor extends Quest {
             if (qs.isCond(1))
             {
                 final Set<NpcLogListHolder> holder = new HashSet<>();
-                holder.add(new NpcLogListHolder(NpcStringId.SPORE_SACS.getId(), true, qs.getInt(KILL_COUNT_VAR)));
+                holder.add(new NpcLogListHolder(NpcStringId.IMP_SHACKLES.getId(), true, qs.getInt(KILL_COUNT_VAR)));
                 return holder;
             }
         }
