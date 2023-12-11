@@ -3312,7 +3312,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>WERERAT</clan>
 			</clanList>
@@ -3409,7 +3409,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>WERERAT</clan>
 			</clanList>
@@ -5015,7 +5015,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>WERERAT</clan>
 			</clanList>
@@ -5084,7 +5084,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>WERERAT</clan>
 			</clanList>

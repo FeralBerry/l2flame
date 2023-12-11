@@ -2528,7 +2528,7 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
+		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" isAggressive="true"/>
 		<dropLists>
 			<drop>
 				<group chance="67.0007">

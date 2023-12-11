@@ -105,7 +105,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>WERERAT</clan>
 			</clanList>
@@ -257,7 +257,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ELEMENTAL4</clan>
 			</clanList>
@@ -447,7 +447,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ELEMENTAL4</clan>
 			</clanList>

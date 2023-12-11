@@ -2,50 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="DionHills">
 		<group>
-			<npc id="20062" x="20155" y="137471" z="-3632" heading="40009" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="16235" y="136834" z="-3288" heading="30472" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="19396" y="139463" z="-3392" heading="13012" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="17706" y="138656" z="-3304" heading="37160" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="22710" y="133083" z="-2304" heading="43748" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="25015" y="132152" z="-1584" heading="49872" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="20240" y="132797" z="-2496" heading="36396" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="24749" y="135050" z="-2872" heading="22806" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="26334" y="132690" z="-1792" heading="8724" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="27959" y="132878" z="-2384" heading="51328" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="28926" y="136048" z="-3088" heading="35746" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="31454" y="134170" z="-3136" heading="2477" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="30530" y="133612" z="-3040" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="31029" y="134957" z="-3096" heading="9081" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="32052" y="135752" z="-3096" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="29322" y="134000" z="-2800" heading="46977" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="27942" y="138876" z="-3120" heading="61914" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="31077" y="137439" z="-3088" heading="54138" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="30131" y="141046" z="-3024" heading="62402" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="30935" y="138916" z="-3144" heading="63328" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="27284" y="137508" z="-3224" heading="1090" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="28917" y="137097" z="-3152" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="28716" y="137809" z="-3168" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="29525" y="137801" z="-3088" heading="37538" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="29202" y="142504" z="-2832" heading="64337" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="25660" y="140996" z="-3000" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="25156" y="141530" z="-3056" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="25761" y="141530" z="-2958" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="27500" y="141882" z="-2824" heading="10193" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="25426" y="144866" z="-3120" heading="11039" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="25093" y="146799" z="-3072" heading="34334" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="26684" y="148064" z="-2720" heading="40795" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="22408" y="147650" z="-3264" heading="48877" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="27490" y="148998" z="-2688" heading="29907" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="25525" y="143139" z="-2960" heading="56245" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="23593" y="146707" z="-3350" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="21202" y="149386" z="-3234" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="21064" y="151650" z="-3152" heading="3696" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="21202" y="150098" z="-3248" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="18695" y="150688" z="-3192" heading="16089" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="24578" y="149484" z="-3136" heading="60517" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="23198" y="148311" z="-3192" heading="28922" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="22213" y="150783" z="-3216" heading="1696" respawnTime="24sec" /> <!-- Tumran Bugbear -->
-			<npc id="20062" x="22007" y="149742" z="-3304" respawnTime="24sec" /> <!-- Tumran Bugbear -->
 			<npc id="21105" x="8466" y="157565" z="-2744" heading="21057" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
 			<npc id="21105" x="6941" y="155159" z="-3235" heading="46434" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
 			<npc id="21105" x="7293" y="157538" z="-3128" heading="10150" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
