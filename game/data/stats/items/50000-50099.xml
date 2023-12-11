@@ -11,5 +11,7 @@
 		<set name="is_depositable" val="true" />
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="false" />
+		<set name="price" val="100" />
+		<set name="weight" val="0" />
 	</item>
 </list>
