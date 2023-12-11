@@ -107,7 +107,7 @@ public class Q00005_TheFirstArmor extends Quest {
                     case 1: {
                         if (getQuestItemsCount(player, IMP_SHACKLES) < REQUIRED_IMP_SHACKLES_COUNT)
                         {
-                            htmltext = "00005-04.html";
+                            htmltext = "00005-04.htm";
                         }
                         break;
                     }
@@ -128,7 +128,7 @@ public class Q00005_TheFirstArmor extends Quest {
                                 }
                             }
                             qs.exitQuest(false, true);
-                            htmltext = "00005-05.html";
+                            htmltext = "00005-05.htm";
                         }
                         break;
                     }
