@@ -66,7 +66,7 @@ public class Q00005_TheFirstArmor extends Quest {
         return htmltext;
     }
     @Override
-    public String onKill(Npc npc, Player killer, boolean isSummon){
+    public String onKill(Npc npc, Player killer, boolean isSummon) {
         final QuestState qs = getQuestState(killer, false);
         if(qs == null) {
             return null;
@@ -74,8 +74,7 @@ public class Q00005_TheFirstArmor extends Quest {
         Random rn = new Random();
         int randomNum;
         int killCount = 0;
-        if (qs.isCond(1) && Util.checkIfInRange(Config.ALT_PARTY_RANGE, npc, killer, false))
-        {
+        if (qs.isCond(1) && Util.checkIfInRange(Config.ALT_PARTY_RANGE, npc, killer, false)) {
             randomNum = rn.nextInt(MAX_CHANCE - MIN_CHANCE + 1) + MIN_CHANCE;
             if(randomNum > 40) {
                 killCount = qs.getInt(KILL_COUNT_VAR) + 1;
@@ -105,26 +104,20 @@ public class Q00005_TheFirstArmor extends Quest {
             case State.STARTED: {
                 switch (qs.getCond()) {
                     case 1: {
-                        if (getQuestItemsCount(player, IMP_SHACKLES) < REQUIRED_IMP_SHACKLES_COUNT)
-                        {
+                        if (getQuestItemsCount(player, IMP_SHACKLES) < REQUIRED_IMP_SHACKLES_COUNT){
                             htmltext = "00005-04.htm";
                         }
                         break;
                     }
-                    case 2:
-                    {
-                        if (getQuestItemsCount(player, IMP_SHACKLES) >= REQUIRED_IMP_SHACKLES_COUNT)
-                        {
-                            if (player.isMageClass())
-                            {
-                                for (int i = 0; i < MAGE_SET.length; i++){
-                                    giveItems(player, MAGE_SET[i], 1);
+                    case 2: {
+                        if (getQuestItemsCount(player, IMP_SHACKLES) >= REQUIRED_IMP_SHACKLES_COUNT) {
+                            if (player.isMageClass()) {
+                                for (int j : MAGE_SET) {
+                                    giveItems(player, j, 1);
                                 }
-                            }
-                            else
-                            {
-                                for (int i = 0; i < FIGHTER_SET.length; i++){
-                                    giveItems(player, FIGHTER_SET[i], 1);
+                            } else {
+                                for (int j : FIGHTER_SET) {
+                                    giveItems(player, j, 1);
                                 }
                             }
                             qs.exitQuest(false, true);
@@ -139,13 +132,10 @@ public class Q00005_TheFirstArmor extends Quest {
         return htmltext;
     }
     @Override
-    public Set<NpcLogListHolder> getNpcLogList(Player player)
-    {
+    public Set<NpcLogListHolder> getNpcLogList(Player player) {
         final QuestState qs = getQuestState(player, false);
-        if (qs != null)
-        {
-            if (qs.isCond(1))
-            {
+        if (qs != null) {
+            if (qs.isCond(1)) {
                 final Set<NpcLogListHolder> holder = new HashSet<>();
                 holder.add(new NpcLogListHolder(NpcStringId.IMP_SHACKLES.getId(), true, qs.getInt(KILL_COUNT_VAR)));
                 return holder;
