@@ -2,7 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="24_18">
 		<group>
-			<npc id="30766" x="160611" y="21236" z="-3712" heading="32768" respawnTime="60sec" /> <!-- Cleo - Witch -->
 			<npc id="27380" x="157284" y="21161" z="-4200" heading="24994" respawnTime="60sec" /> <!-- Reckless Water Spirit - Quest Monster -->
 			<npc id="27380" x="157484" y="19558" z="-4216" heading="7684" respawnTime="60sec" /> <!-- Reckless Water Spirit - Quest Monster -->
 			<npc id="27380" x="157779" y="19788" z="-4216" heading="58920" respawnTime="60sec" /> <!-- Reckless Water Spirit - Quest Monster -->
