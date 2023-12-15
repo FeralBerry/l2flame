@@ -160,6 +160,18 @@
         <npc id="30887" x="110560" y="-11520" z="-1744" heading="12288" respawnTime="60sec" /> <!-- Border Patrol -->
         <npc id="30888" x="111396" y="-11396" z="-1728" heading="21500" respawnTime="60sec" /> <!-- Border Patrol -->
         <npc id="30889" x="110916" y="-10560" z="-1896" heading="22500" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30949" x="110831" y="15973" z="-4368" heading="412" respawnTime="60sec" />
+        <npc id="30950" x="114112" y="20042" z="944" heading="50148" respawnTime="60sec" />
+        <npc id="30951" x="118644" y="16680" z="6000" heading="42000" respawnTime="60sec" />
+        <npc id="30953" x="114048" y="20048" z="928" heading="49444" respawnTime="60sec" />
+        <npc id="30954" x="118600" y="16724" z="5984" heading="42000" respawnTime="60sec" />
+        <npc id="30958" x="44721" y="190698" z="-3626" heading="28672" respawnTime="60sec" />
+        <npc id="30971" x="129812" y="219005" z="-3576" heading="24952" respawnTime="60sec" /> <!-- Orpheus - Mad Doctor -->
+        <npc id="30978" x="181472" y="7158" z="-2725" heading="32768" respawnTime="60sec" />
+        <npc id="30979" x="50693" y="158674" z="368" respawnTime="60sec" /> <!-- Holy Ark of Secrecy 3 -->
+        <npc id="30991" x="46960" y="51506" z="-2976" heading="47000" respawnTime="60sec" />
+        <npc id="30992" x="9656" y="15578" z="-4568" heading="6000" respawnTime="60sec" />
+        <npc id="30993" x="115075" y="-178133" z="-880" heading="1000" respawnTime="60sec" />
 
     </spawn>
 </list>
