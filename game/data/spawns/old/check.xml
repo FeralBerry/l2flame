@@ -1,177 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
     <spawn name="check">
-        <npc id="30130" x="25856" y="10832" z="-3720" heading="24576" respawnTime="60sec" /><!-- Тёмные Эльфы Жрец Андреас вход храм Шилен-->
-        <npc id="30132" x="28225" y="12998" z="-3720" heading="16500" respawnTime="60sec" /><!-- Тёмные Эльфы Жрец Кектинон вход храм Шилен-->
-        <npc id="30133" x="27921" y="12991" z="-3720" heading="16500" respawnTime="60sec" /><!-- Тёмные Эльфы Жрец Картия вход храм Шилен-->
-        <npc id="30135" x="10761" y="17970" z="-4554" heading="49152" respawnTime="60sec" /><!-- Тёмные Эльфы торговец оружием Ириа -->
-        <npc id="30136" x="10823" y="18013" z="-4554" heading="61440" respawnTime="60sec" /><!-- Тёмные Эльфы торговец доспехами Пейн -->
-        <npc id="30138" x="12009" y="15704" z="-4554" heading="16384" respawnTime="60sec" /><!-- Тёмные Эльфы ювелир Миналес -->
-        <npc id="30139" x="13380" y="17430" z="-4536" heading="14384" respawnTime="60sec" /><!-- Тёмные Эльфы бакалея Воллодос -->
-        <npc id="30140" x="13464" y="17751" z="-4536" heading="47000" respawnTime="60sec" /><!-- Тёмные Эльфы рабочий склада Доранкус -->
-        <npc id="30141" x="11012" y="14128" z="-4240" heading="14500" respawnTime="60sec" /><!-- Тёмные Эльфы рабочий склада Эрвианте -->
-        <npc id="30143" x="11283" y="14226" z="-4240" heading="31000" respawnTime="60sec" /><!-- Тёмные Эльфы *-->
-        <npc id="30144" x="10344" y="14445" z="-4240" heading="63640" respawnTime="60sec" /><!-- Тёмные Эльфы *-->
-        <npc id="30145" x="11258" y="14431" z="-4240" heading="46500" respawnTime="60sec" /><!-- Тёмные Эльфы * -->
-        <npc id="30147" x="44667" y="46896" z="-2982" heading="31000" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30148" x="44683" y="46952" z="-2981" heading="28672" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30150" x="42766" y="50037" z="-2984" heading="11500" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30151" x="47868" y="50167" z="-2983" heading="50000" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30152" x="47912" y="50170" z="-2983" heading="50000" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30153" x="47780" y="49568" z="-2984" heading="4096" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30156" x="44823" y="52414" z="-2792" heading="49152" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30157" x="45000" y="52101" z="-2792" heading="16384" respawnTime="60sec" /><!-- Светлые Эльфы * -->
-        <npc id="30216" x="45778" y="46534" z="-2992" heading="40960" respawnTime="60sec" />
-        <npc id="30217" x="45487" y="46511" z="-2992" heading="57344" respawnTime="60sec" />
-        <npc id="30218" x="47595" y="51569" z="-2992" heading="16384" respawnTime="60sec" />
-        <npc id="30219" x="47401" y="51764" z="-2992" heading="0" respawnTime="60sec" />
-        <npc id="30220" x="42971" y="51372" z="-2992" heading="32768" respawnTime="60sec" />
-        <npc id="30221" x="42812" y="51138" z="-2992" heading="16384" respawnTime="60sec" />
-        <npc id="30222" x="45859" y="50827" z="-3056" heading="45056" respawnTime="60sec" />
-        <npc id="30224" x="15120" y="15656" z="-4376" heading="14384" respawnTime="60sec" />
-        <npc id="30284" x="45727" y="51721" z="-2800" heading="49152" respawnTime="60sec" />
-        <npc id="30285" x="44995" y="51706" z="-2800" heading="49352" respawnTime="60sec" />
-        <npc id="30305" x="10315" y="14293" z="-4240" heading="4096" respawnTime="60sec" />
-        <npc id="30307" x="10580" y="17574" z="-4552" heading="14000" respawnTime="60sec" />
-        <npc id="30311" x="-100332" y="238019" z="-3568" heading="36864" respawnTime="60sec" />
-        <npc id="30312" x="-78939" y="240305" z="-3440" heading="28672" respawnTime="60sec" />
-        <npc id="30346" x="6532" y="19903" z="-3688" heading="30000" respawnTime="60sec" />
-        <npc id="30347" x="6449" y="19619" z="-3688" heading="30000" respawnTime="60sec" />
-        <npc id="30348" x="17306" y="13592" z="-3720" heading="0" respawnTime="60sec" />
-        <npc id="30349" x="17102" y="13002" z="-3744" heading="24834" respawnTime="60sec" />
-        <npc id="30350" x="13763" y="17501" z="-4542" heading="30768" respawnTime="60sec" />
-        <npc id="30351" x="12328" y="14947" z="-4568" heading="21000" respawnTime="60sec" />
-        <npc id="30352" x="10301" y="18870" z="-4568" heading="55344" respawnTime="60sec" />
-        <npc id="30353" x="13081" y="18444" z="-4568" heading="46152" respawnTime="60sec" />
-        <npc id="30354" x="12311" y="17470" z="-4568" heading="40960" respawnTime="60sec" />
-        <npc id="30355" x="15272" y="16310" z="-4376" heading="47352" respawnTime="60sec" />
-        <npc id="30356" x="7496" y="17388" z="-4376" heading="13384" respawnTime="60sec" />
-        <npc id="30357" x="7644" y="18048" z="-4376" heading="47052" respawnTime="60sec" />
-        <npc id="30358" x="10775" y="14190" z="-4240" heading="14500" respawnTime="60sec" />
-        <npc id="30359" x="11235" y="14078" z="-4240" heading="24576" respawnTime="60sec" />
-        <npc id="30360" x="10447" y="14620" z="-4240" heading="46500" respawnTime="60sec" />
-        <npc id="30387" x="-91792" y="149968" z="-3629" heading="0" respawnTime="60sec" />
-        <npc id="30405" x="-115080" y="222168" z="-2928" heading="42000" respawnTime="60sec" />
-        <npc id="30406" x="-92622" y="254108" z="-3304" heading="0" respawnTime="60sec" />
-        <npc id="30407" x="-104240" y="222064" z="-3440" heading="16384" respawnTime="60sec" />
-        <npc id="30408" x="-106485" y="233377" z="-3624" heading="12288" respawnTime="60sec" />
-        <npc id="30410" x="-45040" y="179909" z="-3680" heading="16312" respawnTime="60sec" />
-        <npc id="30411" x="-20352" y="144736" z="-3840" heading="0" respawnTime="60sec" />
-        <npc id="30413" x="-60672" y="126592" z="-2957" heading="0" respawnTime="60sec" />
-        <npc id="30414" x="43673" y="49683" z="-3048" heading="0" respawnTime="60sec" />
-        <npc id="30418" x="-46464" y="59263" z="-3312" heading="20480" respawnTime="60sec" />
-        <npc id="30419" x="-44015" y="79683" z="-3648" heading="47152" respawnTime="60sec" />
-        <npc id="30420" x="-61717" y="75401" z="-3352" heading="58500" respawnTime="60sec" />
-        <npc id="30421" x="-44225" y="79721" z="-3648" heading="47152" respawnTime="60sec" />
-        <npc id="30424" x="-92310" y="154223" z="-3284" heading="57344" respawnTime="60sec" />
-        <npc id="30427" x="-113490" y="235526" z="-3640" heading="57800" respawnTime="60sec" />
-        <npc id="30428" x="-93275" y="147654" z="-2674" heading="0" respawnTime="60sec" />
-        <npc id="30429" x="-115744" y="235924" z="-4032" heading="16384" respawnTime="60sec" />
-        <npc id="30497" x="-114685" y="222291" z="-2928" heading="44000" respawnTime="60sec" />
-        <npc id="30516" x="115741" y="-181645" z="-1320" heading="8192" respawnTime="60sec" />
-        <npc id="30517" x="116192" y="-181072" z="-1336" heading="40960" respawnTime="60sec" />
-        <npc id="30518" x="115900" y="-177316" z="-880" heading="50000" respawnTime="60sec" />
-        <npc id="30519" x="116268" y="-177524" z="-880" heading="32768" respawnTime="60sec" />
-        <npc id="30520" x="115205" y="-180024" z="-872" heading="32768" respawnTime="60sec" />
-        <npc id="30521" x="114716" y="-180018" z="-872" heading="0" respawnTime="60sec" />
-        <npc id="30522" x="114832" y="-179520" z="-856" heading="49152" respawnTime="60sec" />
-        <npc id="30523" x="115717" y="-183488" z="-1472" heading="8192" respawnTime="60sec" />
-        <npc id="30524" x="115618" y="-183265" z="-1472" heading="55000" respawnTime="60sec" />
-        <npc id="30525" x="115468" y="-182446" z="-1440" heading="32768" respawnTime="60sec" />
-        <npc id="30526" x="115315" y="-182155" z="-1440" heading="49152" respawnTime="60sec" />
-        <npc id="30527" x="115271" y="-182692" z="-1440" heading="4096" respawnTime="60sec" />
-        <npc id="30528" x="108593" y="-174041" z="-408" heading="38500" respawnTime="60sec" />
-        <npc id="30529" x="112265" y="-173366" z="-608" heading="47000" respawnTime="60sec" />
-        <npc id="30530" x="108567" y="-173994" z="-408" heading="38000" respawnTime="60sec" />
-        <npc id="30531" x="116226" y="-178529" z="-944" heading="32768" respawnTime="60sec" />
-        <npc id="30532" x="116190" y="-178441" z="-944" heading="40960" respawnTime="60sec" />
-        <npc id="30533" x="116016" y="-178615" z="-944" heading="8192" respawnTime="60sec" />
-        <npc id="30534" x="116190" y="-178615" z="-944" heading="24576" respawnTime="60sec" />
-        <npc id="30536" x="116103" y="-178653" z="-944" heading="16384" respawnTime="60sec" />
-        <npc id="30538" x="114426" y="-178672" z="-808" heading="8192" respawnTime="60sec" />
-        <npc id="30542" x="116635" y="-184344" z="-1560" heading="49152" respawnTime="60sec" />
-        <npc id="30543" x="117870" y="-182606" z="-1528" heading="0" respawnTime="60sec" />
-        <npc id="30544" x="116388" y="-184353" z="-1568" heading="49152" respawnTime="60sec" />
-        <npc id="30545" x="115183" y="-176728" z="-784" heading="20480" respawnTime="60sec" />
-        <npc id="30546" x="114969" y="-176752" z="-784" heading="15384" respawnTime="60sec" />
-        <npc id="30547" x="117366" y="-178725" z="-1112" heading="0" respawnTime="60sec" />
-        <npc id="30548" x="117378" y="-178914" z="-1120" heading="0" respawnTime="60sec" />
-        <npc id="30550" x="115563" y="-182923" z="-1448" heading="8192" respawnTime="60sec" />
-        <npc id="30553" x="116852" y="-183595" z="-1568" heading="32768" respawnTime="60sec" />
-        <npc id="30554" x="112656" y="-174864" z="-608" heading="8192" respawnTime="60sec" />
-        <npc id="30555" x="114866" y="-180328" z="-781" heading="16384" respawnTime="60sec" /> <!-- Torocco - Carrier -->
-        <npc id="30556" x="154132" y="-220070" z="-3400" respawnTime="60sec" /> <!-- Toma - Master -->
-        <npc id="30569" x="-45952" y="-114784" z="-200" heading="32768" respawnTime="60sec" />
-        <npc id="30570" x="-45952" y="-114496" z="-200" heading="32768" respawnTime="60sec" />
-        <npc id="30571" x="-45863" y="-112621" z="-200" heading="32768" respawnTime="60sec" />
-        <npc id="30572" x="-45864" y="-112540" z="-200" heading="32768" respawnTime="60sec" />
-        <npc id="30590" x="12432" y="-141808" z="-1877" heading="16384" respawnTime="60sec" />
-        <npc id="30592" x="-49542" y="-109564" z="-240" heading="51000" respawnTime="60sec" />
-        <npc id="30599" x="45475" y="48359" z="-3056" heading="49152" respawnTime="60sec" />
-        <npc id="30600" x="12111" y="16686" z="-4584" heading="63240" respawnTime="60sec" />
-        <npc id="30601" x="115632" y="-177996" z="-896" heading="32768" respawnTime="60sec" />
-        <npc id="30611" x="-93523" y="152513" z="-3623" heading="28672" respawnTime="60sec" />
-        <npc id="30615" x="80100" y="119991" z="-2264" heading="19000" respawnTime="60sec" />
-        <npc id="30618" x="-55217" y="200628" z="-3724" heading="28672" respawnTime="60sec" />
-        <npc id="30619" x="-2150" y="124443" z="-3724" heading="0" respawnTime="60sec" />
-        <npc id="30635" x="-118618" y="233239" z="-2912" heading="32768" respawnTime="60sec" />
-        <npc id="30637" x="23066" y="118944" z="-3705" heading="8192" respawnTime="60sec" />
-        <npc id="30640" x="106345" y="135523" z="-3416" respawnTime="60sec" /> <!-- Brynthea - Summoner -->
-        <npc id="30649" x="21420" y="-107787" z="-2926" heading="30893" respawnTime="60sec" />
-        <npc id="30650" x="114990" y="-177294" z="-856" heading="0" respawnTime="60sec" />
-        <npc id="30651" x="116164" y="-184029" z="-1488" heading="8192" respawnTime="60sec" />
-        <npc id="30658" x="-28103" y="120634" z="-3724" heading="16384" respawnTime="60sec" />
-        <npc id="30659" x="-29120" y="122422" z="-3652" heading="49152" respawnTime="60sec" />
-        <npc id="30660" x="-21101" y="178989" z="-4094" heading="0" respawnTime="60sec" />
-        <npc id="30661" x="-59985" y="79234" z="-3496" heading="5300" respawnTime="60sec" />
-        <npc id="30662" x="-13742" y="44298" z="-3592" heading="45056" respawnTime="60sec" />
-        <npc id="30663" x="-42525" y="80087" z="-3856" heading="49152" respawnTime="60sec" />
-        <npc id="30664" x="-59997" y="79458" z="-3528" heading="0" respawnTime="60sec" />
-        <npc id="30665" x="-53664" y="85862" z="-3504" heading="53248" respawnTime="60sec" />
-        <npc id="30666" x="-671" y="179051" z="-3708" heading="32768" respawnTime="60sec" />
-        <npc id="30667" x="-112206" y="244303" z="-3448" heading="16384" respawnTime="60sec" />
-        <npc id="30670" x="125832" y="-180002" z="-1768" heading="57344" respawnTime="60sec" /> <!-- Nyakuri -->
-        <npc id="30671" x="117061" y="-181867" z="-1408" heading="36864" respawnTime="60sec" />
-        <npc id="30672" x="19092" y="-117187" z="-3136" heading="32768" respawnTime="60sec" />
-        <npc id="30675" x="19412" y="-118142" z="-3136" heading="0" respawnTime="60sec" />
-        <npc id="30702" x="117598" y="77264" z="-2585" heading="53248" respawnTime="60sec" />
-        <npc id="30733" x="-100536" y="237822" z="-3568" heading="24576" respawnTime="60sec" />
-        <npc id="30738" x="69836" y="18108" z="-3656" respawnTime="60sec" /> <!-- Matild - Alchemist -->
-        <npc id="30748" x="70525" y="30754" z="-1384" heading="28672" respawnTime="60sec" /> <!-- Exarion - Drake -->
-        <npc id="30750" x="71569" y="44058" z="-1436" respawnTime="60sec" /> <!-- Kalibran - Drake -->
-        <npc id="30751" x="62008" y="107589" z="-1893" heading="0" respawnTime="60sec" />
-        <npc id="30752" x="64001" y="126486" z="-2016" heading="0" respawnTime="60sec" />
-        <npc id="30758" x="102069" y="103120" z="-3504" heading="6000" respawnTime="60sec" /> <!-- Ritasha - Witch -->
-        <npc id="30766" x="160611" y="21236" z="-3712" heading="32768" respawnTime="60sec" /> <!-- Cleo - Witch -->
-        <npc id="30768" x="86986" y="-142001" z="-1367" heading="60246" respawnTime="60sec" />
-        <npc id="30832" x="105745" y="114255" z="-3136" heading="49152" respawnTime="60sec" /> <!-- Hardin -->
-        <npc id="30833" x="104870" y="113221" z="-3184" heading="4096" respawnTime="60sec" />
-        <npc id="30834" x="105792" y="114290" z="-3136" heading="49000" respawnTime="60sec" />
-        <npc id="30835" x="106581" y="113352" z="-3192" heading="28672" respawnTime="60sec" /> <!-- Icarus - Lich King -->
-        <npc id="30836" x="105888" y="109808" z="-3200" heading="45056" respawnTime="60sec" /> <!-- Minerva - Gatekeeper -->
-        <npc id="30840" x="146893" y="28982" z="-2250" heading="32768" respawnTime="60sec" />
-        <npc id="30868" x="147456" y="27488" z="-2204" heading="16384" respawnTime="60sec" />
-        <npc id="30880" x="112816" y="-17856" z="-1697" heading="26000" respawnTime="60sec" /> <!-- Viktor Van Dake - Border Patrol Captain -->
-        <npc id="30881" x="112740" y="-17944" z="-1697" heading="20480" respawnTime="60sec" /> <!-- Sanders - Border Patrol Secretary -->
-        <npc id="30883" x="111888" y="-17792" z="-1696" heading="16384" respawnTime="60sec" /> <!-- Border Patrol -->
-        <npc id="30884" x="112032" y="-15788" z="-1697" respawnTime="60sec" /> <!-- Border Patrol -->
-        <npc id="30885" x="112132" y="-14560" z="-1697" heading="28672" respawnTime="60sec" /> <!-- Border Patrol -->
-        <npc id="30886" x="111468" y="-12224" z="-1712" heading="20480" respawnTime="60sec" /> <!-- Border Patrol -->
-        <npc id="30887" x="110560" y="-11520" z="-1744" heading="12288" respawnTime="60sec" /> <!-- Border Patrol -->
-        <npc id="30888" x="111396" y="-11396" z="-1728" heading="21500" respawnTime="60sec" /> <!-- Border Patrol -->
-        <npc id="30889" x="110916" y="-10560" z="-1896" heading="22500" respawnTime="60sec" /> <!-- Border Patrol -->
-        <npc id="30949" x="110831" y="15973" z="-4368" heading="412" respawnTime="60sec" />
-        <npc id="30950" x="114112" y="20042" z="944" heading="50148" respawnTime="60sec" />
-        <npc id="30951" x="118644" y="16680" z="6000" heading="42000" respawnTime="60sec" />
-        <npc id="30953" x="114048" y="20048" z="928" heading="49444" respawnTime="60sec" />
-        <npc id="30954" x="118600" y="16724" z="5984" heading="42000" respawnTime="60sec" />
-        <npc id="30958" x="44721" y="190698" z="-3626" heading="28672" respawnTime="60sec" />
-        <npc id="30971" x="129812" y="219005" z="-3576" heading="24952" respawnTime="60sec" /> <!-- Orpheus - Mad Doctor -->
-        <npc id="30978" x="181472" y="7158" z="-2725" heading="32768" respawnTime="60sec" />
-        <npc id="30979" x="50693" y="158674" z="368" respawnTime="60sec" /> <!-- Holy Ark of Secrecy 3 -->
-        <npc id="30991" x="46960" y="51506" z="-2976" heading="47000" respawnTime="60sec" />
-        <npc id="30992" x="9656" y="15578" z="-4568" heading="6000" respawnTime="60sec" />
-        <npc id="30993" x="115075" y="-178133" z="-880" heading="1000" respawnTime="60sec" />
+        <!-- Тёмные Эльфы -->
+        <npc id="30130" x="-78604" y="244300" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы Жрец Андреас вход храм Шилен-->
+        <npc id="30132" x="-78604" y="244320" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы Жрец Кектинон вход храм Шилен-->
+        <npc id="30133" x="-78604" y="244340" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы Жрец Картия вход храм Шилен-->
+        <npc id="30135" x="-78604" y="244360" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы торговец оружием Ириа -->
+        <npc id="30136" x="-78604" y="244380" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы торговец доспехами Пейн -->
+        <npc id="30138" x="-78604" y="244400" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы ювелир Миналес -->
+        <npc id="30139" x="-78604" y="244420" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы бакалея Воллодос -->
+        <npc id="30140" x="-78604" y="244440" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы рабочий склада Доранкус -->
+        <npc id="30141" x="-78604" y="244460" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы рабочий склада Эрвианте -->
+        <npc id="30143" x="-78604" y="244480" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы *-->
+        <npc id="30144" x="-78604" y="244500" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы *-->
+        <npc id="30145" x="-78604" y="244520" z="-3690" heading="0" respawnTime="60sec" /><!-- Тёмные Эльфы * -->
+
+        <!-- Светлые Эльфы -->
+        <npc id="30147" x="-78604" y="244540" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30148" x="-78604" y="244560" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30150" x="-78604" y="244580" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30151" x="-78604" y="244600" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30152" x="-78604" y="244620" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30153" x="-78604" y="244640" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30156" x="-78604" y="244660" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30157" x="-78604" y="244680" z="-3690" heading="0" respawnTime="60sec" /><!-- Светлые Эльфы * -->
+        <npc id="30216" x="-78604" y="244700" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30217" x="-78604" y="244720" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30218" x="-78604" y="244740" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30219" x="-78604" y="244760" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30220" x="-78604" y="244780" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30221" x="-78604" y="244800" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30222" x="-78604" y="244820" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30224" x="-78604" y="244840" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30284" x="-78604" y="244860" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30285" x="-78604" y="244880" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30305" x="-78604" y="244900" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30307" x="-78604" y="244920" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30311" x="-78604" y="244940" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30312" x="-78604" y="244960" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30346" x="-78604" y="244980" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30347" x="-78604" y="245000" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30348" x="-78604" y="244280" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30349" x="-78604" y="244260" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30350" x="-78604" y="244240" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30351" x="-78604" y="244220" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30352" x="-78604" y="244200" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30353" x="-78604" y="244180" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30354" x="-78604" y="244160" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30355" x="-78604" y="244140" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30356" x="-78604" y="244120" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30357" x="-78604" y="244100" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30358" x="-78604" y="244080" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30359" x="-78604" y="244060" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30360" x="-78604" y="244040" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30387" x="-78604" y="244020" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30405" x="-78604" y="244000" z="-3690" heading="0" respawnTime="60sec" />
+
+        <npc id="30406" x="-78580" y="244000" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30407" x="-78580" y="244020" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30408" x="-78580" y="244040" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30410" x="-78580" y="244060" z="-3690" heading="0" respawnTime="60sec" />
+
+        <npc id="30414" x="-78580" y="244120" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30419" x="-78580" y="244160" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30420" x="-78580" y="244180" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30421" x="-78580" y="244200" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30424" x="-78580" y="244220" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30427" x="-78580" y="244240" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30428" x="-78580" y="244260" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30429" x="-78580" y="244280" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30497" x="-78580" y="244300" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30516" x="-78580" y="244320" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30517" x="-78580" y="244340" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30518" x="-78580" y="244360" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30519" x="-78580" y="244380" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30520" x="-78580" y="244400" z="-3690" heading="0" respawnTime="60sec" />
+
+        <!-- гномы -->
+        <npc id="30521" x="-78580" y="244420" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30522" x="-78580" y="244440" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30523" x="-78580" y="244460" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30524" x="-78580" y="244480" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30525" x="-78580" y="244500" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30526" x="-78580" y="244520" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30527" x="-78580" y="244540" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30528" x="-78580" y="244560" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30529" x="-78580" y="244580" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30530" x="-78580" y="244600" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30531" x="-78580" y="244620" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30532" x="-78580" y="244640" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30533" x="-78580" y="244660" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30534" x="-78580" y="244680" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30536" x="-78580" y="244700" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30538" x="-78580" y="244720" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30542" x="-78580" y="244740" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30543" x="-78580" y="244780" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30544" x="-78580" y="244800" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30545" x="-78580" y="244820" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30546" x="-78580" y="244840" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30547" x="-78580" y="244860" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30548" x="-78580" y="244880" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30550" x="-78580" y="244900" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30553" x="-78580" y="244920" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30554" x="-78580" y="244940" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30555" x="-78580" y="244960" z="-3690" heading="0" respawnTime="60sec" /> <!-- Torocco - Carrier -->
+
+
+        <!-- Орки -->
+        <npc id="30569" x="-78580" y="245000" z="-3690" heading="0" respawnTime="60sec" />
+
+        <npc id="30570" x="-78624" y="244000" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30571" x="-78624" y="244020" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30572" x="-78624" y="244040" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30590" x="-78624" y="244060" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30592" x="-78624" y="244080" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30599" x="-78624" y="244100" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30600" x="-78624" y="244120" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30601" x="-78624" y="244140" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30611" x="-78624" y="244160" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30615" x="-78624" y="244180" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30618" x="-78624" y="244200" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30619" x="-78624" y="244220" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30635" x="-78624" y="244240" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30637" x="-78624" y="244260" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30640" x="-78624" y="244280" z="-3690" heading="0" respawnTime="60sec" /> <!-- Brynthea - Summoner -->
+        <npc id="30649" x="-78624" y="244300" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30650" x="-78624" y="244320" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30651" x="-78624" y="244340" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30658" x="-78624" y="244360" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30659" x="-78624" y="244380" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30660" x="-78624" y="244400" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30661" x="-78624" y="244420" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30662" x="-78624" y="244440" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30663" x="-78624" y="244460" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30664" x="-78624" y="244480" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30665" x="-78624" y="244500" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30666" x="-78624" y="244520" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30667" x="-78624" y="244540" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30670" x="-78624" y="244560" z="-3690" heading="0" respawnTime="60sec" /> <!-- Nyakuri -->
+        <npc id="30671" x="-78624" y="244580" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30672" x="-78624" y="244600" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30675" x="-78624" y="244620" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30702" x="-78624" y="244640" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30733" x="-78624" y="244660" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30738" x="-78624" y="244680" z="-3690" heading="0" respawnTime="60sec" /> <!-- Matild - Alchemist -->
+        <npc id="30748" x="-78624" y="244700" z="-3690" heading="0" respawnTime="60sec" /> <!-- Exarion - Drake -->
+        <npc id="30750" x="-78624" y="244720" z="-3690" heading="0" respawnTime="60sec" /> <!-- Kalibran - Drake -->
+        <npc id="30751" x="-78624" y="244740" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30752" x="-78624" y="244760" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30758" x="-78624" y="244780" z="-3690" heading="0" respawnTime="60sec" /> <!-- Ritasha - Witch -->
+        <npc id="30766" x="-78624" y="244800" z="-3690" heading="0" respawnTime="60sec" /> <!-- Cleo - Witch -->
+        <npc id="30768" x="-78624" y="244820" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30832" x="-78624" y="244840" z="-3690" heading="0" respawnTime="60sec" /> <!-- Hardin -->
+        <npc id="30833" x="-78624" y="244860" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30834" x="-78624" y="244880" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30835" x="-78624" y="244900" z="-3690" heading="0" respawnTime="60sec" /> <!-- Icarus - Lich King -->
+        <npc id="30836" x="-78624" y="244920" z="-3690" heading="0" respawnTime="60sec" /> <!-- Minerva - Gatekeeper -->
+        <npc id="30840" x="-78624" y="244940" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30868" x="-78624" y="244960" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30880" x="-78624" y="244980" z="-3690" heading="0" respawnTime="60sec" /> <!-- Viktor Van Dake - Border Patrol Captain -->
+        <npc id="30881" x="-78624" y="245000" z="-3690" heading="0" respawnTime="60sec" /> <!-- Sanders - Border Patrol Secretary -->
+<!-- 4 ряд -->
+        <npc id="30883" x="-78644" y="244000" z="-3690" heading="0" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30884" x="-78644" y="244020" z="-3690" heading="0" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30885" x="-78644" y="244040" z="-3690" heading="0" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30886" x="-78644" y="244060" z="-3690" heading="0" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30887" x="-78644" y="244080" z="-3690" heading="0" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30888" x="-78644" y="244100" z="-3690" heading="0" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30889" x="-78644" y="244120" z="-3690" heading="0" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30949" x="-78644" y="244140" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30950" x="-78644" y="244160" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30951" x="-78644" y="244180" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30953" x="-78644" y="244200" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30954" x="-78644" y="244220" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30958" x="-78644" y="244240" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30971" x="-78644" y="244260" z="-3690" heading="0" respawnTime="60sec" /> <!-- Orpheus - Mad Doctor -->
+        <npc id="30978" x="-78644" y="244280" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30979" x="-78644" y="244300" z="-3690" heading="0" respawnTime="60sec" /> <!-- Holy Ark of Secrecy 3 -->
+        <npc id="30991" x="-78644" y="244320" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30992" x="-78644" y="244340" z="-3690" heading="0" respawnTime="60sec" />
+        <npc id="30993" x="-78644" y="244360" z="-3690" heading="0" respawnTime="60sec" />
 
     </spawn>
 </list>

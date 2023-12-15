@@ -148,4 +148,12 @@
 	<spawn>
 		<npc id="25373" x="442" y="-141758" z="-2072" heading="16723" dbSave="true" dbName="Dagoniel's Herald Malex (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Дагониэля Малекс (21) -->
 	</spawn>
+	<spawn>
+		<!-- NPC Квест и другие -->
+		<npc id="30411" x="-14784" y="-134374" z="-1128" heading="0" respawnTime="60sec" /><!-- Саламандра -->
+		<npc id="30556" x="18729" y="-133855" z="-2720" heading="0" /> <!-- Toma - Master Гном -->
+		<npc id="30418" x="11980" y="-91451" z="-2392" heading="0" respawnTime="60sec" /><!-- Анника Тёмная Эльфийка-->
+		<npc id="30414" x="-11837" y="-95996" z="-2704" heading="0" respawnTime="60sec" /><!-- Розелла Светлая эльфийка  -->
+	</spawn>
+
 </list>
