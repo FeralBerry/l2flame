@@ -144,6 +144,22 @@
         <npc id="30758" x="102069" y="103120" z="-3504" heading="6000" respawnTime="60sec" /> <!-- Ritasha - Witch -->
         <npc id="30766" x="160611" y="21236" z="-3712" heading="32768" respawnTime="60sec" /> <!-- Cleo - Witch -->
         <npc id="30768" x="86986" y="-142001" z="-1367" heading="60246" respawnTime="60sec" />
+        <npc id="30832" x="105745" y="114255" z="-3136" heading="49152" respawnTime="60sec" /> <!-- Hardin -->
+        <npc id="30833" x="104870" y="113221" z="-3184" heading="4096" respawnTime="60sec" />
+        <npc id="30834" x="105792" y="114290" z="-3136" heading="49000" respawnTime="60sec" />
+        <npc id="30835" x="106581" y="113352" z="-3192" heading="28672" respawnTime="60sec" /> <!-- Icarus - Lich King -->
+        <npc id="30836" x="105888" y="109808" z="-3200" heading="45056" respawnTime="60sec" /> <!-- Minerva - Gatekeeper -->
+        <npc id="30840" x="146893" y="28982" z="-2250" heading="32768" respawnTime="60sec" />
+        <npc id="30868" x="147456" y="27488" z="-2204" heading="16384" respawnTime="60sec" />
+        <npc id="30880" x="112816" y="-17856" z="-1697" heading="26000" respawnTime="60sec" /> <!-- Viktor Van Dake - Border Patrol Captain -->
+        <npc id="30881" x="112740" y="-17944" z="-1697" heading="20480" respawnTime="60sec" /> <!-- Sanders - Border Patrol Secretary -->
+        <npc id="30883" x="111888" y="-17792" z="-1696" heading="16384" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30884" x="112032" y="-15788" z="-1697" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30885" x="112132" y="-14560" z="-1697" heading="28672" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30886" x="111468" y="-12224" z="-1712" heading="20480" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30887" x="110560" y="-11520" z="-1744" heading="12288" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30888" x="111396" y="-11396" z="-1728" heading="21500" respawnTime="60sec" /> <!-- Border Patrol -->
+        <npc id="30889" x="110916" y="-10560" z="-1896" heading="22500" respawnTime="60sec" /> <!-- Border Patrol -->
 
     </spawn>
 </list>

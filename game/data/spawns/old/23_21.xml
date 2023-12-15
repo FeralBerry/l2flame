@@ -3,7 +3,6 @@
 	<spawn name="23_21">
 		<group>
 			<npc id="31580" x="106608" y="113296" z="-3192" heading="30000" respawnTime="60sec" /> <!-- Galadrid - Master -->
-			<npc id="30832" x="105745" y="114255" z="-3136" heading="49152" respawnTime="60sec" /> <!-- Hardin -->
 			<npc id="20158" x="125022" y="129770" z="-2912" respawnTime="27sec" /> <!-- Medusa -->
 			<npc id="20158" x="117211" y="127356" z="-2544" respawnTime="27sec" /> <!-- Medusa -->
 			<npc id="20158" x="118162" y="128472" z="-2904" respawnTime="27sec" /> <!-- Medusa -->
@@ -23,8 +22,6 @@
 			<npc id="20249" x="121710" y="129770" z="-3416" respawnTime="27sec" /> <!-- Turak Bugbear Warrior -->
 			<npc id="20249" x="122745" y="130414" z="-3328" respawnTime="27sec" /> <!-- Turak Bugbear Warrior -->
 			<npc id="20249" x="121917" y="129770" z="-3400" respawnTime="27sec" /> <!-- Turak Bugbear Warrior -->
-			<npc id="30836" x="105888" y="109808" z="-3200" heading="45056" respawnTime="60sec" /> <!-- Minerva - Gatekeeper -->
-			<npc id="30835" x="106581" y="113352" z="-3192" heading="28672" respawnTime="60sec" /> <!-- Icarus - Lich King -->
 		</group>
 	</spawn>
 </list>

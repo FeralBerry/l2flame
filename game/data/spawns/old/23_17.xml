@@ -3,9 +3,6 @@
 	<spawn name="23_17">
 		<group>
 			<npc id="31651" x="119472" y="-28688" z="-3776" heading="7000" respawnTime="60sec" /> <!-- Tablet Of Vision -->
-			<npc id="30884" x="112032" y="-15788" z="-1697" respawnTime="60sec" /> <!-- Border Patrol -->
-			<npc id="30885" x="112132" y="-14560" z="-1697" heading="28672" respawnTime="60sec" /> <!-- Border Patrol -->
-			<npc id="30883" x="111888" y="-17792" z="-1696" heading="16384" respawnTime="60sec" /> <!-- Border Patrol -->
 			<npc id="20956" x="112353" y="-1172" z="-3912" heading="24036" respawnTime="37sec" /> <!-- Knight of the Past -->
 			<npc id="20956" x="116529" y="-1337" z="-3640" heading="555" respawnTime="37sec" /> <!-- Knight of the Past -->
 			<npc id="20956" x="117556" y="-370" z="-3608" heading="23902" respawnTime="37sec" /> <!-- Knight of the Past -->
@@ -43,7 +40,6 @@
 			<npc id="31677" x="112668" y="-17960" z="-1768" heading="20480" respawnTime="60sec" /> <!-- Border Patrol -->
 			<npc id="31677" x="111544" y="-12163" z="-1721" heading="20480" respawnTime="60sec" /> <!-- Border Patrol -->
 			<npc id="31679" x="114276" y="-17964" z="-1755" heading="60000" respawnTime="60sec" /> <!-- Eustace Van Essen - Border Patrol Captain -->
-			<npc id="30886" x="111468" y="-12224" z="-1712" heading="20480" respawnTime="60sec" /> <!-- Border Patrol -->
 			<npc id="20959" x="126163" y="-1353" z="-2376" heading="18529" respawnTime="37sec" /> <!-- Dark Guard -->
 			<npc id="20959" x="127789" y="-5551" z="-3288" heading="6311" respawnTime="37sec" /> <!-- Dark Guard -->
 			<npc id="20959" x="126711" y="-3499" z="-3016" heading="18124" respawnTime="37sec" /> <!-- Dark Guard -->
@@ -64,9 +60,6 @@
 			<npc id="31681" x="118816" y="-19536" z="-2892" heading="50000" respawnTime="60sec" /> <!-- Border Outpost Guard -->
 			<npc id="31681" x="118800" y="-20096" z="-2936" heading="3000" respawnTime="60sec" /> <!-- Border Outpost Guard -->
 			<npc id="31681" x="118704" y="-20048" z="-2916" heading="3000" respawnTime="60sec" /> <!-- Border Outpost Guard -->
-			<npc id="30880" x="112816" y="-17856" z="-1697" heading="26000" respawnTime="60sec" /> <!-- Viktor Van Dake - Border Patrol Captain -->
-			<npc id="30881" x="112740" y="-17944" z="-1697" heading="20480" respawnTime="60sec" /> <!-- Sanders - Border Patrol Secretary -->
-			<npc id="30889" x="110916" y="-10560" z="-1896" heading="22500" respawnTime="60sec" /> <!-- Border Patrol -->
 			<npc id="20963" x="120717" y="-4774" z="-4000" respawnTime="37sec" /> <!-- Bloody Lord -->
 			<npc id="20963" x="119084" y="-3184" z="-3872" respawnTime="37sec" /> <!-- Bloody Lord -->
 			<npc id="20963" x="119587" y="-3362" z="-3848" respawnTime="37sec" /> <!-- Bloody Lord -->
@@ -91,8 +84,6 @@
 			<npc id="20963" x="113423" y="-5344" z="-3784" respawnTime="37sec" /> <!-- Bloody Lord -->
 			<npc id="20574" x="100026" y="-321" z="-3624" heading="10518" respawnTime="41sec" /> <!-- Elder Tarlk Basilisk -->
 			<npc id="20574" x="98566" y="-17327" z="-2792" heading="34108" respawnTime="41sec" /> <!-- Elder Tarlk Basilisk -->
-			<npc id="30887" x="110560" y="-11520" z="-1744" heading="12288" respawnTime="60sec" /> <!-- Border Patrol -->
-			<npc id="30888" x="111396" y="-11396" z="-1728" heading="21500" respawnTime="60sec" /> <!-- Border Patrol -->
 		</group>
 	</spawn>
 </list>
