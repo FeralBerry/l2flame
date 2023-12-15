@@ -68,6 +68,47 @@
         <npc id="30428" x="-93275" y="147654" z="-2674" heading="0" respawnTime="60sec" />
         <npc id="30429" x="-115744" y="235924" z="-4032" heading="16384" respawnTime="60sec" />
         <npc id="30497" x="-114685" y="222291" z="-2928" heading="44000" respawnTime="60sec" />
+        <npc id="30516" x="115741" y="-181645" z="-1320" heading="8192" respawnTime="60sec" />
+        <npc id="30517" x="116192" y="-181072" z="-1336" heading="40960" respawnTime="60sec" />
+        <npc id="30518" x="115900" y="-177316" z="-880" heading="50000" respawnTime="60sec" />
+        <npc id="30519" x="116268" y="-177524" z="-880" heading="32768" respawnTime="60sec" />
+        <npc id="30520" x="115205" y="-180024" z="-872" heading="32768" respawnTime="60sec" />
+        <npc id="30521" x="114716" y="-180018" z="-872" heading="0" respawnTime="60sec" />
+        <npc id="30522" x="114832" y="-179520" z="-856" heading="49152" respawnTime="60sec" />
+        <npc id="30523" x="115717" y="-183488" z="-1472" heading="8192" respawnTime="60sec" />
+        <npc id="30524" x="115618" y="-183265" z="-1472" heading="55000" respawnTime="60sec" />
+        <npc id="30525" x="115468" y="-182446" z="-1440" heading="32768" respawnTime="60sec" />
+        <npc id="30526" x="115315" y="-182155" z="-1440" heading="49152" respawnTime="60sec" />
+        <npc id="30527" x="115271" y="-182692" z="-1440" heading="4096" respawnTime="60sec" />
+        <npc id="30528" x="108593" y="-174041" z="-408" heading="38500" respawnTime="60sec" />
+        <npc id="30529" x="112265" y="-173366" z="-608" heading="47000" respawnTime="60sec" />
+        <npc id="30530" x="108567" y="-173994" z="-408" heading="38000" respawnTime="60sec" />
+        <npc id="30531" x="116226" y="-178529" z="-944" heading="32768" respawnTime="60sec" />
+        <npc id="30532" x="116190" y="-178441" z="-944" heading="40960" respawnTime="60sec" />
+        <npc id="30533" x="116016" y="-178615" z="-944" heading="8192" respawnTime="60sec" />
+        <npc id="30534" x="116190" y="-178615" z="-944" heading="24576" respawnTime="60sec" />
+        <npc id="30536" x="116103" y="-178653" z="-944" heading="16384" respawnTime="60sec" />
+        <npc id="30538" x="114426" y="-178672" z="-808" heading="8192" respawnTime="60sec" />
+        <npc id="30542" x="116635" y="-184344" z="-1560" heading="49152" respawnTime="60sec" />
+        <npc id="30543" x="117870" y="-182606" z="-1528" heading="0" respawnTime="60sec" />
+        <npc id="30544" x="116388" y="-184353" z="-1568" heading="49152" respawnTime="60sec" />
+        <npc id="30545" x="115183" y="-176728" z="-784" heading="20480" respawnTime="60sec" />
+        <npc id="30546" x="114969" y="-176752" z="-784" heading="15384" respawnTime="60sec" />
+        <npc id="30547" x="117366" y="-178725" z="-1112" heading="0" respawnTime="60sec" />
+        <npc id="30548" x="117378" y="-178914" z="-1120" heading="0" respawnTime="60sec" />
+        <npc id="30550" x="115563" y="-182923" z="-1448" heading="8192" respawnTime="60sec" />
+        <npc id="30553" x="116852" y="-183595" z="-1568" heading="32768" respawnTime="60sec" />
+        <npc id="30554" x="112656" y="-174864" z="-608" heading="8192" respawnTime="60sec" />
+        <npc id="30555" x="114866" y="-180328" z="-781" heading="16384" respawnTime="60sec" /> <!-- Torocco - Carrier -->
+        <npc id="30556" x="154132" y="-220070" z="-3400" respawnTime="60sec" /> <!-- Toma - Master -->
+        <npc id="30569" x="-45952" y="-114784" z="-200" heading="32768" respawnTime="60sec" />
+        <npc id="30570" x="-45952" y="-114496" z="-200" heading="32768" respawnTime="60sec" />
+        <npc id="30571" x="-45863" y="-112621" z="-200" heading="32768" respawnTime="60sec" />
+        <npc id="30572" x="-45864" y="-112540" z="-200" heading="32768" respawnTime="60sec" />
+        <npc id="30590" x="12432" y="-141808" z="-1877" heading="16384" respawnTime="60sec" />
+        <npc id="30592" x="-49542" y="-109564" z="-240" heading="51000" respawnTime="60sec" />
+        <npc id="30599" x="45475" y="48359" z="-3056" heading="49152" respawnTime="60sec" />
+        <npc id="30600" x="12111" y="16686" z="-4584" heading="63240" respawnTime="60sec" />
 
     </spawn>
 </list>
