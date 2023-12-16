@@ -374,4 +374,8 @@
 	<spawn>
 		<npc id="25375" x="-17364" y="-101425" z="-2096" heading="16723" dbSave="true" dbName="Zombie Lord Ferkel (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Zombie Lord Ferkel (20) -->
 	</spawn>
+	<spawn>
+		<!-- NPC Квест и другие -->
+		<npc id="30157" x="-20779" y="98908" z="-2696" heading="0" respawnTime="60sec" /><!-- квест на  РБ зомби Светлая эльфийка -->
+	</spawn>
 </list>
