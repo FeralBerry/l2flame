@@ -94,7 +94,7 @@ public class SupportMagic implements IBypassHandler
 	private void makeSupportMagic(Player player, Npc npc, boolean isSummon)
 	{
 		final int level = player.getLevel();
-		if (level > HIGHEST_LEVEL)
+		if (level >= HIGHEST_LEVEL)
 		{
 			npc.showChatWindow(player, "data/html/default/SupportMagicHighLevel.htm");
 			return;
@@ -104,7 +104,7 @@ public class SupportMagic implements IBypassHandler
 			npc.showChatWindow(player, "data/html/default/SupportMagicLowLevel.htm");
 			return;
 		}
-		if(level < HIGHEST_LEVEL && level > LOWEST_LEVEL){
+		if(level > LOWEST_LEVEL){
 			if (isSummon)
 			{
 				npc.setTarget(player.getPet());

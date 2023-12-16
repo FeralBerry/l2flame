@@ -2,8 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="23_12">
 		<group>
-			<npc id="30555" x="114866" y="-180328" z="-781" heading="16384" respawnTime="60sec" /> <!-- Torocco - Carrier -->
-			<npc id="30670" x="125832" y="-180002" z="-1768" heading="57344" respawnTime="60sec" /> <!-- Nyakuri -->
 		</group>
 	</spawn>
 </list>

@@ -2,7 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="24_11">
 		<group>
-			<npc id="30556" x="154132" y="-220070" z="-3400" respawnTime="60sec" /> <!-- Toma - Master -->
 			<npc id="31035" x="134175" y="-197443" z="-3648" heading="1527" respawnTime="60sec" /> <!-- Protector -->
 			<npc id="31035" x="135942" y="-199379" z="-3568" heading="36738" respawnTime="60sec" /> <!-- Protector -->
 			<npc id="31035" x="142921" y="-209292" z="-3632" heading="28184" respawnTime="60sec" /> <!-- Protector -->
