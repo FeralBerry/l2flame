@@ -65,7 +65,7 @@
 		</territories>
 		<npc id="20110" count="25" respawnTime="30sec" chaseRange="1500" /><!-- Ундина 17 лвл -->
 		<npc id="20036" count="25" respawnTime="30sec" chaseRange="1500" /><!-- Лирейн 18 лвл -->
-		<npc id="20113" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Старшая Ундина 18* лвл -->
+		<npc id="20113" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Старшая Ундина 18 лвл -->
 		<npc id="20044" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Старшая Лирейн 19 лвл-->
 	</spawn>
 	<spawn>
@@ -77,5 +77,7 @@
 	<spawn>
 		<!-- NPC Квест и другие -->
 		<npc id="30413" x="-26966" y="-86290" z="-3168" heading="0" respawnTime="60sec" /><!-- Водяная Ундина -->
+		<npc id="30414" x="-11837" y="-95996" z="-2704" heading="0" respawnTime="60sec" /><!-- Розелла Светлая эльфийка  -->
+		<npc id="30418" x="11980" y="-91451" z="-2392" heading="0" respawnTime="60sec" /><!-- Анника Тёмная Эльфийка-->
 	</spawn>
 </list>
