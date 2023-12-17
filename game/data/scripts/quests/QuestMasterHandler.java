@@ -16,7 +16,7 @@
  */
 package quests;
 
-import quests.Q000010_TheFirstChanges.Q00010_TheFirstChanges;
+import quests.Q00010_TheFirstChanges.Q00010_TheFirstChanges;
 import quests.Q00001_Newbie.Q00001_Newbie;
 import quests.Q00002_Newbie2.Q00002_Newbie2;
 import quests.Q00003_BringWolfPelts.Q00003_BringWolfPelts;

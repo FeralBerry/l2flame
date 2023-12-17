@@ -1,4 +1,4 @@
-package quests.Q000010_TheFirstChanges;
+package quests.Q00010_TheFirstChanges;
 
 import org.l2jmobius.gameserver.model.actor.Npc;
 import org.l2jmobius.gameserver.model.actor.Player;
@@ -25,10 +25,10 @@ public class Q00010_TheFirstChanges extends Quest {
     private static final String KILL_COUNT_VAR = "KillCount";
     private static final int[] MONSTERS = new int[]
             {
-                    20475, // Волк Кхаши 4 лвл
-                    20477, // Лесной Волк Кхаши 6 лвл
+                    21118, // Баал Дре Ванул 20 лвл
+                    20117, // Дре Ванул 20 лвл
+                    20353, // Дре Ванул Блюститель 21 лвл
             };
-
     public Q00010_TheFirstChanges(){
         super(QUEST_ID);
         addStartNpc(KEKEY);
@@ -42,18 +42,18 @@ public class Q00010_TheFirstChanges extends Quest {
     {
         final QuestState qs = getQuestState(player, true);
         String htmltext = null;
-        switch (qs.getState()) {
-            case State.CREATED: {
+        if (event.equalsIgnoreCase("00010-01.htm")) {
+            if(qs.getState() == 1){
+                htmltext = "00010-09.htm";
+            } else {
                 if (npc.getId() == KEKEY && player.getLevel() >= MIN_LEVEL) {
                     htmltext = "00010-02.htm";
                 } else {
                     htmltext = "00010-01.htm";
                 }
-                break;
             }
-            case State.COMPLETED: {
+            if(qs.getState() == 2) {
                 htmltext = getAlreadyCompletedMsg(player);
-                break;
             }
         }
         if (event.equalsIgnoreCase("start")) {
@@ -131,10 +131,15 @@ public class Q00010_TheFirstChanges extends Quest {
                         if (qs.isCond(7)) {
                             giveItems(player,HONEY_JAR,1);
                             giveItems(player,57,130000);
+                            qs.exitQuest(false, true);
                             htmltext = "00010-08.htm";
                         }
                     }
                 }
+                break;
+            }
+            case State.COMPLETED: {
+                htmltext = getAlreadyCompletedMsg(player);
                 break;
             }
         }

@@ -69,6 +69,21 @@
 		<npc id="20044" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Старшая Лирейн 19 лвл-->
 	</spawn>
 	<spawn>
+		<!-- NPC Квест на 1 профессию -->
+		<territories>
+			<territory name="ImmortalPlateauSouth_005" minZ="-2768" maxZ="-2464">
+				<node x="10937" y="-93379"/>
+				<node x="12374" y="-97725"/>
+				<node x="15831" y="-98279"/>
+				<node x="15639" y="-95699"/>
+				<node x="13393" y="-91720"/>
+			</territory>
+		</territories>
+		<npc id="21118" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Баал Дре Ванул 20 лвл -->
+		<npc id="20117" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул 20 лвл * -->
+		<npc id="20353" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул Блюститель 21 лвл * -->
+	</spawn>
+	<spawn>
 		<npc id="25357" x="2026" y="-93733" z="-3144" heading="16723" dbSave="true" dbName="Sukar Ratman Chief (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Трусливых Крысолюдов (21) -->
 	</spawn>
 	<spawn>
