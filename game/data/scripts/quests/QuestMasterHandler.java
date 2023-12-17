@@ -16,7 +16,7 @@
  */
 package quests;
 
-import quests.Q000010_TheFirstChanges.Q000010_TheFirstChanges;
+import quests.Q000010_TheFirstChanges.Q00010_TheFirstChanges;
 import quests.Q00001_Newbie.Q00001_Newbie;
 import quests.Q00002_Newbie2.Q00002_Newbie2;
 import quests.Q00003_BringWolfPelts.Q00003_BringWolfPelts;
@@ -90,7 +90,7 @@ public class QuestMasterHandler
 		Q00005_TheFirstArmor.class,
 		Q00008_HelpingAnElfToExplore.class,
 		Q00009_ZombieHunting.class,
-		Q000010_TheFirstChanges.class,
+		Q00010_TheFirstChanges.class,
 		Q00500_BrothersBoundInChains.class,
 		Q00504_CompetitionForTheBanditStronghold.class, // TODO: Not done.
 		Q00511_AwlUnderFoot.class,
