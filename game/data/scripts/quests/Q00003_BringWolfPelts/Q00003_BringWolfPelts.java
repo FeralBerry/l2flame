@@ -144,7 +144,6 @@ public class Q00003_BringWolfPelts extends Quest
 	{
 		final QuestState qs = getQuestState(player, true);
 		String htmltext = getNoQuestMsg(player);
-		System.out.println(qs);
 		if (qs == null)
 		{
 			return null;

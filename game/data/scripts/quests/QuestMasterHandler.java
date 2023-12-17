@@ -16,11 +16,14 @@
  */
 package quests;
 
+import quests.Q00010_TheFirstChanges.Q00010_TheFirstChanges;
 import quests.Q00001_Newbie.Q00001_Newbie;
 import quests.Q00002_Newbie2.Q00002_Newbie2;
 import quests.Q00003_BringWolfPelts.Q00003_BringWolfPelts;
 import quests.Q00004_CollectSpores.Q00004_CollectSpores;
 import quests.Q00005_TheFirstArmor.Q00005_TheFirstArmor;
+import quests.Q00008_HelpingAnElfToExplore.Q00008_HelpingAnElfToExplore;
+import quests.Q00009_ZombieHunting.Q00009_ZombieHunting;
 import quests.Q00500_BrothersBoundInChains.Q00500_BrothersBoundInChains;
 import quests.Q00511_AwlUnderFoot.Q00511_AwlUnderFoot;
 import quests.Q00512_BladeUnderFoot.Q00512_BladeUnderFoot;
@@ -85,6 +88,9 @@ public class QuestMasterHandler
 		Q00003_BringWolfPelts.class,
 		Q00004_CollectSpores.class,
 		Q00005_TheFirstArmor.class,
+		Q00008_HelpingAnElfToExplore.class,
+		Q00009_ZombieHunting.class,
+		Q00010_TheFirstChanges.class,
 		Q00500_BrothersBoundInChains.class,
 		Q00504_CompetitionForTheBanditStronghold.class, // TODO: Not done.
 		Q00511_AwlUnderFoot.class,
