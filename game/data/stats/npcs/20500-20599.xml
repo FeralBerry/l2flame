@@ -2555,7 +2555,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300" isAggressive="true" />
+		<ai type="ARCHER" aggroRange="300" clanHelpRange="300" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<group chance="70">

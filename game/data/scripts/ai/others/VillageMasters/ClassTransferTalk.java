@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
-package ai.others.VillageMasters.ClassTransferTalk;
+package ai.others.VillageMasters;
 
 import org.l2jmobius.commons.util.CommonUtil;
 import org.l2jmobius.gameserver.enums.Race;

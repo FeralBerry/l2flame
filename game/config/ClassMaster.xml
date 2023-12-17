@@ -1,14 +1,20 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../data/xsd/classMaster.xsd">
-	<classMaster classChangeEnabled="false" spawnClassMasters="false" showPopupWindow="false">
-		<classChangeOption name="Free">
+	<classMaster classChangeEnabled="true" spawnClassMasters="true" showPopupWindow="true">
+		<classChangeOption name="Item Pay">
 			<appliesTo>
 				<category>FIRST_CLASS_GROUP</category>
 			</appliesTo>
+			<conditions>
+				<item id="1655" count="1" />
+			</conditions>
 		</classChangeOption>
 		<classChangeOption name="Free">
 			<appliesTo>
 				<category>SECOND_CLASS_GROUP</category>
 			</appliesTo>
+			<conditions>
+				<item id="57" count="3000000" />
+			</conditions>
 		</classChangeOption>
 		<classChangeOption name="Free">
 			<appliesTo>
