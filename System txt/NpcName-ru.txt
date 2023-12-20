@@ -13,6 +13,7 @@ npc_begin	id=20111	name=[Крысолюд Адъютант]	nick=[]	nickcolor=19
 npc_begin	id=20112	name=[Старшая Саламандра]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20113	name=[Старшая Ундина]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20114	name=[Элитная Саламандра]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20117	name=[Дре Ванул]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20143	name=[Гризли]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20153	name=[Магический Ткач]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20311	name=[Когтистый Бес]	nick=[]	nickcolor=53868BFF	npc_end
@@ -24,6 +25,7 @@ npc_begin	id=20320	name=[Предводитель Гоблинов Грабит�
 npc_begin	id=20333	name=[Серый Голем]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20340	name=[Скелет Невольник]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20041	name=[Гнилой Зомби]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20353	name=[Дре Ванул Блюститель]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20358	name=[Охотник Крысолюдов]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20359	name=[Воин Крысолюдов]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20365	name=[Горный Гриб]	nick=[]	nickcolor=53868BFF	npc_end
@@ -6168,7 +6170,7 @@ npc_begin	id=30571	name=[Танапи]	nick=[Провидец]	nickcolor=54FF9FF
 npc_begin	id=30572	name=[Ливина]	nick=[Провидец]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=30573	name=[Вулькус]	nick=[Хранитель Огня]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=30575	name=[Помощник Новичков]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=30576	name=[Устройство Телепортации]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=30576	name=[Тамил]	nick=[Хранитель портала]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=30577	name=[Рукайн]	nick=[Преторианец]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=30578	name=[Накушин]	nick=[Центурион]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=30579	name=[Тамай]	nick=[Центурион]	nickcolor=54FF9FFF	npc_end

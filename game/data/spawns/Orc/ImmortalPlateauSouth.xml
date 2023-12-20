@@ -80,8 +80,8 @@
 			</territory>
 		</territories>
 		<npc id="21118" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Баал Дре Ванул 20 лвл -->
-		<npc id="20117" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул 20 лвл * -->
-		<npc id="20353" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул Блюститель 21 лвл * -->
+		<npc id="20117" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул 20 лвл -->
+		<npc id="20353" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул Блюститель 21 лвл -->
 	</spawn>
 	<spawn>
 		<npc id="25357" x="2026" y="-93733" z="-3144" heading="16723" dbSave="true" dbName="Sukar Ratman Chief (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Трусливых Крысолюдов (21) -->
@@ -90,11 +90,12 @@
 		<npc id="25380" x="-24191" y="-84645" z="-3736" heading="16723" dbSave="true" dbName="Icarus' Herald Kaysha (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Икара Кайша (21) -->
 	</spawn>
 	<spawn>
+
 		<!-- NPC Квест и другие -->
 		<npc id="30157" x="-78604" y="244680" z="-3690" heading="0" respawnTime="60sec" /><!-- квест на  РБ зомби Светлая эльфийка -->
 
 		<npc id="30413" x="-26966" y="-86290" z="-3168" heading="0" respawnTime="60sec" /><!-- Водяная Ундина -->
-		<npc id="30414" x="-11837" y="-95996" z="-2704" heading="0" respawnTime="60sec" /><!-- Розелла Светлая эльфийка  -->
+		<npc id="30414" x="-11157" y="-95720" z="-2752" heading="0" respawnTime="60sec" /><!-- Розелла Светлая эльфийка  -->
 		<npc id="30418" x="11980" y="-91451" z="-2392" heading="0" respawnTime="60sec" /><!-- Анника Тёмная Эльфийка-->
 	</spawn>
 </list>
