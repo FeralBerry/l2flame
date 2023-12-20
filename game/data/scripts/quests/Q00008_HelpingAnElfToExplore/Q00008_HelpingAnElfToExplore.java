@@ -2,11 +2,15 @@ package quests.Q00008_HelpingAnElfToExplore;
 
 import org.l2jmobius.gameserver.model.actor.Npc;
 import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.holders.NpcLogListHolder;
 import org.l2jmobius.gameserver.model.quest.Quest;
 import org.l2jmobius.gameserver.model.quest.QuestState;
 import org.l2jmobius.gameserver.model.quest.State;
+import org.l2jmobius.gameserver.network.NpcStringId;
 
+import java.util.HashSet;
 import java.util.Random;
+import java.util.Set;
 
 public class Q00008_HelpingAnElfToExplore extends Quest {
     private static final int QUEST_ID = 8;
@@ -106,17 +110,17 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
         }
         return htmltext;
     }
-    /*public Set<NpcLogListHolder> getNpcLogList(Player player){
+    public Set<NpcLogListHolder> getNpcLogList(Player player){
         final QuestState qs = getQuestState(player, false);
         if (qs != null)
         {
             if (qs.isCond(1))
             {
                 final Set<NpcLogListHolder> holder = new HashSet<>();
-                holder.add(new NpcLogListHolder(NpcStringId.ZOMBIE_HEAD.getId(), true, qs.getInt(KILL_COUNT_VAR)));
+                holder.add(new NpcLogListHolder(NpcStringId.UNDEAD.getId(), true, qs.getInt(KILL_COUNT_VAR)));
                 return holder;
             }
         }
         return super.getNpcLogList(player);
-    }*/
+    }
 }
