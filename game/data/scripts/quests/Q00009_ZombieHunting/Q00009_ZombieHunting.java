@@ -51,6 +51,11 @@ public class Q00009_ZombieHunting extends Quest {
                 break;
             }
         }
+        if (event.equalsIgnoreCase("start"))
+        {
+            qs.startQuest();
+            htmltext = null;
+        }
         return htmltext;
     }
     public String onKill(Npc npc, Player killer, boolean isSummon){

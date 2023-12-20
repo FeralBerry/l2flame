@@ -48,14 +48,19 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
         String htmltext = getNoQuestMsg(player);
         switch (qs.getState()) {
             case State.CREATED: {
-                if (npc.getId() == ELF && player.getLevel() >= MIN_LEVEL && player.getLevel() >= MAX_LEVEL) {
+                if (npc.getId() == ELF && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL) {
                     qs.startQuest();
-                    htmltext = "00009-02.htm";
+                    htmltext = "00008-02.htm";
                 } else {
-                    htmltext = "00009-01.htm";
+                    htmltext = "00008-01.htm";
                 }
                 break;
             }
+        }
+        if (event.equalsIgnoreCase("start"))
+        {
+            qs.startQuest();
+            htmltext = null;
         }
         return htmltext;
     }
