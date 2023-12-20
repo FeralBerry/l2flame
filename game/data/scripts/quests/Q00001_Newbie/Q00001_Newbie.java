@@ -134,7 +134,6 @@ public class Q00001_Newbie extends Quest {
                         } else {
                             qs.setCond(3, true);
                             qs.unset(KILL_COUNT_VAR);
-                            // сообщение на пол экрана меняется в компиле
                             showOnScreenMsg(killer, NpcStringId.CONGRATULATIOS_ON_COMPLETING_THE_HUNT_TO_COMPLETE_THE_QUEST_TALK_TO_THE_NOVICE, ExShowScreenMessage.TOP_CENTER, 10000);
                         }
                     }
