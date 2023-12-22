@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+    <npc id="30576"> <!-- Телепорт -->
+        <teleport type="OTHER">
+            <location x="-39712" y="-112554" z="-1920" feeCount="500"/> <!-- Лес у подножья деревни -->
+            <location x="-25769" y="-106535" z="-2672" feeCount="1500"/> <!-- Южный спуск Земли хаоса -->
+            <location x="-20743" y="-98549" z="-2704" feeCount="1800"/> <!-- Юго-восток Плато Бессмертия -->
+            <location x="-27001" y="-86447" z="-3176" feeCount="2500"/> <!-- Заколдованное озеро -->
+            <location x="-16395" y="-72649" z="-2088" feeCount="3000"/> <!-- Юг Плато Бессмертия -->
+            <location x="16360" y="-114097" z="-219" feeCount="5000"/> <!-- Кайнак -->
+            <location x="-9345" y="-116449" z="-2552" feeCount="2800"/> <!-- Земли хаоса западный спуск -->
+            <location x="-9490" y="-134485" z="-2184" feeCount="3500"/> <!-- Северная развилка -->
+            <location x="3926" y="-141069" z="-616" feeCount="4000"/> <!-- Перекресток разбойников восток -->
+            <location x="16810" y="-132416" z="-1712" feeCount="5000"/> <!-- Перекресток разбойников запад -->
+            <location x="-80844" y="150055" z="-3040" feeCount="15000"/> <!-- Глудин -->
+            <location x="84138" y="-143340" z="-1288" feeCount="9000"/> <!-- Шутгарт -->
+        </teleport>
+    </npc>
+</list>
