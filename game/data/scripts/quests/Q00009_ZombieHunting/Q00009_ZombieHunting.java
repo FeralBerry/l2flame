@@ -9,6 +9,7 @@ import org.l2jmobius.gameserver.model.quest.State;
 import org.l2jmobius.gameserver.network.NpcStringId;
 
 import java.util.HashSet;
+import java.util.Random;
 import java.util.Set;
 
 public class Q00009_ZombieHunting extends Quest {
@@ -19,6 +20,8 @@ public class Q00009_ZombieHunting extends Quest {
     private static final String KILL_COUNT_VAR = "KillCount";
     private static final int MIN_LEVEL = 15;
     private static final int MAX_LEVEL = 28;
+    private static final int ARMOR_SCROLL = 956;
+    private static final int WEAPON_SCROLL = 955;
     public Q00009_ZombieHunting(){
         super(QUEST_ID);
         addStartNpc(ELF);
@@ -28,6 +31,8 @@ public class Q00009_ZombieHunting extends Quest {
     public String onAdvEvent(String event, Npc npc, Player player){
         final QuestState qs = getQuestState(player, true);
         String htmltext = getNoQuestMsg(player);
+        Random rn = new Random();
+        int randomNum;
         switch (qs.getState()) {
             case State.CREATED: {
                 if (npc.getId() == ELF && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL ) {
@@ -43,6 +48,12 @@ public class Q00009_ZombieHunting extends Quest {
                     if (getQuestItemsCount(player, ZOMBIE_HEAD) >= 1)
                     {
                         giveItems(player, 57,30000);
+                        randomNum = rn.nextInt(2);
+                        if(randomNum == 1){
+                            giveItems(player, ARMOR_SCROLL,3);
+                        } else {
+                            giveItems(player, WEAPON_SCROLL,1);
+                        }
                         qs.unset(KILL_COUNT_VAR);
                         qs.exitQuest(true, true);
                         htmltext = "00009-03.htm";
@@ -50,11 +61,6 @@ public class Q00009_ZombieHunting extends Quest {
                 }
                 break;
             }
-        }
-        if (event.equalsIgnoreCase("start"))
-        {
-            qs.startQuest();
-            htmltext = null;
         }
         return htmltext;
     }

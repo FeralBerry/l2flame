@@ -5,7 +5,6 @@ import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.holders.NpcLogListHolder;
 import org.l2jmobius.gameserver.model.quest.Quest;
 import org.l2jmobius.gameserver.model.quest.QuestState;
-import org.l2jmobius.gameserver.model.quest.State;
 import org.l2jmobius.gameserver.network.NpcStringId;
 
 import java.util.HashSet;
@@ -21,9 +20,9 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
     private static final String KILL_COUNT_VAR = "KillCount";
     private static final int MIN_LEVEL = 15;
     private static final int MAX_LEVEL = 28;
-    private static final int REQUEST_COUNT = 150;
+    private static final int REQUEST_COUNT = 100;
     private static final int MAX_CHANCE = 100;
-    private static final int MIN_CHANCE = 0;
+    private static final int MIN_CHANCE = 1;
     private static final int[] REWARDS = {
             123,
             101,
@@ -46,21 +45,25 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
     public String onAdvEvent(String event, Npc npc, Player player) {
         final QuestState qs = getQuestState(player, true);
         String htmltext = getNoQuestMsg(player);
-        switch (qs.getState()) {
-            case State.CREATED: {
-                if (npc.getId() == ELF && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL) {
-                    qs.startQuest();
-                    htmltext = "00008-02.htm";
-                } else {
-                    htmltext = "00008-01.htm";
-                }
-                break;
+        if(event.equalsIgnoreCase("00008-01.htm")){
+            if (npc.getId() == ELF && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL) {
+                qs.startQuest();
+                htmltext = "00008-02.htm";
+            } else {
+                htmltext = "00008-01.htm";
             }
         }
-        if (event.equalsIgnoreCase("start"))
-        {
-            qs.startQuest();
-            htmltext = null;
+        if(qs.getInt(KILL_COUNT_VAR) < REQUEST_COUNT){
+            htmltext = "00008-04.htm";
+        }
+        Random rn = new Random();
+        int randomNum;
+        if (qs.isCond(2)) {
+            randomNum = rn.nextInt(REWARDS.length  + 1);
+            giveItems(player, REWARDS[randomNum], 1);
+            qs.unset(KILL_COUNT_VAR);
+            qs.exitQuest(true, true);
+            htmltext = "00008-03.htm";
         }
         return htmltext;
     }
@@ -74,16 +77,15 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
                 case SHADE_HORROR:
                 case CONTORTION_OF_LUNACY:
                 case SKELETON_LONGBOWMAN: {
-                    if (qs.isCond(2)) {
+                    if (qs.isCond(1)) {
                         randomNum = rn.nextInt(MAX_CHANCE - MIN_CHANCE + 1) + MIN_CHANCE;
-                        if(randomNum > 70) {
+                        if(randomNum > 50) {
                             killCount = qs.getInt(KILL_COUNT_VAR) + 1;
                             if (killCount < REQUEST_COUNT) {
                                 qs.set(KILL_COUNT_VAR, killCount);
                                 sendNpcLogList(killer);
                             } else {
-                                qs.setCond(3, true);
-                                qs.unset(KILL_COUNT_VAR);
+                                qs.setCond(2, true);
                             }
                         }
                     }
@@ -98,20 +100,6 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
         if (qs == null)
         {
             return null;
-        }
-        Random rn = new Random();
-        int randomNum;
-        switch (qs.getState()) {
-            case State.STARTED: {
-                if (qs.isCond(3)) {
-                    randomNum = rn.nextInt(REWARDS.length  + 1);
-                    giveItems(player, REWARDS[randomNum], 1);
-                    qs.unset(KILL_COUNT_VAR);
-                    qs.exitQuest(true, true);
-                    htmltext = "00008-03.htm";
-                }
-                break;
-            }
         }
         return htmltext;
     }
