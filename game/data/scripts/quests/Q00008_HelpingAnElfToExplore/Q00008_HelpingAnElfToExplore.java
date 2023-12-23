@@ -45,6 +45,9 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
     public String onAdvEvent(String event, Npc npc, Player player) {
         final QuestState qs = getQuestState(player, true);
         String htmltext = getNoQuestMsg(player);
+        if(qs.getInt(KILL_COUNT_VAR) < REQUEST_COUNT){
+            htmltext = "00008-04.htm";
+        }
         if(event.equalsIgnoreCase("00008-01.htm")){
             if (npc.getId() == ELF && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL) {
                 qs.startQuest();
@@ -52,9 +55,6 @@ public class Q00008_HelpingAnElfToExplore extends Quest {
             } else {
                 htmltext = "00008-01.htm";
             }
-        }
-        if(qs.getInt(KILL_COUNT_VAR) < REQUEST_COUNT){
-            htmltext = "00008-04.htm";
         }
         Random rn = new Random();
         int randomNum;

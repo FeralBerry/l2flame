@@ -13,7 +13,7 @@ import java.util.Set;
 
 public class Q00006_FireLizards extends Quest {
     private static final int QUEST_ID = 6;
-    private static final int SALAMANDRA_NPC = 30157;
+    private static final int SALAMANDRA_NPC = 30411;
     private static final int SALAMANDRA = 20109;
     private static final int ELDER_SALAMANDRA = 20112;
     private static final int ELITE_SALAMANDRA = 20114;
@@ -43,6 +43,9 @@ public class Q00006_FireLizards extends Quest {
     public String onAdvEvent(String event, Npc npc, Player player) {
         final QuestState qs = getQuestState(player, true);
         String htmltext = getNoQuestMsg(player);
+        if(qs.getInt(KILL_COUNT_VAR) < REQUEST_COUNT){
+            htmltext = "00006-04.htm";
+        }
         if(event.equalsIgnoreCase("00006-01.htm")){
             if (npc.getId() == SALAMANDRA_NPC && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL) {
                 qs.startQuest();
@@ -50,9 +53,6 @@ public class Q00006_FireLizards extends Quest {
             } else {
                 htmltext = "00006-01.htm";
             }
-        }
-        if(qs.getInt(KILL_COUNT_VAR) < REQUEST_COUNT){
-            htmltext = "00006-04.htm";
         }
         Random rn = new Random();
         int randomNum;

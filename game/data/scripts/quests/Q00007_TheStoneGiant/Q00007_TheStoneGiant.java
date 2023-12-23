@@ -15,7 +15,7 @@ import java.util.Set;
 public class Q00007_TheStoneGiant extends Quest {
     private static final int QUEST_ID = 7;
     private static final int COAL_PIECE = 1567;
-    private static final int SALAMANDRA_NPC = 30157;
+    private static final int SALAMANDRA_NPC = 30411;
     private static final int STONE_GIANT = 25372;
     private static final String KILL_COUNT_VAR = "KillCount";
     private static final int MIN_LEVEL = 15;
@@ -37,9 +37,9 @@ public class Q00007_TheStoneGiant extends Quest {
             case State.CREATED: {
                 if (npc.getId() == SALAMANDRA_NPC && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL ) {
                     qs.startQuest();
-                    htmltext = "00009-02.htm";
+                    htmltext = "00007-02.htm";
                 } else {
-                    htmltext = "00009-01.htm";
+                    htmltext = "00007-01.htm";
                 }
                 break;
             }
@@ -56,7 +56,7 @@ public class Q00007_TheStoneGiant extends Quest {
                         }
                         qs.unset(KILL_COUNT_VAR);
                         qs.exitQuest(true, true);
-                        htmltext = "00009-03.htm";
+                        htmltext = "00007-03.htm";
                     }
                 }
                 break;
