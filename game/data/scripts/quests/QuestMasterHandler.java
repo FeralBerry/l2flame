@@ -26,6 +26,7 @@ import quests.Q00007_TheStoneGiant.Q00007_TheStoneGiant;
 import quests.Q00008_HelpingAnElfToExplore.Q00008_HelpingAnElfToExplore;
 import quests.Q00009_ZombieHunting.Q00009_ZombieHunting;
 import quests.Q00010_TheFirstChanges.Q00010_TheFirstChanges;
+import quests.Q00011_HelpMyBrother.Q00011_HelpMyBrother;
 import quests.Q00500_BrothersBoundInChains.Q00500_BrothersBoundInChains;
 import quests.Q00511_AwlUnderFoot.Q00511_AwlUnderFoot;
 import quests.Q00512_BladeUnderFoot.Q00512_BladeUnderFoot;
@@ -95,6 +96,7 @@ public class QuestMasterHandler
 		Q00008_HelpingAnElfToExplore.class,
 		Q00009_ZombieHunting.class,
 		Q00010_TheFirstChanges.class,
+		Q00011_HelpMyBrother.class,
 		Q00500_BrothersBoundInChains.class,
 		Q00504_CompetitionForTheBanditStronghold.class, // TODO: Not done.
 		Q00511_AwlUnderFoot.class,
