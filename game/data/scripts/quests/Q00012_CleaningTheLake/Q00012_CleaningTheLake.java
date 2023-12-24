@@ -36,6 +36,7 @@ public class Q00012_CleaningTheLake extends Quest {
         super(QUEST_ID);
         addStartNpc(UNDINA_NPC);
         addKillId(LIREIN,LIREIN_ELDER,UNDINA,UNDINA_ELDER);
+        registerQuestItems(BEED);
     }
     public String onAdvEvent(String event, Npc npc, Player player) {
         final QuestState qs = getQuestState(player, true);
