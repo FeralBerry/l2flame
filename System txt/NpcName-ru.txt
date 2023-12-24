@@ -3,10 +3,16 @@ npc_begin	id=20015	name=[Болотный Зомби]	nick=[]	nickcolor=53868BFF
 npc_begin	id=20016	name=[Каменный Голем]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20021	name=[Рыжий Медведь]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20033	name=[Бесплотный Ужас]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20034	name=[Паук Скиталец]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20036	name=[Лирейн]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20039	name=[Крысолюд Падальщик]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20040	name=[Трусливый Крысолюд]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=20041	name=[Гнилой Зомби]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20043	name=[Арахнид Охотник]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20044	name=[Старшая Лирейн]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20048	name=[Младший Суккуб]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=20049	name=[Ликантроп]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20050	name=[Ядовитый Арахнид]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20107	name=[Крысолюд]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20109	name=[Саламандра]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20110	name=[Ундина]	nick=[]	nickcolor=191970FF	npc_end
@@ -16,7 +22,13 @@ npc_begin	id=20113	name=[Старшая Ундина]	nick=[]	nickcolor=191970FF
 npc_begin	id=20114	name=[Элитная Саламандра]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20117	name=[Дре Ванул]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20143	name=[Гризли]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20147	name=[Хобгоблин]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20153	name=[Магический Ткач]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20154	name=[Росток Мандрагоры]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20291	name=[Герой Орков Энку]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20292	name=[Шаман Орков Энку]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20308	name=[Цепкий Паук]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20310	name=[Бурый Медведь]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20311	name=[Когтистый Бес]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20312	name=[Охотник Когтистых Бесов]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20313	name=[Матерый Когтистый Бес]	nick=[]	nickcolor=191970FF	npc_end
@@ -25,27 +37,36 @@ npc_begin	id=20319	name=[Гоблин Грабитель Могил]	nick=[]	nic
 npc_begin	id=20320	name=[Предводитель Гоблинов Грабителей Могил]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20333	name=[Серый Голем]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20340	name=[Скелет Невольник]	nick=[]	nickcolor=191970FF	npc_end
-npc_begin	id=20041	name=[Гнилой Зомби]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20353	name=[Дре Ванул Блюститель]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20358	name=[Охотник Крысолюдов]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20359	name=[Воин Крысолюдов]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20364	name=[Вожак Оборотней Мараку]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20365	name=[Горный Гриб]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20368	name=[Хранитель Могил]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20370	name=[Шипастая Летучая Мышь]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20390	name=[Главарь Крысолюдов]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20393	name=[Красный Паук Падальщик]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20403	name=[Тарантул Охотник]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20415	name=[Алая Саламандра]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20416	name=[Старшая Алая Саламандра]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20425	name=[Костяной Солдат Акаст]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20426	name=[Око Зла]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20428	name=[Дозорный Око Зла]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20429	name=[Защитник Око Зла]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20433	name=[Гнойная Летучая Мышь]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20449	name=[Блуждающий огонь]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20455	name=[Притягивающий Беду]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20460	name=[Багровый Паук]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20474	name=[Паук Кхаши]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20475	name=[Волк Кхаши]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20476	name=[Клыкастый Паук Кхаши]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20477	name=[Лесной Волк Кхаши]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20478	name=[Опасный Паук Кхаши]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20479	name=[Медведь Кхаши]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20483	name=[Мертвая Свеча]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20487	name=[Крысолюд Курука]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20488	name=[Охотник Крысолюдов]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20508	name=[Тарантул Хищник]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20510	name=[Пума]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20514	name=[Скелет Щитоносец]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20515	name=[Скелет Пехотинец]	nick=[]	nickcolor=191970FF	npc_end
@@ -116,6 +137,7 @@ npc_begin	id=20768	name=[Шаман Банды Орков Тимак]	nick=[]	ni
 npc_begin	id=20769	name=[Воин Банды Орков Тимак]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20770	name=[Стрелок Банды Орков Тимак]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20775	name=[Людоед Налетчик]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=20776	name=[Темный Суккуб]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20777	name=[Медведь Охотник]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20778	name=[Владыка Орков Рагна]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20779	name=[Провидец Орков Рагна]	nick=[]	nickcolor=54FF9FFF	npc_end

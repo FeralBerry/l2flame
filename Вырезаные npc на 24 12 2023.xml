@@ -3839,6 +3839,48 @@
 	<height normal="36" />
 </collision>
 </npc>
+<npc id="20139" level="16" type="Monster" name="Giant Bee">
+<parameters>
+	<param name="MoveAroundSocial" value="0" />
+	<param name="MoveAroundSocial1" value="0" />
+	<param name="MoveAroundSocial2" value="0" />
+</parameters>
+<race>BUG</race>
+<sex>MALE</sex>
+<acquire exp="471" sp="19" />
+<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+	<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
+	<attack physical="32.16396" magical="21.96382" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+	<defence physical="76.08628" magical="50.6590964478128" />
+	<attribute>
+		<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+	</attribute>
+	<speed>
+		<walk ground="90" />
+		<run ground="90" />
+	</speed>
+	<hitTime>500</hitTime>
+</stats>
+<status undying="false" canBeSown="true" />
+<skillList>
+	<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+	<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+	<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+	<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+	<skill id="4412" level="11" /> <!-- Average P. Def. -->
+	<skill id="4413" level="11" /> <!-- Average M. Def. -->
+	<skill id="4414" level="2" /> <!-- Standard Type -->
+	<skill id="4415" level="3" /> <!-- One-handed Sword -->
+	<skill id="4416" level="12" /> <!-- Bugs -->
+</skillList>
+<shots shotChance="30" spiritChance="30" />
+<exCrtEffect>false</exCrtEffect>
+<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+<collision>
+	<radius normal="8" />
+	<height normal="24.5" />
+</collision>
+</npc>
 <npc id="20152" level="19" type="Monster" name="Lizardman">
 <parameters>
 	<param name="MoveAroundSocial" value="58" />
