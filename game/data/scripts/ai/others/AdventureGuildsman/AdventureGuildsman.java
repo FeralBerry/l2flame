@@ -16,7 +16,10 @@
  */
 package ai.others.AdventureGuildsman;
 
-import ai.AbstractNpcAI;
+import java.util.EnumMap;
+import java.util.Map;
+import java.util.Map.Entry;
+
 import org.l2jmobius.gameserver.data.xml.MultisellData;
 import org.l2jmobius.gameserver.enums.CategoryType;
 import org.l2jmobius.gameserver.model.actor.Npc;
@@ -26,12 +29,10 @@ import org.l2jmobius.gameserver.model.skill.Skill;
 import org.l2jmobius.gameserver.model.skill.SkillCaster;
 import org.l2jmobius.gameserver.network.serverpackets.ExShowQuestInfo;
 
-import java.util.EnumMap;
-import java.util.Map;
-import java.util.Map.Entry;
+import ai.AbstractNpcAI;
 
 /**
- * AdventureGuildsman AI.
+ * Adventure Guildsman AI.
  * @author ChaosPaladin
  */
 public class AdventureGuildsman extends AbstractNpcAI

@@ -1,7 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
-	<spawn name="ImmortalPlateauNorth">
-
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauNorth_001" minZ="-3320" maxZ="-1096">
+				<node x="12563" y="-123223"/>
+				<node x="14746" y="-125652"/>
+				<node x="14774" y="-130491"/>
+				<node x="10096" y="-131963"/>
+				<node x="-6199" y="-136474"/>
+				<node x="-8073" y="-130904"/>
+				<node x="-5127" y="-127179"/>
+				<node x="-3195" y="-119661"/>
+				<node x="1390" y="-119361"/>
+				<node x="5109" y="-120344"/>
+				<node x="9390" y="-121478"/>
+			</territory>
+		</territories>
+		<npc id="20429" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Защитник Око Зла 14 лвл -->
+		<npc id="20308" count="20" respawnTime="35sec" chaseRange="1500" /> <!-- Цепкий Паук 16 лвл -->
+		<npc id="20415" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Алая Саламандра 17 лвл -->
+		<npc id="20483" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Мертвая Свеча 17 лвл -->
+		<npc id="20049" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Ликантроп 20 лвл -->
+		<npc id="20050" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Ядовитый Арахнид 20 лвл -->
 	</spawn>
 	<spawn>
 		<npc id="25373" x="442" y="-141758" z="-2072" heading="16723" dbSave="true" dbName="Dagoniel's Herald Malex (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Дагониэля Малекс (21) -->

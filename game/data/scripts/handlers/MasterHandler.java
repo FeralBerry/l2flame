@@ -194,13 +194,13 @@ public class MasterHandler
 			PlayerHelp.class,
 			PrivateWarehouse.class,
 			ReleaseAttribute.class,
-			SupportMagic.class,
 			SkillList.class,
 			TerritoryStatus.class,
 			TutorialClose.class,
 			UpgradeEquipment.class,
 			VoiceCommand.class,
 			Wear.class,
+			SupportMagic.class,
 		},
 		{
 			// Chat Handlers

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+    <npc id="30320"> <!-- Телепорт -->
+        <teleport type="OTHER">
+            <location x="-74850" y="168753" z="-3499" feeCount="500"/> <!-- Холм Ветряных мельниц -->
+            <location x="-52860" y="191164" z="-3552" feeCount="1200"/> <!-- Вход в Забытый храм -->
+            <location x="-44124" y="203997" z="-3592" feeCount="1800"/> <!-- Поселение Ящеров Ланг -->
+            <location x="-16475" y="208815" z="-3659" feeCount="2500"/> <!-- Южный вход в Пустоши -->
+            <location x="-47010" y="141367" z="-2931" feeCount="2000"/> <!-- Лагерь Ракшасов -->
+            <location x="-89776" y="105344" z="-3571" feeCount="2200"/> <!-- Лагерь Орков -->
+            <location x="-41167" y="122789" z="-2907" feeCount="2800"/> <!-- Руины страданий -->
+            <location x="-14608" y="123920" z="-3115" feeCount="10000"/> <!-- Глудио -->
+            <location x="-19353" y="136842" z="-3755" feeCount="3200"/> <!-- Руины Отчаяния -->
+            <location x="-93421" y="89616" z="-3211" feeCount="3500"/> <!-- Холм Ветров -->
+            <location x="-45073" y="-112467" z="-240" feeCount="15000"/> <!-- Деревня Орков -->
+        </teleport>
+    </npc>
+</list>

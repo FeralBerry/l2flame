@@ -80,8 +80,82 @@
 			</territory>
 		</territories>
 		<npc id="21118" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Баал Дре Ванул 20 лвл -->
-		<npc id="20117" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул 20 лвл * -->
-		<npc id="20353" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул Блюститель 21 лвл * -->
+		<npc id="20117" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул 20 лвл -->
+		<npc id="20353" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Дре Ванул Блюститель 21 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauSouth_006" minZ="-2480" maxZ="-1864">
+				<node x="1738" y="-73284"/>
+				<node x="-1219" y="-77345"/>
+				<node x="3016" y="-80100"/>
+				<node x="4025" y="-77559"/>
+			</territory>
+		</territories>
+		<npc id="20460" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Багровый Паук 15 лвл -->
+		<npc id="20403" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Тарантул Охотник 16 лвл -->
+		<npc id="20508" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Тарантул Хищник 17 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauSouth_007" minZ="-2664" maxZ="-2104">
+				<node x="328" y="-80093"/>
+				<node x="-2483" y="-82470"/>
+				<node x="-2418" y="-85919"/>
+				<node x="-4768" y="-86948"/>
+				<node x="-6719" y="-85396"/>
+				<node x="-12622" y="-92023"/>
+				<node x="-5655" y="-95479"/>
+				<node x="-4596" y="-91636"/>
+				<node x="-2410" y="-89124"/>
+				<node x="1016" y="-81314"/>
+			</territory>
+		</territories>
+		<npc id="20364" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Вожак Оборотней Мараку 14 лвл -->
+		<npc id="20449" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Блуждающий огонь 15 лвл -->
+		<npc id="20474" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Паук Кхаши 15 лвл -->
+		<npc id="20310" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Бурый Медведь 16 лвл -->
+		<npc id="21117" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Бес Кхаши 19 лвл -->
+		<npc id="20043" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Арахнид Охотник 19 лвл-->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauSouth_008" minZ="-2800" maxZ="-1912">
+				<node x="-4579" y="-97376"/>
+				<node x="-3929" y="-112071"/>
+				<node x="1364" y="-111924"/>
+				<node x="5454" y="-105543"/>
+				<node x="7970" y="-104026"/>
+				<node x="5392" y="-96506"/>
+				<node x="1391" y="-97138"/>
+				<node x="-2368" y="-95198"/>
+			</territory>
+		</territories>
+		<npc id="20154" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Росток Мандрагоры 20 лвл -->
+		<npc id="20775" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Людоед Налетчик 17 лвл -->
+		<npc id="20034" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Паук Скиталец 17 лвл -->
+		<npc id="20393" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Красный Паук Падальщик 16 лвл -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="ImmortalPlateauSouth_009" minZ="-2712" maxZ="-1704">
+				<node x="9151" y="-120061"/>
+				<node x="6889" y="-112684"/>
+				<node x="9116" y="-105919"/>
+				<node x="3448" y="-111786"/>
+				<node x="4197" y="-114986"/>
+				<node x="-3180" y="-117185"/>
+				<node x="-1011" y="-118458"/>
+				<node x="2102" y="-118406"/>
+				<node x="6802" y="-118903"/>
+			</territory>
+		</territories>
+		<npc id="21119" count="20" respawnTime="35sec" chaseRange="1500" /><!-- ХобГоблин Кхаши 21 лвл -->
+		<npc id="20147" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Хобгоблин 21 лвл -->
+		<npc id="20048" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Младший Суккуб 20 лвл -->
+		<npc id="20776" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Темный Суккуб 20 лвл -->
+		<npc id="20292" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Шаман Орков Энку 20 лвл -->
+		<npc id="20291" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Герой Орков Энку 21 лвл -->
 	</spawn>
 	<spawn>
 		<npc id="25357" x="2026" y="-93733" z="-3144" heading="16723" dbSave="true" dbName="Sukar Ratman Chief (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Трусливых Крысолюдов (21) -->
@@ -91,10 +165,9 @@
 	</spawn>
 	<spawn>
 		<!-- NPC Квест и другие -->
-		<npc id="30157" x="-78604" y="244680" z="-3690" heading="0" respawnTime="60sec" /><!-- квест на  РБ зомби Светлая эльфийка -->
-
+		<npc id="30157" x="-20765" y="-98888" z="-2696" heading="0" respawnTime="60sec" /><!-- квест на  РБ зомби Светлая эльфийка -->
 		<npc id="30413" x="-26966" y="-86290" z="-3168" heading="0" respawnTime="60sec" /><!-- Водяная Ундина -->
-		<npc id="30414" x="-11837" y="-95996" z="-2704" heading="0" respawnTime="60sec" /><!-- Розелла Светлая эльфийка  -->
+		<npc id="30414" x="-11157" y="-95720" z="-2752" heading="0" respawnTime="60sec" /><!-- Розелла Светлая эльфийка  -->
 		<npc id="30418" x="11980" y="-91451" z="-2392" heading="0" respawnTime="60sec" /><!-- Анника Тёмная Эльфийка-->
 	</spawn>
 </list>

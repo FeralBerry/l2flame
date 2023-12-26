@@ -1,0 +1,109 @@
+package quests.Q00007_TheStoneGiant;
+
+import org.l2jmobius.gameserver.model.actor.Npc;
+import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.holders.NpcLogListHolder;
+import org.l2jmobius.gameserver.model.quest.Quest;
+import org.l2jmobius.gameserver.model.quest.QuestState;
+import org.l2jmobius.gameserver.model.quest.State;
+import org.l2jmobius.gameserver.network.NpcStringId;
+
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
+
+public class Q00007_TheStoneGiant extends Quest {
+    private static final int QUEST_ID = 7;
+    private static final int COAL_PIECE = 1567;
+    private static final int SALAMANDRA_NPC = 30411;
+    private static final int STONE_GIANT = 25372;
+    private static final String KILL_COUNT_VAR = "KillCount";
+    private static final int MIN_LEVEL = 15;
+    private static final int MAX_LEVEL = 28;
+    private static final int ARMOR_SCROLL = 956;
+    private static final int WEAPON_SCROLL = 955;
+    public Q00007_TheStoneGiant(){
+        super(QUEST_ID);
+        addStartNpc(SALAMANDRA_NPC);
+        addKillId(STONE_GIANT);
+        registerQuestItems(COAL_PIECE);
+    }
+    public String onAdvEvent(String event, Npc npc, Player player){
+        final QuestState qs = getQuestState(player, true);
+        String htmltext = getNoQuestMsg(player);
+        Random rn = new Random();
+        int randomNum;
+        switch (qs.getState()) {
+            case State.CREATED: {
+                if (npc.getId() == SALAMANDRA_NPC && player.getLevel() >= MIN_LEVEL && player.getLevel() <= MAX_LEVEL ) {
+                    qs.startQuest();
+                    htmltext = "00007-02.htm";
+                } else {
+                    htmltext = "00007-01.htm";
+                }
+                break;
+            }
+            case State.STARTED: {
+                if(qs.isCond(2)){
+                    if (getQuestItemsCount(player, COAL_PIECE) >= 1)
+                    {
+                        giveItems(player, 57,30000);
+                        randomNum = rn.nextInt(2);
+                        if(randomNum == 1){
+                            giveItems(player, WEAPON_SCROLL,1);
+                        } else {
+                            giveItems(player, ARMOR_SCROLL,3);
+                        }
+                        qs.unset(KILL_COUNT_VAR);
+                        qs.exitQuest(true, true);
+                        htmltext = "00007-03.htm";
+                    }
+                }
+                break;
+            }
+        }
+        return htmltext;
+    }
+    public String onKill(Npc npc, Player killer, boolean isSummon){
+        final QuestState qs = getQuestState(killer, false);
+        if (qs == null)
+        {
+            return null;
+        }
+        final int killCount = qs.getInt(KILL_COUNT_VAR) + 1;
+        if (qs.isCond(1))
+        {
+            giveItems(killer, COAL_PIECE, 1);
+            qs.set(KILL_COUNT_VAR, killCount);
+            sendNpcLogList(killer);
+            if (getQuestItemsCount(killer, COAL_PIECE) >= 1)
+            {
+                qs.setCond(2, true);
+            }
+        }
+        return super.onKill(npc, killer, isSummon);
+    }
+    public String onTalk(Npc npc, Player player) {
+        final QuestState qs = getQuestState(player, true);
+        String htmltext = getNoQuestMsg(player);
+        if (qs == null)
+        {
+            return null;
+        }
+        return htmltext;
+    }
+    public Set<NpcLogListHolder> getNpcLogList(Player player)
+    {
+        final QuestState qs = getQuestState(player, false);
+        if (qs != null)
+        {
+            if (qs.isCond(1))
+            {
+                final Set<NpcLogListHolder> holder = new HashSet<>();
+                holder.add(new NpcLogListHolder(NpcStringId.FRAGMENT_OF_A_STONE_GIANT.getId(), true, qs.getInt(KILL_COUNT_VAR)));
+                return holder;
+            }
+        }
+        return super.getNpcLogList(player);
+    }
+}

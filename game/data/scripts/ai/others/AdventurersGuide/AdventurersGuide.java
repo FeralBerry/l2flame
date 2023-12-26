@@ -53,7 +53,7 @@ public class AdventurersGuide extends AbstractNpcAI
 		new SkillHolder(34254, 1), // Sonate Performance (Adventurer)
 	};
 	// Misc
-	private static final int MAX_LEVEL_BUFFS = 40;
+	private static final int MAX_LEVEL_BUFFS = 99;
 	private static final int MIN_LEVEL_PROTECTION = 40;
 	
 	private AdventurersGuide()
@@ -112,9 +112,9 @@ public class AdventurersGuide extends AbstractNpcAI
 			}
 			case "fantasia_donate_adena":
 			{
-				if (getQuestItemsCount(player, ADENA) >= 1000000)
+				if (getQuestItemsCount(player, ADENA) >= 3000000)
 				{
-					takeItems(player, ADENA, 1000000);
+					takeItems(player, ADENA, 3000000);
 					for (SkillHolder holder : DONATE_BUFFS)
 					{
 						SkillCaster.triggerCast(npc, player, holder.getSkill());
@@ -155,7 +155,7 @@ public class AdventurersGuide extends AbstractNpcAI
 			SkillCaster.triggerCast(npc, player, holder.getSkill());
 		}
 		SkillCaster.triggerCast(npc, player, skill);
-		if ((player.getLevel() < MIN_LEVEL_PROTECTION) && (player.getLevel() <= 1))
+		if ((player.getLevel() < MIN_LEVEL_PROTECTION) && (player.getClassId().level() <= 1))
 		{
 			SkillCaster.triggerCast(npc, player, BLESS_PROTECTION.getSkill());
 		}

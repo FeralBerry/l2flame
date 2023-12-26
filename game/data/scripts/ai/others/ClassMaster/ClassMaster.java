@@ -986,7 +986,6 @@ public class ClassMaster extends AbstractNpcAI implements IXmlReader
 	
 	private String getClassChangeOptions(Player player, int selectedClassId)
 	{
-
 		final StringBuilder sb = new StringBuilder();
 		for (int i = 0; i < _classChangeData.size(); i++)
 		{
@@ -995,6 +994,7 @@ public class ClassMaster extends AbstractNpcAI implements IXmlReader
 			{
 				continue;
 			}
+			
 			sb.append("<tr><td><img src=L2UI_CT1.ChatBalloon_DF_TopCenter width=276 height=1 /></td></tr>");
 			sb.append("<tr><td><table bgcolor=3f3f3f width=100%>");
 			sb.append("<tr><td align=center><a action=\"bypass -h Quest ClassMaster setclass " + selectedClassId + " " + i + "\">" + option.getName() + ":</a></td></tr>");
