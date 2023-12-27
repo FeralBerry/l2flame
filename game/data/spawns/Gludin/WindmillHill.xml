@@ -27,9 +27,9 @@
 				<node x="-73419" y="162037"/>
 			</territory>
 		</territories>
-		<npc id="20008" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman 17 -->
-		<npc id="20010" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Scout 17 -->
-		<npc id="20014" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Warrior 17 -->
+		<npc id="20008" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman 17 -->
+		<npc id="20010" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Scout 17 -->
+		<npc id="20014" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Warrior 17 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -42,8 +42,37 @@
 				<node x="-70397" y="169096"/>
 			</territory>
 		</territories>
-		<npc id="20024" count="15" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Warrior 21 -->
-		<npc id="20027" count="15" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Scout 21 -->
-		<npc id="20030" count="15" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman 21 -->
+		<npc id="20024" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Warrior 21 -->
+		<npc id="20027" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Scout 21 -->
+		<npc id="20030" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman 21 -->
+	</spawn>
+	<spawn>
+		<npc id="25366" x="-82517" y="163137" z="-2984" heading="16723" dbSave="true" dbName="Жрец Куробороса (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Жрец Куробороса (23) -->
+	</spawn>
+	<spawn>
+		<npc id="25127" x="-75957" y="177052" z="-2584" heading="16723" dbSave="true" dbName="Вождь Лангк Рашкос (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Лангк Рашкос (24) -->
+	</spawn>
+	<spawn>
+		<npc id="25528" x="-75611" y="155348" z="-2288" heading="16723" dbSave="true" dbName="Тиберий (22)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Тиберий (22) -->
+	</spawn>
+	<spawn>
+		<npc id="25362" x="-75611" y="155348" z="-2288" heading="16723" dbSave="true" dbName="Начальник Следопытов Шарук (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Начальник Следопытов Шарук (23) -->
+	</spawn>
+	<spawn>
+
+		<!--25001 Кутус Серый Коготь 23 (абадон камп)-->
+		<!--25060 Отверженная Каэль 24 (нет модели) -->
+		<!--25426 Предатель Уруту Фреки 25 (нет модели) -->
+		<!--25019 Пан Дриад 25 (нет модели) -->
+		<!--25429 Коллекционер Маммона Талос 25 (нет модели)-->
+		<!--25369 Собиратель Душ 25 (нежить)(нет модели)-->
+		<!--25149 Лорд Зомби Кроул 25 (нежить)(нет модели)-->
+		<!--25166 Икунтай 25 (нежить)(нет модели)-->
+		<!--25076 Принцесса Молранг 25 (нет модели)-->
+		<!--25365 Патриарх Куроборос 26 (нет модели)-->
+		<!--25360 Тигровый Шершень 26 (нет модели)-->
+		<!--25272 Военачальник Партизан Талакин 28 (нет модели) -->
+		<!--25038 Тирак 28 (нет модели) -->
+		<!--25095 Эльф Реноа 29 (нет модели)-->
 	</spawn>
 </list>
