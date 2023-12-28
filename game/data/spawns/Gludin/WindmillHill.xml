@@ -60,6 +60,9 @@
 				<node x="-62379" y="162352"/>
 			</territory>
 		</territories>
+		<npc id="20293" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman 24 *-->
+		<npc id="20294" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Matriarch 26 *-->
+		<npc id="20295" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Warrior 27 *-->
 	</spawn>
 	<spawn>
 		<territories>
@@ -71,10 +74,13 @@
 				<node x="-60867" y="177772"/>
 			</territory>
 		</territories>
+		<npc id="20296" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Scout 28 *-->
+		<npc id="20297" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 27 *-->
+		<npc id="20298" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 28 *-->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="glugin_004" minZ="-3736" maxZ="-3112">
+			<territory name="glugin_005" minZ="-3736" maxZ="-3112">
 				<node x="-66087" y="180482"/>
 				<node x="-63289" y="182974"/>
 				<node x="-58583" y="187262"/>
@@ -82,17 +88,21 @@
 				<node x="-66069" y="184225"/>
 			</territory>
 		</territories>
+		<npc id="20298" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 28 *-->
+		<npc id="20294" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Matriarch 26 *-->
+		<npc id="20295" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Warrior 27 *-->
 	</spawn>
 	<spawn>
 		<!-- территория Патриарх Куроборос 26 -->
 		<territories>
-			<territory name="glugin_005" minZ="-3680" maxZ="-3600">
+			<territory name="glugin_006" minZ="-3680" maxZ="-3600">
 				<node x="-63504" y="188393"/>
 				<node x="-62433" y="191569"/>
 				<node x="-59161" y="192475"/>
 				<node x="-61144" y="190207"/>
 			</territory>
 		</territories>
+		<npc id="20152" count="50" respawnTime="30sec" chaseRange="1500" /> <!-- Lizardman 25 *-->
 	</spawn>
 	<spawn>
 		<npc id="25366" x="-82517" y="163137" z="-2984" heading="16723" dbSave="true" dbName="Жрец Куробороса (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Жрец Куробороса (23) -->
@@ -107,18 +117,19 @@
 		<npc id="25362" x="-64402" y="175299" z="-3688" heading="16723" dbSave="true" dbName="Начальник Следопытов Шарук (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Начальник Следопытов Шарук (23) -->
 	</spawn>
 	<spawn>
-		<npc id="25426" x="-60203" y="179293" z="-3232" heading="16723" dbSave="true" dbName="Предатель Уруту Фреки (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Предатель Уруту Фреки (25) -->
+		<npc id="25426" x="-60203" y="179293" z="-3232" heading="16723" dbSave="true" dbName="Предатель Уруту Фреки (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Предатель Уруту Фреки (25) *-->
 	</spawn>
 	<spawn>
-		<npc id="25060" x="-56704" y="173854" z="-3208" heading="16723" dbSave="true" dbName="Отверженная Каэль (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Отверженная Каэль (24) -->
+		<npc id="25060" x="-56704" y="173854" z="-3208" heading="16723" dbSave="true" dbName="Отверженная Каэль (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Отверженная Каэль (24) *-->
 	</spawn>
 	<spawn>
-		<npc id="25365" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Патриарх Куроборос (26)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Патриарх Куроборос (26) -->
+		<npc id="25365" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Патриарх Куроборос (26)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Патриарх Куроборос (26) *-->
 	</spawn>
+	<!-- 20295 20296 20297 20298 -->
 	<spawn>
 		<!--25426 Предатель Уруту Фреки 25 (нет модели)* -->
 		<!--25060 Отверженная Каэль 24 (нет модели)* -->
-		<!--25365 Патриарх Куроборос 26 (нет модели)-->
+		<!--25365 Патриарх Куроборос 26 (нет модели)*-->
 
 
 		<!--25019 Пан Дриад 25 (нет модели) -->
