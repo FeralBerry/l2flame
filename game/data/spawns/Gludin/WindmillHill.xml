@@ -2,32 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="WindmillHill">
 		<group>
-			<npc id="23021" x="-75803" y="161828" z="-3344" heading="47695" respawnTime="20sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-71697" y="163312" z="-3552" heading="45876" respawnTime="20sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-65755" y="162618" z="-3696" heading="63110" respawnTime="20sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23020" x="-69533" y="165656" z="-3576" heading="3179" respawnTime="60sec" /> <!-- Giant Wild Boar -->
-			<npc id="23020" x="-70465" y="165428" z="-3512" heading="50192" respawnTime="60sec" /> <!-- Giant Wild Boar -->
-			<npc id="23020" x="-73354" y="164740" z="-3544" heading="4482" respawnTime="60sec" /> <!-- Giant Wild Boar -->
-			<npc id="23020" x="-73889" y="165663" z="-3592" heading="4407" respawnTime="60sec" /> <!-- Giant Wild Boar -->
-			<npc id="23021" x="-67413" y="170324" z="-3408" heading="50503" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-69326" y="174161" z="-3592" heading="23339" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-68713" y="175625" z="-3640" heading="56941" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-67998" y="174374" z="-3536" heading="44333" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-67579" y="170816" z="-3464" heading="14891" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-66058" y="167435" z="-3384" heading="12328" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-69514" y="168952" z="-3464" heading="24020" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-70124" y="168215" z="-3464" heading="35296" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23021" x="-70387" y="167505" z="-3448" heading="61054" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
-			<npc id="23094" x="-68162" y="175540" z="-3616" heading="41884" respawnTime="60sec" /> <!-- Poisonous Spider -->
-			<npc id="23094" x="-69579" y="174130" z="-3640" heading="14589" respawnTime="60sec" /> <!-- Poisonous Spider -->
-			<npc id="23094" x="-70490" y="167923" z="-3464" heading="40746" respawnTime="60sec" /> <!-- Poisonous Spider -->
-			<npc id="23094" x="-70141" y="167682" z="-3464" heading="15512" respawnTime="60sec" /> <!-- Poisonous Spider -->
-			<npc id="23094" x="-69435" y="168510" z="-3448" heading="30571" respawnTime="60sec" /> <!-- Poisonous Spider -->
-			<npc id="23095" x="-68818" y="175970" z="-3640" heading="41932" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="23095" x="-69244" y="174694" z="-3608" heading="48048" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="23095" x="-67760" y="171760" z="-3464" heading="8715" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="23095" x="-67183" y="171328" z="-3488" heading="4536" respawnTime="60sec" /> <!-- Arachnid Predator -->
-			<npc id="23095" x="-67751" y="170507" z="-3480" heading="25020" respawnTime="60sec" /> <!-- Arachnid Predator -->
 			<npc id="33085" x="-74716" y="168554" z="-3496" respawnTime="60sec" /> <!-- Teleport Device -->
 			<npc id="33176" x="-74574" y="168646" z="-3496" heading="60460" respawnTime="60sec" /> <!-- Vent - Guard -->
 			<npc id="33421" x="-74627" y="168726" z="-3504" heading="39876" respawnTime="60sec" /> <!-- Commando -->
@@ -38,5 +12,135 @@
 			<npc id="33422" x="-76394" y="166579" z="-3448" respawnTime="60sec" /> <!-- Commando -->
 			<npc id="33422" x="-70656" y="172172" z="-3672" respawnTime="60sec" /> <!-- Commando -->
 		</group>
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="glugin_001" minZ="-3648" maxZ="-2760">
+				<node x="-75416" y="158259"/>
+				<node x="-78135" y="163484"/>
+				<node x="-74803" y="169944"/>
+				<node x="-70987" y="171084"/>
+				<node x="-72294" y="166771"/>
+				<node x="-70598" y="165499"/>
+				<node x="-67092" y="167865"/>
+				<node x="-65604" y="158411"/>
+				<node x="-73419" y="162037"/>
+			</territory>
+		</territories>
+		<npc id="20008" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman 17 -->
+		<npc id="20010" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Scout 17 -->
+		<npc id="20014" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Warrior 17 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="glugin_002" minZ="-3656" maxZ="-3400">
+				<node x="-71145" y="166996"/>
+				<node x="-70087" y="166415"/>
+				<node x="-66946" y="169542"/>
+				<node x="-68085" y="177968"/>
+				<node x="-70028" y="175305"/>
+				<node x="-70397" y="169096"/>
+			</territory>
+		</territories>
+		<npc id="20024" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Warrior 21 -->
+		<npc id="20027" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Scout 21 -->
+		<npc id="20030" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman 21 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="glugin_003" minZ="-3720" maxZ="-3400">
+				<node x="-62928" y="159651"/>
+				<node x="-65724" y="160046"/>
+				<node x="-65608" y="160046"/>
+				<node x="-61768" y="174777"/>
+				<node x="-63211" y="171383"/>
+				<node x="-64225" y="168747"/>
+				<node x="-62422" y="165297"/>
+				<node x="-59624" y="164498"/>
+				<node x="-62379" y="162352"/>
+			</territory>
+		</territories>
+		<npc id="20293" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman 24 *-->
+		<npc id="20294" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Matriarch 26 *-->
+		<npc id="20295" count="30" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Warrior 27 *-->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="glugin_004" minZ="-3680" maxZ="-3136">
+				<node x="-60931" y="175172"/>
+				<node x="-66933" y="176887"/>
+				<node x="-66788" y="178959"/>
+				<node x="-63968" y="180115"/>
+				<node x="-60867" y="177772"/>
+			</territory>
+		</territories>
+		<npc id="20296" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Scout 28 *-->
+		<npc id="20297" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 27 *-->
+		<npc id="20298" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 28 *-->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="glugin_005" minZ="-3736" maxZ="-3112">
+				<node x="-66087" y="180482"/>
+				<node x="-63289" y="182974"/>
+				<node x="-58583" y="187262"/>
+				<node x="-60986" y="189508"/>
+				<node x="-66069" y="184225"/>
+			</territory>
+		</territories>
+		<npc id="20298" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 28 *-->
+		<npc id="20294" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Matriarch 26 *-->
+		<npc id="20295" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Warrior 27 *-->
+	</spawn>
+	<spawn>
+		<!-- территория Патриарх Куроборос 26 -->
+		<territories>
+			<territory name="glugin_006" minZ="-3680" maxZ="-3600">
+				<node x="-63504" y="188393"/>
+				<node x="-62433" y="191569"/>
+				<node x="-59161" y="192475"/>
+				<node x="-61144" y="190207"/>
+			</territory>
+		</territories>
+		<npc id="20152" count="50" respawnTime="30sec" chaseRange="1500" /> <!-- Lizardman 25 *-->
+	</spawn>
+	<spawn>
+		<npc id="25366" x="-82517" y="163137" z="-2984" heading="16723" dbSave="true" dbName="Жрец Куробороса (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Жрец Куробороса (23) -->
+	</spawn>
+	<spawn>
+		<npc id="25127" x="-75957" y="177052" z="-2584" heading="16723" dbSave="true" dbName="Вождь Лангк Рашкос (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Лангк Рашкос (24) -->
+	</spawn>
+	<spawn>
+		<npc id="25528" x="-75611" y="155348" z="-2288" heading="16723" dbSave="true" dbName="Тиберий (22)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Тиберий (22) -->
+	</spawn>
+	<spawn>
+		<npc id="25362" x="-64402" y="175299" z="-3688" heading="16723" dbSave="true" dbName="Начальник Следопытов Шарук (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Начальник Следопытов Шарук (23) -->
+	</spawn>
+	<spawn>
+		<npc id="25426" x="-60203" y="179293" z="-3232" heading="16723" dbSave="true" dbName="Предатель Уруту Фреки (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Предатель Уруту Фреки (25) *-->
+	</spawn>
+	<spawn>
+		<npc id="25060" x="-56704" y="173854" z="-3208" heading="16723" dbSave="true" dbName="Отверженная Каэль (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Отверженная Каэль (24) *-->
+	</spawn>
+	<spawn>
+		<npc id="25365" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Патриарх Куроборос (26)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Патриарх Куроборос (26) *-->
+	</spawn>
+	<!-- 20295 20296 20297 20298 -->
+	<spawn>
+		<!--25426 Предатель Уруту Фреки 25 (нет модели)* -->
+		<!--25060 Отверженная Каэль 24 (нет модели)* -->
+		<!--25365 Патриарх Куроборос 26 (нет модели)*-->
+
+
+		<!--25019 Пан Дриад 25 (нет модели) -->
+		<!--25429 Коллекционер Маммона Талос 25 (нет модели)-->
+		<!--25369 Собиратель Душ 25 (нежить)(нет модели)-->
+		<!--25149 Лорд Зомби Кроул 25 (нежить)(нет модели)-->
+		<!--25166 Икунтай 25 (нежить)(нет модели)-->
+		<!--25076 Принцесса Молранг 25 (нет модели)-->
+		<!--25360 Тигровый Шершень 26 (нет модели)-->
+		<!--25272 Военачальник Партизан Талакин 28 (нет модели) -->
+		<!--25038 Тирак 28 (нет модели) -->
+		<!--25095 Эльф Реноа 29 (нет модели)-->
 	</spawn>
 </list>

@@ -137,7 +137,6 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-
 	<npc id="20109" level="17" type="Monster" name="Salamander">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
@@ -2606,7 +2605,51 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-
+	<npc id="20152" level="25" type="Monster" name="Lizardman">
+		<parameters>
+			<param name="MoveAroundSocial" value="58" />
+			<param name="MoveAroundSocial1" value="58" />
+			<param name="MoveAroundSocial2" value="58" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="291" /> <!-- Trident -->
+		<acquire exp="1214" sp="61" />
+		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
+			<vitals hp="460.96247" hpRegen="3.5" mp="259.2" mpRegen="1.5" />
+			<attack physical="84.83203" magical="64.27187" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="110.83533" magical="87.8031159084826" />
+			<speed>
+				<walk ground="43" />
+				<run ground="130" />
+			</speed>
+			<hitTime>480</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
+			<clanList>
+				<clan>LIZARDMAN</clan>
+			</clanList>
+		</ai >
+		<collision>
+			<radius normal="10" />
+			<height normal="23" />
+		</collision>
+	</npc>
 	<npc id="20153" level="11" type="Monster" name="Magical Weaver">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />

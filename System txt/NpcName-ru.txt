@@ -1,7 +1,13 @@
 npc_begin	id=18342	name=[Гремлин]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=20008	name=[Ящер Фелим]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20010	name=[Ящер Фелим Скаут]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20014	name=[Ящер Фелим Воин]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20015	name=[Болотный Зомби]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20016	name=[Каменный Голем]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20021	name=[Рыжий Медведь]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20024	name=[Воин Ящер Ланг]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20027	name=[Скаут Ящер Ланг]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20030	name=[Ящер Ланг]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20033	name=[Бесплотный Ужас]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20034	name=[Паук Скиталец]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20036	name=[Лирейн]	nick=[]	nickcolor=191970FF	npc_end
@@ -2679,6 +2685,13 @@ npc_begin	id=27831	name=[Стражник Катши]	nick=[Хранитель �
 npc_begin	id=25001	name=[Кутус Серый Коготь]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25002	name=[Охранник Кутуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25003	name=[Прихвостень Кутуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25127	name=[Матриарх Лангк Рашкос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25362	name=[Главарь Охотников Шарук]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25363	name=[Следопыт Шарука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25364	name=[Зверолов Шарука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25528	name=[Тиберий]	nick=[Главный Инспектор]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25529	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25530	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25339	name=[Тень Халиши]	nick=[Загробный Правитель]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25340	name=[Рыцарь Тени]	nick=[]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25341	name=[Рыцарь Тени]	nick=[]	nickcolor=3F8BFEFF	npc_end
@@ -2695,6 +2708,9 @@ npc_begin	id=25351	name=[Рыцарь Тени]	nick=[]	nickcolor=3F8BFEFF	npc_e
 npc_begin	id=25357	name=[Вожак Трусливых Крысолюдов]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25358	name=[Страж Трусливых Крысолюдов]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25359	name=[Жрец Трусливых Крысолюдов]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25366	name=[Жрец Куроборос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25367	name=[Последователь Жреца Куробороса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25368	name=[Воспитаник Жреца Куробороса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25372	name=[Отверженный Стражник]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25373	name=[Герольд Дагониэля Малекс]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25374	name=[Летун Бездны]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
