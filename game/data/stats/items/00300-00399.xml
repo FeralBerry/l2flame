@@ -265,7 +265,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="660" />
-		<set name="price" val="118" />
+		<set name="price" val="768" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="commissionItemType" val="OTHER_WEAPON" />
@@ -337,7 +337,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="620" />
-		<set name="price" val="37600" />
+		<set name="price" val="244000" />
 		<set name="soulshots" val="2" />
 		<set name="spiritshots" val="2" />
 		<set name="commissionItemType" val="OTHER_WEAPON" />
@@ -1904,7 +1904,7 @@
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="3770" />
-		<set name="price" val="37600" />
+		<set name="price" val="244000" />
 		<set name="commissionItemType" val="ARMOR_PANTS" />
 		<set name="isAppearanceable" val="true" />
 		<set name="enchant_enabled" val="true" />

@@ -455,7 +455,7 @@
 		<set name="enchant_enabled" val="true" />
 		<set name="element_enabled" val="true" />
 		<set name="immediate_effect" val="true" />
-		<set name="price" val="1920" />
+		<set name="price" val="12500" />
 		<set name="material" val="BRONZE" />
 		<stats>
 			<stat type="pDef">33</stat>
