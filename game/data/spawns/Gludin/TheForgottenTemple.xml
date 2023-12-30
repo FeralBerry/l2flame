@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+    <!-- Water -->
+    <spawn name="ForgottenTemple_001">
+        <territories>
+            <territory minZ="-4472" maxZ="-4472">
+                <node x="-54735" y="190757"/>
+                <node x="-56093" y="190753"/>
+                <node x="-56104" y="189927"/>
+                <node x="-54721" y="189947"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_002">
+        <territories>
+            <territory minZ="-4512" maxZ="-4512">
+                <node x="-56950" y="190254"/>
+                <node x="-56947" y="190503"/>
+                <node x="-57330" y="190826"/>
+                <node x="-57811" y="190671"/>
+                <node x="-57863" y="190163"/>
+                <node x="-57519" y="189873"/>
+                <node x="-57240" y="189903"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_003">
+        <territories>
+            <territory minZ="-4536" maxZ="-4496">
+                <node x="-57990" y="188846"/>
+                <node x="-58004" y="187656"/>
+                <node x="-58047" y="187703"/>
+                <node x="-56858" y="187697"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_004">
+        <territories>
+            <territory minZ="-4520" maxZ="-4512">
+                <node x="-54620" y="188097"/>
+                <node x="-54227" y="188084"/>
+                <node x="-56832" y="187700"/>
+                <node x="-56849" y="188882"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_005">
+        <territories>
+            <territory minZ="-4512" maxZ="-4512">
+                <node x="-56423" y="187808"/>
+                <node x="-54992" y="187811"/>
+                <node x="-55005" y="188723"/>
+                <node x="-56456" y="188733"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_006">
+        <territories>
+            <territory minZ="-4512" maxZ="-4512">
+                <node x="-58394" y="188739"/>
+                <node x="-59868" y="188726"/>
+                <node x="-59864" y="187799"/>
+                <node x="-58394" y="187805"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_007">
+        <territories>
+            <territory minZ="-4520" maxZ="-4512">
+                <node x="-60224" y="188477"/>
+                <node x="-60651" y="188449"/>
+                <node x="-60627" y="188054"/>
+                <node x="-60211" y="188063"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_008">
+        <territories>
+            <territory minZ="-4512" maxZ="-4512">
+                <node x="-57783" y="186443"/>
+                <node x="-57775" y="184978"/>
+                <node x="-57082" y="184966"/>
+                <node x="-57100" y="186421"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_009">
+        <territories>
+            <territory minZ="-4512" maxZ="-4512">
+                <node x="-56764" y="186331"/>
+                <node x="-55570" y="186295"/>
+                <node x="-55591" y="185145"/>
+                <node x="-56757" y="185130"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_010">
+        <!--РБ-->
+        <territories>
+            <territory minZ="-4520" maxZ="-4512">
+                <node x="-58129" y="185064"/>
+                <node x="-58117" y="185553"/>
+                <node x="-58783" y="185554"/>
+                <node x="-58792" y="185034"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_011">
+        <!--РБ-->
+        <territories>
+            <territory minZ="-4520" maxZ="-4512">
+                <node x="-58118" y="185844"/>
+                <node x="-58505" y="185854"/>
+                <node x="-58491" y="186372"/>
+                <node x="-58099" y="186364"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_012">
+        <territories>
+            <territory minZ="-4528" maxZ="-4512">
+                <node x="-57527" y="184061"/>
+                <node x="-57880" y="183720"/>
+                <node x="-57866" y="183349"/>
+                <node x="-57560" y="183112"/>
+                <node x="-57187" y="183155"/>
+                <node x="-56936" y="183464"/>
+                <node x="-56942" y="183691"/>
+                <node x="-57311" y="184063"/>
+
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_013">
+        <territories>
+            <territory minZ="-4512" maxZ="-4512">
+                <node x="-55394" y="184257"/>
+                <node x="-55410" y="184691"/>
+                <node x="-56446" y="184640"/>
+                <node x="-56440" y="184232"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_014">
+        <territories>
+            <territory minZ="-4512" maxZ="-4512">
+                <node x="-56126" y="183932"/>
+                <node x="-56105" y="183225"/>
+                <node x="-54642" y="183244"/>
+                <node x="-54643" y="183930"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_015">
+        <territories>
+            <territory minZ="-4520" maxZ="-4512">
+                <node x="-54599" y="184269"/>
+                <node x="-55188" y="184275"/>
+                <node x="-55118" y="185342"/>
+                <node x="-54598" y="185293"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_016">
+        <!--РБ-->
+        <territories>
+            <territory minZ="-4520" maxZ="-4512">
+                <node x="-55956" y="182876"/>
+                <node x="-55599" y="182876"/>
+                <node x="-55625" y="180882"/>
+                <node x="-55957" y="180906"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_017">
+        <!--РБ-->
+        <territories>
+            <territory minZ="-4520" maxZ="-4512">
+                <node x="-55151" y="182863"/>
+                <node x="-54792" y="182872"/>
+                <node x="-54785" y="180859"/>
+                <node x="-55148" y="180893"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_018">
+        <!--РБ under-->
+        <territories>
+            <territory minZ="-4624" maxZ="-4616">
+                <node x="-52488" y="185416"/>
+                <node x="-52485" y="184642"/>
+                <node x="-54119" y="184640"/>
+                <node x="-54105" y="185435"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_019">
+        <territories>
+            <territory minZ="-4552" maxZ="-4552">
+                <node x="-53723" y="182515"/>
+                <node x="-54021" y="182458"/>
+                <node x="-53989" y="180711"/>
+                <node x="-53709" y="180691"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <!-- Fire -->
+    <spawn name="ForgottenTemple_020">
+        <territories>
+            <territory minZ="-4808" maxZ="-4808">
+                <node x="-56998" y="186535"/>
+                <node x="-56998" y="186015"/>
+                <node x="-57415" y="186015"/>
+                <node x="-57415" y="186535"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_021">
+        <territories>
+            <territory minZ="-4808" maxZ="-4808">
+                <node x="-59034" y="186347"/>
+                <node x="-59366" y="186688"/>
+                <node x="-59689" y="186681"/>
+                <node x="-59975" y="186397"/>
+                <node x="-59975" y="186055"/>
+                <node x="-59639" y="185736"/>
+                <node x="-59389" y="185740"/>
+                <node x="-59041" y="186107"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_022">
+        <territories>
+            <territory minZ="-4808" maxZ="-4808">
+                <node x="-59874" y="184540"/>
+                <node x="-59827" y="183096"/>
+                <node x="-59190" y="183110"/>
+                <node x="-59180" y="184544"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_022">
+
+        <territories>
+            <territory minZ="-4808" maxZ="-4808">
+                <node x="-59829" y="184689"/>
+                <node x="-58166" y="184643"/>
+                <node x="-58191" y="183823"/>
+                <node x="-58867" y="183786"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_023">
+        <territories>
+            <territory minZ="-4816" maxZ="-4808">
+                <node x="-60193" y="183165"/>
+                <node x="-62612" y="183192"/>
+                <node x="-62586" y="184467"/>
+                <node x="-60637" y="181833"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_024">
+        <territories>
+            <territory minZ="-4816" maxZ="-4808">
+                <node x="-60304" y="181831"/>
+                <node x="-58720" y="181816"/>
+                <node x="-58720" y="180862"/>
+                <node x="-60312" y="180856"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_024">
+        <!-- РБ -->
+        <territories>
+            <territory minZ="-4808" maxZ="-4800">
+                <node x="-58428" y="181625"/>
+                <node x="-55455" y="181586"/>
+                <node x="-55519" y="181094"/>
+                <node x="-58406" y="181076"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_024">
+        <territories>
+            <territory minZ="-4808" maxZ="-4800">
+                <node x="-60633" y="180824"/>
+                <node x="-62216" y="180844"/>
+                <node x="-62214" y="181841"/>
+                <node x="-58406" y="181076"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_025">
+        <territories>
+            <territory minZ="-4808" maxZ="-4800">
+                <node x="-60646" y="182284"/>
+                <node x="-60653" y="182966"/>
+                <node x="-62231" y="182952"/>
+                <node x="-62210" y="182282"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_026">
+        <!-- тунель -->
+        <territories>
+            <territory minZ="-4808" maxZ="-4800">
+                <node x="-62559" y="182298"/>
+                <node x="-62740" y="182302"/>
+                <node x="-62740" y="179966"/>
+                <node x="-62554" y="179973"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_027">
+        <territories>
+            <territory minZ="-4808" maxZ="-4800">
+                <node x="-62212" y="180134"/>
+                <node x="-62212" y="179155"/>
+                <node x="-60658" y="179155"/>
+                <node x="-60658" y="180134"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_028">
+        <territories>
+            <territory minZ="-4808" maxZ="-4800">
+                <node x="-59404" y="179807"/>
+                <node x="-59635" y="179809"/>
+                <node x="-59974" y="179452"/>
+                <node x="-59961" y="179158"/>
+                <node x="-59635" y="178866"/>
+                <node x="-59354" y="178878"/>
+                <node x="-59025" y="179219"/>
+                <node x="-59035" y="179478"/>
+            </territory>
+        </territories>
+
+    </spawn>
+    <spawn name="ForgottenTemple_028">
+        <territories>
+            <territory minZ="-4808" maxZ="-4800">
+                <node x="-57129" y="179120"/>
+                <node x="-55227" y="179131"/>
+                <node x="-55184" y="179595"/>
+                <node x="-57172" y="179566"/>
+            </territory>
+        </territories>
+
+    </spawn>
+</list>

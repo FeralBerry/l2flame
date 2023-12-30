@@ -867,7 +867,7 @@
 		<set name="isAppearanceable" val="true" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="price" val="37600" />
+		<set name="price" val="244000" />
 		<set name="material" val="STEEL" />
 		<stats>
 			<stat type="pAtk">31</stat>
@@ -890,7 +890,7 @@
 		<set name="commissionItemType" val="BLUNT_WEAPON" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="price" val="37600" />
+		<set name="price" val="244000" />
 		<set name="material" val="STEEL" />
 		<stats>
 			<stat type="pAtk">31</stat>
@@ -915,7 +915,7 @@
 		<set name="isAppearanceable" val="true" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="price" val="37600" />
+		<set name="price" val="244000" />
 		<set name="material" val="STEEL" />
 		<stats>
 			<stat type="pAtk">31</stat>
@@ -940,7 +940,7 @@
 		<set name="isAppearanceable" val="true" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="price" val="37600" />
+		<set name="price" val="244000" />
 		<set name="material" val="STEEL" />
 		<stats>
 			<stat type="pAtk">31</stat>
@@ -965,7 +965,7 @@
 		<set name="isAppearanceable" val="true" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="price" val="37600" />
+		<set name="price" val="244000" />
 		<set name="material" val="STEEL" />
 		<stats>
 			<stat type="pAtk">31</stat>
