@@ -1719,11 +1719,11 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="12" />
+		<set name="crystal_count" val="107" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="SILVER" />
 		<set name="weight" val="150" />
-		<set name="price" val="124240" />
+		<set name="price" val="621200" />
 		<set name="enchant_enabled" val="true" />
 		<set name="commissionItemType" val="NECKLACE" />
 		<skills>

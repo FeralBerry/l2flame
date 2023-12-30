@@ -2550,7 +2550,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="12" />
+		<set name="crystal_count" val="107" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="1200" />
