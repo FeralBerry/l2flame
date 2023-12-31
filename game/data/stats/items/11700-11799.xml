@@ -420,7 +420,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="14" />
+		<set name="crystal_count" val="100" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="533" />
@@ -446,7 +446,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="817" />
@@ -471,7 +471,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="820" />
@@ -496,7 +496,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="820" />
@@ -521,7 +521,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="823" />
@@ -546,7 +546,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="820" />
@@ -571,7 +571,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="840" />
@@ -596,7 +596,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="823" />
@@ -621,7 +621,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="15" />
+		<set name="crystal_count" val="106" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="817" />
@@ -2015,7 +2015,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;10;0" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="MITHRIL" />
 		<set name="weight" val="587" />
@@ -2044,7 +2044,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;32;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="497" />
@@ -2070,7 +2070,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="557" />
@@ -2096,7 +2096,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="473" />
@@ -2122,7 +2122,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="250" />
@@ -2149,7 +2149,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="590" />
@@ -2180,7 +2180,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="590" />
@@ -2211,7 +2211,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;66;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="673" />
@@ -2240,7 +2240,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="473" />
@@ -2266,7 +2266,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="473" />
@@ -2299,7 +2299,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="473" />
@@ -2332,7 +2332,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="473" />
@@ -2365,7 +2365,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="473" />
@@ -2398,7 +2398,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="343" />
@@ -2424,7 +2424,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="473" />
@@ -2450,7 +2450,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;10;0" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="590" />
@@ -2479,7 +2479,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="803" />
@@ -2533,7 +2533,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;46;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="333" />
@@ -2560,7 +2560,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="473" />
@@ -2586,7 +2586,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="787" />
@@ -2614,7 +2614,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="787" />
@@ -2642,7 +2642,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="780" />
@@ -2698,7 +2698,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="10" />
+		<set name="crystal_count" val="73" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="377" />

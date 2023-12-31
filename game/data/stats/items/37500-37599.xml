@@ -370,7 +370,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="36" />
+		<set name="crystal_count" val="265" />
 		<set name="weight" val="150" />
 		<set name="price" val="1730000" />
 		<set name="immediate_effect" val="true" />

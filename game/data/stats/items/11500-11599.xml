@@ -1739,7 +1739,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="GOLD" />
 		<set name="weight" val="150" />
@@ -1779,7 +1779,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="17" />
+		<set name="crystal_count" val="124" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="SILVER" />
 		<set name="weight" val="150" />

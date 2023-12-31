@@ -1146,7 +1146,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="underwear" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="7" />
+		<set name="crystal_count" val="50" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="CRYSTAL" />
 		<set name="weight" val="130" />
@@ -1240,7 +1240,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="underwear" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="12" />
+		<set name="crystal_count" val="85" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="CRYSTAL" />
 		<set name="weight" val="130" />
@@ -1256,7 +1256,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="underwear" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="10" />
+		<set name="crystal_count" val="73" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="CRYSTAL" />
 		<set name="weight" val="130" />
@@ -1272,7 +1272,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="underwear" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="CRYSTAL" />
 		<set name="weight" val="130" />

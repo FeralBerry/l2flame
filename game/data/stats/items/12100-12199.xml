@@ -743,7 +743,7 @@
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="onepiece" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="3493" />
@@ -845,7 +845,7 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="493" />
 		<set name="commissionItemType" val="ARMOR_PANTS" />
-		<set name="price" val="7820" />
+		<set name="price" val="39100" />
 		<stats>
 			<stat type="pDef">73</stat>
 		</stats>
@@ -1276,7 +1276,7 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="313" />
 		<set name="commissionItemType" val="ARMOR_PANTS" />
-		<set name="price" val="7820" />
+		<set name="price" val="39100" />
 		<stats>
 			<stat type="pDef">49</stat>
 			<stat type="maxMp">216</stat>

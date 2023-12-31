@@ -2469,7 +2469,7 @@
 		<!-- Key material for making Unidentified Immortal Shield. -->
 		<set name="icon" val="icon.weapon_sacon_i00_piece" />
 		<set name="weight" val="60" />
-		<set name="price" val="17220" />
+		<set name="price" val="86100" />
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="immediate_effect" val="true" />
@@ -2590,7 +2590,7 @@
 		<!-- Key material for making Unidentified Immortal Sigil. -->
 		<set name="icon" val="icon.weapon_karyen_i00_piece" />
 		<set name="weight" val="60" />
-		<set name="price" val="17220" />
+		<set name="price" val="86100" />
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="immediate_effect" val="true" />

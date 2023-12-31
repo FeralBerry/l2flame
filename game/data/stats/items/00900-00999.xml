@@ -38,7 +38,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="54" />
+		<set name="crystal_count" val="402" />
 		<set name="crystal_type" val="A" />
 		<set name="material" val="GOLD" />
 		<set name="weight" val="150" />

@@ -814,7 +814,7 @@
 		<set name="icon" val="icon.istina_shirt_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="54" />
+		<set name="crystal_count" val="402" />
 		<set name="weight" val="130" />
 		<set name="bodypart" val="underwear" />
 		<set name="enchant_enabled" val="true" />
@@ -934,7 +934,7 @@
 		<set name="icon" val="icon.octavis_shirt_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="54" />
+		<set name="crystal_count" val="402" />
 		<set name="weight" val="130" />
 		<set name="price" val="2540000" />
 		<set name="bodypart" val="underwear" />

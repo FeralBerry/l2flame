@@ -6,7 +6,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="180" />
@@ -22,7 +22,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="370" />
@@ -38,7 +38,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="BONE" />
 		<set name="weight" val="390" />
@@ -55,7 +55,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="12" />
+		<set name="crystal_count" val="85" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="BONE" />
 		<set name="weight" val="183" />
@@ -72,7 +72,7 @@
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="33" />
+		<set name="crystal_count" val="248" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="SCALE_OF_DRAGON" />
 		<set name="weight" val="2540" />
@@ -105,7 +105,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="180" />
@@ -121,7 +121,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="370" />
@@ -137,7 +137,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="BONE" />
 		<set name="weight" val="390" />
@@ -155,7 +155,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="12" />
+		<set name="crystal_count" val="85" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="BONE" />
 		<set name="weight" val="183" />
@@ -172,7 +172,7 @@
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="chest" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="33" />
+		<set name="crystal_count" val="248" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="SCALE_OF_DRAGON" />
 		<set name="weight" val="2540" />
@@ -914,7 +914,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="11" />
+		<set name="crystal_count" val="80" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="SILVER" />
 		<set name="weight" val="50" />
@@ -946,7 +946,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="SILVER" />
 		<set name="weight" val="50" />
@@ -962,7 +962,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="11" />
+		<set name="crystal_count" val="80" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="SILVER" />
 		<set name="weight" val="50" />
@@ -996,7 +996,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rear;lear" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="8" />
+		<set name="crystal_count" val="58" />
 		<set name="crystal_type" val="S" />
 		<set name="material" val="SILVER" />
 		<set name="weight" val="50" />
