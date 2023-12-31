@@ -1336,11 +1336,11 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="252" />
+		<set name="crystal_count" val="1885" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="ORIHARUKON" />
 		<set name="weight" val="1380" />
-		<set name="price" val="942700" />
+		<set name="price" val="4713500" />
 		<set name="change_weaponId" val="9296" />
 		<set name="soulshots" val="3" />
 		<set name="spiritshots" val="3" />
