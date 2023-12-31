@@ -54,7 +54,7 @@
 		<set name="etcitem_type" val="MATURECROP" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="1" />
-		<set name="price" val="250" />
+		<set name="price" val="1246" />
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
@@ -472,7 +472,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="450" />
-		<set name="price" val="3300" />
+		<set name="price" val="16500" />
 		<set name="handler" val="ItemSkills" />
 		<set name="commissionItemType" val="SOULSHOT" />
 		<skills>
@@ -1505,7 +1505,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="2" />
-		<set name="price" val="250" />
+		<set name="price" val="1246" />
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>

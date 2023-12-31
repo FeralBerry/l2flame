@@ -36,7 +36,7 @@
 		<set name="default_action" val="SKILL_REDUCE" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="10" />
-		<set name="price" val="5100" />
+		<set name="price" val="25500" />
 		<set name="is_stackable" val="true" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="ItemSkills" />
@@ -383,7 +383,7 @@
 		<set name="icon" val="icon.etc_codran_seed_i00" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="20" />
-		<set name="price" val="250" />
+		<set name="price" val="1246" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="ItemSkills" />
 		<set name="commissionItemType" val="OTHER_ITEM" />
@@ -1336,11 +1336,11 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;44;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="252" />
+		<set name="crystal_count" val="1885" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="ORIHARUKON" />
 		<set name="weight" val="1380" />
-		<set name="price" val="942700" />
+		<set name="price" val="4713500" />
 		<set name="change_weaponId" val="9296" />
 		<set name="soulshots" val="3" />
 		<set name="spiritshots" val="3" />

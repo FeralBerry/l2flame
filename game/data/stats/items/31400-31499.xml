@@ -364,7 +364,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="S" />
-		<set name="crystal_count" val="7" />
+		<set name="crystal_count" val="50" />
 		<set name="weight" val="550" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -490,7 +490,7 @@
 		<set name="armor_type" val="HEAVY" />
 		<set name="default_action" val="EQUIP" />
 		<set name="crystal_type" val="B" />
-		<set name="crystal_count" val="22" />
+		<set name="crystal_count" val="159" />
 		<set name="weight" val="9980" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -1941,7 +1941,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="onepiece" />
 		<set name="crystal_type" val="A" />
-		<set name="crystal_count" val="11" />
+		<set name="crystal_count" val="80" />
 		<set name="weight" val="2450" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -1960,7 +1960,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="chest" />
 		<set name="crystal_type" val="A" />
-		<set name="crystal_count" val="7" />
+		<set name="crystal_count" val="50" />
 		<set name="weight" val="4300" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -2056,7 +2056,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="29" />
+		<set name="crystal_count" val="213" />
 		<set name="weight" val="1050" />
 		<set name="price" val="88145" />
 		<set name="soulshots" val="2" />
@@ -2086,7 +2086,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="29" />
+		<set name="crystal_count" val="213" />
 		<set name="weight" val="1050" />
 		<set name="price" val="88145" />
 		<set name="soulshots" val="2" />
@@ -2118,7 +2118,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="29" />
+		<set name="crystal_count" val="213" />
 		<set name="weight" val="1050" />
 		<set name="price" val="88145" />
 		<set name="soulshots" val="2" />
@@ -2150,7 +2150,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="29" />
+		<set name="crystal_count" val="213" />
 		<set name="weight" val="1050" />
 		<set name="price" val="88145" />
 		<set name="soulshots" val="2" />
@@ -2303,7 +2303,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="crystal_type" val="S" />
-		<set name="crystal_count" val="119" />
+		<set name="crystal_count" val="891" />
 		<set name="weight" val="1520" />
 		<set name="price" val="3747300" />
 		<set name="soulshots" val="1" />
@@ -2522,7 +2522,7 @@
 		<set name="bodypart" val="rhand" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="29" />
+		<set name="crystal_count" val="213" />
 		<set name="weight" val="1040" />
 		<set name="price" val="88145" />
 		<set name="soulshots" val="2" />
@@ -2677,7 +2677,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="36" />
+		<set name="crystal_count" val="1983" />
 		<set name="weight" val="1490" />
 		<set name="price" val="110485" />
 		<set name="soulshots" val="2" />
@@ -2707,7 +2707,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="36" />
+		<set name="crystal_count" val="1983" />
 		<set name="weight" val="1490" />
 		<set name="price" val="110485" />
 		<set name="soulshots" val="2" />
@@ -2739,7 +2739,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="36" />
+		<set name="crystal_count" val="1983" />
 		<set name="weight" val="1490" />
 		<set name="price" val="110485" />
 		<set name="soulshots" val="2" />
@@ -2771,7 +2771,7 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="crystal_type" val="C" />
-		<set name="crystal_count" val="36" />
+		<set name="crystal_count" val="1983" />
 		<set name="weight" val="1490" />
 		<set name="price" val="110485" />
 		<set name="soulshots" val="2" />

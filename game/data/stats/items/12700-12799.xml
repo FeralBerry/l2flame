@@ -155,7 +155,7 @@
 		<set name="weight" val="150" />
 		<set name="crystal_type" val="B" />
 		<set name="commissionItemType" val="NECKLACE" />
-		<set name="price" val="124240" />
+		<set name="price" val="621200" />
 		<stats>
 			<stat type="mDef">68</stat>
 		</stats>
@@ -645,7 +645,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="SILVER" />
 		<set name="weight" val="150" />
-		<set name="price" val="1932" />
+		<set name="price" val="9660" />
 		<set name="commissionItemType" val="PET_EQUIPMENT" />
 		<set name="for_npc" val="true" />
 		<cond msgId="1518">
@@ -805,7 +805,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="2" />
-		<set name="price" val="7200" />
+		<set name="price" val="36000" />
 		<set name="commissionItemType" val="LIFE_STONE" />
 		<set name="is_stackable" val="true" />
 		<cond msgId="113" addName="1">

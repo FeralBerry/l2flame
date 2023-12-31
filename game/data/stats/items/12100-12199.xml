@@ -80,7 +80,7 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="203" />
 		<set name="commissionItemType" val="GLOVES" />
-		<set name="price" val="1044" />
+		<set name="price" val="5220" />
 		<stats>
 			<stat type="pDef">33</stat>
 		</stats>
@@ -97,7 +97,7 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="1483" />
 		<set name="commissionItemType" val="ARMOR_TOP" />
-		<set name="price" val="3140" />
+		<set name="price" val="15700" />
 		<stats>
 			<stat type="pDef">94</stat>
 		</stats>
@@ -129,7 +129,7 @@
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="420" />
 		<set name="commissionItemType" val="SHIELD" />
-		<set name="price" val="1180" />
+		<set name="price" val="5900" />
 		<stats>
 			<stat type="rEvas">-8</stat>
 			<stat type="rShld">20</stat>
@@ -729,7 +729,7 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="407" />
 		<set name="commissionItemType" val="SHIELD" />
-		<set name="price" val="3420" />
+		<set name="price" val="17100" />
 		<stats>
 			<stat type="rEvas">-8</stat>
 			<stat type="rShld">20</stat>
@@ -743,7 +743,7 @@
 		<set name="armor_type" val="HEAVY" />
 		<set name="bodypart" val="onepiece" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="6" />
+		<set name="crystal_count" val="39" />
 		<set name="crystal_type" val="C" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="3493" />
@@ -845,7 +845,7 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="493" />
 		<set name="commissionItemType" val="ARMOR_PANTS" />
-		<set name="price" val="7820" />
+		<set name="price" val="39100" />
 		<stats>
 			<stat type="pDef">73</stat>
 		</stats>
@@ -1276,7 +1276,7 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="313" />
 		<set name="commissionItemType" val="ARMOR_PANTS" />
-		<set name="price" val="7820" />
+		<set name="price" val="39100" />
 		<stats>
 			<stat type="pDef">49</stat>
 			<stat type="maxMp">216</stat>

@@ -6,7 +6,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="14" />
+		<set name="crystal_count" val="100" />
 		<set name="weight" val="530" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -124,7 +124,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="14" />
+		<set name="crystal_count" val="100" />
 		<set name="weight" val="530" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -242,7 +242,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="35" />
+		<set name="crystal_count" val="259" />
 		<set name="weight" val="530" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -382,7 +382,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="35" />
+		<set name="crystal_count" val="259" />
 		<set name="weight" val="530" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
@@ -500,7 +500,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
 		<set name="crystal_type" val="R" />
-		<set name="crystal_count" val="35" />
+		<set name="crystal_count" val="259" />
 		<set name="weight" val="530" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />

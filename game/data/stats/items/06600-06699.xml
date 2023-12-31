@@ -1308,7 +1308,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="11" />
+		<set name="crystal_count" val="80" />
 		<set name="crystal_type" val="B" />
 		<set name="material" val="GOLD" />
 		<set name="weight" val="150" />
@@ -1430,7 +1430,7 @@
 		<set name="icon" val="icon.etc_old_key_i00" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="10" />
-		<set name="price" val="560" />
+		<set name="price" val="2800" />
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="default_action" val="SKILL_REDUCE" />
 		<set name="handler" val="ItemSkills" />

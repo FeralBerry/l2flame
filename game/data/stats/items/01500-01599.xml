@@ -81,7 +81,7 @@
 		<set name="material" val="SILVER" />
 		<set name="weight" val="150" />
 		<set name="commissionItemType" val="NECKLACE" />
-		<set name="price" val="11" />
+		<set name="price" val="51" />
 		<stats>
 			<stat type="mDef">15</stat>
 		</stats>
@@ -95,7 +95,7 @@
 		<set name="material" val="SILVER" />
 		<set name="weight" val="150" />
 		<set name="commissionItemType" val="NECKLACE" />
-		<set name="price" val="720" />
+		<set name="price" val="3600" />
 		<stats>
 			<stat type="mDef">21</stat>
 		</stats>
@@ -109,7 +109,7 @@
 		<set name="material" val="GOLD" />
 		<set name="weight" val="150" />
 		<set name="commissionItemType" val="RING" />
-		<set name="price" val="360" />
+		<set name="price" val="1800" />
 		<stats>
 			<stat type="mDef">11</stat>
 		</stats>
@@ -123,7 +123,7 @@
 		<set name="material" val="GOLD" />
 		<set name="weight" val="150" />
 		<set name="commissionItemType" val="RING" />
-		<set name="price" val="360" />
+		<set name="price" val="1800" />
 		<stats>
 			<stat type="mDef">11</stat>
 		</stats>
@@ -138,7 +138,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="1450" />
-		<set name="price" val="25500" />
+		<set name="price" val="19500" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="commissionItemType" val="ONE_HAND_SWORD" />
@@ -162,7 +162,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="1860" />
-		<set name="price" val="25500" />
+		<set name="price" val="19500" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="commissionItemType" val="BLUNT_WEAPON" />

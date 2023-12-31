@@ -1296,7 +1296,7 @@
 		<set name="commissionItemType" val="ARMOR_PANTS" />
 		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
 		<set name="handler" val="ItemSkills" />
-		<set name="price" val="6960" />
+		<set name="price" val="34800" />
 		<set name="material" val="FISH" />
 		<skills>
 			<skill id="12408" level="1" /> <!-- Check Item -->

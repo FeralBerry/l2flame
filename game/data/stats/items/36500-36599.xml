@@ -752,7 +752,7 @@
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_strap_metal" />
 		<set name="weight" val="2" />
-		<set name="price" val="560" />
+		<set name="price" val="2800" />
 		<set name="is_stackable" val="true" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="commissionItemType" val="OTHER_ITEM" />
