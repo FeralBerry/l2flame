@@ -385,7 +385,7 @@
 		<set name="material" val="GOLD" />
 		<set name="weight" val="50" />
 		<set name="commissionItemType" val="RING" />
-		<set name="price" val="588" />
+		<set name="price" val="2940" />
 		<stats>
 			<stat type="mDef">24</stat>
 		</stats>
@@ -449,7 +449,7 @@
 		<set name="material" val="SILVER" />
 		<set name="weight" val="50" />
 		<set name="commissionItemType" val="NECKLACE" />
-		<set name="price" val="1472" />
+		<set name="price" val="7360" />
 		<stats>
 			<stat type="mDef">52</stat>
 		</stats>

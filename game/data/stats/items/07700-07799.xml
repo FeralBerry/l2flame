@@ -1701,7 +1701,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="FISH" />
 		<set name="weight" val="100" />
-		<set name="price" val="676" />
+		<set name="price" val="3380" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="ItemSkills" />
 		<set name="commissionItemType" val="OTHER_ITEM" />

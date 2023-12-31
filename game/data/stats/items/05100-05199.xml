@@ -472,7 +472,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="450" />
-		<set name="price" val="3300" />
+		<set name="price" val="16500" />
 		<set name="handler" val="ItemSkills" />
 		<set name="commissionItemType" val="SOULSHOT" />
 		<skills>

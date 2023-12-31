@@ -992,7 +992,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
-		<set name="price" val="588" />
+		<set name="price" val="2940" />
 		<set name="recipe_id" val="274" />
 		<set name="is_stackable" val="true" />
 		<set name="commissionItemType" val="RECIPE" />
@@ -1202,7 +1202,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="30" />
-		<set name="price" val="532" />
+		<set name="price" val="2660" />
 		<set name="recipe_id" val="289" />
 		<set name="is_stackable" val="true" />
 		<set name="commissionItemType" val="RECIPE" />
