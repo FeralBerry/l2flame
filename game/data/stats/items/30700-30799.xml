@@ -352,7 +352,7 @@
 		<set name="enchant_enabled" val="true" />
 		<set name="isAppearanceable" val="true" />
 		<set name="immediate_effect" val="true" />
-		<set name="price" val="5100" />
+		<set name="price" val="25500" />
 		<set name="material" val="LEATHER" />
 		<stats>
 			<stat type="sDef">166</stat>
