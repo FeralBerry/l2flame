@@ -689,7 +689,7 @@
 		<set name="icon" val="icon.etc_crystal_silver_i00" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="12500" />
+		<set name="price" val="15000" />
 		<set name="is_stackable" val="true" />
 		<set name="crystal_type" val="A" />
 		<set name="commissionItemType" val="CRYSTAL" />
@@ -699,7 +699,7 @@
 		<set name="icon" val="icon.etc_crystal_gold_i00" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="15000" />
+		<set name="price" val="25000" />
 		<set name="is_stackable" val="true" />
 		<set name="crystal_type" val="S" />
 		<set name="commissionItemType" val="CRYSTAL" />
@@ -711,7 +711,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="2" />
-		<set name="price" val="14" />
+		<set name="price" val="10" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="SoulShots" />
 		<set name="crystal_type" val="D" />
@@ -728,7 +728,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="2" />
-		<set name="price" val="22" />
+		<set name="price" val="15" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="SoulShots" />
 		<set name="crystal_type" val="C" />
@@ -826,11 +826,11 @@
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;300;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="101" />
+		<set name="crystal_count" val="743" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="300" />
-		<set name="price" val="81800" />
+		<set name="price" val="409000" />
 		<set name="soulshots" val="2" />
 		<set name="spiritshots" val="2" />
 		<set name="commissionItemType" val="DAGGER" />
@@ -853,11 +853,11 @@
 		<set name="bodypart" val="lrhand" />
 		<set name="damage_range" val="0;0;66;120" />
 		<set name="immediate_effect" val="true" />
-		<set name="crystal_count" val="101" />
+		<set name="crystal_count" val="743" />
 		<set name="crystal_type" val="D" />
 		<set name="material" val="BRONZE" />
 		<set name="weight" val="300" />
-		<set name="price" val="81800" />
+		<set name="price" val="409000" />
 		<set name="soulshots" val="2" />
 		<set name="spiritshots" val="2" />
 		<set name="enchant_enabled" val="true" />
