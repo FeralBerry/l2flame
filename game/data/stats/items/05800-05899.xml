@@ -382,7 +382,7 @@
 		<set name="etcitem_type" val="CROP" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="2" />
-		<set name="price" val="250" />
+		<set name="price" val="1246" />
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
@@ -582,7 +582,7 @@
 		<set name="etcitem_type" val="MATURECROP" />
 		<set name="material" val="PAPER" />
 		<set name="weight" val="1" />
-		<set name="price" val="250" />
+		<set name="price" val="1246" />
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>

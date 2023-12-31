@@ -249,7 +249,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="60" />
-		<set name="price" val="784" />
+		<set name="price" val="3920" />
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="is_stackable" val="true" />
 	</item>
@@ -271,7 +271,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="60" />
-		<set name="price" val="620" />
+		<set name="price" val="3100" />
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="is_stackable" val="true" />
 	</item>
