@@ -2,9 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="CryptsOfDisgrace">
 		<group>
-			<npc id="22005" x="46963" y="-107221" z="-1560" heading="56795" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Ranger -->
-			<npc id="22005" x="47498" y="-107709" z="-1584" heading="52851" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Ranger -->
-			<npc id="22005" x="46518" y="-108855" z="-1832" heading="38459" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Ranger -->
 			<npc id="22006" x="46585" y="-106764" z="-1512" heading="28214" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
 			<npc id="22006" x="47627" y="-108013" z="-1576" heading="17395" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
 			<npc id="22006" x="47620" y="-107941" z="-1568" heading="17395" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->

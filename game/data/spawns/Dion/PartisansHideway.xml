@@ -2,45 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="PartisansHideway">
 		<group>
-			<npc id="20209" x="39097" y="110856" z="-1168" heading="21274" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="39375" y="113981" z="-2072" heading="30959" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="39395" y="116978" z="-1784" heading="811" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="39503" y="113553" z="-2072" heading="54538" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40176" y="108658" z="-1072" heading="14064" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40400" y="109430" z="-912" heading="63039" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40668" y="104887" z="-1968" heading="22242" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40881" y="111039" z="-808" heading="40447" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40903" y="112137" z="-968" heading="10198" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40908" y="110623" z="-744" heading="26648" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40938" y="108250" z="-920" heading="23887" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="40979" y="116828" z="-1648" heading="43779" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="41136" y="104095" z="-1936" heading="55117" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="42211" y="116678" z="-1936" heading="55142" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="42558" y="105691" z="-1648" heading="45764" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="42601" y="112790" z="-1240" heading="5155" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="42649" y="113802" z="-1456" heading="43471" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="43171" y="119761" z="-1648" heading="48113" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="44218" y="114181" z="-1496" heading="36347" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="44466" y="117347" z="-2184" heading="59433" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="46386" y="116591" z="-2240" heading="841" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="49626" y="112518" z="-1976" heading="41499" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="49772" y="103539" z="-1144" heading="61086" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="51761" y="103358" z="-800" heading="7674" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="51887" y="104151" z="-816" heading="41108" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="52374" y="105563" z="-1496" heading="63034" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="53007" y="105071" z="-1072" heading="11511" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="53212" y="106843" z="-1744" heading="44131" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="53247" y="106295" z="-1584" heading="6858" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="53334" y="107354" z="-1776" heading="13182" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="53872" y="108489" z="-1384" heading="19499" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="53940" y="107600" z="-1568" heading="2223" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="53944" y="107579" z="-1568" heading="15344" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="54124" y="109688" z="-1152" heading="39354" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="54485" y="110384" z="-1056" heading="16932" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="55498" y="112034" z="-1408" heading="31704" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="55757" y="111199" z="-1160" heading="27884" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="56714" y="110717" z="-1520" heading="12160" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
-			<npc id="20209" x="57352" y="113541" z="-1848" heading="28724" respawnTime="60sec" /> <!-- Ol Mahum Sniper -->
 			<npc id="20210" x="39097" y="111771" z="-1144" heading="26882" respawnTime="60sec" /> <!-- Ol Mahum Lieutenant -->
 			<npc id="20210" x="39504" y="108465" z="-1448" heading="49856" respawnTime="60sec" /> <!-- Ol Mahum Lieutenant -->
 			<npc id="20210" x="39755" y="111226" z="-1024" heading="56983" respawnTime="60sec" /> <!-- Ol Mahum Lieutenant -->
@@ -263,30 +224,6 @@
 			<npc id="20755" x="51077" y="105845" z="-1576" heading="51452" respawnTime="60sec" /> <!-- Talakin Commander -->
 			<npc id="20755" x="53637" y="106734" z="-1752" heading="58940" respawnTime="60sec" /> <!-- Talakin Commander -->
 			<npc id="20755" x="53779" y="106619" z="-1696" heading="20561" respawnTime="60sec" /> <!-- Talakin Commander -->
-			<npc id="20756" x="38753" y="111228" z="-1304" heading="0" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="39808" y="112216" z="-1152" heading="0" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="40114" y="107514" z="-1488" heading="0" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="40439" y="111628" z="-856" heading="0" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="40801" y="107811" z="-1088" heading="0" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="40912" y="108482" z="-736" heading="30244" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="41052" y="111817" z="-856" heading="28582" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="41487" y="109217" z="-312" heading="25376" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="44246" y="106316" z="-1120" heading="52562" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="44359" y="106425" z="-1112" heading="60828" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="44838" y="114113" z="-1352" heading="15393" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="45413" y="106161" z="-864" heading="65247" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="46045" y="106378" z="-752" heading="267" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="47014" y="107701" z="-1144" heading="20692" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="47870" y="109906" z="-2008" heading="45541" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="48139" y="107713" z="-1416" heading="47094" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="48473" y="107907" z="-1416" heading="32246" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="48530" y="106230" z="-1312" heading="9552" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="49718" y="108474" z="-992" heading="3968" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="50403" y="108336" z="-1144" heading="52055" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="50640" y="104220" z="-1088" heading="60571" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="51227" y="105845" z="-1568" heading="15471" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="53427" y="106777" z="-1752" heading="59051" respawnTime="60sec" /> <!-- Talakin Archer -->
-			<npc id="20756" x="53767" y="106630" z="-1720" heading="37241" respawnTime="60sec" /> <!-- Talakin Archer -->
 			<npc id="30596" x="43996" y="108998" z="-2032" heading="61440" respawnTime="60sec" /> <!-- Harkel - Partisan Gatekeeper -->
 			<npc id="35382" x="50343" y="111282" z="-1976" heading="0" respawnTime="60sec" /> <!-- Brakel - Partisan Herald -->
 			<npc id="35383" x="43662" y="109133" z="-1984" heading="43744" respawnTime="60sec" /> <!-- Tamutak - Ol Mahum Steward -->

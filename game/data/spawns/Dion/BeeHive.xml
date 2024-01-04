@@ -24,25 +24,6 @@
 			<npc id="20190" x="6662" y="187882" z="-3672" respawnTime="29sec" /> <!-- Skeleton Marauder -->
 			<npc id="20190" x="8507" y="188248" z="-3720" respawnTime="29sec" /> <!-- Skeleton Marauder -->
 			<npc id="20205" x="3673" y="177675" z="-3576" heading="4181" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20251" x="4442" y="164655" z="-3640" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="5171" y="165513" z="-3560" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="3321" y="165306" z="-3640" heading="18199" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="3061" y="169409" z="-3416" heading="19348" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="4420" y="168146" z="-3448" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="4520" y="166900" z="-3432" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="6615" y="169127" z="-3496" heading="10859" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="5038" y="170809" z="-3432" heading="20725" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="5125" y="166188" z="-3496" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="6813" y="167977" z="-3448" heading="6629" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="4318" y="167283" z="-3496" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="1751" y="184412" z="-3672" heading="7421" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="969" y="181727" z="-3640" heading="56760" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="3993" y="189837" z="-3688" heading="64980" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="2572" y="187611" z="-3680" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="1148" y="190847" z="-3704" heading="59771" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="7253" y="182744" z="-2744" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="9336" y="180677" z="-2968" heading="63617" respawnTime="29sec" /> <!-- Delu Lizardman -->
-			<npc id="20251" x="7354" y="183278" z="-2716" respawnTime="29sec" /> <!-- Delu Lizardman -->
 			<npc id="20252" x="10284" y="175373" z="-3624" heading="49240" respawnTime="29sec" /> <!-- Delu Lizardman Scout -->
 			<npc id="20252" x="11061" y="179113" z="-3304" heading="39914" respawnTime="29sec" /> <!-- Delu Lizardman Scout -->
 			<npc id="20252" x="7420" y="177888" z="-3464" heading="33486" respawnTime="29sec" /> <!-- Delu Lizardman Scout -->
@@ -65,14 +46,6 @@
 			<npc id="20253" x="6864" y="187526" z="-3688" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
 			<npc id="20253" x="7367" y="187704" z="-3688" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
 			<npc id="20253" x="7066" y="188594" z="-3720" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20254" x="8018" y="179975" z="-3472" respawnTime="29sec" /> <!-- Skeleton Axeman -->
-			<npc id="20254" x="8723" y="180509" z="-3450" respawnTime="29sec" /> <!-- Skeleton Axeman -->
-			<npc id="20254" x="8078" y="181579" z="-2920" heading="27501" respawnTime="29sec" /> <!-- Skeleton Axeman -->
-			<npc id="20254" x="4950" y="182442" z="-3304" heading="31693" respawnTime="29sec" /> <!-- Skeleton Axeman -->
-			<npc id="20254" x="6882" y="182745" z="-2894" respawnTime="29sec" /> <!-- Skeleton Axeman -->
-			<npc id="20254" x="6379" y="183279" z="-2894" respawnTime="29sec" /> <!-- Skeleton Axeman -->
-			<npc id="20254" x="8924" y="184841" z="-2584" heading="16103" respawnTime="29sec" /> <!-- Skeleton Axeman -->
-			<npc id="20254" x="8010" y="182685" z="-2744" heading="33970" respawnTime="29sec" /> <!-- Skeleton Axeman -->
 			<npc id="20781" x="9490" y="165669" z="-3704" heading="37933" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
 			<npc id="20781" x="7460" y="164143" z="-3576" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
 			<npc id="20781" x="10701" y="164480" z="-3704" heading="56988" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
