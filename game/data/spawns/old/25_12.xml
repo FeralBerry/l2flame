@@ -3,68 +3,6 @@
 	<spawn name="25_12">
 		<group>
 			<npc id="32710" x="183992" y="-182779" z="-1656" heading="32440" respawnTime="60sec" /> <!-- Lucien's Altar -->
-			<npc id="21130" x="166427" y="-195690" z="-3552" heading="49144" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="166458" y="-195690" z="-3552" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="167821" y="-192356" z="-3120" heading="15673" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="166274" y="-196056" z="-3512" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="167532" y="-185715" z="-2184" heading="24463" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="166803" y="-184603" z="-1872" heading="20712" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="166733" y="-183625" z="-1512" heading="17592" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="168777" y="-188704" z="-2656" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="168373" y="-191793" z="-3056" heading="30746" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="168434" y="-191858" z="-2984" heading="25872" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="169174" y="-192336" z="-2904" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="168584" y="-191541" z="-2856" heading="54912" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="170060" y="-193030" z="-3080" heading="4362" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="165906" y="-196056" z="-3560" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="166087" y="-196298" z="-3520" heading="51817" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="170002" y="-195471" z="-3608" heading="29561" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="171587" y="-196343" z="-3576" heading="46700" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="165952" y="-196056" z="-3544" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="173407" y="-195997" z="-3576" heading="17745" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="172782" y="-196096" z="-3560" heading="10272" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="173786" y="-193666" z="-3328" heading="25319" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="173372" y="-194497" z="-3424" heading="18919" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="175436" y="-191793" z="-2880" heading="33400" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="173119" y="-189458" z="-1752" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="172854" y="-189380" z="-1576" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="175956" y="-190002" z="-2232" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="173978" y="-187758" z="-936" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="173493" y="-187474" z="-600" heading="7745" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="175601" y="-187365" z="-1520" heading="55992" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="175566" y="-188495" z="-1840" heading="55064" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21130" x="175927" y="-187487" z="-1528" heading="26416" respawnTime="120sec" chaseRange="2500" /> <!-- Northern Goblin Captain -->
-			<npc id="21131" x="166550" y="-195873" z="-3552" heading="23439" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="167839" y="-192469" z="-3128" heading="21399" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="167808" y="-192465" z="-3128" heading="10441" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="165814" y="-196422" z="-3632" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="169246" y="-190699" z="-2576" heading="19934" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="168850" y="-191815" z="-2832" heading="25644" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="168729" y="-192387" z="-3152" heading="1894" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="170644" y="-193643" z="-3128" heading="40888" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="170299" y="-194395" z="-3416" heading="45491" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="166547" y="-195715" z="-3552" heading="23708" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="166225" y="-195794" z="-3536" heading="45870" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="171461" y="-195267" z="-3368" heading="17341" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="170428" y="-195581" z="-3600" heading="11203" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="166228" y="-196117" z="-3504" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="166320" y="-195629" z="-3552" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="173663" y="-196001" z="-3584" heading="20065" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="172423" y="-195466" z="-3536" heading="13255" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="173583" y="-195008" z="-3528" heading="2960" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="174020" y="-193648" z="-3328" heading="57638" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="174957" y="-191681" z="-2912" heading="30842" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="176310" y="-191697" z="-2792" heading="52992" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="173185" y="-189984" z="-2072" heading="61544" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="173612" y="-189261" z="-1864" heading="44462" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="175308" y="-188755" z="-2008" heading="2505" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="174506" y="-189280" z="-2280" heading="13255" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="173804" y="-186631" z="-400" heading="63865" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="173340" y="-187070" z="-448" heading="21219" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="175345" y="-188431" z="-1800" heading="47476" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="175152" y="-188614" z="-1904" heading="26464" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="175274" y="-187127" z="-1440" heading="43764" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
-			<npc id="21131" x="175925" y="-187536" z="-1536" heading="60794" respawnTime="120sec" chaseRange="2500" /> <!-- Reinforced Spine Golem -->
 			<npc id="22678" x="179190" y="-181544" z="104" heading="20975" respawnTime="60sec" chaseRange="2000" /> <!-- Grave Robber Summoner - Lunatic -->
 			<npc id="22678" x="179370" y="-180937" z="248" heading="14400" respawnTime="60sec" chaseRange="2000" /> <!-- Grave Robber Summoner - Lunatic -->
 			<npc id="22678" x="179352" y="-180020" z="248" heading="23168" respawnTime="60sec" chaseRange="2000" /> <!-- Grave Robber Summoner - Lunatic -->

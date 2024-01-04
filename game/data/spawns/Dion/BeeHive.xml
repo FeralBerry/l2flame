@@ -2,37 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="BeeHive">
 		<group>
-			<npc id="20068" x="4442" y="163943" z="-3720" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="1630" y="164933" z="-3592" heading="35545" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="4845" y="164655" z="-3656" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="4319" y="166544" z="-3416" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="3312" y="167256" z="-3464" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="5023" y="166722" z="-3464" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="3715" y="166900" z="-3464" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="3311" y="167612" z="-3480" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="4906" y="169094" z="-3448" heading="60870" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="5769" y="172528" z="-3320" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="5970" y="172884" z="-3336" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="4057" y="173418" z="-3184" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="2076" y="168808" z="-3528" heading="57828" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="708" y="171710" z="-3120" heading="7179" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="3755" y="174308" z="-3248" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="4158" y="172172" z="-3200" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="1000" y="176554" z="-3432" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="296" y="177800" z="-3640" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="900" y="178512" z="-3672" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="2804" y="180600" z="-3688" heading="42753" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="5873" y="179363" z="-3480" heading="38291" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="3643" y="187852" z="-3672" heading="25186" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="3329" y="184065" z="-3440" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="2794" y="176806" z="-3464" heading="40073" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="2062" y="179823" z="-3704" heading="29508" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="3347" y="181418" z="-3672" heading="8913" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="2904" y="172862" z="-3561" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="7365" y="176003" z="-3624" heading="33339" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="5688" y="175706" z="-3649" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="2638" y="178424" z="-3656" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
-			<npc id="20068" x="2537" y="178602" z="-3656" respawnTime="29sec" /> <!-- Monster Eye Destroyer -->
 			<npc id="20168" x="11333" y="180044" z="-3368" heading="12696" respawnTime="29sec" /> <!-- Silenos -->
 			<npc id="20168" x="8436" y="176277" z="-3528" heading="7288" respawnTime="29sec" /> <!-- Silenos -->
 			<npc id="20168" x="9806" y="178460" z="-3601" respawnTime="29sec" /> <!-- Silenos -->
@@ -54,55 +23,7 @@
 			<npc id="20190" x="8990" y="183360" z="-2712" heading="39567" respawnTime="29sec" /> <!-- Skeleton Marauder -->
 			<npc id="20190" x="6662" y="187882" z="-3672" respawnTime="29sec" /> <!-- Skeleton Marauder -->
 			<npc id="20190" x="8507" y="188248" z="-3720" respawnTime="29sec" /> <!-- Skeleton Marauder -->
-			<npc id="20205" x="2312" y="166107" z="-3496" heading="9562" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="36" y="164600" z="-3176" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="539" y="164066" z="-3288" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="2790" y="168520" z="-3496" heading="12461" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="1027" y="169006" z="-3576" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="1329" y="168828" z="-3624" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="4291" y="170201" z="-3496" heading="19830" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="724" y="168116" z="-3624" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="5669" y="173062" z="-3320" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="4965" y="173952" z="-3336" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="1914" y="172553" z="-3032" heading="6163" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="7432" y="174448" z="-3624" heading="36870" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="4963" y="173240" z="-3256" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="4760" y="169590" z="-3448" heading="1808" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="4561" y="173596" z="-3264" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="698" y="177444" z="-3576" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="1292" y="181258" z="-3624" heading="18665" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="3978" y="176102" z="-3336" heading="62995" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="1610" y="175887" z="-3200" heading="50692" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="2107" y="176732" z="-3368" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20205" x="1373" y="179866" z="-3704" heading="53381" respawnTime="24sec" /> <!-- Dire Wolf -->
 			<npc id="20205" x="3673" y="177675" z="-3576" heading="4181" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20206" x="422" y="168650" z="-3568" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="1127" y="168472" z="-3624" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="1428" y="167938" z="-3624" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="1551" y="166242" z="-3560" heading="55518" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="4057" y="173774" z="-3192" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="4661" y="172350" z="-3224" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="4158" y="173596" z="-3208" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="5467" y="173774" z="-3368" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="5567" y="172528" z="-3272" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="4762" y="173240" z="-3240" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="3454" y="172350" z="-3096" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="1106" y="174086" z="-2888" heading="27003" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="2207" y="177622" z="-3616" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="1001" y="177622" z="-3560" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="800" y="176554" z="-3448" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="623" y="173172" z="-2840" heading="47809" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="3530" y="183353" z="-3408" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="4816" y="185698" z="-3208" heading="16877" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="3064" y="182678" z="-3552" heading="56400" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="3650" y="179594" z="-3672" heading="25273" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="4155" y="176905" z="-3512" heading="16504" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="3630" y="185311" z="-3408" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="2183" y="179186" z="-3672" heading="43746" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="190" y="188508" z="-3704" heading="15225" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="1878" y="171418" z="-3240" heading="51592" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="2401" y="172328" z="-3561" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20206" x="5788" y="175172" z="-3649" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
 			<npc id="20250" x="5225" y="166722" z="-3464" respawnTime="29sec" /> <!-- Glass Jaguar -->
 			<npc id="20250" x="3277" y="164474" z="-3720" heading="44720" respawnTime="29sec" /> <!-- Glass Jaguar -->
 			<npc id="20250" x="3714" y="167968" z="-3448" respawnTime="29sec" /> <!-- Glass Jaguar -->

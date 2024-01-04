@@ -43,7 +43,6 @@
         <npc id="20511" x="151192" y="-174751" z="-1777" heading="44591" respawnTime="34sec" /><!-- Вулканический Голем 19 лвл-->
         <!-- 20 лвл-->
         <npc id="21126" x="164544" y="-214596" z="-3544" heading="54904" respawnTime="120sec" /><!-- Оборотень Кероп 20 лвл -->
-        <npc id="20142" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Грифон 20 лвл * --><!-- нет дропа-->
         <npc id="20354" x="-74793" y="80604" z="-3304" heading="11724" respawnTime="20sec" /><!-- Призрак Гнома 20 лвл * --><!-- нет дропа-->
         <npc id="20453" x="44379" y="246593" z="-6512" heading="32221" respawnTime="100sec" /><!-- Призрак Человека 20 лвл * --><!-- нет дропа-->
         <npc id="20543" x="21290" y="-111310" z="-3288" heading="0" respawnTime="68sec" /><!-- Призрак 20 лвл -->
@@ -62,24 +61,20 @@
         <npc id="20420" x="-46181" y="214527" z="-5090" heading="46134" respawnTime="120sec" /><!-- Суккуб Акаст Турен 21 лвл -->
         <npc id="20492" x="-46181" y="214527" z="-5090" heading="46134" respawnTime="120sec" /><!-- Охранник Кирунака 21 лвл -->
         <npc id="20329" x="21306" y="-111396" z="-3296" heading="0" respawnTime="68sec" /><!-- Призрак Страж 21 лвл -->
-        <npc id="20053" x="-49868" y="149683" z="-2743" heading="6444" respawnTime="27sec" /><!-- Дозорный Гноллов 21 лвл -->
         <npc id="20052" x="-48003" y="44962" z="-5400" heading="53659" respawnTime="60sec" /><!-- Младший Суккуб Турен 21 лвл -->
         <npc id="20338" x="-48003" y="44962" z="-5400" heading="53659" respawnTime="60sec" /><!-- Ткач Ночных Кошмаров 21 лвл * -->
         <npc id="20375" x="23212" y="-111605" z="-3339" heading="10753" respawnTime="68sec" /><!-- Охранник Фаранги 21 лвл -->
-        <npc id="20437" x="-49828" y="144344" z="-2640" heading="0" respawnTime="27sec" /><!-- Рекрут Гноллов 21 лвл -->
         <npc id="20055" x="-27296" y="130944" z="-3684" heading="21991" respawnTime="20sec" /><!-- Монстроглаз Смотритель 21 лвл -->
         <npc id="21095" x="-76919" y="103021" z="-3879" heading="40708" respawnTime="25sec" /><!-- Гигантская Ядовитая Пчела 21 лвл -->
         <!-- 22 лвл-->
         <npc id="20057" x="-48102" y="45762" z="-5400" heading="17706" respawnTime="60sec" /><!-- Младший Суккуб Тилфо 22 лвл -->
         <npc id="21128" x="169543" y="-198680" z="-3432" heading="45622" respawnTime="120sec" /><!-- Голем Крушитель 22 лвл -->
-        <npc id="20224" x="13275" y="132587" z="-2600" heading="56797" respawnTime="24sec" /><!-- Рейнджер Гноллов 22 лвл -->
         <npc id="21233" x="13275" y="132587" z="-2600" heading="56797" respawnTime="24sec" /><!-- Смотритель Кургана 22 лвл * -->
         <npc id="21120" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Бес Турен Кхаши 22 лвл -->
         <npc id="20265" x="34709" y="133380" z="-2968" heading="59577" respawnTime="24sec" /><!-- Монстроглаз Искатель (x2) 22 лвл -->
         <npc id="20056" x="47814" y="245554" z="-6658" heading="46540" respawnTime="100sec" /><!-- Разрушитель Дре Ванул 22 лвл -->
         <npc id="21209" x="-46370" y="210130" z="-5090" heading="33190" respawnTime="120sec" /><!-- Посвященный Смотритель 22 лвл (x4) -->
         <npc id="20374" x="23393" y="-111610" z="-3343" heading="0" respawnTime="68sec" /><!-- Страж Фаранги 22 лвл -->
-        <npc id="20058" x="-59687" y="139298" z="-2455" heading="40736" respawnTime="20sec" /><!-- Гнолл Страж 22 лвл -->
         <npc id="20017" x="-76734" y="169397" z="-3714" heading="37483" respawnTime="21sec" /><!-- Воин Орков Вуку 22 лвл -->
         <npc id="20059" x="-54548" y="130736" z="-3012" heading="65337" respawnTime="20sec" /><!-- Монстроглаз Дозорный 22 лвл -->
         <npc id="23094" x="-68162" y="175540" z="-3616" heading="41884" respawnTime="60sec" /> <!-- Poisonous Spider -->
@@ -88,24 +83,80 @@
         <npc id="21129" x="167727" y="-198702" z="-3488" heading="28903" respawnTime="120sec" /><!-- Вождь Оборотней Кероп 23 лвл -->
         <npc id="20401" x="-4553" y="146960" z="-3618" heading="14152" respawnTime="30sec" /><!-- Людоед Вилан 23 лвл -->
         <npc id="20155" x="37958" y="148647" z="-3728" heading="0" respawnTime="35sec" /><!-- Корень Мандрагоры 23 лвл -->
-        <npc id="20163" x="37958" y="148647" z="-3728" heading="0" respawnTime="35sec" /><!-- Гнолл 23 лвл * -->
         <npc id="21121" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Жуткий Волк Кхаши 23 лвл -->
         <npc id="21139" x="-50398" y="212042" z="-5092" heading="32575" respawnTime="120sec" /><!-- Шипастая Летучая Мышь Катакомб 23 лвл (x4) -->
-        <npc id="20436" x="-51087" y="139191" z="-2917" heading="15479" respawnTime="27sec" /><!-- Снабженец Гноллов 23 лвл -->
-        <npc id="20061" x="-59339" y="136358" z="-2387" heading="59510" respawnTime="27sec" /><!-- Гнолл Одиночка 23 лвл -->
         <npc id="21097" x="-82060" y="124317" z="-3752" heading="0" respawnTime="25sec" /><!-- Молодой Арахнид 23 лвл -->
         <npc id="20204" x="4259" y="171994" z="-3208" respawnTime="29sec" /><!-- Кровавая Пчела 23 лвл -->
         <npc id="20062" x="-53226" y="110386" z="-3574" heading="20895" respawnTime="24sec" /><!-- Людоед Тумран 23 лвл -->
-        <npc id="20548" x="-50906" y="209854" z="-3600" heading="0" respawnTime="20sec" /><!-- Дезертир Гноллов 23 лвл -->
         <npc id="23021" x="-70387" y="167505" z="-3448" heading="61054" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
         <npc id="23020" x="-69533" y="165656" z="-3576" heading="3179" respawnTime="60sec" /> <!-- Giant Wild Boar -->
 
         <!-- Вырезаны все до 24 уровня-->
         <!-- 24 лвл-->
         <npc id="23095" x="-68818" y="175970" z="-3640" heading="41932" respawnTime="60sec" /> <!-- Arachnid Predator -->
+        <!--
+        <npc id="18266" level="24" type="Chest" name="Treasure Chest">
+        <npc id="20064" level="24" type="Monster" name="Tumran Bugbear Warrior">
+        <npc id="20078" level="24" type="Monster" name="Whispering Wind">
+        <npc id="20140" level="24" type="Monster" name="Giant Leech">
+        <npc id="20205" level="24" type="Monster" name="Dire Wolf">
+        <npc id="20402" level="24" type="Monster" name="Veelan Bugbear Warrior">
+        <npc id="20494" level="24" type="Monster" name="Turek War Hound">
+        <npc id="20921" level="24" type="Monster" name="Maille Lizardman Guard">
+        <npc id="20925" level="24" type="Monster" name="Giant Araneid">
+        <npc id="21098" level="24" type="Monster" name="Plain Grizzly">
+        <npc id="21188" level="24" type="Monster" name="Gigant Acolyte">
+        <npc id="21101" level="24" type="Monster" name="Langk Lizardman Shaman">
+        <npc id="21167" level="24" type="Monster" name="Lith Witch">
+        <npc id="21132" level="24" type="Monster" name="Underground Kobold">
+        <npc id="21130" level="24" type="Monster" name="Northern Goblin Leader">
+        <npc id="21122" level="24" type="Monster" name="Kasha Bugbear">
+
+        <npc id="21210" level="25" type="Monster" name="Vault Guardian">
+        <npc id="21234" level="25" type="Monster" name="Grave Guardian">
+        <npc id="20156" level="25" type="Monster" name="Mandragora Blossom">
+        <npc id="20206" level="25" type="Monster" name="Cardiff Werewolf">
+        <npc id="20225" level="25" type="Monster" name="Giant Mist Leech">
+        <npc id="20266" level="25" type="Monster" name="Monster Eye Overseer">
+        <npc id="20356" level="25" type="Monster" name="Langk Lizardman Chieftain">
+        <npc id="20500" level="25" type="Monster" name="Turek Orc Sentinel">
+        <npc id="20743" level="25" type="Monster" name="Howler">
+        <npc id="20926" level="25" type="Monster" name="Poison Araneid">
+        <npc id="21099" level="25" type="Monster" name="Cloudy Beast Turen">
+        <npc id="21131" level="25" type="Monster" name="Enchanted Spine Golem">
+        <npc id="21133" level="25" type="Monster" name="Dead Pit Skeleton Archer">
+        <npc id="22001" level="25" type="Monster" name="Grim Wolf">
+        <npc id="22452" level="25" type="Monster" name="White Skull Kanabion">
+        <npc id="22453" level="25" type="Monster" name="White Skull Kanabion" title="Doppler">
+        <npc id="23416" level="25" type="Monster" name="Windima Resh">
+        <npc id="23420" level="25" type="Monster" name="Immense Windima">
+        <npc id="23419" level="25" type="Monster" name="Giant Windima">
 
 
-        <!-- 20293 20295 20296 20297 20298 20357 20919 20920 21100 Ящеры -->
+        <npc id="25019" level="25" type="RaidBoss" name="Pan Dryad" title="Raid Boss">
+        <npc id="25076" level="25" type="RaidBoss" name="Princess Molrang" title="Raid Boss">
+        <npc id="25149" level="25" type="RaidBoss" name="Zombie Lord Crowl" title="Raid Boss">
+        <npc id="25166" level="25" type="RaidBoss" name="Ikuntai" title="Raid Boss">
+        <npc id="25429" level="25" type="RaidBoss" name="Mammon Collector Talos" title="Raid Boss">
+
+        <npc id="20922" level="26" type="Monster" name="Maille Lizardman Warrior">
+        <npc id="18556" level="26" type="Monster" name="Ariosh's Subordinate">
+        <npc id="20499" level="26" type="Monster" name="Turek Orc Footman">
+        <npc id="20068" level="26" type="Monster" name="Monster Eye Destroyer">
+        <npc id="20069" level="26" type="Monster" name="Selu Lizardman Scout">
+        <npc id="20169" level="26" type="Monster" name="Skeleton Royal Guard">
+        <npc id="20171" level="26" type="Monster" name="Specter">
+        <npc id="20226" level="26" type="Monster" name="Gray Ant">
+        <npc id="21023" level="26" type="Monster" name="Sobbing Wind">
+        <npc id="21134" level="26" type="Monster" name="Dead Pit Spartoi">
+        <npc id="21140" level="26" type="Monster" name="Catacomb Wisp">
+        <npc id="22002" level="26" type="Monster" name="Grim Grizzly">
+        <npc id="23417" level="26" type="Monster" name="Wind Vortex" title="Hurricane">
+
+        <npc id="25360" level="26" type="RaidBoss" name="Tiger Hornet" title="Raid Boss">
+        -->
+
+        <!-- 20357 20919 20920 21100 Ящеры -->
 
 
         <npc id="21123" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Баал Разрушитель Дре Ванул 25 лвл -->
