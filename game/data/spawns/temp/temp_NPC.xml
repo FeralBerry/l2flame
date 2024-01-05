@@ -162,11 +162,8 @@
         <npc id="20071" level="27" type="Monster" name="Selu Lizardman Warrior">
         <npc id="20138" level="27" type="Monster" name="Gargoyle">
         <npc id="20197" level="27" type="Monster" name="Sorrow Maiden">
-        <npc id="20208" level="27" type="Monster" name="Ol Mahum Raider">
         <npc id="20227" level="27" type="Monster" name="Mist Horror Ripper">
         <npc id="20250" level="27" type="Monster" name="Glass Jaguar">
-        <npc id="20295" level="27" type="Monster" name="Virud Lizardman Warrior">
-        <npc id="20297" level="27" type="Monster" name="Virud Lizardman Shaman">
         <npc id="20496" level="27" type="Monster" name="Turek Orc Archer">
         <npc id="20498" level="27" type="Monster" name="Turek Orc Supplier">
         <npc id="20519" level="27" type="Monster" name="Skeleton Pikeman">
@@ -188,9 +185,8 @@
         <npc id="24388" level="27" type="Monster" name="Skeleton Warrior">ROA
 
 
-        <npc id="20073" level="28" type="Monster" name="Ol Mahum Legionnaire">
+
         <npc id="20160" level="28" type="Monster" name="Neer Crawler">
-        <npc id="20209" level="28" type="Monster" name="Ol Mahum Sniper">
         <npc id="20228" level="28" type="Monster" name="Giant Crimson Ant">
         <npc id="20251" level="28" type="Monster" name="Delu Lizardman">
         <npc id="20254" level="28" type="Monster" name="Skeleton Axeman">
@@ -204,8 +200,30 @@
         <npc id="22005" level="28" type="Monster" name="Grave Robber Ranger">
 
 
-        <npc id="25038" level="28" type="RaidBoss" name="Tirak" title="Raid Boss">
-        <npc id="25272" level="28" type="RaidBoss" name="Partisan Leader Talakin" title="Raid Boss">
+        <npc id="20074" level="29" type="Monster" name="Androscorpio">
+        <npc id="20075" level="29" type="Monster" name="Ant Larva">
+        <npc id="20157" level="29" type="Monster" name="Marsh Stakato">
+        <npc id="20190" level="29" type="Monster" name="Skeleton Marauder">
+        <npc id="20198" level="29" type="Monster" name="Neer Ghoul Berserker">
+        <npc id="20252" level="29" type="Monster" name="Delu Lizardman Scout">
+        <npc id="20501" level="29" type="Monster" name="Turek Orc Shaman">
+        <npc id="20608" level="29" type="Monster" name="Patin Archer">
+        <npc id="20615" level="29" type="Monster" name="Ritmal Swordsman">
+        <npc id="20748" level="29" type="Monster" name="Roxide Cohort">
+        <npc id="20750" level="29" type="Monster" name="Fire Archer">
+        <npc id="21026" level="29" type="Monster" name="Singing Wind">
+        <npc id="21137" level="29" type="Monster" name="Iron Ore Golem">
+        <npc id="21142" level="29" type="Monster" name="Grave Keeper Spartoi">
+        <npc id="22006" level="29" type="Monster" name="Grave Robber Guard">
+        <npc id="22007" level="29" type="Monster" name="Ghost of a Soldier">
+        <npc id="22485" level="29" type="Monster" name="Lost Watcher">
+        <npc id="22486" level="29" type="Monster" name="Lost Watcher">
+        <npc id="22487" level="29" type="Monster" name="Lost Beholder">
+
+
+        <npc id="25616" level="29" type="RaidBoss" name="Lost Warden">
+        <npc id="25095" level="29" type="RaidBoss" name="Elf Renoa" title="Raid Boss">*
+        <npc id="29129" level="29" type="RaidBoss" name="Lost Captain">
         -->
 
         <!-- 20357 20919 20920 21100 Ящеры -->

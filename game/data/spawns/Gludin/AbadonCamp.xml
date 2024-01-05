@@ -4,6 +4,9 @@
         <npc id="25001" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Кутус Серый Коготь (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Кутус Серый Коготь (23) -->
     </spawn>
     <spawn>
+        <npc id="25272" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Partisan Leader Talakin (28)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Partisan Leader Talakin (28) * -->
+    </spawn>
+    <spawn>
         <npc id="20548" x="-50906" y="209854" z="-3600" heading="0" respawnTime="20sec" /><!-- Дезертир Гноллов 23 лвл -->
         <npc id="20436" x="-51087" y="139191" z="-2917" heading="15479" respawnTime="27sec" /><!-- Снабженец Гноллов 23 лвл -->
         <npc id="20061" x="-59339" y="136358" z="-2387" heading="59510" respawnTime="27sec" /><!-- Гнолл Одиночка 23 лвл -->
@@ -21,5 +24,11 @@
         <npc id="20164" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Archer 26 лвл * -->
         <npc id="20438" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum General 26 лвл * -->
         <npc id="20207" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Guerilla 26 лвл * -->
+        <npc id="20208" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Raider 27 лвл * -->
+        <npc id="20073" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Legionnaire 28 лвл * -->
+        <npc id="20209" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Sniper 28 лвл * -->
+        <npc id="20076" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Commander 29 лвл * -->
+        <npc id="20165" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Champion 29 лвл * -->
+        <npc id="20210" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Lieutenant 29 лвл * -->
     </spawn>
 </list>
