@@ -2,45 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20079" x="-14798" y="176848" z="-5304" heading="26906" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-14854" y="176766" z="-5304" heading="23731" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-15869" y="176871" z="-5304" heading="37488" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-13446" y="177457" z="-5304" heading="59800" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-13240" y="177661" z="-5304" heading="8468" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-16592" y="177869" z="-5304" heading="32170" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-14531" y="178216" z="-5304" heading="57695" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-14577" y="178844" z="-5304" heading="54997" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-14433" y="178389" z="-5304" heading="2492" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-24628" y="186722" z="-5416" heading="4826" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-24096" y="187362" z="-5416" heading="18749" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-23497" y="188051" z="-5416" heading="38135" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-24046" y="189493" z="-5464" heading="15593" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-24472" y="189229" z="-5464" heading="55143" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-24389" y="189045" z="-5464" heading="30742" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-22366" y="192511" z="-5416" heading="3314" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-23840" y="190795" z="-5416" heading="56366" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-23360" y="191662" z="-5416" heading="19987" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-21448" y="192324" z="-5408" heading="14182" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-22597" y="192188" z="-5416" heading="7497" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-20504" y="192258" z="-5488" heading="42804" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-20237" y="191808" z="-5528" heading="51771" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-19818" y="191977" z="-5520" heading="34943" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-19545" y="191359" z="-5528" heading="11508" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-21773" y="192582" z="-5416" heading="26199" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-26603" y="178340" z="-5312" heading="30486" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-26217" y="178146" z="-5312" heading="53206" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-29002" y="176108" z="-5240" heading="41422" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-28563" y="176650" z="-5240" heading="6241" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-28498" y="177230" z="-5240" heading="41516" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-28081" y="177651" z="-5240" heading="26927" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-27061" y="176555" z="-5312" heading="33952" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-27962" y="174416" z="-4832" heading="28831" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-27812" y="174222" z="-4832" heading="21336" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-28295" y="174422" z="-4832" heading="55481" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-28357" y="173899" z="-4832" heading="40869" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-28127" y="174045" z="-4832" heading="2627" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-25333" y="176723" z="-5312" heading="38788" respawnTime="60sec" /> <!-- Ant -->
-			<npc id="20079" x="-26034" y="176541" z="-5312" heading="56891" respawnTime="60sec" /> <!-- Ant -->
 			<npc id="20080" x="-16100" y="177052" z="-5304" respawnTime="60sec" /> <!-- Ant Captain -->
 			<npc id="20080" x="-15860" y="177029" z="-5304" respawnTime="60sec" /> <!-- Ant Captain -->
 			<npc id="20080" x="-13778" y="178200" z="-5304" heading="23646" respawnTime="60sec" /> <!-- Ant Captain -->
@@ -451,5 +412,11 @@
 			<npc id="29004" x="-22276" y="183300" z="-5720" heading="2555" respawnTime="60sec" /> <!-- Escort Ant -->
 			<npc id="29004" x="-21959" y="183132" z="-5720" heading="27344" respawnTime="60sec" /> <!-- Escort Ant -->
 		</group>
+		<!--
+		<npc id="20226" level="26" type="Monster" name="Gray Ant">
+		<npc id="20228" level="28" type="Monster" name="Giant Crimson Ant">
+		<npc id="20075" level="29" type="Monster" name="Ant Larva">
+		<npc id="20157" level="29" type="Monster" name="Marsh Stakato">
+		-->
 	</spawn>
 </list>

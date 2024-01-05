@@ -391,4 +391,7 @@
     <spawn>
         <npc id="25038" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Tirak (28)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Tirak (28) -->
     </spawn>
+    <spawn>
+        <npc id="25429" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Mammon Collector Talos (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Mammon Collector Talos (25) -->
+    </spawn>
 </list>

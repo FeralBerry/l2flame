@@ -92,10 +92,9 @@
         <npc id="23020" x="-69533" y="165656" z="-3576" heading="3179" respawnTime="60sec" /> <!-- Giant Wild Boar -->
 
         <!-- Вырезаны все до 24 уровня-->
-        <!-- 24 лвл-->
         <npc id="23095" x="-68818" y="175970" z="-3640" heading="41932" respawnTime="60sec" /> <!-- Arachnid Predator -->
+        <!-- 24 лвл-->
         <!--
-        <npc id="18266" level="24" type="Chest" name="Treasure Chest">
         <npc id="20064" level="24" type="Monster" name="Tumran Bugbear Warrior">
         <npc id="20078" level="24" type="Monster" name="Whispering Wind">
         <npc id="20140" level="24" type="Monster" name="Giant Leech">
@@ -111,7 +110,9 @@
         <npc id="21132" level="24" type="Monster" name="Underground Kobold">
         <npc id="21130" level="24" type="Monster" name="Northern Goblin Leader">
         <npc id="21122" level="24" type="Monster" name="Kasha Bugbear">
-
+        -->
+        <!-- 25 лвл-->
+        <!--
         <npc id="21210" level="25" type="Monster" name="Vault Guardian">
         <npc id="21234" level="25" type="Monster" name="Grave Guardian">
         <npc id="20156" level="25" type="Monster" name="Mandragora Blossom">
@@ -131,32 +132,23 @@
         <npc id="23416" level="25" type="Monster" name="Windima Resh">
         <npc id="23420" level="25" type="Monster" name="Immense Windima">
         <npc id="23419" level="25" type="Monster" name="Giant Windima">
-
-
-        <npc id="25019" level="25" type="RaidBoss" name="Pan Dryad" title="Raid Boss">
-        <npc id="25076" level="25" type="RaidBoss" name="Princess Molrang" title="Raid Boss">
-        <npc id="25149" level="25" type="RaidBoss" name="Zombie Lord Crowl" title="Raid Boss">
-        <npc id="25166" level="25" type="RaidBoss" name="Ikuntai" title="Raid Boss">
-        <npc id="25429" level="25" type="RaidBoss" name="Mammon Collector Talos" title="Raid Boss">
-
+        -->
+        <!-- 26 лвл-->
+        <!--
         <npc id="20922" level="26" type="Monster" name="Maille Lizardman Warrior">
-        <npc id="18556" level="26" type="Monster" name="Ariosh's Subordinate">
-        <npc id="20499" level="26" type="Monster" name="Turek Orc Footman">
-        <npc id="20068" level="26" type="Monster" name="Monster Eye Destroyer">
-        <npc id="20069" level="26" type="Monster" name="Selu Lizardman Scout">
-        <npc id="20169" level="26" type="Monster" name="Skeleton Royal Guard">
-        <npc id="20171" level="26" type="Monster" name="Specter">
-        <npc id="20226" level="26" type="Monster" name="Gray Ant">
-        <npc id="21023" level="26" type="Monster" name="Sobbing Wind">
-        <npc id="21134" level="26" type="Monster" name="Dead Pit Spartoi">
-        <npc id="21140" level="26" type="Monster" name="Catacomb Wisp">
+        <npc id="20499" level="26" type="Monster" name="Turek Orc Footman">*?
+        <npc id="20068" level="26" type="Monster" name="Monster Eye Destroyer">*?
+        <npc id="20069" level="26" type="Monster" name="Selu Lizardman Scout">*?
+        <npc id="20169" level="26" type="Monster" name="Skeleton Royal Guard">*?
+        <npc id="20171" level="26" type="Monster" name="Specter">*?
+        <npc id="21023" level="26" type="Monster" name="Sobbing Wind">*?
+        <npc id="21134" level="26" type="Monster" name="Dead Pit Spartoi">*?
+        <npc id="21140" level="26" type="Monster" name="Catacomb Wisp">*?
         <npc id="22002" level="26" type="Monster" name="Grim Grizzly">
         <npc id="23417" level="26" type="Monster" name="Wind Vortex" title="Hurricane">
-
-        <npc id="25360" level="26" type="RaidBoss" name="Tiger Hornet" title="Raid Boss">
-
-
-
+        -->
+        <!-- 27 лвл-->
+        <!--
         <npc id="21803" level="27" type="Chest" name="Treasure Chest">
         <npc id="18267" level="27" type="Chest" name="Treasure Chest">
         <npc id="20071" level="27" type="Monster" name="Selu Lizardman Warrior">
@@ -183,11 +175,10 @@
         <npc id="24386" level="27" type="Monster" name="Skeleton Scout">ROA
         <npc id="24387" level="27" type="Monster" name="Skeleton Archer">ROA
         <npc id="24388" level="27" type="Monster" name="Skeleton Warrior">ROA
-
-
-
+        -->
+        <!-- 28 лвл-->
+        <!--
         <npc id="20160" level="28" type="Monster" name="Neer Crawler">
-        <npc id="20228" level="28" type="Monster" name="Giant Crimson Ant">
         <npc id="20251" level="28" type="Monster" name="Delu Lizardman">
         <npc id="20254" level="28" type="Monster" name="Skeleton Axeman">
         <npc id="20497" level="28" type="Monster" name="Turek Orc Skirmisher">
@@ -198,11 +189,10 @@
         <npc id="21136" level="28" type="Monster" name="Dead Pit Horror">
         <npc id="21141" level="28" type="Monster" name="Catacomb Serpent">
         <npc id="22005" level="28" type="Monster" name="Grave Robber Ranger">
-
-
+        -->
+        <!-- 29 лвл-->
+        <!--
         <npc id="20074" level="29" type="Monster" name="Androscorpio">
-        <npc id="20075" level="29" type="Monster" name="Ant Larva">
-        <npc id="20157" level="29" type="Monster" name="Marsh Stakato">
         <npc id="20190" level="29" type="Monster" name="Skeleton Marauder">
         <npc id="20198" level="29" type="Monster" name="Neer Ghoul Berserker">
         <npc id="20252" level="29" type="Monster" name="Delu Lizardman Scout">
@@ -219,13 +209,58 @@
         <npc id="22485" level="29" type="Monster" name="Lost Watcher">
         <npc id="22486" level="29" type="Monster" name="Lost Watcher">
         <npc id="22487" level="29" type="Monster" name="Lost Beholder">
-
-
+        -->
+        <!-- 30 лвл-->
+        <!--
+        <npc id="21804" level="30" type="Chest" name="Treasure Chest">
+        <npc id="18268" level="30" type="Chest" name="Treasure Chest">
+        <npc id="18321" level="30" type="Monster" name="Caught Rakul">
+        <npc id="19126" level="30" type="FriendlyNpc" name="Commando">
+        <npc id="19127" level="30" type="FriendlyNpc" name="Commando Captain">
+        <npc id="20077" level="30" type="Monster" name="Androscorpio Hunter">
+        <npc id="20079" level="30" type="Monster" name="Ant">
+        <npc id="20168" level="30" type="Monster" name="Silenos">
+        <npc id="20191" level="30" type="Monster" name="Skeleton Raider">
+        <npc id="20199" level="30" type="Monster" name="Amber Basilisk">
+        <npc id="20211" level="30" type="Monster" name="Ol Mahum Captain">
+        <npc id="20229" level="30" type="Monster" name="Weird Wasp">
+        <npc id="20253" level="30" type="Monster" name="Delu Lizardman Warrior">
+        <npc id="20383" level="30" type="Monster" name="Arachnid Hunter">
+        <npc id="20495" level="30" type="Monster" name="Turek Orc Warlord">
+        <npc id="20609" level="30" type="Monster" name="Lakin Salamander">
+        <npc id="20616" level="30" type="Monster" name="Lakin Undine">
+        <npc id="20755" level="30" type="Monster" name="Talakin">
+        <npc id="20924" level="30" type="Monster" name="Maille Lizardman Matriarch">
+        <npc id="20928" level="30" type="Monster" name="Hatu Weird Bee">
+        <npc id="21212" level="30" type="Monster" name="Hallowed Sentinel">
+        <npc id="21011" level="30" type="Monster" name="Ol Mahum Van Grunt">
+        <npc id="21102" level="30" type="Monster" name="Watchman of the Plains">
+        <npc id="21138" level="30" type="Monster" name="Greedy Geist">
+        <npc id="21169" level="30" type="Monster" name="Lith Guard">
+        <npc id="21190" level="30" type="Monster" name="Gigant Footman">
+        <npc id="21236" level="30" type="Monster" name="Barrow Sentinel">
+        <npc id="22008" level="30" type="Monster" name="Grave Robber Fighter">
+        <npc id="22017" level="30" type="Monster" name="Bandit Sweeper">
+        <npc id="22455" level="30" type="Monster" name="Begrudged Kanabion">
+	    <npc id="27458" level="30" type="Monster" name="Bat">
+        -->
+        <!-- РБ
+        <npc id="25019" level="25" type="RaidBoss" name="Pan Dryad" title="Raid Boss">
+        <npc id="25076" level="25" type="RaidBoss" name="Princess Molrang" title="Raid Boss">
+        <npc id="25149" level="25" type="RaidBoss" name="Zombie Lord Crowl" title="Raid Boss">
+        <npc id="25166" level="25" type="RaidBoss" name="Ikuntai" title="Raid Boss">
+        <npc id="25360" level="26" type="RaidBoss" name="Tiger Hornet" title="Raid Boss">
         <npc id="25616" level="29" type="RaidBoss" name="Lost Warden">
         <npc id="25095" level="29" type="RaidBoss" name="Elf Renoa" title="Raid Boss">*
         <npc id="29129" level="29" type="RaidBoss" name="Lost Captain">
+        <npc id="25004" level="30" type="RaidBoss" name="Turek Mercenary Captain" title="Raid Boss">
+	    <npc id="25352" level="30" type="RaidBoss" name="Giant Wasteland Basilisk" title="Raid Boss">
+        <npc id="25501" level="30" type="RaidBoss" name="Boss Akata" title="Raid Boss">
+        <npc id="25079" level="30" type="RaidBoss" name="Cat's Eye Bandit" title="Raid Boss">
+        <npc id="25188" level="30" type="RaidBoss" name="Apepi" title="Raid Boss">
+        <npc id="25169" level="30" type="RaidBoss" name="Ragraman" title="Raid Boss">
+        <npc id="25112" level="30" type="RaidBoss" name="Agent of Beres, Meana" title="Raid Boss">
         -->
-
         <!-- 20357 20919 20920 21100 Ящеры -->
 
 

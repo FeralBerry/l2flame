@@ -2,31 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="BeeHive">
 		<group>
-			<npc id="20168" x="11333" y="180044" z="-3368" heading="12696" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="8436" y="176277" z="-3528" heading="7288" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="9806" y="178460" z="-3601" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="9321" y="176423" z="-3544" heading="42194" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="14263" y="180660" z="-3656" heading="7787" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="11057" y="176259" z="-3544" heading="6212" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="10088" y="181856" z="-2984" heading="1863" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="7917" y="180153" z="-3450" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="7917" y="180865" z="-3000" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="8219" y="179975" z="-3450" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="9264" y="184102" z="-2616" heading="65047" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="6982" y="181855" z="-2904" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="12717" y="178830" z="-3544" heading="60561" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="6279" y="183101" z="-2894" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20168" x="9201" y="181452" z="-3016" heading="50906" respawnTime="29sec" /> <!-- Silenos -->
-			<npc id="20205" x="3673" y="177675" z="-3576" heading="4181" respawnTime="24sec" /> <!-- Dire Wolf -->
-			<npc id="20253" x="10895" y="184646" z="-2848" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="11097" y="185358" z="-2848" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="10393" y="184824" z="-2936" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="10695" y="185002" z="-2848" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="10393" y="185180" z="-2952" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="6864" y="188594" z="-3704" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="6864" y="187526" z="-3688" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="7367" y="187704" z="-3688" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
-			<npc id="20253" x="7066" y="188594" z="-3720" respawnTime="29sec" /> <!-- Delu Lizardman Warrior -->
 			<npc id="20781" x="9490" y="165669" z="-3704" heading="37933" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
 			<npc id="20781" x="7460" y="164143" z="-3576" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
 			<npc id="20781" x="10701" y="164480" z="-3704" heading="56988" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
