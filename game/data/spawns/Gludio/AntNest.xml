@@ -2,88 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20080" x="-16100" y="177052" z="-5304" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-15860" y="177029" z="-5304" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-13778" y="178200" z="-5304" heading="23646" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-13130" y="178064" z="-5304" heading="14811" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-14645" y="178216" z="-5304" heading="41507" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-14569" y="178306" z="-5304" heading="31036" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-14025" y="179195" z="-5320" heading="63452" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-24129" y="187302" z="-5416" heading="27108" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-23538" y="187810" z="-5416" heading="19850" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-22512" y="188093" z="-5416" heading="52754" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-23653" y="190424" z="-5416" heading="41606" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-22476" y="190011" z="-5528" heading="40529" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-24028" y="189888" z="-5416" heading="15335" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-21263" y="189941" z="-5528" heading="28280" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-21263" y="189506" z="-5528" heading="59655" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-20328" y="190455" z="-5448" heading="56251" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-23398" y="191637" z="-5416" heading="46429" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-22582" y="192188" z="-5416" heading="52427" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-20404" y="192427" z="-5488" heading="29419" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-20635" y="192531" z="-5456" heading="25872" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-20393" y="191329" z="-5528" heading="60904" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-20024" y="191981" z="-5528" heading="10232" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-21222" y="192420" z="-5416" heading="58265" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-24255" y="187436" z="-5416" heading="651" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-24874" y="187663" z="-5448" heading="59679" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-27889" y="178277" z="-5240" heading="54366" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-27735" y="178780" z="-5240" heading="62777" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-29110" y="176681" z="-5240" heading="30836" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-28764" y="176750" z="-5240" heading="45982" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-26923" y="177708" z="-5240" heading="17797" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-27091" y="177845" z="-5240" heading="29744" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-26831" y="177741" z="-5240" heading="18236" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-26974" y="177362" z="-5232" heading="33691" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-27097" y="177844" z="-5240" heading="13463" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-26794" y="177454" z="-5240" heading="25685" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-28019" y="177802" z="-5240" heading="23186" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-26725" y="176542" z="-5312" heading="5263" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-28164" y="177690" z="-5240" heading="15162" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-26155" y="177852" z="-5312" heading="8992" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20080" x="-25869" y="176554" z="-5312" heading="3630" respawnTime="60sec" /> <!-- Ant Captain -->
-			<npc id="20081" x="-16523" y="177862" z="-5304" heading="7823" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-16506" y="177838" z="-5304" heading="36166" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-14512" y="178291" z="-5304" heading="14838" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-14455" y="178216" z="-5304" heading="940" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-14081" y="179159" z="-5304" heading="65146" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-13833" y="179366" z="-5376" heading="63274" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-14118" y="179077" z="-5304" heading="51174" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-13982" y="179402" z="-5344" heading="30657" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-24028" y="188548" z="-5408" heading="61549" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-23172" y="188174" z="-5416" heading="38830" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-23221" y="188197" z="-5416" heading="61194" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-24014" y="188568" z="-5416" heading="19304" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-23849" y="188481" z="-5416" heading="23585" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-23921" y="188417" z="-5416" heading="54686" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-24054" y="188502" z="-5416" heading="31102" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-23745" y="189330" z="-5464" heading="11050" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-24123" y="189570" z="-5456" heading="16514" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-20984" y="189648" z="-5528" heading="49760" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-21225" y="190366" z="-5528" heading="9020" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-21124" y="189622" z="-5528" heading="19382" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-19355" y="189101" z="-5512" heading="31806" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-19182" y="189796" z="-5488" heading="41238" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-22851" y="190895" z="-5408" heading="20514" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-23788" y="191332" z="-5416" heading="2421" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-19506" y="191501" z="-5528" heading="58265" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-19983" y="190858" z="-5528" heading="24054" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-24733" y="187711" z="-5440" heading="14155" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-26375" y="178756" z="-5312" heading="39011" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-26583" y="178214" z="-5312" heading="9776" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-27201" y="178565" z="-5232" heading="4758" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-27380" y="178291" z="-5240" heading="49386" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-27086" y="177629" z="-5240" heading="48697" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-27142" y="177707" z="-5240" heading="32701" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-27010" y="177837" z="-5240" heading="65146" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-26837" y="177624" z="-5240" heading="60982" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-26864" y="177420" z="-5240" heading="38184" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-27029" y="177828" z="-5240" heading="7823" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-25387" y="178144" z="-5312" heading="52427" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-26237" y="176603" z="-5312" heading="56840" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-26110" y="177033" z="-5312" heading="48027" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-24565" y="177314" z="-5304" heading="8418" respawnTime="60sec" /> <!-- Ant Overseer -->
-			<npc id="20081" x="-24270" y="177820" z="-5312" heading="61632" respawnTime="60sec" /> <!-- Ant Overseer -->
 			<npc id="20082" x="-17559" y="178460" z="-5336" heading="24061" respawnTime="60sec" /> <!-- Ant Recruit -->
 			<npc id="20082" x="-14724" y="180074" z="-5384" heading="64296" respawnTime="60sec" /> <!-- Ant Recruit -->
 			<npc id="20082" x="-13511" y="179995" z="-5376" heading="53472" respawnTime="60sec" /> <!-- Ant Recruit -->
@@ -417,6 +335,8 @@
 		<npc id="20228" level="28" type="Monster" name="Giant Crimson Ant">
 		<npc id="20075" level="29" type="Monster" name="Ant Larva">
 		<npc id="20157" level="29" type="Monster" name="Marsh Stakato">
+		<npc id="20079" level="30" type="Monster" name="Ant">
+		<npc id="20080" level="31" type="Monster" name="Ant Captain">
 		-->
 	</spawn>
 </list>

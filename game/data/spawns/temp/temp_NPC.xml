@@ -95,19 +95,15 @@
         <npc id="23095" x="-68818" y="175970" z="-3640" heading="41932" respawnTime="60sec" /> <!-- Arachnid Predator -->
         <!-- 24 лвл-->
         <!--
-        <npc id="20064" level="24" type="Monster" name="Tumran Bugbear Warrior">
         <npc id="20078" level="24" type="Monster" name="Whispering Wind">
         <npc id="20140" level="24" type="Monster" name="Giant Leech">
         <npc id="20205" level="24" type="Monster" name="Dire Wolf">
-        <npc id="20402" level="24" type="Monster" name="Veelan Bugbear Warrior">
-        <npc id="20494" level="24" type="Monster" name="Turek War Hound">
         <npc id="20921" level="24" type="Monster" name="Maille Lizardman Guard">
         <npc id="20925" level="24" type="Monster" name="Giant Araneid">
         <npc id="21098" level="24" type="Monster" name="Plain Grizzly">
         <npc id="21188" level="24" type="Monster" name="Gigant Acolyte">
         <npc id="21101" level="24" type="Monster" name="Langk Lizardman Shaman">
         <npc id="21167" level="24" type="Monster" name="Lith Witch">
-        <npc id="21132" level="24" type="Monster" name="Underground Kobold">
         <npc id="21130" level="24" type="Monster" name="Northern Goblin Leader">
         <npc id="21122" level="24" type="Monster" name="Kasha Bugbear">
         -->
@@ -120,7 +116,6 @@
         <npc id="20225" level="25" type="Monster" name="Giant Mist Leech">
         <npc id="20266" level="25" type="Monster" name="Monster Eye Overseer">
         <npc id="20356" level="25" type="Monster" name="Langk Lizardman Chieftain">
-        <npc id="20500" level="25" type="Monster" name="Turek Orc Sentinel">
         <npc id="20743" level="25" type="Monster" name="Howler">
         <npc id="20926" level="25" type="Monster" name="Poison Araneid">
         <npc id="21099" level="25" type="Monster" name="Cloudy Beast Turen">
@@ -136,7 +131,6 @@
         <!-- 26 лвл-->
         <!--
         <npc id="20922" level="26" type="Monster" name="Maille Lizardman Warrior">
-        <npc id="20499" level="26" type="Monster" name="Turek Orc Footman">*?
         <npc id="20068" level="26" type="Monster" name="Monster Eye Destroyer">*?
         <npc id="20069" level="26" type="Monster" name="Selu Lizardman Scout">*?
         <npc id="20169" level="26" type="Monster" name="Skeleton Royal Guard">*?
@@ -156,8 +150,6 @@
         <npc id="20197" level="27" type="Monster" name="Sorrow Maiden">
         <npc id="20227" level="27" type="Monster" name="Mist Horror Ripper">
         <npc id="20250" level="27" type="Monster" name="Glass Jaguar">
-        <npc id="20496" level="27" type="Monster" name="Turek Orc Archer">
-        <npc id="20498" level="27" type="Monster" name="Turek Orc Supplier">
         <npc id="20519" level="27" type="Monster" name="Skeleton Pikeman">
         <npc id="20606" level="27" type="Monster" name="Kuran Kobold">
         <npc id="20613" level="27" type="Monster" name="Lafi Lizardman">
@@ -181,7 +173,6 @@
         <npc id="20160" level="28" type="Monster" name="Neer Crawler">
         <npc id="20251" level="28" type="Monster" name="Delu Lizardman">
         <npc id="20254" level="28" type="Monster" name="Skeleton Axeman">
-        <npc id="20497" level="28" type="Monster" name="Turek Orc Skirmisher">
         <npc id="20607" level="28" type="Monster" name="Kuran Kobold Warrior">
         <npc id="20614" level="28" type="Monster" name="Lafi Lizardman Scout">
         <npc id="20756" level="28" type="Monster" name="Talakin Archer">
@@ -218,11 +209,9 @@
         <npc id="19126" level="30" type="FriendlyNpc" name="Commando">
         <npc id="19127" level="30" type="FriendlyNpc" name="Commando Captain">
         <npc id="20077" level="30" type="Monster" name="Androscorpio Hunter">
-        <npc id="20079" level="30" type="Monster" name="Ant">
         <npc id="20168" level="30" type="Monster" name="Silenos">
         <npc id="20191" level="30" type="Monster" name="Skeleton Raider">
         <npc id="20199" level="30" type="Monster" name="Amber Basilisk">
-        <npc id="20211" level="30" type="Monster" name="Ol Mahum Captain">
         <npc id="20229" level="30" type="Monster" name="Weird Wasp">
         <npc id="20253" level="30" type="Monster" name="Delu Lizardman Warrior">
         <npc id="20383" level="30" type="Monster" name="Arachnid Hunter">
@@ -233,7 +222,6 @@
         <npc id="20924" level="30" type="Monster" name="Maille Lizardman Matriarch">
         <npc id="20928" level="30" type="Monster" name="Hatu Weird Bee">
         <npc id="21212" level="30" type="Monster" name="Hallowed Sentinel">
-        <npc id="21011" level="30" type="Monster" name="Ol Mahum Van Grunt">
         <npc id="21102" level="30" type="Monster" name="Watchman of the Plains">
         <npc id="21138" level="30" type="Monster" name="Greedy Geist">
         <npc id="21169" level="30" type="Monster" name="Lith Guard">
@@ -243,6 +231,84 @@
         <npc id="22017" level="30" type="Monster" name="Bandit Sweeper">
         <npc id="22455" level="30" type="Monster" name="Begrudged Kanabion">
 	    <npc id="27458" level="30" type="Monster" name="Bat">
+        -->
+        <!-- 31 лвл-->
+        <!--
+        <npc id="20200" level="31" type="Monster" name="Strain">
+        <npc id="20230" level="31" type="Monster" name="Marsh Stakato Worker">
+        <npc id="20610" level="31" type="Monster" name="Sentinel Of Water">
+        <npc id="20617" level="31" type="Monster" name="Sentinel Of Water">
+        <npc id="20746" level="31" type="Monster" name="Young Gigantiops">
+        <npc id="21012" level="31" type="Monster" name="Magical Eye">
+        <npc id="21103" level="31" type="Monster" name="Roughly Hewn Rock Golem">
+        <npc id="21143" level="31" type="Monster" name="Catacomb Scavenger Bat">
+        <npc id="22009" level="31" type="Monster" name="Ghost of a Loyal Vassal">
+        <npc id="22018" level="31" type="Monster" name="Bandit Hound">
+        -->
+        <!-- 32 лвл-->
+        <!--
+        <npc id="20081" level="32" type="Monster" name="Ant Overseer">
+        <npc id="21213" level="32" type="Monster" name="Hallowed Monk">
+        <npc id="20145" level="32" type="Monster" name="Harpy">
+        <npc id="20150" level="32" type="Monster" name="King Bugbear">
+        <npc id="20166" level="32" type="Monster" name="Succubus">
+        <npc id="20201" level="32" type="Monster" name="Ghoul">
+        <npc id="20231" level="32" type="Monster" name="Toad Lord">
+        <npc id="20256" level="32" type="Monster" name="Batur Orc Archer">
+        <npc id="20268" level="32" type="Monster" name="Breka Orc Archer">
+        <npc id="20513" level="32" type="Monster" name="Skeleton Knight">
+        <npc id="20611" level="32" type="Monster" name="Dre Vanul Warrior">
+        <npc id="20618" level="32" type="Monster" name="Kanil Succubus">
+        <npc id="20747" level="32" type="Monster" name="Roxide">
+        <npc id="20749" level="32" type="Monster" name="Death Fire">
+        <npc id="21237" level="32" type="Monster" name="Barrow Monk">
+        <npc id="20929" level="32" type="Monster" name="Hatu Dire Wolf">
+        <npc id="21013" level="32" type="Monster" name="Ol Mahum Van Archer">
+        <npc id="21104" level="32" type="Monster" name="Delu Lizardman Supplier">
+        <npc id="22010" level="32" type="Monster" name="Ghost of a General">
+        <npc id="22019" level="32" type="Monster" name="Bandit Watchman">
+        -->
+        <!-- 33 лвл-->
+        <!--
+        -->
+        <!-- 34 лвл-->
+        <!--
+        -->
+        <!-- 35 лвл-->
+        <!--
+        -->
+        <!-- 36 лвл-->
+        <!--
+        -->
+        <!-- 37 лвл-->
+        <!--
+        -->
+        <!-- 38 лвл-->
+        <!--
+        -->
+        <!-- 39 лвл-->
+        <!--
+        -->
+        <!-- 40 лвл-->
+        <!--
+        -->
+        <!-- 41 лвл-->
+        <!--
+        -->
+        <!-- 42 лвл-->
+        <!--
+        -->
+        <!-- 43 лвл-->
+        <!--
+        -->
+        <!-- 43 лвл-->
+        <!--
+        -->
+        <!-- 44 лвл-->
+        <!--
+        -->
+        <!-- 45 лвл-->
+        <!--
         -->
         <!-- РБ
         <npc id="25019" level="25" type="RaidBoss" name="Pan Dryad" title="Raid Boss">
@@ -260,6 +326,8 @@
         <npc id="25188" level="30" type="RaidBoss" name="Apepi" title="Raid Boss">
         <npc id="25169" level="30" type="RaidBoss" name="Ragraman" title="Raid Boss">
         <npc id="25112" level="30" type="RaidBoss" name="Agent of Beres, Meana" title="Raid Boss">
+        <npc id="25392" level="32" type="RaidBoss" name="Captain of Queen's Royal Guards" title="Raid Boss">
+	    <npc id="25401" level="32" type="RaidBoss" name="Skyla" title="Raid Boss">
         -->
         <!-- 20357 20919 20920 21100 Ящеры -->
 
