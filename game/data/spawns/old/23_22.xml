@@ -2,33 +2,7 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="23_22">
 		<group>
-			<npc id="20158" x="119392" y="131953" z="-3544" heading="55166" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="124654" y="134864" z="-3664" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="126453" y="134594" z="-3360" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="125682" y="135134" z="-3616" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="125168" y="137024" z="-3624" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="127952" y="137208" z="-3456" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="129723" y="135219" z="-2976" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="126434" y="138092" z="-3528" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="127193" y="137871" z="-3600" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="124397" y="136214" z="-3664" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="119871" y="136576" z="-3400" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="120810" y="136368" z="-3416" heading="60604" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="120461" y="133197" z="-3480" heading="59774" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="121404" y="134166" z="-3528" heading="20039" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="117993" y="135328" z="-3560" heading="9542" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="121452" y="131953" z="-3584" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="114129" y="135839" z="-3640" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="112701" y="136169" z="-3576" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="113772" y="137819" z="-3576" heading="29302" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="112701" y="137819" z="-3560" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="113772" y="137324" z="-3528" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="110460" y="135761" z="-3248" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="109485" y="136388" z="-3264" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="106986" y="136137" z="-3368" heading="61426" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="107355" y="135792" z="-3272" heading="43007" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="107210" y="137224" z="-3416" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="108185" y="137642" z="-3376" respawnTime="27sec" /> <!-- Medusa -->
+
 		</group>
 	</spawn>
 </list>

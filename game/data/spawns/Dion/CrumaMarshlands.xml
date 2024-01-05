@@ -2,45 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="CrumaMarshlands">
 		<group>
-			<npc id="20233" x="17106" y="102579" z="-3696" heading="12309" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="17777" y="106099" z="-3744" heading="62346" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="18120" y="102026" z="-3736" heading="12382" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="18487" y="106034" z="-3672" heading="62160" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="19161" y="101035" z="-3656" heading="40111" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="19417" y="103724" z="-3720" heading="63369" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="19445" y="102910" z="-3672" heading="53603" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="19845" y="101897" z="-3728" heading="50837" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="20666" y="106358" z="-3720" heading="63994" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="20704" y="106123" z="-3720" heading="15941" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="20952" y="110188" z="-3712" heading="10165" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="20959" y="104749" z="-3680" heading="32246" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="20976" y="110402" z="-3704" heading="16558" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="21345" y="103293" z="-3680" heading="28782" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="21605" y="111653" z="-3744" heading="36308" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="21678" y="112741" z="-3696" heading="21258" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="21957" y="106528" z="-3728" heading="4184" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="22544" y="104481" z="-3672" heading="7391" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="22689" y="110457" z="-3744" heading="20401" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="23009" y="104199" z="-3680" heading="10747" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="23406" y="106345" z="-3664" heading="31814" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="23579" y="102280" z="-3664" heading="5069" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="24061" y="104538" z="-3728" heading="3782" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="24480" y="104033" z="-3728" heading="18048" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="24688" y="109843" z="-3744" heading="2526" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="24723" y="109351" z="-3736" heading="31606" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="24979" y="114017" z="-3712" heading="14875" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="24985" y="105512" z="-3680" heading="46975" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="25076" y="109528" z="-3720" heading="22184" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="25131" y="103490" z="-3656" heading="814" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="25536" y="106284" z="-3672" heading="53627" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="26934" y="105362" z="-3656" heading="3507" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="27132" y="107838" z="-3688" heading="27854" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="27783" y="106741" z="-3688" heading="18854" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="28207" y="106937" z="-3688" heading="15859" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="28736" y="110009" z="-3744" heading="44782" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="28948" y="109201" z="-3704" heading="8253" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="29053" y="108116" z="-3712" heading="5142" respawnTime="60sec" /> <!-- Marsh Spider -->
-			<npc id="20233" x="29185" y="111553" z="-3736" heading="56299" respawnTime="60sec" /> <!-- Marsh Spider -->
 			<npc id="20234" x="20750" y="105615" z="-3720" heading="19636" respawnTime="60sec" /> <!-- Marsh Stakato Drone -->
 			<npc id="20234" x="21325" y="106363" z="-3736" heading="29480" respawnTime="60sec" /> <!-- Marsh Stakato Drone -->
 			<npc id="20234" x="21430" y="103848" z="-3680" heading="37607" respawnTime="60sec" /> <!-- Marsh Stakato Drone -->

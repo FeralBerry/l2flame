@@ -259,12 +259,25 @@
         <npc id="22015" level="33" type="Monster" name="Ghost of a Turka Chief">
         <npc id="22016" level="33" type="Monster" name="Ghost of a Turka Chief">
         <npc id="22020" level="33" type="Monster" name="Snow Lynx">
-        <npc id="24389" level="33" type="Monster" name="Spartoi Soldier">
-        <npc id="24390" level="33" type="Monster" name="Raging Spartoi">
-
         -->
         <!-- 34 лвл-->
         <!--
+        <npc id="20067" level="34" type="Monster" name="Monster Eye Watcher">
+	    <npc id="20084" level="34" type="Monster" name="Ant Patrol">
+	    <npc id="20085" level="34" type="Monster" name="Puncher">
+	    <npc id="20158" level="34" type="Monster" name="Medusa">
+	    <npc id="20202" level="34" type="Monster" name="Dead Seeker">
+	    <npc id="20212" level="34" type="Monster" name="Bloody Axe Turmak" title="Ol Mahum Lord">
+	    <npc id="20233" level="34" type="Monster" name="Marsh Spider">
+	    <npc id="20258" level="34" type="Monster" name="Batur Orc Shaman">
+	    <npc id="20269" level="34" type="Monster" name="Breka Orc Shaman">
+	    <npc id="20546" level="34" type="Monster" name="Turek Orc Elder">
+	    <npc id="20549" level="34" type="Monster" name="Ol Mahum Lord">
+	    <npc id="20930" level="34" type="Monster" name="Hatu Brown Bear">
+	    <npc id="21015" level="34" type="Monster" name="Ol Mahum Van Leader">
+	    <npc id="21106" level="34" type="Monster" name="Cursed Seer">
+	    <npc id="21144" level="34" type="Monster" name="Catacomb Shadow">
+	    <npc id="22021" level="34" type="Monster" name="Bandit Undertaker">
         -->
         <!-- 35 лвл-->
         <!--
@@ -319,7 +332,10 @@
         <npc id="25392" level="32" type="RaidBoss" name="Captain of Queen's Royal Guards" title="Raid Boss">
 	    <npc id="25401" level="32" type="RaidBoss" name="Skyla" title="Raid Boss">
         <npc id="25404" level="33" type="RaidBoss" name="Corsair Captain Kylon" title="Raid Boss">
-
+        <npc id="25020" level="34" type="RaidBoss" name="Breka Warlock Pastu" title="Raid Boss">
+	    <npc id="25023" level="34" type="RaidBoss" name="Stakato Queen Zyrnna" title="Raid Boss">
+	    <npc id="25189" level="34" type="RaidBoss" name="Cronos's Servitor Mumu" title="Raid Boss">
+	    <npc id="25383" level="34" type="RaidBoss" name="Revenant of Sir Calibus" title="Raid Boss">
         -->
         <!-- 20357 20919 20920 21100 Ящеры -->
 

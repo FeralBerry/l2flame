@@ -5,7 +5,6 @@
 		<npc id="21238" x="-51098" y="-242590" z="-7905" heading="29690" respawnTime="120sec" />
 		<npc id="20051" x="-51066" y="115366" z="-3588" heading="0" respawnTime="30sec" />
 		<npc id="20054" x="-51057" y="112756" z="-3572" heading="9097" respawnTime="30sec" />
-		<npc id="20067" x="-51006" y="177281" z="-3626" heading="38070" respawnTime="27sec" />
 		<npc id="27036" x="-50872" y="40816" z="-3320" heading="47836" respawnTime="480sec" />
 		<npc id="20031" x="-50853" y="45399" z="-5400" heading="47094" respawnTime="60sec" />
 		<npc id="20031" x="-50832" y="44533" z="-5400" heading="41183" respawnTime="60sec" />
@@ -99,7 +98,6 @@
 		<npc id="18503" x="-48706" y="248287" z="-11712" heading="32768" respawnTime="10sec" />
 		<npc id="20035" x="-48694" y="120066" z="-3508" heading="0" respawnTime="30sec" />
 		<npc id="18499" x="-48682" y="248290" z="-9984" heading="32768" respawnTime="10sec" />
-		<npc id="20067" x="-48656" y="177423" z="-3722" heading="44852" respawnTime="27sec" />
 		<npc id="27070" x="-48642" y="76191" z="-3312" heading="40603" respawnTime="180sec" />
 		<npc id="18505" x="-48537" y="243648" z="-13376" heading="-13094" respawnTime="10sec" />
 		<npc id="20054" x="-48465" y="113164" z="-3577" heading="52179" respawnTime="30sec" />
@@ -128,7 +126,6 @@
 		<npc id="21224" x="-47452" y="81924" z="-4746" heading="38057" respawnTime="120sec" />
 		<npc id="21200" x="-47445" y="82239" z="-4746" heading="48227" respawnTime="120sec" />
 		<npc id="21179" x="-47431" y="81638" z="-4746" heading="18918" respawnTime="120sec" />
-		<npc id="21144" x="-47422" y="-250271" z="-7903" heading="33115" respawnTime="120sec" />
 		<npc id="21225" x="-47403" y="81413" z="-4746" heading="26244" respawnTime="120sec" />
 		<npc id="20031" x="-47391" y="43134" z="-5400" heading="59810" respawnTime="60sec" />
 		<npc id="21171" x="-47362" y="-248785" z="-7903" heading="44702" respawnTime="120sec" />
@@ -138,7 +135,6 @@
 		<npc id="21171" x="-47348" y="-245685" z="-7903" heading="28931" respawnTime="120sec" />
 		<npc id="21146" x="-47347" y="-242015" z="-7905" heading="6570" respawnTime="120sec" />
 		<npc id="21200" x="-47339" y="79272" z="-4744" heading="10293" respawnTime="120sec" />
-		<npc id="20067" x="-47331" y="178970" z="-3674" heading="39699" respawnTime="27sec" />
 		<npc id="20029" x="-47330" y="121950" z="-3002" heading="33882" respawnTime="30sec" />
 		<npc id="21172" x="-47325" y="-242393" z="-7905" heading="11315" respawnTime="120sec" />
 		<npc id="21200" x="-47322" y="80377" z="-4765" heading="33782" respawnTime="120sec" />
@@ -150,14 +146,12 @@
 		<npc id="21179" x="-47295" y="80029" z="-4744" heading="32768" respawnTime="120sec" />
 		<npc id="21193" x="-47294" y="-239956" z="-7903" heading="34240" respawnTime="120sec" />
 		<npc id="20045" x="-47265" y="109501" z="-3785" heading="42878" respawnTime="30sec" />
-		<npc id="21144" x="-47239" y="-249049" z="-7905" heading="47254" respawnTime="120sec" />
 		<npc id="21145" x="-47229" y="-242766" z="-7903" heading="43146" respawnTime="120sec" />
 		<npc id="21193" x="-47202" y="-241723" z="-7903" heading="53120" respawnTime="120sec" />
 		<npc id="21225" x="-47198" y="82400" z="-4744" heading="54147" respawnTime="120sec" />
 		<npc id="21179" x="-47177" y="83691" z="-4744" heading="1227" respawnTime="120sec" />
 		<npc id="21172" x="-47175" y="-244728" z="-7903" heading="49992" respawnTime="120sec" />
 		<npc id="21145" x="-47151" y="-240197" z="-7903" heading="49014" respawnTime="120sec" />
-		<npc id="21144" x="-47147" y="-245414" z="-7903" heading="16953" respawnTime="120sec" />
 		<npc id="21171" x="-47144" y="-250123" z="-7903" heading="18082" respawnTime="120sec" />
 		<npc id="21192" x="-47139" y="-250477" z="-7903" heading="13359" respawnTime="120sec" />
 		<npc id="21193" x="-47138" y="-244396" z="-7903" heading="17977" respawnTime="120sec" />
@@ -199,7 +193,6 @@
 		<npc id="21226" x="-46352" y="79929" z="-4767" heading="56378" respawnTime="120sec" />
 		<npc id="20045" x="-46347" y="112226" z="-3807" heading="62309" respawnTime="30sec" />
 		<npc id="27070" x="-46330" y="74142" z="-3464" heading="1084" respawnTime="180sec" />
-		<npc id="21144" x="-46314" y="-248768" z="-7903" heading="3385" respawnTime="120sec" />
 		<npc id="21180" x="-46314" y="81916" z="-4744" heading="14030" respawnTime="120sec" />
 		<npc id="21171" x="-46306" y="-248958" z="-7903" heading="817" respawnTime="120sec" />
 		<npc id="21156" x="-46280" y="80217" z="-4746" heading="65311" respawnTime="120sec" />
@@ -240,7 +233,6 @@
 		<npc id="21157" x="-45936" y="89405" z="-4765" heading="65001" respawnTime="120sec" />
 		<npc id="21181" x="-45921" y="86093" z="-4746" heading="64254" respawnTime="120sec" />
 		<npc id="27038" x="-45905" y="146758" z="-2964" heading="17318" respawnTime="180sec" />
-		<npc id="20067" x="-45891" y="180873" z="-3685" heading="32883" respawnTime="27sec" />
 		<npc id="31785" x="-45840" y="-116688" z="-240" heading="33000" respawnTime="60sec" />
 		<npc id="21193" x="-45830" y="-239748" z="-7905" heading="62075" respawnTime="120sec" />
 		<npc id="21201" x="-45790" y="79989" z="-4744" heading="59077" respawnTime="120sec" />
@@ -255,7 +247,6 @@
 		<npc id="21145" x="-45625" y="-239841" z="-7905" heading="59652" respawnTime="120sec" />
 		<npc id="31786" x="-45616" y="-110320" z="-240" heading="49000" respawnTime="60sec" />
 		<npc id="21202" x="-45571" y="86091" z="-4746" heading="152" respawnTime="120sec" />
-		<npc id="20067" x="-45535" y="180464" z="-3719" heading="28673" respawnTime="27sec" />
 		<npc id="32370" x="-45531" y="245872" z="-14192" heading="49151" respawnTime="60sec" />
 		<npc id="20348" x="-45522" y="52186" z="-4888" heading="48458" respawnTime="60sec" />
 		<npc id="21172" x="-45509" y="-244618" z="-7903" heading="5458" respawnTime="120sec" />
@@ -264,7 +255,6 @@
 		<npc id="21158" x="-45495" y="87831" z="-4746" heading="13290" respawnTime="120sec" />
 		<npc id="21157" x="-45484" y="85866" z="-4746" heading="49937" respawnTime="120sec" />
 		<npc id="21146" x="-45467" y="-244408" z="-7905" heading="579" respawnTime="120sec" />
-		<npc id="20067" x="-45457" y="182873" z="-3629" heading="48247" respawnTime="27sec" />
 		<npc id="20060" x="-45451" y="109688" z="-3807" heading="64619" respawnTime="30sec" />
 		<npc id="21171" x="-45433" y="-250386" z="-7903" heading="35891" respawnTime="120sec" />
 		<npc id="21181" x="-45396" y="87608" z="-4744" heading="54205" respawnTime="120sec" />
@@ -279,7 +269,6 @@
 		<npc id="21181" x="-45240" y="86247" z="-4746" heading="14326" respawnTime="120sec" />
 		<npc id="21202" x="-45229" y="87405" z="-4746" heading="63864" respawnTime="120sec" />
 		<npc id="21157" x="-45205" y="87871" z="-4767" heading="20979" respawnTime="120sec" />
-		<npc id="21144" x="-45182" y="-250409" z="-7905" heading="23750" respawnTime="120sec" />
 		<npc id="20072" x="-45166" y="181807" z="-3629" heading="42895" respawnTime="27sec" />
 		<npc id="21145" x="-45131" y="-240094" z="-7905" heading="48284" respawnTime="120sec" />
 		<npc id="20031" x="-45076" y="43797" z="-5400" heading="7185" respawnTime="60sec" />
@@ -291,7 +280,6 @@
 		<npc id="21172" x="-44991" y="-242710" z="-7905" heading="23586" respawnTime="120sec" />
 		<npc id="21202" x="-44991" y="86427" z="-4746" heading="4858" respawnTime="120sec" />
 		<npc id="21158" x="-44989" y="87597" z="-4744" heading="8712" respawnTime="120sec" />
-		<npc id="21144" x="-44986" y="-247222" z="-7905" heading="26360" respawnTime="120sec" />
 		<npc id="21156" x="-44986" y="83215" z="-4746" heading="57344" respawnTime="120sec" />
 		<npc id="31784" x="-44976" y="-113696" z="-192" heading="33000" respawnTime="60sec" />
 		<npc id="21226" x="-44956" y="83568" z="-4746" heading="32768" respawnTime="120sec" />
@@ -303,13 +291,11 @@
 		<npc id="21146" x="-44833" y="-239747" z="-7905" heading="44955" respawnTime="120sec" />
 		<npc id="21193" x="-44818" y="-244444" z="-7935" heading="1723" respawnTime="120sec" />
 		<npc id="21158" x="-44797" y="86387" z="-4746" heading="63237" respawnTime="120sec" />
-		<npc id="21144" x="-44781" y="-246458" z="-7905" heading="14379" respawnTime="120sec" />
 		<npc id="21181" x="-44770" y="87697" z="-4746" heading="3144" respawnTime="120sec" />
 		<npc id="20029" x="-44759" y="110233" z="-3807" heading="18973" respawnTime="30sec" />
 		<npc id="21180" x="-44748" y="83656" z="-4744" heading="28406" respawnTime="120sec" />
 		<npc id="21181" x="-44718" y="86130" z="-4746" heading="57641" respawnTime="120sec" />
 		<npc id="21146" x="-44715" y="-241946" z="-7933" heading="19267" respawnTime="120sec" />
-		<npc id="21144" x="-44713" y="-250116" z="-7905" heading="4093" respawnTime="120sec" />
 		<npc id="21145" x="-44713" y="-244400" z="-7905" heading="20306" respawnTime="120sec" />
 		<npc id="21192" x="-44708" y="-247302" z="-7903" heading="56813" respawnTime="120sec" />
 		<npc id="21201" x="-44700" y="82786" z="-4746" heading="54887" respawnTime="120sec" />
@@ -336,23 +322,19 @@
 		<npc id="20045" x="-44403" y="112344" z="-3807" heading="44850" respawnTime="30sec" />
 		<npc id="21171" x="-44399" y="-250193" z="-7903" heading="30060" respawnTime="120sec" />
 		<npc id="21145" x="-44392" y="-242458" z="-7905" heading="60" respawnTime="120sec" />
-		<npc id="21144" x="-44368" y="-247669" z="-7905" heading="479" respawnTime="120sec" />
 		<npc id="20348" x="-44350" y="47577" z="-5400" heading="41203" respawnTime="60sec" />
 		<npc id="21171" x="-44285" y="-247764" z="-7905" heading="55452" respawnTime="120sec" />
 		<npc id="21146" x="-44270" y="-242341" z="-7935" heading="57344" respawnTime="120sec" />
 		<npc id="20348" x="-44231" y="49505" z="-5912" heading="29453" respawnTime="60sec" />
-		<npc id="20067" x="-44153" y="183001" z="-3629" heading="1180" respawnTime="27sec" />
 		<npc id="20054" x="-44102" y="106900" z="-3278" heading="37687" respawnTime="30sec" />
 		<npc id="20060" x="-44038" y="115979" z="-3623" heading="41570" respawnTime="30sec" />
 		<npc id="20031" x="-44015" y="44743" z="-5400" heading="11074" respawnTime="60sec" />
 		<npc id="20070" x="-44007" y="185844" z="-3628" heading="38582" respawnTime="27sec" />
 		<npc id="20031" x="-44006" y="45532" z="-5400" heading="55634" respawnTime="60sec" />
 		<npc id="31845" x="-43976" y="67099" z="-3360" heading="9707" respawnTime="60sec" />
-		<npc id="20067" x="-43940" y="181728" z="-3641" heading="0" respawnTime="27sec" />
 		<npc id="20045" x="-43901" y="116860" z="-3570" heading="37112" respawnTime="30sec" />
 		<npc id="20070" x="-43893" y="179788" z="-3610" heading="61480" respawnTime="27sec" />
 		<npc id="21172" x="-43837" y="-239964" z="-7903" heading="64668" respawnTime="120sec" />
-		<npc id="21015" x="-43797" y="194999" z="-3201" heading="23152" respawnTime="25sec" />
 		<npc id="21156" x="-43776" y="81006" z="-4746" heading="61173" respawnTime="120sec" />
 		<npc id="21180" x="-43751" y="81334" z="-4746" heading="6966" respawnTime="120sec" />
 		<npc id="21171" x="-43663" y="-250206" z="-7905" heading="56978" respawnTime="120sec" />
@@ -368,14 +350,12 @@
 		<npc id="31845" x="-43560" y="71673" z="-3544" heading="56954" respawnTime="60sec" />
 		<npc id="20070" x="-43537" y="181372" z="-3632" heading="0" respawnTime="27sec" />
 		<npc id="20054" x="-43498" y="118299" z="-3554" heading="8682" respawnTime="30sec" />
-		<npc id="21144" x="-43477" y="-250450" z="-7903" heading="5960" respawnTime="120sec" />
 		<npc id="21193" x="-43458" y="-239973" z="-7903" heading="35782" respawnTime="120sec" />
 		<npc id="21157" x="-43403" y="88739" z="-4746" heading="31645" respawnTime="120sec" />
 		<npc id="21181" x="-43397" y="88584" z="-4767" heading="19409" respawnTime="120sec" />
 		<npc id="21156" x="-43392" y="79858" z="-4746" heading="16684" respawnTime="120sec" />
 		<npc id="21226" x="-43391" y="80893" z="-4746" heading="43594" respawnTime="120sec" />
 		<npc id="21171" x="-43378" y="-249818" z="-7905" heading="14087" respawnTime="120sec" />
-		<npc id="21144" x="-43371" y="-249418" z="-7905" heading="16384" respawnTime="120sec" />
 		<npc id="21226" x="-43369" y="79535" z="-4746" heading="17498" respawnTime="120sec" />
 		<npc id="21171" x="-43340" y="-247472" z="-7903" heading="34010" respawnTime="120sec" />
 		<npc id="21201" x="-43327" y="79254" z="-4746" heading="8593" respawnTime="120sec" />
@@ -385,20 +365,15 @@
 		<npc id="21180" x="-43304" y="79056" z="-4746" heading="65224" respawnTime="120sec" />
 		<npc id="21158" x="-43299" y="88211" z="-4744" heading="27736" respawnTime="120sec" />
 		<npc id="20026" x="-43271" y="106861" z="-3275" heading="9602" respawnTime="30sec" />
-		<npc id="21144" x="-43180" y="-247705" z="-7905" heading="48872" respawnTime="120sec" />
 		<npc id="21201" x="-43173" y="81450" z="-4746" heading="10718" respawnTime="120sec" />
 		<npc id="21180" x="-43154" y="81295" z="-4744" heading="43904" respawnTime="120sec" />
-		<npc id="20067" x="-43135" y="181372" z="-3563" heading="0" respawnTime="27sec" />
 		<npc id="21158" x="-43098" y="89091" z="-4767" heading="57292" respawnTime="120sec" />
 		<npc id="21157" x="-43079" y="85319" z="-4746" heading="32683" respawnTime="120sec" />
 		<npc id="21157" x="-43061" y="88568" z="-4746" heading="2018" respawnTime="120sec" />
 		<npc id="21202" x="-43059" y="88289" z="-4746" heading="16622" respawnTime="120sec" />
 		<npc id="21181" x="-43024" y="85005" z="-4746" heading="18837" respawnTime="120sec" />
-		<npc id="21015" x="-43007" y="190431" z="-3552" heading="0" respawnTime="25sec" />
 		<npc id="21181" x="-43006" y="88761" z="-4746" heading="54313" respawnTime="120sec" />
-		<npc id="20067" x="-43004" y="180820" z="-3474" heading="25056" respawnTime="27sec" />
 		<npc id="21202" x="-42994" y="85603" z="-4767" heading="12572" respawnTime="120sec" />
-		<npc id="21015" x="-42991" y="192331" z="-3166" heading="47711" respawnTime="25sec" />
 		<npc id="21192" x="-42967" y="-247704" z="-7905" heading="54415" respawnTime="120sec" />
 		<npc id="20072" x="-42966" y="187579" z="-3629" heading="19528" respawnTime="27sec" />
 		<npc id="21158" x="-42954" y="84714" z="-4765" heading="20646" respawnTime="120sec" />
@@ -414,7 +389,6 @@
 		<npc id="21145" x="-42734" y="-242081" z="-7905" heading="19468" respawnTime="120sec" />
 		<npc id="21201" x="-42733" y="81283" z="-4744" heading="58095" respawnTime="120sec" />
 		<npc id="21172" x="-42729" y="-241753" z="-7905" heading="24416" respawnTime="120sec" />
-		<npc id="21144" x="-42712" y="-250273" z="-7903" heading="33989" respawnTime="120sec" />
 		<npc id="20060" x="-42698" y="112143" z="-3218" heading="61530" respawnTime="30sec" />
 		<npc id="21181" x="-42689" y="85264" z="-4746" heading="42902" respawnTime="120sec" />
 		<npc id="21158" x="-42688" y="87157" z="-4744" heading="36547" respawnTime="120sec" />
@@ -427,24 +401,20 @@
 		<npc id="20070" x="-42559" y="184088" z="-3465" heading="5434" respawnTime="27sec" />
 		<npc id="21192" x="-42548" y="-250490" z="-7903" heading="15984" respawnTime="120sec" />
 		<npc id="21146" x="-42548" y="-239779" z="-7903" heading="49371" respawnTime="120sec" />
-		<npc id="21144" x="-42547" y="-245924" z="-7903" heading="50948" respawnTime="120sec" />
 		<npc id="21145" x="-42544" y="-240118" z="-7903" heading="49889" respawnTime="120sec" />
 		<npc id="21145" x="-42543" y="-244785" z="-7903" heading="47818" respawnTime="120sec" />
 		<npc id="21171" x="-42542" y="-250033" z="-7933" heading="18366" respawnTime="120sec" />
 		<npc id="21146" x="-42540" y="-244405" z="-7933" heading="17757" respawnTime="120sec" />
 		<npc id="21146" x="-42508" y="-241870" z="-7903" heading="43560" respawnTime="120sec" />
-		<npc id="20067" x="-42496" y="178358" z="-3626" heading="17451" respawnTime="27sec" />
 		<npc id="21157" x="-42458" y="87126" z="-4746" heading="44845" respawnTime="120sec" />
 		<npc id="21145" x="-42447" y="-242524" z="-7903" heading="48010" respawnTime="120sec" />
 		<npc id="21171" x="-42434" y="-247553" z="-7903" heading="41059" respawnTime="120sec" />
 		<npc id="21226" x="-42423" y="81344" z="-4746" heading="5239" respawnTime="120sec" />
-		<npc id="21144" x="-42412" y="-247395" z="-7905" heading="10251" respawnTime="120sec" />
 		<npc id="21193" x="-42404" y="-242162" z="-7905" heading="53005" respawnTime="120sec" />
 		<npc id="21193" x="-42378" y="-241638" z="-7905" heading="53481" respawnTime="120sec" />
 		<npc id="20072" x="-42356" y="182467" z="-3810" heading="34657" respawnTime="27sec" />
 		<npc id="21172" x="-42355" y="-244575" z="-7903" heading="29212" respawnTime="120sec" />
 		<npc id="21193" x="-42350" y="-239959" z="-7903" heading="37951" respawnTime="120sec" />
-		<npc id="21015" x="-42333" y="194515" z="-3083" heading="27600" respawnTime="25sec" />
 		<npc id="21202" x="-42324" y="87305" z="-4744" heading="37558" respawnTime="120sec" />
 		<npc id="21171" x="-42318" y="-245666" z="-7903" heading="33042" respawnTime="120sec" />
 		<npc id="20045" x="-42305" y="108767" z="-3219" heading="41035" respawnTime="30sec" />
@@ -485,42 +455,27 @@
 		<npc id="20070" x="-40967" y="187653" z="-3375" heading="5362" respawnTime="27sec" />
 		<npc id="20045" x="-40899" y="109074" z="-3484" heading="0" respawnTime="30sec" />
 		<npc id="20045" x="-40882" y="110681" z="-3345" heading="60102" respawnTime="30sec" />
-		<npc id="21015" x="-40828" y="191225" z="-3187" heading="17678" respawnTime="25sec" />
 		<npc id="20072" x="-40698" y="173083" z="-3208" heading="0" respawnTime="27sec" />
 		<npc id="20045" x="-40429" y="115566" z="-3144" heading="14038" respawnTime="30sec" />
 		<npc id="20072" x="-40306" y="175398" z="-3049" heading="0" respawnTime="27sec" />
 		<npc id="20070" x="-40280" y="184859" z="-3629" heading="8160" respawnTime="27sec" />
-		<npc id="21015" x="-40171" y="192433" z="-3191" heading="11778" respawnTime="25sec" />
 		<npc id="20072" x="-39954" y="183172" z="-3935" heading="18388" respawnTime="27sec" />
 		<npc id="20072" x="-39851" y="176914" z="-3672" heading="0" respawnTime="27sec" />
-		<npc id="21015" x="-39815" y="196686" z="-3399" heading="0" respawnTime="25sec" />
 		<npc id="20045" x="-39811" y="110330" z="-3321" heading="36614" respawnTime="30sec" />
 		<npc id="31850" x="-39795" y="64627" z="-3320" heading="31966" respawnTime="60sec" />
 		<npc id="20045" x="-39542" y="116768" z="-3244" heading="3564" respawnTime="30sec" />
-		<npc id="21015" x="-39351" y="193199" z="-3212" heading="24341" respawnTime="25sec" />
 		<npc id="20072" x="-39277" y="180329" z="-3975" heading="17843" respawnTime="27sec" />
 		<npc id="20072" x="-39244" y="182085" z="-4200" heading="0" respawnTime="27sec" />
 		<npc id="20070" x="-39077" y="183803" z="-3935" heading="1420" respawnTime="27sec" />
 		<npc id="20045" x="-38930" y="111090" z="-3328" heading="54494" respawnTime="30sec" />
-		<npc id="20067" x="-38635" y="174792" z="-3629" heading="53070" respawnTime="27sec" />
-		<npc id="21015" x="-38582" y="193019" z="-3223" heading="0" respawnTime="25sec" />
 		<npc id="20072" x="-38513" y="185580" z="-3629" heading="5331" respawnTime="27sec" />
-		<npc id="21015" x="-38457" y="196327" z="-3116" heading="9469" respawnTime="25sec" />
 		<npc id="20072" x="-38209" y="178642" z="-4001" heading="21774" respawnTime="27sec" />
-		<npc id="20085" x="-37889" y="189954" z="-3639" heading="19442" respawnTime="27sec" />
 		<npc id="20072" x="-37595" y="188421" z="-3719" heading="0" respawnTime="27sec" />
-		<npc id="21015" x="-37558" y="193766" z="-3208" heading="2333" respawnTime="25sec" />
-		<npc id="20067" x="-37412" y="170252" z="-3942" heading="0" respawnTime="27sec" />
 		<npc id="31845" x="-37360" y="56348" z="-3120" heading="36150" respawnTime="60sec" />
 		<npc id="20072" x="-37352" y="175377" z="-3935" heading="0" respawnTime="27sec" />
 		<npc id="20072" x="-37179" y="175910" z="-3935" heading="45189" respawnTime="27sec" />
 		<npc id="20072" x="-37108" y="171360" z="-3629" heading="52106" respawnTime="27sec" />
-		<npc id="21015" x="-37096" y="194945" z="-3256" heading="32835" respawnTime="25sec" />
-		<npc id="20067" x="-37028" y="170359" z="-3632" heading="0" respawnTime="27sec" />
-		<npc id="20085" x="-37025" y="192088" z="-3634" heading="15240" respawnTime="27sec" />
 		<npc id="20070" x="-37014" y="174203" z="-3935" heading="59480" respawnTime="27sec" />
-		<npc id="20067" x="-36774" y="170370" z="-3666" heading="13574" respawnTime="27sec" />
-		<npc id="21015" x="-36756" y="197067" z="-3007" heading="22093" respawnTime="25sec" />
 		<npc id="20072" x="-36745" y="188127" z="-3640" heading="12345" respawnTime="27sec" />
 		<npc id="20070" x="-36646" y="172233" z="-3628" heading="56049" respawnTime="27sec" />
 		<npc id="20087" x="-36586" y="184048" z="-3935" heading="3151" respawnTime="27sec" />
@@ -528,49 +483,31 @@
 		<npc id="31034" x="-36379" y="45913" z="-1928" heading="52349" respawnTime="60sec" />
 		<npc id="31845" x="-36309" y="40197" z="-3304" heading="14752" respawnTime="60sec" />
 		<npc id="20070" x="-35888" y="169336" z="-3577" heading="0" respawnTime="27sec" />
-		<npc id="20067" x="-35640" y="167462" z="-3247" heading="0" respawnTime="27sec" />
 		<npc id="21016" x="-35506" y="197458" z="-3804" heading="0" respawnTime="25sec" />
 		<npc id="20070" x="-35459" y="170837" z="-3927" heading="36620" respawnTime="27sec" />
-		<npc id="21015" x="-35425" y="199876" z="-3076" heading="24119" respawnTime="25sec" />
-		<npc id="20067" x="-35422" y="168647" z="-3621" heading="0" respawnTime="27sec" />
-		<npc id="21015" x="-35305" y="194910" z="-3792" heading="0" respawnTime="25sec" />
-		<npc id="20085" x="-35195" y="184413" z="-3992" heading="1828" respawnTime="27sec" />
 		<npc id="31034" x="-34955" y="50590" z="-2656" heading="0" respawnTime="60sec" />
 		<npc id="20072" x="-34737" y="174777" z="-4328" heading="32780" respawnTime="27sec" />
-		<npc id="21015" x="-34487" y="201852" z="-3027" heading="22135" respawnTime="25sec" />
 		<npc id="21016" x="-34132" y="195649" z="-3484" heading="45749" respawnTime="25sec" />
 		<npc id="20070" x="-33919" y="170623" z="-3935" heading="63143" respawnTime="27sec" />
 		<npc id="20072" x="-33772" y="192327" z="-3719" heading="0" respawnTime="27sec" />
 		<npc id="21016" x="-33755" y="197330" z="-3583" heading="39898" respawnTime="25sec" />
-		<npc id="21015" x="-33663" y="203488" z="-3113" heading="38160" respawnTime="25sec" />
 		<npc id="20072" x="-33631" y="191291" z="-3629" heading="46312" respawnTime="27sec" />
 		<npc id="20072" x="-33533" y="173416" z="-4236" heading="53496" respawnTime="27sec" />
-		<npc id="20085" x="-33485" y="174462" z="-4224" heading="32496" respawnTime="27sec" />
-		<npc id="21015" x="-33395" y="201760" z="-3229" heading="21710" respawnTime="25sec" />
 		<npc id="21016" x="-33196" y="196730" z="-3666" heading="46079" respawnTime="25sec" />
 		<npc id="20192" x="-33183" y="183861" z="-4221" heading="6023" respawnTime="27sec" />
-		<npc id="20085" x="-33093" y="178593" z="-4221" heading="65094" respawnTime="27sec" />
 		<npc id="20192" x="-33020" y="177378" z="-4221" heading="46862" respawnTime="27sec" />
 		<npc id="20745" x="-32996" y="174394" z="-4221" heading="47578" respawnTime="55sec" />
-		<npc id="21015" x="-32917" y="198532" z="-3658" heading="12869" respawnTime="25sec" />
-		<npc id="20085" x="-32794" y="188935" z="-3929" heading="11068" respawnTime="27sec" />
 		<npc id="20193" x="-32428" y="179297" z="-4209" heading="14778" respawnTime="27sec" />
 		<npc id="21016" x="-32391" y="203961" z="-3428" heading="59035" respawnTime="25sec" />
 		<npc id="20192" x="-32371" y="185798" z="-4208" heading="20542" respawnTime="27sec" />
-		<npc id="20085" x="-32361" y="187407" z="-3927" heading="42631" respawnTime="27sec" />
 		<npc id="20923" x="-32138" y="104299" z="-2802" heading="5341" respawnTime="32sec" />
-		<npc id="21015" x="-32136" y="197052" z="-3791" heading="0" respawnTime="25sec" />
 		<npc id="20547" x="-32078" y="161869" z="-2941" heading="32940" respawnTime="60sec" />
 		<npc id="20745" x="-32028" y="178444" z="-4209" heading="3356" respawnTime="55sec" />
 		<npc id="20193" x="-31986" y="180928" z="-4209" heading="27049" respawnTime="27sec" />
-		<npc id="21015" x="-31922" y="204598" z="-3396" heading="30010" respawnTime="25sec" />
 		<npc id="31034" x="-31869" y="51778" z="-3440" heading="6787" respawnTime="60sec" />
 		<npc id="20923" x="-31864" y="97218" z="-3872" heading="0" respawnTime="32sec" />
 		<npc id="20923" x="-31815" y="102134" z="-3916" heading="0" respawnTime="32sec" />
 		<npc id="20923" x="-31660" y="103510" z="-3672" heading="0" respawnTime="32sec" />
-		<npc id="20085" x="-31645" y="188733" z="-3867" heading="0" respawnTime="27sec" />
-		<npc id="20085" x="-31627" y="172196" z="-4419" heading="0" respawnTime="27sec" />
-		<npc id="21015" x="-31568" y="199148" z="-3506" heading="59948" respawnTime="25sec" />
 		<npc id="31034" x="-31538" y="84791" z="-3392" heading="0" respawnTime="60sec" />
 		<npc id="20087" x="-31472" y="180820" z="-5229" heading="0" respawnTime="27sec" />
 		<npc id="20087" x="-31430" y="180627" z="-5229" heading="0" respawnTime="27sec" />
@@ -580,22 +517,15 @@
 		<npc id="20088" x="-31264" y="180669" z="-5242" heading="36784" respawnTime="27sec" />
 		<npc id="20923" x="-31256" y="104222" z="-3069" heading="0" respawnTime="32sec" />
 		<npc id="20193" x="-31247" y="181568" z="-4411" heading="0" respawnTime="27sec" />
-		<npc id="20085" x="-31242" y="188733" z="-3867" heading="0" respawnTime="27sec" />
-		<npc id="20085" x="-31241" y="189445" z="-3867" heading="0" respawnTime="27sec" />
-		<npc id="21015" x="-31230" y="196874" z="-3791" heading="0" respawnTime="25sec" />
 		<npc id="21016" x="-31229" y="197230" z="-3791" heading="0" respawnTime="25sec" />
 		<npc id="20087" x="-31228" y="180983" z="-5229" heading="0" respawnTime="27sec" />
-		<npc id="21015" x="-31180" y="200853" z="-3447" heading="54332" respawnTime="25sec" />
 		<npc id="20192" x="-31146" y="181034" z="-4411" heading="0" respawnTime="27sec" />
 		<npc id="20088" x="-31127" y="180805" z="-5229" heading="0" respawnTime="27sec" />
 		<npc id="20193" x="-31122" y="184550" z="-4208" heading="30557" respawnTime="27sec" />
-		<npc id="20085" x="-31080" y="178936" z="-4209" heading="64141" respawnTime="27sec" />
 		<npc id="20087" x="-31074" y="180746" z="-5242" heading="33394" respawnTime="27sec" />
 		<npc id="20547" x="-31057" y="158338" z="-3485" heading="0" respawnTime="60sec" />
 		<npc id="20087" x="-31027" y="180627" z="-5229" heading="0" respawnTime="27sec" />
-		<npc id="20085" x="-30960" y="178599" z="-4209" heading="49563" respawnTime="27sec" />
 		<npc id="20192" x="-30953" y="179811" z="-4209" heading="41888" respawnTime="27sec" />
-		<npc id="20085" x="-30945" y="181034" z="-4411" heading="0" respawnTime="27sec" />
 		<npc id="20192" x="-30944" y="181390" z="-4411" heading="0" respawnTime="27sec" />
 		<npc id="20072" x="-30901" y="167769" z="-3628" heading="52561" respawnTime="27sec" />
 		<npc id="20072" x="-30859" y="169098" z="-3648" heading="0" respawnTime="27sec" />
@@ -612,15 +542,12 @@
 		<npc id="21266" x="-30581" y="188645" z="-3942" heading="3186" respawnTime="70sec" />
 		<npc id="20547" x="-30552" y="158872" z="-3328" heading="0" respawnTime="60sec" />
 		<npc id="20400" x="-30537" y="29792" z="-3280" heading="0" respawnTime="20sec" />
-		<npc id="21015" x="-30454" y="199409" z="-3572" heading="0" respawnTime="25sec" />
 		<npc id="20086" x="-30362" y="180143" z="-5229" heading="0" respawnTime="60sec" />
 		<npc id="21016" x="-30353" y="199943" z="-3572" heading="0" respawnTime="25sec" />
-		<npc id="20085" x="-30341" y="180678" z="-4411" heading="0" respawnTime="27sec" />
 		<npc id="20745" x="-30341" y="180678" z="-4411" heading="0" respawnTime="55sec" />
 		<npc id="20745" x="-30341" y="181034" z="-4411" heading="0" respawnTime="55sec" />
 		<npc id="21016" x="-30334" y="204565" z="-3173" heading="20147" respawnTime="25sec" />
 		<npc id="20923" x="-30289" y="105276" z="-3282" heading="56847" respawnTime="32sec" />
-		<npc id="20084" x="-30281" y="179816" z="-5242" heading="44766" respawnTime="60sec" />
 		<npc id="20087" x="-30262" y="180677" z="-5291" heading="0" respawnTime="27sec" />
 		<npc id="20193" x="-30240" y="181568" z="-4411" heading="0" respawnTime="27sec" />
 		<npc id="20088" x="-30192" y="178858" z="-5242" heading="51835" respawnTime="27sec" />

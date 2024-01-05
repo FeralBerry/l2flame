@@ -2,55 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20084" x="-17132" y="178321" z="-5304" heading="30212" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-15826" y="179656" z="-5384" heading="22990" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-15397" y="179486" z="-5384" heading="56678" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-14181" y="180300" z="-5384" heading="6457" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-13108" y="179966" z="-5384" heading="4325" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-13318" y="179300" z="-5384" heading="63606" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-12972" y="178871" z="-5384" heading="23059" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-13516" y="179403" z="-5384" heading="38540" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-13042" y="179895" z="-5384" heading="28076" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-14807" y="181995" z="-5384" heading="33904" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-15760" y="181966" z="-5384" heading="59241" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-13337" y="181448" z="-5384" heading="52818" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-13635" y="181672" z="-5376" heading="28709" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-18858" y="178188" z="-5384" heading="57388" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-18945" y="178643" z="-5376" heading="50732" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-18659" y="178406" z="-5384" heading="37158" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-18465" y="178231" z="-5384" heading="15351" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-18561" y="178119" z="-5384" heading="50651" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-18642" y="178438" z="-5384" heading="17267" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-21026" y="188239" z="-5528" heading="56332" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-21062" y="188146" z="-5528" heading="51708" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-21172" y="188579" z="-5520" heading="19657" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-22371" y="188307" z="-5416" heading="37430" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-22049" y="188288" z="-5416" heading="38666" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-19852" y="187197" z="-5600" heading="49129" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-21025" y="188685" z="-5528" heading="22699" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-21117" y="188616" z="-5528" heading="34437" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-21202" y="188466" z="-5528" heading="19589" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-21105" y="188695" z="-5528" heading="1973" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-20832" y="188642" z="-5528" heading="28810" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-20579" y="190214" z="-5456" heading="12226" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-19144" y="190122" z="-5464" heading="1829" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-24820" y="179743" z="-5408" heading="31259" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-26420" y="178099" z="-5312" heading="44433" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-26224" y="178171" z="-5312" heading="44972" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-25523" y="178064" z="-5312" heading="57482" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-24770" y="179747" z="-5408" heading="19636" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-24313" y="178781" z="-5408" heading="59956" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-30035" y="180166" z="-5240" heading="45487" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-30214" y="179067" z="-5240" heading="12456" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-29975" y="178040" z="-5240" heading="33767" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-28504" y="178510" z="-5240" heading="56748" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-30062" y="178125" z="-5240" heading="33555" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-25100" y="177154" z="-5312" heading="9703" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-24540" y="177836" z="-5312" heading="34147" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-23626" y="177051" z="-5312" heading="16908" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-23347" y="176855" z="-5304" heading="57345" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-23263" y="177129" z="-5312" heading="32078" respawnTime="60sec" /> <!-- Ant Patrol -->
-			<npc id="20084" x="-23306" y="177066" z="-5312" heading="51555" respawnTime="60sec" /> <!-- Ant Patrol -->
 			<npc id="20086" x="-18058" y="178472" z="-5384" heading="37343" respawnTime="60sec" /> <!-- Ant Guard -->
 			<npc id="20086" x="-17133" y="178271" z="-5304" heading="24911" respawnTime="60sec" /> <!-- Ant Guard -->
 			<npc id="20086" x="-14557" y="180144" z="-5384" heading="3932" respawnTime="60sec" /> <!-- Ant Guard -->

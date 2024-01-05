@@ -2,17 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="DionHills">
 		<group>
-			<npc id="21106" x="5113" y="157177" z="-3528" heading="30832" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="8463" y="158256" z="-2824" heading="64988" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="7489" y="156727" z="-3008" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="9899" y="153730" z="-2817" heading="11223" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="5947" y="158996" z="-3648" heading="9479" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="6783" y="163361" z="-3576" heading="35650" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="5440" y="160243" z="-3624" heading="37038" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="5172" y="158823" z="-3624" heading="46659" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="11670" y="161577" z="-3608" heading="55804" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="12909" y="163270" z="-3672" respawnTime="30sec" /> <!-- Cursed Watchman -->
-			<npc id="21106" x="28923" y="163131" z="-3328" heading="53256" respawnTime="30sec" /> <!-- Cursed Watchman -->
 			<npc id="35402" x="17677" y="145282" z="-3048" heading="22500" respawnTime="60sec" /> <!-- Borna - Clan Hall Gatekeeper -->
 			<npc id="20781" x="6165" y="160682" z="-3568" heading="45002" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
 			<npc id="20781" x="5131" y="155398" z="-3560" heading="51489" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->

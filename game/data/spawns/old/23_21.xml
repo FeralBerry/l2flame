@@ -3,16 +3,6 @@
 	<spawn name="23_21">
 		<group>
 			<npc id="31580" x="106608" y="113296" z="-3192" heading="30000" respawnTime="60sec" /> <!-- Galadrid - Master -->
-			<npc id="20158" x="125022" y="129770" z="-2912" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="117211" y="127356" z="-2544" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="118162" y="128472" z="-2904" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="117528" y="127356" z="-2544" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="119430" y="128286" z="-2840" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="119747" y="129960" z="-3408" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="119747" y="129216" z="-3200" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="122538" y="128482" z="-3176" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="123987" y="127677" z="-3208" respawnTime="27sec" /> <!-- Medusa -->
-			<npc id="20158" x="123573" y="130736" z="-3048" respawnTime="27sec" /> <!-- Medusa -->
 		</group>
 	</spawn>
 </list>
