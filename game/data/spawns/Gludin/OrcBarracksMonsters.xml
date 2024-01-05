@@ -1174,8 +1174,18 @@
 	<npc id="20496" level="27" type="Monster" name="Turek Orc Archer">
 	<npc id="20498" level="27" type="Monster" name="Turek Orc Supplier">
 	<npc id="20497" level="28" type="Monster" name="Turek Orc Skirmisher">
+	<npc id="20501" level="29" type="Monster" name="Turek Orc Shaman">
 	<npc id="20248" level="31" type="Monster" name="Turak Bugbear">
 	<npc id="20255" level="31" type="Monster" name="Batur Orc">
 	<npc id="20267" level="31" type="Monster" name="Breka Orc">
+	<npc id="20256" level="32" type="Monster" name="Batur Orc Archer">
+    <npc id="20268" level="32" type="Monster" name="Breka Orc Archer">
+    <npc id="20495" level="30" type="Monster" name="Turek Orc Warlord">
+    <npc id="20150" level="32" type="Monster" name="King Bugbear">
+    <npc id="20231" level="32" type="Monster" name="Toad Lord">
+    <npc id="20611" level="32" type="Monster" name="Dre Vanul Warrior">
+    <npc id="25128" level="33" type="RaidBoss" name="Vuku Grand Seer Gharmash" title="Raid Boss">
+    <npc id="25004" level="30" type="RaidBoss" name="Turek Mercenary Captain" title="Raid Boss">
+    <npc id="25079" level="30" type="RaidBoss" name="Cat's Eye Bandit" title="Raid Boss">
 	-->
 </list>

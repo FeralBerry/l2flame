@@ -2,40 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20082" x="-17559" y="178460" z="-5336" heading="24061" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-14724" y="180074" z="-5384" heading="64296" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-13511" y="179995" z="-5376" heading="53472" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-13535" y="179418" z="-5384" heading="4680" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-12938" y="179590" z="-5384" heading="9298" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-13292" y="181087" z="-5384" heading="17976" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-13623" y="181881" z="-5384" heading="5770" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-13221" y="180463" z="-5384" heading="47119" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-24652" y="187382" z="-5416" heading="59535" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-22480" y="188016" z="-5416" heading="1893" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-22406" y="188259" z="-5408" heading="9671" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-22503" y="188211" z="-5400" heading="50192" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-22507" y="188136" z="-5416" heading="43092" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-22358" y="188151" z="-5416" heading="1829" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-22353" y="188218" z="-5416" heading="64885" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-21690" y="189720" z="-5528" heading="1470" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-18824" y="189041" z="-5520" heading="50918" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-19146" y="189449" z="-5528" heading="26408" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-26276" y="178123" z="-5312" heading="715" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-26310" y="178041" z="-5312" heading="41606" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-27961" y="178218" z="-5240" heading="20401" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-27498" y="178845" z="-5240" heading="18664" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-30070" y="178193" z="-5240" heading="31286" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-30253" y="177970" z="-5240" heading="27872" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-24866" y="177070" z="-5312" heading="9265" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-24936" y="177619" z="-5312" heading="15139" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23462" y="176898" z="-5312" heading="32636" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23629" y="176900" z="-5304" heading="49998" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23280" y="177170" z="-5296" heading="14945" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23521" y="176951" z="-5312" heading="18130" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23504" y="176913" z="-5312" heading="18110" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23408" y="177106" z="-5312" heading="59536" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23646" y="177040" z="-5312" heading="38350" respawnTime="60sec" /> <!-- Ant Recruit -->
-			<npc id="20082" x="-23405" y="176860" z="-5312" heading="56699" respawnTime="60sec" /> <!-- Ant Recruit -->
 			<npc id="20084" x="-17132" y="178321" z="-5304" heading="30212" respawnTime="60sec" /> <!-- Ant Patrol -->
 			<npc id="20084" x="-15826" y="179656" z="-5384" heading="22990" respawnTime="60sec" /> <!-- Ant Patrol -->
 			<npc id="20084" x="-15397" y="179486" z="-5384" heading="56678" respawnTime="60sec" /> <!-- Ant Patrol -->
@@ -337,6 +303,8 @@
 		<npc id="20157" level="29" type="Monster" name="Marsh Stakato">
 		<npc id="20079" level="30" type="Monster" name="Ant">
 		<npc id="20080" level="31" type="Monster" name="Ant Captain">
+		<npc id="20081" level="32" type="Monster" name="Ant Overseer">
+		<npc id="20230" level="31" type="Monster" name="Marsh Stakato Worker">
 		-->
 	</spawn>
 </list>

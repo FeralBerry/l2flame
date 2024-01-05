@@ -2,52 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="CrumaMarshlands">
 		<group>
-			<npc id="20232" x="11076" y="111832" z="-3720" heading="33579" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="11589" y="110205" z="-3712" heading="48287" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="14339" y="110054" z="-3752" heading="350" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="16786" y="103974" z="-3648" heading="20804" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="17007" y="106374" z="-3664" heading="50889" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="17690" y="111167" z="-3744" heading="36817" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="18042" y="110142" z="-3728" heading="32770" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="18984" y="101844" z="-3728" heading="3577" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="19532" y="103738" z="-3712" heading="26610" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="19722" y="103025" z="-3680" heading="22903" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="19930" y="115219" z="-3624" heading="10089" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20107" y="104472" z="-3680" heading="18144" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20319" y="113888" z="-3688" heading="10977" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20554" y="106153" z="-3720" heading="30071" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20794" y="113394" z="-3696" heading="12176" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20876" y="103621" z="-3672" heading="33636" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20905" y="111628" z="-3704" heading="50780" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20947" y="110142" z="-3720" heading="32593" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20991" y="112175" z="-3752" heading="43180" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="20994" y="109150" z="-3744" heading="58703" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="21005" y="106899" z="-3696" heading="15332" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="21102" y="103006" z="-3704" heading="20125" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="21787" y="106531" z="-3744" heading="19334" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="21795" y="112126" z="-3704" heading="8440" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="22118" y="104546" z="-3720" heading="17962" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="22193" y="106325" z="-3664" heading="53603" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="22385" y="108386" z="-3696" heading="33203" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="22542" y="102639" z="-3712" heading="33290" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="23102" y="112808" z="-3744" heading="40310" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="23239" y="103239" z="-3728" heading="20852" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="23255" y="105278" z="-3672" heading="47071" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="23643" y="106564" z="-3648" heading="12328" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="23888" y="102703" z="-3656" heading="8623" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="24631" y="112790" z="-3680" heading="62125" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="24687" y="109563" z="-3744" heading="8819" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="24712" y="113917" z="-3712" heading="19107" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="24958" y="106440" z="-3664" heading="468" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="25108" y="113378" z="-3712" heading="17518" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="25205" y="104662" z="-3744" heading="49327" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="25343" y="108736" z="-3672" heading="7201" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="26010" y="105064" z="-3728" heading="44200" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="26935" y="110879" z="-3704" heading="7065" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="26950" y="107831" z="-3680" heading="61014" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="27032" y="108397" z="-3640" heading="51484" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="29022" y="108189" z="-3704" heading="3577" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
-			<npc id="20232" x="29043" y="109080" z="-3704" heading="38495" respawnTime="60sec" /> <!-- Marsh Stakato Soldier -->
 			<npc id="20233" x="17106" y="102579" z="-3696" heading="12309" respawnTime="60sec" /> <!-- Marsh Spider -->
 			<npc id="20233" x="17777" y="106099" z="-3744" heading="62346" respawnTime="60sec" /> <!-- Marsh Spider -->
 			<npc id="20233" x="18120" y="102026" z="-3736" heading="12382" respawnTime="60sec" /> <!-- Marsh Spider -->

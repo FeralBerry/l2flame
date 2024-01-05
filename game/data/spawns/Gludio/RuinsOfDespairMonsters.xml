@@ -468,4 +468,11 @@
 		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
 		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
 	</spawn>
+	<!--
+	<npc id="18268" level="30" type="Chest" name="Treasure Chest">
+	<npc id="22009" level="31" type="Monster" name="Ghost of a Loyal Vassal">
+	<npc id="20513" level="32" type="Monster" name="Skeleton Knight">
+	<npc id="20749" level="32" type="Monster" name="Death Fire">
+	<npc id="22010" level="32" type="Monster" name="Ghost of a General">
+	-->
 </list>

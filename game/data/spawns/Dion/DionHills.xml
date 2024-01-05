@@ -2,20 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="DionHills">
 		<group>
-			<npc id="21105" x="8466" y="157565" z="-2744" heading="21057" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="6941" y="155159" z="-3235" heading="46434" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="7293" y="157538" z="-3128" heading="10150" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="10259" y="159952" z="-3200" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="12505" y="159503" z="-3184" heading="36989" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="14265" y="158784" z="-3294" heading="14331" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="8573" y="155828" z="-2776" heading="17994" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="12121" y="155092" z="-2768" heading="2023" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="9589" y="160745" z="-3536" heading="52166" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="9081" y="162339" z="-3584" heading="51885" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="8633" y="163321" z="-3624" heading="11071" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="13803" y="163675" z="-3624" heading="49597" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="15096" y="163697" z="-3688" heading="64871" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
-			<npc id="21105" x="16048" y="162116" z="-3576" heading="39538" respawnTime="30sec" /> <!-- Delu Lizardman Special Agent -->
 			<npc id="21106" x="5113" y="157177" z="-3528" heading="30832" respawnTime="30sec" /> <!-- Cursed Watchman -->
 			<npc id="21106" x="8463" y="158256" z="-2824" heading="64988" respawnTime="30sec" /> <!-- Cursed Watchman -->
 			<npc id="21106" x="7489" y="156727" z="-3008" respawnTime="30sec" /> <!-- Cursed Watchman -->
