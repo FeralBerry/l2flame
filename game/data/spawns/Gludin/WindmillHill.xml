@@ -66,7 +66,7 @@
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="glugin_004" minZ="-3680" maxZ="-3136">
+			<territory name="glugin_004" minZ="-3580" maxZ="-3136">
 				<node x="-60931" y="175172"/>
 				<node x="-66933" y="176887"/>
 				<node x="-66788" y="178959"/>
@@ -88,6 +88,7 @@
 				<node x="-66069" y="184225"/>
 			</territory>
 		</territories>
+		<npc id="18266" count="20" respawnTime="60sec" chaseRange="1500" /><!-- Treasure Chest 24 -->
 		<npc id="20298" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 28 -->
 		<npc id="20294" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Matriarch 26 -->
 		<npc id="20295" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Warrior 27 -->
@@ -127,16 +128,10 @@
 	</spawn>
 	<!-- 20295 20296 20297 20298 -->
 	<spawn>
-
-		<!--25019 Пан Дриад 25 (нет модели) -->
-		<!--25429 Коллекционер Маммона Талос 25 (нет модели)-->
 		<!--25369 Собиратель Душ 25 (нежить)(нет модели)-->
 		<!--25149 Лорд Зомби Кроул 25 (нежить)(нет модели)-->
 		<!--25166 Икунтай 25 (нежить)(нет модели)-->
 		<!--25076 Принцесса Молранг 25 (нет модели)-->
 		<!--25360 Тигровый Шершень 26 (нет модели)-->
-		<!--25272 Военачальник Партизан Талакин 28 (нет модели) -->
-		<!--25038 Тирак 28 (нет модели) -->
-		<!--25095 Эльф Реноа 29 (нет модели)-->
 	</spawn>
 </list>
