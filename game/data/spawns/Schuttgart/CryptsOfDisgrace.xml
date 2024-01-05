@@ -2,12 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="CryptsOfDisgrace">
 		<group>
-			<npc id="22006" x="46585" y="-106764" z="-1512" heading="28214" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
-			<npc id="22006" x="47627" y="-108013" z="-1576" heading="17395" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
-			<npc id="22006" x="47620" y="-107941" z="-1568" heading="17395" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
-			<npc id="22006" x="47503" y="-108855" z="-1824" heading="48247" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
-			<npc id="22006" x="46759" y="-108270" z="-1832" heading="13424" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
-			<npc id="22006" x="46967" y="-109498" z="-1712" heading="49152" respawnTime="60sec" chaseRange="2500" /> <!-- Grave Robber Guard -->
 			<npc id="22691" x="62541" y="-116848" z="-3064" heading="30291" respawnTime="60sec" chaseRange="2000" /> <!-- Ragna Orc - Spirit Infested -->
 			<npc id="22691" x="62558" y="-116676" z="-3064" heading="65298" respawnTime="60sec" chaseRange="2000" /> <!-- Ragna Orc - Spirit Infested -->
 			<npc id="22691" x="63124" y="-117362" z="-3064" heading="50612" respawnTime="60sec" chaseRange="2000" /> <!-- Ragna Orc - Spirit Infested -->

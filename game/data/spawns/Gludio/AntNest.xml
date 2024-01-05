@@ -2,36 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20075" x="-14499" y="177399" z="-5304" heading="23708" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-14513" y="177163" z="-5304" heading="9359" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-13083" y="175403" z="-5224" heading="9020" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-13295" y="175762" z="-5304" heading="56778" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-13253" y="177868" z="-5304" heading="39977" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-13494" y="177855" z="-5304" heading="11196" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-13584" y="177898" z="-5304" heading="6241" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-13814" y="178217" z="-5304" heading="22625" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-13572" y="177764" z="-5304" heading="55214" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-22459" y="192431" z="-5416" heading="62585" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-22448" y="192335" z="-5416" heading="33904" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-23460" y="190262" z="-5416" heading="44861" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-22564" y="192237" z="-5408" heading="19322" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-20355" y="191296" z="-5528" heading="44345" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-20620" y="192423" z="-5464" heading="63359" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-21333" y="192491" z="-5416" heading="1269" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-28886" y="176632" z="-5240" heading="19015" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-27674" y="176655" z="-5312" heading="30828" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-29309" y="175054" z="-5192" heading="25442" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-29235" y="175268" z="-5240" heading="2901" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-29296" y="175174" z="-5224" heading="22990" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-29311" y="175196" z="-5224" heading="23831" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-29168" y="175277" z="-5240" heading="34567" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-29138" y="175219" z="-5240" heading="6529" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-28028" y="174865" z="-4832" heading="56396" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-27981" y="174255" z="-4832" heading="35006" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-28217" y="174511" z="-4824" heading="47056" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-28319" y="174374" z="-4832" heading="21160" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-28108" y="174543" z="-4832" heading="64885" respawnTime="60sec" /> <!-- Ant Larva -->
-			<npc id="20075" x="-28343" y="173935" z="-4832" heading="3081" respawnTime="60sec" /> <!-- Ant Larva -->
 			<npc id="20079" x="-14798" y="176848" z="-5304" heading="26906" respawnTime="60sec" /> <!-- Ant -->
 			<npc id="20079" x="-14854" y="176766" z="-5304" heading="23731" respawnTime="60sec" /> <!-- Ant -->
 			<npc id="20079" x="-15869" y="176871" z="-5304" heading="37488" respawnTime="60sec" /> <!-- Ant -->

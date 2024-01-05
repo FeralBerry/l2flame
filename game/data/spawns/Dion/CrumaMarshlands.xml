@@ -2,42 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="CrumaMarshlands">
 		<group>
-			<npc id="20157" x="10145" y="114402" z="-3688" heading="48327" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="10157" y="113715" z="-3672" heading="59815" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="10221" y="115099" z="-3728" heading="30033" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="10557" y="106243" z="-3680" heading="49649" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="11062" y="115154" z="-3728" heading="49979" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="11245" y="106460" z="-3616" heading="40498" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="11368" y="115183" z="-3704" heading="27783" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="11535" y="106243" z="-3600" heading="32147" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="11906" y="114878" z="-3712" heading="53182" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="12859" y="105688" z="-3600" heading="12602" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="12998" y="103185" z="-3728" heading="8191" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="13164" y="104750" z="-3520" heading="39038" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="13663" y="120604" z="-3728" heading="28887" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="13851" y="106013" z="-3736" heading="30252" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="14260" y="103058" z="-3672" heading="4948" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="14424" y="120230" z="-3744" heading="55102" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="14563" y="118413" z="-3680" heading="22447" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="14643" y="117974" z="-3696" heading="10575" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="14832" y="126354" z="-3720" heading="28262" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="15373" y="120495" z="-3696" heading="27559" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="16547" y="120190" z="-3728" heading="2759" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="16703" y="105806" z="-3704" heading="57521" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="17427" y="120013" z="-3672" heading="60588" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="18772" y="122484" z="-3704" heading="10703" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="19249" y="122127" z="-3752" heading="47917" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="19413" y="125131" z="-3664" heading="20997" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="20565" y="123778" z="-3672" heading="31777" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="20807" y="123124" z="-3616" heading="45123" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="21290" y="121312" z="-3736" heading="15381" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="21588" y="121871" z="-3712" heading="761" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="22250" y="123654" z="-3640" heading="36646" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="5346" y="111475" z="-3736" heading="27876" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="6804" y="112311" z="-3680" heading="55699" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="7171" y="112952" z="-3680" heading="13584" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="7347" y="109401" z="-3688" heading="4667" respawnTime="60sec" /> <!-- Marsh Stakato -->
-			<npc id="20157" x="9952" y="105918" z="-3648" heading="53213" respawnTime="60sec" /> <!-- Marsh Stakato -->
 			<npc id="20229" x="11420" y="110501" z="-3704" heading="10853" respawnTime="60sec" /> <!-- Weird Wasp -->
 			<npc id="20229" x="11577" y="110700" z="-3728" heading="23518" respawnTime="60sec" /> <!-- Weird Wasp -->
 			<npc id="20229" x="11621" y="104239" z="-3536" heading="49037" respawnTime="60sec" /> <!-- Weird Wasp -->
