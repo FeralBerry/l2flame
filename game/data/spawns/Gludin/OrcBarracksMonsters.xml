@@ -1187,5 +1187,13 @@
     <npc id="25128" level="33" type="RaidBoss" name="Vuku Grand Seer Gharmash" title="Raid Boss">
     <npc id="25004" level="30" type="RaidBoss" name="Turek Mercenary Captain" title="Raid Boss">
     <npc id="25079" level="30" type="RaidBoss" name="Cat's Eye Bandit" title="Raid Boss">
+    <npc id="20258" level="34" type="Monster" name="Batur Orc Shaman">
+	<npc id="20269" level="34" type="Monster" name="Breka Orc Shaman">
+	<npc id="20546" level="34" type="Monster" name="Turek Orc Elder">
+	<npc id="20249" level="33" type="Monster" name="Turak Bugbear Warrior">
+	<npc id="20257" level="33" type="Monster" name="Batur Orc Warrior">
+	<npc id="20271" level="33" type="Monster" name="Breka Orc Warrior">
+ 	<npc id="20259" level="35" type="Monster" name="Batur Orc Overlord">
+	<npc id="20270" level="35" type="Monster" name="Breka Orc Overlord">
 	-->
 </list>

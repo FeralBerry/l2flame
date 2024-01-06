@@ -13837,4 +13837,12 @@
 		</territories>
 		<npc id="24504" count="2" respawnTime="18sec" chaseRange="900" /> <!-- Centaur Warlord -->
 	</spawn>
+	<!--
+	<npc id="20070" level="35" type="Monster" name="Lesser Basilisk">
+	<npc id="20072" level="35" type="Monster" name="Basilisk">
+	<npc id="20144" level="35" type="Monster" name="Hangman Tree">
+	<npc id="20176" level="35" type="Monster" name="Wyrm">
+	<npc id="20192" level="35" type="Monster" name="Tyrant">
+	<npc id="21016" level="35" type="Monster" name="Warlike Tyrant">
+	-->
 </list>

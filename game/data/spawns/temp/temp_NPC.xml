@@ -237,53 +237,76 @@
         <!-- 33 лвл-->
         <!--
         <npc id="21805" level="33" type="Chest" name="Treasure Chest">
-        <npc id="18269" level="33" type="Chest" name="Treasure Chest">
         <npc id="18611" level="33" type="Monster" name="Water Spirit">
-        <npc id="20082" level="33" type="Monster" name="Ant Recruit">
         <npc id="20083" level="33" type="Monster" name="Granite Golem">
         <npc id="20173" level="33" type="Monster" name="Troll">
-        <npc id="20232" level="33" type="Monster" name="Marsh Stakato Soldier">
-        <npc id="20249" level="33" type="Monster" name="Turak Bugbear Warrior">
-        <npc id="20257" level="33" type="Monster" name="Batur Orc Warrior">
-        <npc id="20271" level="33" type="Monster" name="Breka Orc Warrior">
         <npc id="20612" level="33" type="Monster" name="Salamander Rowin">
         <npc id="20619" level="33" type="Monster" name="Rowin Undine">
         <npc id="21014" level="33" type="Monster" name="Lesser Warlike Tyrant">
         <npc id="21105" level="33" type="Monster" name="Delu Lizardman Special Agent">
-        <npc id="21170" level="33" type="Monster" name="Lith Medium">
         <npc id="21191" level="33" type="Monster" name="Gigant Cleric">
-        <npc id="22011" level="33" type="Monster" name="Ghost of a Batur Chief">
-        <npc id="22012" level="33" type="Monster" name="Ghost of a Batur Chief">
-        <npc id="22013" level="33" type="Monster" name="Ghost of a Morek Chief">
-        <npc id="22014" level="33" type="Monster" name="Ghost of a Morek Chief">
-        <npc id="22015" level="33" type="Monster" name="Ghost of a Turka Chief">
-        <npc id="22016" level="33" type="Monster" name="Ghost of a Turka Chief">
         <npc id="22020" level="33" type="Monster" name="Snow Lynx">
         -->
         <!-- 34 лвл-->
         <!--
         <npc id="20067" level="34" type="Monster" name="Monster Eye Watcher">
-	    <npc id="20084" level="34" type="Monster" name="Ant Patrol">
 	    <npc id="20085" level="34" type="Monster" name="Puncher">
 	    <npc id="20158" level="34" type="Monster" name="Medusa">
-	    <npc id="20202" level="34" type="Monster" name="Dead Seeker">
-	    <npc id="20212" level="34" type="Monster" name="Bloody Axe Turmak" title="Ol Mahum Lord">
 	    <npc id="20233" level="34" type="Monster" name="Marsh Spider">
-	    <npc id="20258" level="34" type="Monster" name="Batur Orc Shaman">
-	    <npc id="20269" level="34" type="Monster" name="Breka Orc Shaman">
-	    <npc id="20546" level="34" type="Monster" name="Turek Orc Elder">
-	    <npc id="20549" level="34" type="Monster" name="Ol Mahum Lord">
 	    <npc id="20930" level="34" type="Monster" name="Hatu Brown Bear">
-	    <npc id="21015" level="34" type="Monster" name="Ol Mahum Van Leader">
-	    <npc id="21106" level="34" type="Monster" name="Cursed Seer">
-	    <npc id="21144" level="34" type="Monster" name="Catacomb Shadow">
 	    <npc id="22021" level="34" type="Monster" name="Bandit Undertaker">
         -->
         <!-- 35 лвл-->
         <!--
+        <npc id="18299" level="35" type="Monster" name="Flame of the Branded">
+        <npc id="18309" level="35" type="Monster" name="Flame of the Branded">
+        <npc id="20174" level="35" type="Monster" name="Two-Headed Giant">
+        <npc id="20512" level="35" type="Monster" name="Field Stalker">
+        <npc id="20577" level="35" type="Monster" name="Leto Lizardman">
+        <npc id="20745" level="35" type="Monster" name="Gigantiops">
+        <npc id="20780" level="35" type="Monster" name="Bloody Axe Elite">
+        <npc id="20781" level="35" type="Monster" name="Delu Lizardman Shaman">
+        <npc id="20783" level="35" type="Monster" name="Dread Wolf">
+        <npc id="20788" level="35" type="Monster" name="Rakul">
+        <npc id="20934" level="35" type="Monster" name="Wasp Worker">
+        <npc id="21107" level="35" type="Monster" name="Delu Lizardman Commander">
+        <npc id="21214" level="35" type="Monster" name="Vault Sentinel">
+        <npc id="21238" level="35" type="Monster" name="Grave Sentinel">
+        <npc id="21638" level="35" type="Monster" name="Dread Wolf">
+        <npc id="22022" level="35" type="Monster" name="Bandit Assassin">
+        <npc id="23418" level="35" type="Monster" name="Marionette Spirit">
+        <npc id="23421" level="35" type="Monster" name="Chertuba Mirage">
+        <npc id="23422" level="35" type="Monster" name="Chertuba Illusion">
         -->
         <!-- 36 лвл-->
         <!--
+        <npc id="21806" level="36" type="Chest" name="Treasure Chest">
+        <npc id="18270" level="36" type="Chest" name="Treasure Chest">
+        <npc id="18609" level="36" type="Monster" name="Papion" title="Water Spirit">
+        <npc id="18610" level="36" type="Monster" name="Hillas" title="Water Spirit">
+        <npc id="18612" level="36" type="Monster" name="Water Spirit">
+        <npc id="18614" level="36" type="Monster" name="Fire Spirit">
+        <npc id="18616" level="36" type="Monster" name="Bloom">
+        <npc id="20088" level="36" type="Monster" name="Ant Warrior Captain">
+        <npc id="20193" level="36" type="Monster" name="Tyrant Kingpin">
+        <npc id="20304" level="36" type="Monster" name="Marsh Stakato Queen">
+        <npc id="20550" level="36" type="Monster" name="Guardian Basilisk">
+        <npc id="20578" level="36" type="Monster" name="Leto Lizardman Archer">
+        <npc id="20766" level="36" type="Monster" name="Scout of the Plains">
+        <npc id="20784" level="36" type="Monster" name="Tasaba Lizardman">
+        <npc id="20789" level="36" type="Monster" name="Crokian">
+        <npc id="20931" level="36" type="Monster" name="Hatu Onyx Beast">
+        <npc id="21171" level="36" type="Monster" name="Lith Overlord">
+        <npc id="21192" level="36" type="Monster" name="Gigant Officer">
+        <npc id="21265" level="36" type="Monster" name="Cave Ant Larva">
+        <npc id="21266" level="36" type="Monster" name="Cave Ant Larva">
+        <npc id="21267" level="36" type="Monster" name="Cave Ant Larva">
+        <npc id="21268" level="36" type="Monster" name="Cave Ant Larva">
+        <npc id="21639" level="36" type="Monster" name="Tasaba Lizardman">
+        <npc id="22023" level="36" type="Monster" name="Bandit Warrior">
+        <npc id="30732" level="36" type="Folk" name="Ol Mahum Pilgrim">
+        <npc id="32492" level="36" type="Chest" name="Crystal Water Bottle">
+        <npc id="32493" level="36" type="Chest" name="Burning Brazier">
         -->
         <!-- 37 лвл-->
         <!--
@@ -336,6 +359,17 @@
 	    <npc id="25023" level="34" type="RaidBoss" name="Stakato Queen Zyrnna" title="Raid Boss">
 	    <npc id="25189" level="34" type="RaidBoss" name="Cronos's Servitor Mumu" title="Raid Boss">
 	    <npc id="25383" level="34" type="RaidBoss" name="Revenant of Sir Calibus" title="Raid Boss">
+	    <npc id="25041" level="35" type="RaidBoss" name="Remmel" title="Raid Boss">
+        <npc id="25063" level="35" type="RaidBoss" name="Chertuba of Great Soul" title="Raid Boss">
+        <npc id="25098" level="35" type="RaidBoss" name="Sejarr's Servitor" title="Raid Boss">
+        <npc id="25152" level="35" type="RaidBoss" name="Flame Lord Shadar" title="Raid Boss">
+        <npc id="25185" level="35" type="RaidBoss" name="Tasaba Patriarch Hellena" title="Raid Boss">
+        <npc id="25223" level="35" type="RaidBoss" name="Soul Collector Acheron" title="Raid Boss">
+        <npc id="25354" level="35" type="RaidBoss" name="Gargoyle Lord Sirocco" title="Raid Boss">
+	    <npc id="25388" level="35" type="RaidBoss" name="Red Eye Captain Trakia" title="Raid Boss">
+	    <npc id="25398" level="35" type="RaidBoss" name="Eye of Beleth" title="Raid Boss">
+	    <npc id="25211" level="36" type="RaidBoss" name="Sebek" title="Raid Boss">
+        <npc id="25385" level="36" type="RaidBoss" name="Evil Spirit Tempest" title="Raid Boss">
         -->
         <!-- 20357 20919 20920 21100 Ящеры -->
 

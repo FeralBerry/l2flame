@@ -2,28 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="BeeHive">
 		<group>
-			<npc id="20781" x="9490" y="165669" z="-3704" heading="37933" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="7460" y="164143" z="-3576" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="10701" y="164480" z="-3704" heading="56988" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="13111" y="163982" z="-3624" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="13479" y="165624" z="-3656" heading="26330" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="14175" y="170766" z="-3560" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="13521" y="171142" z="-3560" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="13419" y="170608" z="-3542" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="19992" y="164834" z="-3384" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="19388" y="164478" z="-3416" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="24923" y="164532" z="-3336" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="25024" y="164354" z="-3336" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="22236" y="167496" z="-3336" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="24020" y="166650" z="-3288" heading="41781" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="25352" y="168281" z="-3240" heading="60048" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="25596" y="169983" z="-3352" heading="7684" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="20124" y="167308" z="-3368" heading="27324" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="27933" y="168501" z="-3240" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="27631" y="167611" z="-3272" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="21584" y="164628" z="-3400" heading="48534" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="28374" y="164559" z="-3608" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="31160" y="165346" z="-3624" heading="36287" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
 			<npc id="20933" x="27471" y="181457" z="-3272" heading="52705" respawnTime="32sec" /> <!-- Hatu Windsus -->
 			<npc id="20933" x="28531" y="184111" z="-3704" respawnTime="32sec" /> <!-- Hatu Windsus -->
 			<npc id="20933" x="31421" y="181907" z="-3304" heading="56871" respawnTime="32sec" /> <!-- Hatu Windsus -->
@@ -100,23 +78,6 @@
 			<npc id="20935" x="24205" y="190014" z="-3544" heading="4916" respawnTime="32sec" /> <!-- Wasp Captain -->
 			<npc id="20935" x="22471" y="187997" z="-3564" respawnTime="32sec" /> <!-- Wasp Captain -->
 			<npc id="20935" x="32589" y="184739" z="-3250" heading="29682" respawnTime="32sec" /> <!-- Wasp Captain -->
-			<npc id="21107" x="13118" y="171498" z="-3552" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="11549" y="172332" z="-3528" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="13823" y="171676" z="-3464" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="13542" y="172395" z="-3448" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="12300" y="171614" z="-3600" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="18302" y="163868" z="-3448" heading="8657" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="25124" y="164176" z="-3336" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="25326" y="164532" z="-3368" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="25427" y="164354" z="-3368" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="24320" y="167633" z="-3256" heading="61691" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="21095" y="168519" z="-3368" heading="31635" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="23118" y="165298" z="-3320" heading="42953" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="22639" y="166784" z="-3320" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="21251" y="166188" z="-3384" heading="29163" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="29741" y="165025" z="-3608" heading="57601" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="28648" y="167090" z="-3384" heading="21924" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="24881" y="171207" z="-3368" heading="18301" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
 			<npc id="30616" x="19509" y="192096" z="-3720" heading="20480" respawnTime="60sec" /> <!-- Kepra - Enku Chief -->
 			<npc id="30636" x="23471" y="188092" z="-3608" heading="16384" respawnTime="60sec" /> <!-- Camoniell - Summoner -->
 		</group>

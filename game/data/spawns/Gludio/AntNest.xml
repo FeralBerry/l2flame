@@ -2,104 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20086" x="-18058" y="178472" z="-5384" heading="37343" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-17133" y="178271" z="-5304" heading="24911" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-14557" y="180144" z="-5384" heading="3932" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-15099" y="178502" z="-5288" heading="57345" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-12984" y="179585" z="-5384" heading="13014" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-12873" y="179648" z="-5384" heading="18160" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13304" y="179193" z="-5384" heading="53350" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13044" y="179575" z="-5384" heading="24390" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13001" y="178978" z="-5384" heading="59196" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-12957" y="179488" z="-5384" heading="3479" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-12973" y="179190" z="-5384" heading="46661" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-12955" y="179733" z="-5384" heading="195" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-14877" y="180096" z="-5384" heading="24536" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-14562" y="180247" z="-5384" heading="32406" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13822" y="180268" z="-5384" heading="29927" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13617" y="181875" z="-5384" heading="52511" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13182" y="180807" z="-5384" heading="63312" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13490" y="181796" z="-5384" heading="59511" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-13547" y="181688" z="-5384" heading="20125" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-18897" y="178408" z="-5384" heading="45766" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-18453" y="178233" z="-5384" heading="54518" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-18572" y="178357" z="-5384" heading="9298" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-18640" y="178639" z="-5384" heading="23121" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-18395" y="181669" z="-5520" heading="60017" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-18638" y="181718" z="-5528" heading="28928" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-18866" y="181983" z="-5536" heading="21207" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-21384" y="186430" z="-5600" heading="26252" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-23469" y="182145" z="-5600" heading="11050" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-24494" y="182578" z="-5600" heading="24575" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-21136" y="188425" z="-5528" heading="18994" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-19587" y="187610" z="-5592" heading="679" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-19515" y="187182" z="-5600" heading="173" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-20873" y="188577" z="-5528" heading="28076" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-21057" y="188786" z="-5528" heading="13368" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-21231" y="188771" z="-5528" heading="32462" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-21073" y="188621" z="-5528" heading="32244" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-26355" y="181027" z="-5336" heading="1719" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-26059" y="181071" z="-5376" heading="15990" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-26451" y="180870" z="-5304" heading="30862" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-26366" y="180962" z="-5336" heading="1634" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-26204" y="182401" z="-5408" heading="55592" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-24191" y="178786" z="-5408" heading="11050" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-27848" y="180036" z="-5312" heading="44288" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-26688" y="180950" z="-5312" heading="23554" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-26628" y="180774" z="-5312" heading="2944" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-27481" y="182550" z="-5336" heading="37343" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-29532" y="180164" z="-5240" heading="63249" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-30209" y="179370" z="-5240" heading="55310" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-29700" y="178144" z="-5240" heading="65059" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-30321" y="178111" z="-5240" heading="39725" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20086" x="-29239" y="178372" z="-5240" heading="14478" respawnTime="60sec" /> <!-- Ant Guard -->
-			<npc id="20087" x="-17534" y="180522" z="-5504" heading="14253" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-17576" y="180538" z="-5512" heading="32070" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-17288" y="181356" z="-5520" heading="50003" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-16975" y="181276" z="-5520" heading="32900" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-16447" y="181156" z="-5488" heading="63139" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-16422" y="181261" z="-5488" heading="65341" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-15361" y="180529" z="-5384" heading="9393" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-15552" y="180406" z="-5384" heading="30879" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-15451" y="181098" z="-5384" heading="4561" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-15522" y="181827" z="-5384" heading="29983" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-15986" y="181954" z="-5384" heading="29301" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-15727" y="181475" z="-5384" heading="47751" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-18687" y="179587" z="-5480" heading="23681" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-19353" y="183771" z="-5600" heading="26245" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-19749" y="187076" z="-5592" heading="14320" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-19538" y="187116" z="-5600" heading="54589" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-21192" y="188443" z="-5528" heading="15467" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-21043" y="188220" z="-5528" heading="55611" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-25735" y="180150" z="-5408" heading="30836" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-25933" y="180927" z="-5408" heading="4380" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-26482" y="182526" z="-5408" heading="27444" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-26091" y="179427" z="-5408" heading="47222" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-26044" y="179799" z="-5408" heading="9828" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-25976" y="179787" z="-5408" heading="43255" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-27716" y="179873" z="-5312" heading="18120" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28139" y="181834" z="-5304" heading="63444" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28023" y="181809" z="-5312" heading="37169" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-27808" y="180064" z="-5312" heading="47848" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-27868" y="181890" z="-5312" heading="33096" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-27843" y="181947" z="-5312" heading="22407" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-26860" y="180815" z="-5312" heading="9346" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28026" y="182216" z="-5312" heading="49544" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28086" y="182575" z="-5312" heading="2397" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28690" y="181417" z="-5312" heading="37138" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28769" y="181312" z="-5312" heading="43442" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28769" y="181298" z="-5312" heading="3589" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-29913" y="180114" z="-5240" heading="7116" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28486" y="181480" z="-5312" heading="3314" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-29183" y="181315" z="-5312" heading="55381" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-29366" y="181273" z="-5280" heading="130" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-29094" y="181271" z="-5312" heading="60363" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28762" y="181393" z="-5312" heading="4150" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-28723" y="181508" z="-5312" heading="27052" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-30390" y="179006" z="-5216" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-31332" y="181009" z="-5240" heading="28471" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-31348" y="180848" z="-5240" heading="39011" respawnTime="60sec" /> <!-- Ant Soldier -->
-			<npc id="20087" x="-31271" y="180925" z="-5240" heading="35431" respawnTime="60sec" /> <!-- Ant Soldier -->
 			<npc id="20088" x="-15937" y="179870" z="-5384" heading="31479" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
 			<npc id="20088" x="-17924" y="181286" z="-5520" heading="28325" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
 			<npc id="20088" x="-18376" y="180240" z="-5520" heading="39773" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
@@ -256,6 +158,13 @@
 		<npc id="20080" level="31" type="Monster" name="Ant Captain">
 		<npc id="20081" level="32" type="Monster" name="Ant Overseer">
 		<npc id="20230" level="31" type="Monster" name="Marsh Stakato Worker">
+		<npc id="20084" level="34" type="Monster" name="Ant Patrol">
+		<npc id="20082" level="33" type="Monster" name="Ant Recruit">
+		<npc id="20232" level="33" type="Monster" name="Marsh Stakato Soldier">
+		<npc id="20086" level="35" type="Monster" name="Ant Guard">
+        <npc id="20087" level="35" type="Monster" name="Ant Soldier">
+        <npc id="29003" level="35" type="Monster" name="Nurse Ant">
+        <npc id="20234" level="35" type="Monster" name="Marsh Stakato Drone">
 		-->
 	</spawn>
 </list>
