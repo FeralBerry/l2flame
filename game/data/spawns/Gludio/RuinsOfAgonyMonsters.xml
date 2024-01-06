@@ -820,10 +820,18 @@
 	<npc id="24387" level="27" type="Monster" name="Skeleton Archer">
 	<npc id="24388" level="27" type="Monster" name="Skeleton Warrior">
 	<npc id="20254" level="28" type="Monster" name="Skeleton Axeman">
+	<npc id="20160" level="28" type="Monster" name="Neer Crawler">
 	<npc id="21136" level="28" type="Monster" name="Dead Pit Horror">
+	<npc id="20198" level="29" type="Monster" name="Neer Ghoul Berserker">
 	<npc id="20190" level="29" type="Monster" name="Skeleton Marauder">
 	<npc id="22007" level="29" type="Monster" name="Ghost of a Soldier">
+	<npc id="20615" level="29" type="Monster" name="Ritmal Swordsman">
 	<npc id="20191" level="30" type="Monster" name="Skeleton Raider">
 	<npc id="21169" level="30" type="Monster" name="Lith Guard">
+
+
+	<npc id="25149" level="25" type="RaidBoss" name="Zombie Lord Crowl" title="Raid Boss">
+        <npc id="25166" level="25" type="RaidBoss" name="Ikuntai" title="Raid Boss">
+        <npc id="25095" level="29" type="RaidBoss" name="Elf Renoa" title="Raid Boss">*
 	-->
 </list>

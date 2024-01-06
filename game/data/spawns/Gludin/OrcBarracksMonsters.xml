@@ -1195,5 +1195,12 @@
 	<npc id="20271" level="33" type="Monster" name="Breka Orc Warrior">
  	<npc id="20259" level="35" type="Monster" name="Batur Orc Overlord">
 	<npc id="20270" level="35" type="Monster" name="Breka Orc Overlord">
+	<npc id="23421" level="35" type="Monster" name="Chertuba Mirage">
+	<npc id="23422" level="35" type="Monster" name="Chertuba Illusion">
+	<npc id="23418" level="35" type="Monster" name="Marionette Spirit">
+
+	<npc id="25169" level="30" type="RaidBoss" name="Ragraman" title="Raid Boss">
+	<npc id="25020" level="34" type="RaidBoss" name="Breka Warlock Pastu" title="Raid Boss">
+	<npc id="25063" level="35" type="RaidBoss" name="Chertuba of Great Soul" title="Raid Boss">
 	-->
 </list>

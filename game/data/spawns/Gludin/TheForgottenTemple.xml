@@ -394,4 +394,33 @@
     <spawn>
         <npc id="25429" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Mammon Collector Talos (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Mammon Collector Talos (25) -->
     </spawn>
+    <!--
+    <npc id="21235" level="27" type="Monster" name="Grave Seer">
+    <npc id="21189" level="27" type="Monster" name="Gigant Overseer">
+     <npc id="21211" level="27" type="Monster" name="Vault Seer">
+     <npc id="21135" level="27" type="Monster" name="Underground Kobold Warrior">
+     <npc id="21141" level="28" type="Monster" name="Catacomb Serpent">
+     <npc id="20748" level="29" type="Monster" name="Roxide Cohort">
+     <npc id="20608" level="29" type="Monster" name="Patin Archer">
+     <npc id="20750" level="29" type="Monster" name="Fire Archer">
+     <npc id="21190" level="30" type="Monster" name="Gigant Footman">
+    <npc id="21236" level="30" type="Monster" name="Barrow Sentinel">
+     <npc id="21143" level="31" type="Monster" name="Catacomb Scavenger Bat">
+     <npc id="20747" level="32" type="Monster" name="Roxide">
+     <npc id="18611" level="33" type="Monster" name="Water Spirit">
+     <npc id="20173" level="33" type="Monster" name="Troll">
+     <npc id="21191" level="33" type="Monster" name="Gigant Cleric">
+     <npc id="20158" level="34" type="Monster" name="Medusa">
+     <npc id="18299" level="35" type="Monster" name="Flame of the Branded">
+    <npc id="18309" level="35" type="Monster" name="Flame of the Branded">
+    <npc id="18609" level="36" type="Monster" name="Papion" title="Water Spirit">
+    <npc id="18610" level="36" type="Monster" name="Hillas" title="Water Spirit">
+    <npc id="18612" level="36" type="Monster" name="Water Spirit">
+    <npc id="18614" level="36" type="Monster" name="Fire Spirit">
+    <npc id="18616" level="36" type="Monster" name="Bloom">
+
+
+    <npc id="25112" level="30" type="RaidBoss" name="Agent of Beres, Meana" title="Raid Boss">
+    <npc id="25152" level="35" type="RaidBoss" name="Flame Lord Shadar" title="Raid Boss">
+    -->
 </list>

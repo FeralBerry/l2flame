@@ -2,58 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20089" x="-18660" y="179583" z="-5472" heading="42845" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-18320" y="180184" z="-5520" heading="5877" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-17712" y="180306" z="-5520" heading="54145" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-17288" y="181286" z="-5520" heading="21062" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-18110" y="181337" z="-5520" heading="58558" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-17188" y="181376" z="-5520" heading="27287" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-17440" y="181088" z="-5496" heading="51339" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-16657" y="181284" z="-5520" heading="65341" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-16402" y="181155" z="-5480" heading="12779" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-19589" y="183981" z="-5600" heading="7207" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-19488" y="183164" z="-5600" heading="44463" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-19555" y="183081" z="-5584" heading="8559" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-19454" y="182543" z="-5496" heading="53757" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-19419" y="183186" z="-5600" heading="40349" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-19500" y="182669" z="-5496" heading="65499" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-20003" y="183928" z="-5632" heading="57124" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-21743" y="185898" z="-5600" heading="50846" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-23771" y="182109" z="-5584" heading="21409" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24070" y="183960" z="-5600" heading="46558" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24236" y="184038" z="-5584" heading="21064" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24690" y="182762" z="-5600" heading="35135" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24696" y="182800" z="-5600" heading="35050" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24147" y="183945" z="-5600" heading="55124" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-23285" y="186002" z="-5600" heading="10709" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-21513" y="186730" z="-5688" heading="36992" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-25343" y="180026" z="-5408" heading="55773" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-26390" y="180941" z="-5328" heading="28079" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-25372" y="180780" z="-5408" heading="49890" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24845" y="180135" z="-5408" heading="53785" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-25054" y="180484" z="-5408" heading="44433" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-25967" y="179737" z="-5408" heading="18316" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24884" y="180051" z="-5408" heading="3438" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-26049" y="179575" z="-5408" heading="12427" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24814" y="179675" z="-5408" heading="47783" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24706" y="179445" z="-5408" heading="52652" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-24238" y="178452" z="-5352" heading="36641" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-26366" y="181051" z="-5336" heading="3974" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-28417" y="179910" z="-5304" heading="53581" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-28205" y="181975" z="-5312" heading="27313" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-28109" y="182046" z="-5312" heading="19739" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-27173" y="180676" z="-5312" heading="64530" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-26862" y="180817" z="-5312" heading="33423" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-26827" y="182552" z="-5408" heading="63878" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-28554" y="182190" z="-5312" heading="47119" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-26760" y="182761" z="-5408" heading="6990" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-26713" y="182564" z="-5408" heading="63307" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-29494" y="181165" z="-5248" heading="35213" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-29166" y="181284" z="-5312" heading="54579" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-28872" y="182931" z="-5312" heading="59885" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-29003" y="183308" z="-5312" heading="8191" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-28971" y="182980" z="-5312" heading="41468" respawnTime="60sec" /> <!-- Noble Ant -->
-			<npc id="20089" x="-28477" y="179999" z="-5304" heading="38213" respawnTime="60sec" /> <!-- Noble Ant -->
 			<npc id="20090" x="-19696" y="183811" z="-5600" heading="40099" respawnTime="60sec" /> <!-- Noble Ant Captain -->
 			<npc id="20090" x="-19438" y="183298" z="-5600" heading="14113" respawnTime="60sec" /> <!-- Noble Ant Captain -->
 			<npc id="20090" x="-19532" y="182733" z="-5520" heading="22685" respawnTime="60sec" /> <!-- Noble Ant Captain -->
@@ -125,6 +73,7 @@
         <npc id="21266" level="36" type="Monster" name="Cave Ant Larva">
         <npc id="21267" level="36" type="Monster" name="Cave Ant Larva">
         <npc id="21268" level="36" type="Monster" name="Cave Ant Larva">
+         <npc id="20745" level="35" type="Monster" name="Gigantiops">
 		-->
 	</spawn>
 </list>

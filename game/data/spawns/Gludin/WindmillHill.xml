@@ -126,12 +126,11 @@
 	<spawn>
 		<npc id="25365" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Патриарх Куроборос (26)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Патриарх Куроборос (26) -->
 	</spawn>
-	<!-- 20295 20296 20297 20298 -->
 	<spawn>
-		<!--25369 Собиратель Душ 25 (нежить)(нет модели)-->
-		<!--25149 Лорд Зомби Кроул 25 (нежить)(нет модели)-->
-		<!--25166 Икунтай 25 (нежить)(нет модели)-->
-		<!--25076 Принцесса Молранг 25 (нет модели)-->
-		<!--25360 Тигровый Шершень 26 (нет модели)-->
+		<!--
+		<npc id="25401" level="32" type="RaidBoss" name="Skyla" title="Raid Boss">
+		<npc id="25404" level="33" type="RaidBoss" name="Corsair Captain Kylon" title="Raid Boss">
+		<npc id="25185" level="35" type="RaidBoss" name="Tasaba Patriarch Hellena" title="Raid Boss">
+		-->
 	</spawn>
 </list>

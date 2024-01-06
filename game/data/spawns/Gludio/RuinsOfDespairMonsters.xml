@@ -469,11 +469,17 @@
 		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
 	</spawn>
 	<!--
+	<npc id="21142" level="29" type="Monster" name="Grave Keeper Spartoi">
+	<npc id="22006" level="29" type="Monster" name="Grave Robber Guard">
 	<npc id="18268" level="30" type="Chest" name="Treasure Chest">
+	<npc id="20200" level="31" type="Monster" name="Strain">
 	<npc id="22009" level="31" type="Monster" name="Ghost of a Loyal Vassal">
 	<npc id="20513" level="32" type="Monster" name="Skeleton Knight">
 	<npc id="20749" level="32" type="Monster" name="Death Fire">
 	<npc id="22010" level="32" type="Monster" name="Ghost of a General">
+	<npc id="21213" level="32" type="Monster" name="Hallowed Monk">
+	 <npc id="20201" level="32" type="Monster" name="Ghoul">
+	 <npc id="21237" level="32" type="Monster" name="Barrow Monk">
 	<npc id="24389" level="33" type="Monster" name="Spartoi Soldier">
     <npc id="24390" level="33" type="Monster" name="Raging Spartoi">
 	<npc id="21106" level="34" type="Monster" name="Cursed Seer">
@@ -487,5 +493,12 @@
 	<npc id="22016" level="33" type="Monster" name="Ghost of a Turka Chief">
 	<npc id="21170" level="33" type="Monster" name="Lith Medium">
  	<npc id="18269" level="33" type="Chest" name="Treasure Chest">
+ 	<npc id="20788" level="35" type="Monster" name="Rakul">
+ 	<npc id="21171" level="36" type="Monster" name="Lith Overlord">
+
+ 	<npc id="25383" level="34" type="RaidBoss" name="Revenant of Sir Calibus" title="Raid Boss">
+ 	<npc id="25223" level="35" type="RaidBoss" name="Soul Collector Acheron" title="Raid Boss">
+ 	<npc id="25354" level="35" type="RaidBoss" name="Gargoyle Lord Sirocco" title="Raid Boss">
+ 	<npc id="25385" level="36" type="RaidBoss" name="Evil Spirit Tempest" title="Raid Boss">
 	-->
 </list>
