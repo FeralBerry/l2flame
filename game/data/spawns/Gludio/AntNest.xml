@@ -2,52 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20088" x="-15937" y="179870" z="-5384" heading="31479" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-17924" y="181286" z="-5520" heading="28325" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-18376" y="180240" z="-5520" heading="39773" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-17659" y="181384" z="-5520" heading="31786" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-16648" y="181216" z="-5512" heading="63242" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-16888" y="181270" z="-5520" heading="34017" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-17073" y="181339" z="-5520" heading="36435" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-15325" y="180944" z="-5384" heading="39093" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-14878" y="182042" z="-5384" heading="3686" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-15587" y="182216" z="-5368" heading="15292" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-18945" y="178151" z="-5384" heading="4500" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-18460" y="180212" z="-5520" heading="5693" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-18535" y="178274" z="-5384" heading="40502" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-20204" y="183774" z="-5680" heading="36992" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-19438" y="182689" z="-5504" heading="52291" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-19427" y="183185" z="-5600" heading="31768" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-23800" y="182554" z="-5600" heading="24066" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-24594" y="182827" z="-5592" heading="36318" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-23734" y="183918" z="-5600" heading="39481" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-23160" y="184125" z="-5680" heading="38928" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-22927" y="185965" z="-5648" heading="26501" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-23333" y="185931" z="-5600" heading="17234" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-21454" y="186641" z="-5672" heading="32447" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-21700" y="186791" z="-5688" heading="24298" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-19983" y="186943" z="-5600" heading="7362" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-19210" y="187340" z="-5584" heading="24580" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-26057" y="180910" z="-5392" heading="65189" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-26760" y="180745" z="-5312" heading="25924" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-26717" y="180849" z="-5312" heading="34120" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-25055" y="180106" z="-5384" heading="64449" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-25000" y="180165" z="-5400" heading="59379" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-26136" y="182314" z="-5408" heading="27198" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-25130" y="180083" z="-5408" heading="23739" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-25737" y="180169" z="-5408" heading="61049" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-27654" y="180041" z="-5312" heading="27522" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-27099" y="180749" z="-5312" heading="34738" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-28023" y="180144" z="-5312" heading="49630" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-27913" y="182259" z="-5312" heading="49153" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-28414" y="182505" z="-5312" heading="27259" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-27020" y="182706" z="-5408" heading="4660" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-30471" y="180769" z="-5240" heading="33817" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-29278" y="181289" z="-5304" heading="58036" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-30291" y="179545" z="-5240" heading="22250" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-31154" y="180724" z="-5240" heading="21717" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-31232" y="180947" z="-5240" heading="39096" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
-			<npc id="20088" x="-31233" y="180656" z="-5240" heading="64756" respawnTime="60sec" /> <!-- Ant Warrior Captain -->
 			<npc id="20089" x="-18660" y="179583" z="-5472" heading="42845" respawnTime="60sec" /> <!-- Noble Ant -->
 			<npc id="20089" x="-18320" y="180184" z="-5520" heading="5877" respawnTime="60sec" /> <!-- Noble Ant -->
 			<npc id="20089" x="-17712" y="180306" z="-5520" heading="54145" respawnTime="60sec" /> <!-- Noble Ant -->
@@ -165,6 +119,12 @@
         <npc id="20087" level="35" type="Monster" name="Ant Soldier">
         <npc id="29003" level="35" type="Monster" name="Nurse Ant">
         <npc id="20234" level="35" type="Monster" name="Marsh Stakato Drone">
+        <npc id="20088" level="36" type="Monster" name="Ant Warrior Captain">
+        <npc id="20304" level="36" type="Monster" name="Marsh Stakato Queen">
+        <npc id="21265" level="36" type="Monster" name="Cave Ant Larva">
+        <npc id="21266" level="36" type="Monster" name="Cave Ant Larva">
+        <npc id="21267" level="36" type="Monster" name="Cave Ant Larva">
+        <npc id="21268" level="36" type="Monster" name="Cave Ant Larva">
 		-->
 	</spawn>
 </list>
