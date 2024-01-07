@@ -7393,6 +7393,58 @@
 			<radius normal="10" />
 			<height normal="23" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="181" max="334" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0256">
+					<item id="257" min="1" max="1" chance="100" /> <!-- Viper Fang -->
+				</group>
+				<group chance="26.6203">
+					<item id="1868" min="1" max="1" chance="45.2034" /> <!-- Thread -->
+					<item id="1873" min="1" max="1" chance="9.0407" /> <!-- Silver Nugget -->
+					<item id="2255" min="1" max="1" chance="0.5526" /> <!-- Recipe: Saber -->
+					<item id="6037" min="1" max="1" chance="45.2033" /> <!-- Waking Scroll -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1871" min="1" max="1" chance="40.7376" /> <!-- Charcoal -->
+				<item id="1928" min="1" max="1" chance="5.9341" /> <!-- Piece Bone Gaiters Fragment -->
+				<item id="1868" min="1" max="1" chance="81.4752" /> <!-- Thread -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20294" level="26" type="Monster" name="Virud Lizardman Matriarch">
 		<parameters>
@@ -7447,6 +7499,59 @@
 			<radius normal="13" />
 			<height normal="37" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="170" max="324" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0139">
+					<item id="258" min="1" max="1" chance="100" /> <!-- Bagh-Nakh -->
+				</group>
+				<group chance="12.6717">
+					<item id="1872" min="1" max="1" chance="46.1183" /> <!-- Animal Bone -->
+					<item id="1867" min="1" max="1" chance="46.1183" /> <!-- Animal Skin -->
+					<item id="1881" min="1" max="1" chance="4.6118" /> <!-- Coarse Bone Powder -->
+					<item id="1875" min="1" max="1" chance="2.3059" /> <!-- Stone of Purity -->
+					<item id="8301" min="1" max="1" chance="0.8457" /> <!-- Recipe: Priest Sword (100%) -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1931" min="1" max="1" chance="5.1043" /> <!-- Leather Boot Lining -->
+				<item id="2178" min="1" max="1" chance="6.2477" /> <!-- Recipe: Dark Stockings -->
+				<item id="1932" min="1" max="1" chance="6.1981" /> <!-- Bone Helmet Design -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20295" level="27" type="Monster" name="Virud Lizardman Warrior">
 		<parameters>
@@ -7499,6 +7604,28 @@
 			<radius normal="12" />
 			<height normal="30" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="340" max="656" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0281">
+					<item id="220" min="1" max="1" chance="100" /> <!-- Crafted Dagger -->
+				</group>
+				<group chance="27.693">
+					<item id="1869" min="1" max="1" chance="31.9605" /> <!-- Iron Ore -->
+					<item id="1864" min="1" max="1" chance="63.921" /> <!-- Stem -->
+					<item id="1880" min="1" max="1" chance="3.1961" /> <!-- Steel -->
+					<item id="5550" min="1" max="1" chance="0.4261" /> <!-- Durable Metal Plate -->
+					<item id="2262" min="1" max="1" chance="0.4963" /> <!-- Recipe: Elven Bow -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2260" min="1" max="1" chance="1.2244" /> <!-- Recipe: Mace of Judgment -->
+				<item id="1932" min="1" max="1" chance="12.5162" /> <!-- Bone Helmet Design -->
+				<item id="2152" min="1" max="1" chance="13.8824" /> <!-- Recipe: Enchanted Necklace -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20296" level="28" type="Monster" name="Virud Lizardman Scout">
 		<parameters>
@@ -7550,6 +7677,66 @@
 			<radius normal="10" grown="12" />
 			<height normal="22" grown="27" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="224" max="448" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.7972">
+					<item id="433" min="1" max="1" chance="1.1833" /> <!-- Elven Tunic -->
+					<item id="434" min="1" max="1" chance="1.1833" /> <!-- White Tunic -->
+					<item id="1936" min="1" max="1" chance="37.2337" /> <!-- White Tunic Pattern -->
+					<item id="435" min="1" max="1" chance="1.1833" /> <!-- Mystic's Tunic -->
+					<item id="466" min="1" max="1" chance="1.8958" /> <!-- Elven Stockings -->
+					<item id="467" min="1" max="1" chance="1.8958" /> <!-- Dark Stockings -->
+					<item id="1933" min="1" max="1" chance="53.5289" /> <!-- Dark Stocking Fabric -->
+					<item id="468" min="1" max="1" chance="1.8959" /> <!-- Mystic's Stockings -->
+				</group>
+				<group chance="17.7964">
+					<item id="1868" min="1" max="1" chance="65.2174" /> <!-- Thread -->
+					<item id="1873" min="1" max="1" chance="13.0435" /> <!-- Silver Nugget -->
+					<item id="5549" min="1" max="1" chance="3.2609" /> <!-- Metallic Thread -->
+					<item id="1889" min="1" max="1" chance="2.1739" /> <!-- Compound Braid -->
+					<item id="736" min="1" max="1" chance="16.3043" /> <!-- Scroll of Escape -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2024" min="1" max="1" chance="0.7564" /> <!-- Elven Bow Shaft -->
+				<item id="2023" min="1" max="1" chance="0.658" /> <!-- Conjuror's Staff Head -->
+				<item id="1900" min="1" max="1" chance="5.8094" /> <!-- Enchanted Necklace Chain -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20297" level="27" type="Monster" name="Virud Lizardman Shaman">
 		<parameters>
@@ -7602,6 +7789,61 @@
 			<radius normal="10" />
 			<height normal="29" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="208" max="407" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.3014">
+					<item id="291" min="1" max="1" chance="2.8677" /> <!-- Trident -->
+					<item id="2019" min="1" max="1" chance="97.1323" /> <!-- Trident Edge -->
+				</group>
+				<group chance="27.8735">
+					<item id="1864" min="1" max="1" chance="32.5635" /> <!-- Stem -->
+					<item id="1865" min="1" max="1" chance="16.2817" /> <!-- Varnish -->
+					<item id="1866" min="1" max="1" chance="10.8545" /> <!-- Suede -->
+					<item id="1873" min="1" max="1" chance="6.5127" /> <!-- Silver Nugget -->
+					<item id="1868" min="1" max="1" chance="32.5635" /> <!-- Thread -->
+					<item id="2180" min="1" max="1" chance="1.2241" /> <!-- Recipe: Scale Mail -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1871" min="1" max="1" chance="48.518" /> <!-- Charcoal -->
+				<item id="1868" min="1" max="3" chance="48.518" /> <!-- Thread -->
+				<item id="2152" min="1" max="1" chance="8.5419" /> <!-- Recipe: Enchanted Necklace -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20298" level="28" type="Monster" name="Virud Lizardman Shaman">
 		<parameters>
@@ -7654,6 +7896,61 @@
 			<radius normal="10" />
 			<height normal="29" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="215" max="426" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.2168">
+					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->
+					<item id="605" min="1" max="1" chance="50" /> <!-- Leather Gauntlets -->
+				</group>
+				<group chance="15.046">
+					<item id="1869" min="1" max="1" chance="30.7377" /> <!-- Iron Ore -->
+					<item id="1864" min="1" max="1" chance="61.4754" /> <!-- Stem -->
+					<item id="1880" min="1" max="1" chance="3.0738" /> <!-- Steel -->
+					<item id="5550" min="1" max="1" chance="0.4098" /> <!-- Durable Metal Plate -->
+					<item id="737" min="1" max="1" chance="3.0738" /> <!-- Scroll of Resurrection -->
+					<item id="6387" min="1" max="1" chance="1.2295" /> <!-- Blessed Scroll of Resurrection for Pets -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1869" min="1" max="1" chance="50.779" /> <!-- Iron Ore -->
+				<item id="1061" min="1" max="1" chance="30.7751" /> <!-- Healing Potion -->
+				<item id="1900" min="1" max="1" chance="5.5557" /> <!-- Enchanted Necklace Chain -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20299" level="40" type="Monster" name="Zenta Lizardman">
 		<parameters>
