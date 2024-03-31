@@ -10,9 +10,9 @@
                 <node x="-54721" y="189947"/>
             </territory>
         </territories>
-        <npc id="21235" count="6" respawnTime="60sec" chaseRange="1500" /><!-- Grave Seer 27 -->
-        <npc id="21189" count="6" respawnTime="60sec" chaseRange="1500" /><!-- Gigant Overseer 27 -->
-        <npc id="21211" count="6" respawnTime="60sec" chaseRange="1500" /><!-- Vault Seer 27 -->
+        <npc id="21235" count="6" respawnTime="60sec" chaseRange="1500" /><!-- Смотритель Могил 27 -->
+        <npc id="21189" count="6" respawnTime="60sec" chaseRange="1500" /><!-- Офицер смотритель 27 -->
+        <npc id="21211" count="6" respawnTime="60sec" chaseRange="1500" /><!-- Смотритель Подземелья 27 -->
     </spawn>
     <spawn name="ForgottenTemple_002">
         <territories>
@@ -26,8 +26,8 @@
                 <node x="-57240" y="189903"/>
             </territory>
         </territories>
-        <npc id="21211" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Catacomb Serpent 28 -->
-        <npc id="21135" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Underground Kobold Warrior 27 -->
+        <npc id="21141" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Змей Катакомб 28 -->
+        <npc id="21135" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Воин Подземных Кобольдов 27 -->
     </spawn>
     <spawn name="ForgottenTemple_003">
         <territories>
@@ -38,9 +38,9 @@
                 <node x="-56858" y="187697"/>
             </territory>
         </territories>
-        <npc id="21211" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Catacomb Serpent 28 -->
-        <npc id="21135" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Underground Kobold Warrior 27 -->
-        <npc id="21135" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Patin Archer 29 -->
+        <npc id="21241" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Змей Катакомб 28 -->
+        <npc id="21135" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Воин Подземных Кобольдов 27 -->
+        <npc id="20608" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Костяной Стрелок 29 -->
     </spawn>
     <spawn name="ForgottenTemple_004">
         <territories>
