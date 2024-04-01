@@ -4601,7 +4601,7 @@
 			<skill id="4438" level="2" /> <!-- Greater Sleep Resistance -->
 			<skill id="4439" level="2" /> <!-- Greater Hold Resistance -->
 			<skill id="4444" level="2" /> <!-- Greater Bow/ Crossbow Resistance -->
-			<skill id="4614" level="4" /> <!-- Death Bomb -->
+			<skill id="4614" level="2" /> <!-- Death Bomb -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<sNpcPropHpRate>3</sNpcPropHpRate>
@@ -4610,5 +4610,60 @@
 			<radius normal="6" />
 			<height normal="13" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="185" max="346" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.105">
+					<item id="847" min="1" max="1" chance="5.1488" /> <!-- Red Crescent Earring -->
+					<item id="910" min="1" max="1" chance="3.8616" /> <!-- Necklace of Devotion -->
+					<item id="1899" min="1" max="1" chance="83.2663" /> <!-- Necklace of Devotion Chain -->
+					<item id="890" min="1" max="1" chance="7.7233" /> <!-- Ring of Devotion -->
+				</group>
+				<group chance="20.4638">
+					<item id="1864" min="1" max="1" chance="57.5508" /> <!-- Stem -->
+					<item id="1869" min="1" max="1" chance="28.7754" /> <!-- Iron Ore -->
+					<item id="1878" min="1" max="1" chance="11.5102" /> <!-- Braided Hemp -->
+					<item id="2180" min="1" max="1" chance="2.1636" /> <!-- Recipe: Scale Mail -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2180" min="1" max="1" chance="3.1555" /> <!-- Recipe: Scale Mail -->
+				<item id="2020" min="1" max="1" chance="0.7347" /> <!-- Temptation of Abyss Piece -->
+				<item id="1869" min="1" max="1" chance="41.9687" /> <!-- Iron Ore -->
+			</spoil>
+		</dropLists>
 	</npc>
 </list>

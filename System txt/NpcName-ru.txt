@@ -1,6 +1,7 @@
 npc_begin	id=18299	name=[Пламя Заклейменного]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=18309	name=[Пламя Заклейменного]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18342	name=[Гремлин]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18609	name=[Папион]	nick=[Дух Воды]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=18609	name=[Папион]	nick=[Дух Воды]	nickcolor=53868BFF	npc_end
 npc_begin	id=18610	name=[Хиллас]	nick=[Дух Воды]	nickcolor=191970FF	npc_end
 npc_begin	id=18611	name=[Дух Воды]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18612	name=[Водяной призрак]	nick=[]	nickcolor=191970FF	npc_end
@@ -2802,6 +2803,8 @@ npc_begin	id=25382	name=[Летящий Враг]	nick=[Рейдовый Бое�
 npc_begin	id=25426	name=[Предатель Уруту Фреки]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25427	name=[Кровопийца Фреки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25428	name=[Дикий Медведь Фреки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25429	name=[Коллекционер Маммона Талос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25430	name=[Последователь Талоса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25528	name=[Тиберий]	nick=[Главный Инспектор]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25529	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25530	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
@@ -4356,7 +4359,6 @@ npc_begin	id=18305	name=[Пламя Темного Знамения]	nick=[]	nic
 npc_begin	id=18306	name=[Призванный Дух Жертва Темного Знамения]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18307	name=[Пламя Запретного Пути]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18308	name=[Призванный Дух Жертва Запретного Пути]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18309	name=[Пламя Заклейменного]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18310	name=[Призванный Дух Жертва Заклейменного]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18311	name=[Пламя Отступника]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18312	name=[Призванный Дух Жертва Отступника]	nick=[]	nickcolor=54FF9FFF	npc_end

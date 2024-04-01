@@ -619,11 +619,11 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="25112" level="30" type="RaidBoss" name="Agent of Beres, Meana" title="Raid Boss">
+	<npc id="25112" level="32" type="RaidBoss" name="Агент Белефа Мина" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25113" count="3" respawnTime="360" weightPoint="1" /> <!-- Meana's Maid -->
-				<npc id="25114" count="1" respawnTime="360" weightPoint="1" /> <!-- Meana's Guard Doll -->
+				<npc id="25113" count="3" respawnTime="360" weightPoint="1" /> <!-- Дева Мины -->
+				<npc id="25114" count="1" respawnTime="360" weightPoint="1" /> <!-- Кукла Страж Мины -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="3" /> <!-- Hold -->
@@ -658,7 +658,7 @@
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4416" level="3" /> <!-- Beasts -->
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
-			<skill id="4831" level="1" /> <!-- Raid Boss - Level 30 -->
+			<skill id="4945" level="1" /> <!-- Raid Boss - Level 32 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
@@ -688,7 +688,7 @@
 			<height normal="53" />
 		</collision>
 	</npc>
-	<npc id="25113" level="29" type="Monster" name="Meana's Maid" title="Raid Fighter">
+	<npc id="25113" level="31" type="Monster" name="Дева Мины" title="Raid Fighter">
 		<parameters>
 			<skill name="DDMagic_a" id="4192" level="2" /> <!-- BOSS HP Drain -->
 			<skill name="Debuff_a" id="4199" level="2" /> <!-- Decrease P. Atk. -->
@@ -731,7 +731,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="25114" level="29" type="Monster" name="Meana's Guard Doll" title="Raid Fighter">
+	<npc id="25114" level="31" type="Monster" name="Кукла Страж Мины" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4726" level="2" /> <!-- Stun -->
 		</parameters>
@@ -2761,11 +2761,11 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="25152" level="35" type="RaidBoss" name="Flame Lord Shadar" title="Raid Boss">
+	<npc id="25152" level="35" type="RaidBoss" name="Повелитель Пламени Шадар" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25153" count="1" respawnTime="360" weightPoint="1" /> <!-- Claws of Shadar -->
-				<npc id="25154" count="4" respawnTime="360" weightPoint="1" /> <!-- Whip of Shadar -->
+				<npc id="25153" count="1" respawnTime="360" weightPoint="1" /> <!-- Бес Шадара -->
+				<npc id="25154" count="4" respawnTime="360" weightPoint="1" /> <!-- Суккуб Шадара -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="DDMagic_a" id="4192" level="3" /> <!-- BOSS HP Drain -->
@@ -2832,7 +2832,7 @@
 			<height normal="75" />
 		</collision>
 	</npc>
-	<npc id="25153" level="34" type="Monster" name="Claws of Shadar" title="Raid Fighter">
+	<npc id="25153" level="34" type="Monster" name="Бес Шадара" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4731" level="3" /> <!-- BOSS Mortal Blow -->
 		</parameters>
@@ -2872,7 +2872,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="25154" level="34" type="Monster" name="Whip of Shadar" title="Raid Fighter">
+	<npc id="25154" level="34" type="Monster" name="Суккуб Шадара" title="Raid Fighter">
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">

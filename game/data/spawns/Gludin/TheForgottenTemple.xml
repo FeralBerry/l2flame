@@ -298,15 +298,16 @@
     </spawn>
     <spawn name="ForgottenTemple_023">
         <territories>
-            <territory minZ="-4816" maxZ="-4808">
-                <node x="-60193" y="183165"/>
+            <territory minZ="-4816" maxZ="-4803">
+                <node x="-60193" y="184467"/>
                 <node x="-62612" y="183192"/>
                 <node x="-62586" y="184467"/>
-                <node x="-60637" y="181833"/>
+                <node x="-60193" y="183192"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
-        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
+        <npc id="21191" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Клерик Гигант 33 -->
+        <npc id="20158" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18299" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_024">
         <territories>
@@ -417,12 +418,12 @@
         <npc id="25429" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Mammon Collector Talos (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Mammon Collector Talos (25) -->
     </spawn>
     <spawn>
-        <npc id="25112" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Agent of Beres, Meana (30)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Agent of Beres, Meana (30) -->
+        <npc id="25112" x="-62389" y="184134" z="-4816" heading="16723" dbSave="true" dbName="Агент Белефа Мина (32)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Агент Белефа Мина (32) -->
     </spawn>
     <spawn>
-        <npc id="25152" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Flame Lord Shadar (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Flame Lord Shadar (35) -->
+        <npc id="25152" x="-55717" y="181342" z="-4808" heading="16723" dbSave="true" dbName="Повелитель Пламени Шадар (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Повелитель Пламени Шадар (35) -->
     </spawn>
     <spawn>
-        <npc id="25098" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Sejarr's Servitor (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Sejarr's Servitor (35) -->
+        <npc id="25098" x="-53855" y="179298" z="-4640" heading="16723" dbSave="true" dbName="Слуга Седжара (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Слуга Седжара (35) -->
     </spawn>
 </list>

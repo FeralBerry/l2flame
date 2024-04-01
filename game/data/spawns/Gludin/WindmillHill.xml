@@ -106,22 +106,22 @@
 		<npc id="20152" count="50" respawnTime="30sec" chaseRange="1500" /> <!-- Lizardman 25 -->
 	</spawn>
 	<spawn>
-		<npc id="25366" x="-82517" y="163137" z="-2984" heading="16723" dbSave="true" dbName="Жрец Куробороса (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Жрец Куробороса (23) -->
-	</spawn>
-	<spawn>
-		<npc id="25127" x="-75957" y="177052" z="-2584" heading="16723" dbSave="true" dbName="Вождь Лангк Рашкос (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Лангк Рашкос (24) -->
-	</spawn>
-	<spawn>
 		<npc id="25528" x="-75611" y="155348" z="-2288" heading="16723" dbSave="true" dbName="Тиберий (22)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Тиберий (22) -->
+	</spawn>
+	<spawn>
+		<npc id="25366" x="-82517" y="163137" z="-2984" heading="16723" dbSave="true" dbName="Жрец Куробороса (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Жрец Куробороса (23) -->
 	</spawn>
 	<spawn>
 		<npc id="25362" x="-64402" y="175299" z="-3688" heading="16723" dbSave="true" dbName="Начальник Следопытов Шарук (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Начальник Следопытов Шарук (23) -->
 	</spawn>
 	<spawn>
-		<npc id="25426" x="-60203" y="179293" z="-3232" heading="16723" dbSave="true" dbName="Предатель Уруту Фреки (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Предатель Уруту Фреки (25) -->
+		<npc id="25060" x="-56704" y="173854" z="-3208" heading="16723" dbSave="true" dbName="Отверженная Каэль (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Отверженная Каэль (24) -->
 	</spawn>
 	<spawn>
-		<npc id="25060" x="-56704" y="173854" z="-3208" heading="16723" dbSave="true" dbName="Отверженная Каэль (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Отверженная Каэль (24) -->
+		<npc id="25127" x="-75957" y="177052" z="-2584" heading="16723" dbSave="true" dbName="Вождь Лангк Рашкос (24)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Лангк Рашкос (24) -->
+	</spawn>
+	<spawn>
+		<npc id="25426" x="-60203" y="179293" z="-3232" heading="16723" dbSave="true" dbName="Предатель Уруту Фреки (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Предатель Уруту Фреки (25) -->
 	</spawn>
 	<spawn>
 		<npc id="25365" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Патриарх Куроборос (26)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Патриарх Куроборос (26) -->
