@@ -4212,7 +4212,7 @@
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>C_DUNGEON</clan>
 			</clanList>
@@ -8596,6 +8596,9 @@
 				<group chance="70">
 					<item id="6360" min="128" max="259" chance="100" /> <!-- Blue Seal Stone -->
 				</group>
+				<group chance="70">
+					<item id="57" min="800" max="1455" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="0.6211">
 					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->
 					<item id="605" min="1" max="1" chance="50" /> <!-- Leather Gauntlets -->
@@ -8689,6 +8692,9 @@
 				</group>
 				<group chance="70">
 					<item id="6360" min="108" max="211" chance="100" /> <!-- Blue Seal Stone -->
+				</group>
+				<group chance="70">
+					<item id="57" min="500" max="860" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3558">
 					<item id="628" min="1" max="1" chance="58.8353" /> <!-- Hoplon -->

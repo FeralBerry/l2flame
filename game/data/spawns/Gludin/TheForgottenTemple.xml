@@ -38,7 +38,7 @@
                 <node x="-56858" y="187697"/>
             </territory>
         </territories>
-        <npc id="21241" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Змей Катакомб 28 -->
+        <npc id="21241" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Жрец Кургана 28 -->
         <npc id="21135" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Воин Подземных Кобольдов 27 -->
         <npc id="20608" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Костяной Стрелок 29 -->
     </spawn>
@@ -51,8 +51,8 @@
                 <node x="-56849" y="188882"/>
             </territory>
         </territories>
-        <npc id="20748" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Roxide Cohort 29 -->
-        <npc id="20750" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Archer 29 -->
+        <npc id="21190" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пехотинец Гигант 30 -->
+        <npc id="20750" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Огненный Стрелок 29 -->
     </spawn>
     <spawn name="ForgottenTemple_005">
         <territories>
@@ -63,8 +63,8 @@
                 <node x="-56456" y="188733"/>
             </territory>
         </territories>
-        <npc id="20750" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Archer 29 -->
-        <npc id="21190" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Gigant Footman 30 -->
+        <npc id="20750" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Огненный Стрелок 29 -->
+        <npc id="21190" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пехотинец Гигант 30 -->
     </spawn>
     <spawn name="ForgottenTemple_006">
         <territories>
@@ -75,8 +75,8 @@
                 <node x="-58394" y="187805"/>
             </territory>
         </territories>
-        <npc id="21190" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Gigant Footman 30 -->
-        <npc id="21236" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Barrow Sentinel 30 -->
+        <npc id="21190" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пехотинец Гигант 30 -->
+        <npc id="21236" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Часовой Катакомб 30 -->
     </spawn>
     <spawn name="ForgottenTemple_007">
         <territories>
@@ -87,8 +87,8 @@
                 <node x="-60211" y="188063"/>
             </territory>
         </territories>
-        <npc id="21143" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Catacomb Scavenger Bat 31 -->
-        <npc id="20747" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Roxide 32 -->
+        <npc id="21143" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Летучий Падальщик Катакомб 31 -->
+        <npc id="20747" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Демонесса 32 -->
     </spawn>
     <spawn name="ForgottenTemple_008">
         <territories>
@@ -100,8 +100,8 @@
 
             </territory>
         </territories>
-        <npc id="20747" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Roxide 32 -->
-        <npc id="18611" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 33 -->
+        <npc id="20747" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Демонесса 32 -->
+        <npc id="18611" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Дух воды 33 -->
     </spawn>
     <spawn name="ForgottenTemple_009">
         <territories>
@@ -112,8 +112,8 @@
                 <node x="-56757" y="185130"/>
             </territory>
         </territories>
-        <npc id="20173" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Troll 33 -->
-        <npc id="21191" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Gigant Cleric 33 -->
+        <npc id="20173" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Тролль 33 -->
+        <npc id="21191" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Клерик Гигант 33 -->
     </spawn>
     <spawn name="ForgottenTemple_010">
         <!--РБ-->
@@ -125,8 +125,8 @@
                 <node x="-58792" y="185034"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_011">
         <!--РБ-->
@@ -138,8 +138,8 @@
                 <node x="-58099" y="186364"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_012">
         <territories>
@@ -154,8 +154,8 @@
                 <node x="-57311" y="184063"/>
             </territory>
         </territories>
-        <npc id="20158" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="18309" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="20158" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18309" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_013">
         <territories>
@@ -166,8 +166,8 @@
                 <node x="-56440" y="184232"/>
             </territory>
         </territories>
-        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
-        <npc id="18609" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
+        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
+        <npc id="18609" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Папион (Дух воды) 36 -->
     </spawn>
     <spawn name="ForgottenTemple_014">
         <territories>
@@ -178,8 +178,8 @@
                 <node x="-54643" y="183930"/>
             </territory>
         </territories>
-        <npc id="18609" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Spirit 36 -->
+        <npc id="18609" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Папион (Дух воды) 36 -->
+        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Дух Огня 36 -->
     </spawn>
     <spawn name="ForgottenTemple_015">
         <territories>
@@ -190,8 +190,8 @@
                 <node x="-54598" y="185293"/>
             </territory>
         </territories>
-        <npc id="18610" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Spirit 36 -->
+        <npc id="18610" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Хиллас (Дух воды) 36 -->
+        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Дух Огня 36 -->
     </spawn>
     <spawn name="ForgottenTemple_016">
         <!--РБ-->
@@ -203,8 +203,8 @@
                 <node x="-55957" y="180906"/>
             </territory>
         </territories>
-        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Spirit 36 -->
+        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Водяной призрак 36 -->
+        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Дух Огня 36 -->
     </spawn>
     <spawn name="ForgottenTemple_017">
         <!--РБ-->
@@ -216,8 +216,8 @@
                 <node x="-55148" y="180893"/>
             </territory>
         </territories>
-        <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Bloom 36 -->
-        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Spirit 36 -->
+        <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Фирак 36 -->
+        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Дух Огня 36 -->
     </spawn>
     <spawn name="ForgottenTemple_018">
         <!--РБ under-->
@@ -229,8 +229,8 @@
                 <node x="-54105" y="185435"/>
             </territory>
         </territories>
-        <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Bloom 36 -->
-        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Spirit 36 -->
+        <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Фирак 36 -->
+        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Дух Огня 36 -->
     </spawn>
     <spawn name="ForgottenTemple_019">
         <territories>
@@ -241,8 +241,8 @@
                 <node x="-53709" y="180691"/>
             </territory>
         </territories>
-        <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Bloom 36 -->
-        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Spirit 36 -->
+        <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Фирак 36 -->
+        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Дух Огня 36 -->
     </spawn>
     <!-- Fire -->
     <spawn name="ForgottenTemple_020">
@@ -254,7 +254,7 @@
                 <node x="-57415" y="186535"/>
             </territory>
         </territories>
-        <npc id="20173" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Troll 33 -->
+        <npc id="20173" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Тролль 33 -->
     </spawn>
     <spawn name="ForgottenTemple_021">
         <territories>
@@ -269,8 +269,8 @@
                 <node x="-59041" y="186107"/>
             </territory>
         </territories>
-        <npc id="20173" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Troll 33 -->
-        <npc id="21191" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Gigant Cleric 33 -->
+        <npc id="20173" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Тролль 33 -->
+        <npc id="21191" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Клерик Гигант 33 -->
     </spawn>
     <spawn name="ForgottenTemple_022">
         <territories>
@@ -281,8 +281,8 @@
                 <node x="-59180" y="184544"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="21191" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Gigant Cleric 33 -->
+        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="21191" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Клерик Гигант 33 -->
     </spawn>
     <spawn name="ForgottenTemple_022">
         <territories>
@@ -293,8 +293,8 @@
                 <node x="-58867" y="183786"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_023">
         <territories>
@@ -305,8 +305,8 @@
                 <node x="-60637" y="181833"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18299" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_024">
         <territories>
@@ -317,8 +317,8 @@
                 <node x="-60312" y="180856"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_024">
         <!-- РБ -->
@@ -330,8 +330,8 @@
                 <node x="-58406" y="181076"/>
             </territory>
         </territories>
-        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Medusa 34 -->
-        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="20158" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Медуза 34 -->
+        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_024">
         <territories>
@@ -342,8 +342,8 @@
                 <node x="-58406" y="181076"/>
             </territory>
         </territories>
-        <npc id="18609" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="18609" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Папион (Дух воды) 36 -->
+        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_025">
         <territories>
@@ -354,8 +354,8 @@
                 <node x="-62210" y="182282"/>
             </territory>
         </territories>
-        <npc id="18610" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="18610" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Хиллас (Дух воды) 36 -->
+        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_026">
         <!-- тунель -->
@@ -367,8 +367,8 @@
                 <node x="-62554" y="179973"/>
             </territory>
         </territories>
-        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Водяной призрак 36 -->
+        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_027">
         <territories>
@@ -379,8 +379,8 @@
                 <node x="-60658" y="180134"/>
             </territory>
         </territories>
-        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Flame of the Branded 35 -->
+        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Водяной призрак 36 -->
+        <npc id="18309" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Заклейменного 35 -->
     </spawn>
     <spawn name="ForgottenTemple_028">
         <territories>
@@ -395,8 +395,8 @@
                 <node x="-59035" y="179478"/>
             </territory>
         </territories>
-        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
-        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Fire Spirit 36 -->
+        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Водяной призрак 36 -->
+        <npc id="18614" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Дух Огня 36 -->
     </spawn>
     <spawn name="ForgottenTemple_028">
         <territories>
@@ -407,7 +407,7 @@
                 <node x="-57172" y="179566"/>
             </territory>
         </territories>
-        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Water Spirit 36 -->
+        <npc id="18612" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Водяной призрак 36 -->
         <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Bloom 36 -->
     </spawn>
     <spawn>

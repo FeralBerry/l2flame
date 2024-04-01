@@ -249,7 +249,7 @@
 		<status undying="false" canBeSown="true" />
 		<skillList>
 			<skill id="4002" level="3" /> <!-- NPC HP Drain -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
@@ -261,8 +261,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<sNpcPropHpRate>4</sNpcPropHpRate>
+		<ai aggroRange="200" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>DEMONIC</clan>
 			</clanList>
@@ -297,7 +297,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20748" level="29" type="Monster" name="Roxide Cohort">
+	<npc id="20748" level="31" type="Monster" name="Roxide Cohort">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -332,7 +332,7 @@
 		<skillList>
 			<skill id="4035" level="2" /> <!-- Poison -->
 			<skill id="4065" level="2" /> <!-- NPC Heal -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
 			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
@@ -344,7 +344,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>DEMONIC</clan>
@@ -493,7 +493,7 @@
 		<status undying="false" canBeSown="true" />
 		<skillList>
 			<skill id="4120" level="2" /> <!-- Stun -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
 			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
@@ -505,8 +505,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<sNpcPropHpRate>4</sNpcPropHpRate>
+		<ai type="ARCHER" aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>DEMONIC</clan>
 			</clanList>
