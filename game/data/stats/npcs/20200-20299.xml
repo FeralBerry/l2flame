@@ -2281,7 +2281,7 @@
 			<height normal="17.8" />
 		</collision>
 	</npc>
-	<npc id="20224" level="22" type="Monster" name="Ol Mahum Ranger">
+	<npc id="20224" level="22" type="Monster" name="Рейнджер Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2311,7 +2311,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
 			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
@@ -2323,6 +2323,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
 			<clanList>
 				<clan>OL_MAHUM</clan>
@@ -2335,7 +2336,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="212" max="381" chance="100" /> <!-- Adena -->
+					<item id="57" min="412" max="681" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.5666">
 					<item id="27" min="1" max="1" chance="3.1003" /> <!-- Hard Leather Shirt -->

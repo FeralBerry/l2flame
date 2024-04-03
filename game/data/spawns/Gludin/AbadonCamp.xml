@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
     <spawn>
-        <npc id="25001" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Кутус Серый Коготь (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Кутус Серый Коготь (23) -->
+        <!-- территория Кутус Серый Коготь 23 -->
+        <territories>
+            <territory name="abandon_camp_001" minZ="-2584" maxZ="-3048">
+                <node x="-42774" y="140575"/>
+                <node x="-43759" y="143543"/>
+                <node x="-44633" y="143665"/>
+                <node x="-44449" y="145443"/>
+                <node x="-45595" y="145715"/>
+                <node x="-45789" y="148091"/>
+                <node x="-47258" y="153575"/>
+                <node x="-49163" y="153097"/>
+                <node x="-51189" y="150644"/>
+                <node x="-50324" y="148308"/>
+                <node x="-48481" y="146515"/>
+                <node x="-46363" y="141151"/>
+                <node x="-44354" y="139736"/>
+                <node x="-43740" y="140435"/>
+            </territory>
+        </territories>
+        <npc id="20142" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Грифон 20 лвл -->
+        <npc id="20437" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Рекрут Гноллов 21 лвл -->
+        <npc id="20053" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Дозорный Гноллов 21 лвл -->
+        <npc id="20058" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Гнолл Страж 22 лвл -->
+        <npc id="20224" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Рейнджер Гноллов 22 лвл -->
+        <npc id="20548" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Дезертир Гноллов 23 лвл -->
+        <npc id="20436" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Снабженец Гноллов 23 лвл -->
+        <npc id="20061" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Гнолл Одиночка 23 лвл -->
+        <npc id="20163" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Гнолл 23 лвл -->
     </spawn>
     <spawn>
-        <npc id="25272" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Partisan Leader Talakin (28)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Partisan Leader Talakin (28) * -->
-    </spawn>
-    <spawn>
-        <npc id="25391" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Nurka's Messenger (33)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Nurka's Messenger (33) * -->
-    </spawn>
-    <spawn>
-        <npc id="25388" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Red Eye Captain Trakia (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Red Eye Captain Trakia (35) * -->
-    </spawn>
-    <spawn>
-        <npc id="20548" x="-50906" y="209854" z="-3600" heading="0" respawnTime="20sec" /><!-- Дезертир Гноллов 23 лвл -->
-        <npc id="20436" x="-51087" y="139191" z="-2917" heading="15479" respawnTime="27sec" /><!-- Снабженец Гноллов 23 лвл -->
-        <npc id="20061" x="-59339" y="136358" z="-2387" heading="59510" respawnTime="27sec" /><!-- Гнолл Одиночка 23 лвл -->
-        <npc id="20163" x="37958" y="148647" z="-3728" heading="0" respawnTime="35sec" /><!-- Гнолл 23 лвл * -->
-        <npc id="20058" x="-59687" y="139298" z="-2455" heading="40736" respawnTime="20sec" /><!-- Гнолл Страж 22 лвл -->
-        <npc id="20224" x="13275" y="132587" z="-2600" heading="56797" respawnTime="24sec" /><!-- Рейнджер Гноллов 22 лвл -->
-        <npc id="20437" x="-49828" y="144344" z="-2640" heading="0" respawnTime="27sec" /><!-- Рекрут Гноллов 21 лвл -->
-        <npc id="20053" x="-49868" y="149683" z="-2743" heading="6444" respawnTime="27sec" /><!-- Дозорный Гноллов 21 лвл -->
-        <npc id="20142" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Грифон 20 лвл * --><!-- нет дропа-->
         <npc id="20439" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Officer 24 лвл * -->
         <npc id="20063" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Shooter 24 лвл * -->
         <npc id="18266" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Treasure Chest 24 -->
@@ -44,5 +53,25 @@
         <npc id="20549" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Lord 34 * -->
         <npc id="21015" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Van Leader 34 * -->
         <npc id="20212" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Bloody Axe Turmak 34 * -->
+    </spawn>
+
+
+    <spawn>
+        <npc id="25001" x="-43175" y="140849" z="-2928" heading="16723" dbSave="true" dbName="Кутус Серый Коготь (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Кутус Серый Коготь (23) Вход абадон камп-->
+    </spawn>
+
+    <!-- x="-54408" y="146517" z="-2872" 1 левый вальер абадон камп-->
+    <!-- x="-55352" y="140552" z="-2504" 1 гора абодомп камп-->
+    <!-- x="-60475" y="137393" z="-2328" дальний край абадон камп-->
+    <!-- x="-49324" y="132624" z="-2616" стоунхендж на горе-->
+    <!-- x="-40608" y="132139" z="-3024" дорога до руин агонии-->
+    <spawn>
+        <npc id="25272" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Partisan Leader Talakin (28)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Partisan Leader Talakin (28) * -->
+    </spawn>
+    <spawn>
+        <npc id="25391" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Nurka's Messenger (33)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Nurka's Messenger (33) * -->
+    </spawn>
+    <spawn>
+        <npc id="25388" x="-54408" y="146517" z="-2872" heading="16723" dbSave="true" dbName="Red Eye Captain Trakia (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Red Eye Captain Trakia (35) * -->
     </spawn>
 </list>

@@ -3249,7 +3249,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20053" level="21" type="Monster" name="Ol Mahum Patrol">
+	<npc id="20053" level="21" type="Monster" name="Дозорный Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3278,7 +3278,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -3289,7 +3289,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -3729,7 +3730,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20058" level="22" type="Monster" name="Ol Mahum Guard">
+	<npc id="20058" level="22" type="Monster" name="Гнолл Страж">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -3758,7 +3759,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
@@ -3769,6 +3770,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<ai clanHelpRange="300" aggroRange="450">
 			<clanList>
 				<clan>OL_MAHUM</clan>
@@ -4048,7 +4050,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="20061" level="23" type="Monster" name="Ol Mahum Straggler">
+	<npc id="20061" level="23" type="Monster" name="Гнолл Одиночка">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -4088,7 +4090,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>

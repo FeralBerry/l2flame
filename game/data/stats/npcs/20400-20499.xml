@@ -1855,7 +1855,7 @@
 			<height normal="14.5" grown="18" />
 		</collision>
 	</npc>
-	<npc id="20436" level="23" type="Monster" name="Ol Mahum Supplier">
+	<npc id="20436" level="23" type="Monster" name="Снабженец Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -1958,7 +1958,7 @@
 			<height normal="29.2" />
 		</collision>
 	</npc>
-	<npc id="20437" level="21" type="Monster" name="Ol Mahum Recruit">
+	<npc id="20437" level="21" type="Monster" name="Рекрут Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />

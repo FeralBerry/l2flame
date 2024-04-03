@@ -2839,7 +2839,7 @@
 			<height normal="29.2" />
 		</collision>
 	</npc>
-	<npc id="20548" level="23" type="Monster" name="Ol Mahum Deserter">
+	<npc id="20548" level="23" type="Monster" name="Дезертир Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
