@@ -924,7 +924,7 @@
 		<race>FAIRY</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- rhand: Trident -->
-		<acquire exp="154101" sp="7928" raidPoints="320" />
+		<acquire exp="254101" sp="7928" raidPoints="320" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="86632.6170728744" hpRegen="46.0963284168942" mp="259.2" mpRegen="1.5" />
 			<attack physical="148.444637760902" magical="18.7186896910546" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
