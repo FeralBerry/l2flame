@@ -252,16 +252,98 @@
         </group>
     </spawn>
     <spawn>
-        <npc id="20439" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Капитан Гноллов24 лвл * -->
-        <npc id="20438" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum General 26 лвл * -->
-        <npc id="20207" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Guerilla 26 лвл * -->
-        <npc id="20755" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Talakin 30 лвл * -->
-        <npc id="20211" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Captain 30 лвл * -->
-        <npc id="21011" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Van Grunt 30 лвл * -->
-        <npc id="21013" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Van Archer 32 * -->
-        <npc id="20549" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Lord 34 * -->
-        <npc id="21015" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Ol Mahum Van Leader 34 * -->
-        <npc id="20212" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Bloody Axe Turmak 34 * -->
+        <!-- территория Кутус Серый Коготь 23 -->
+        <territories>
+            <territory name="abandon_camp_002" minZ="-3152" maxZ="-2880">
+                <node x="-52031" y="136133"/>
+                <node x="-50665" y="135946"/>
+                <node x="-52466" y="133031"/>
+            </territory>
+        </territories>
+        <npc id="20439" count="5" respawnTime="35sec" chaseRange="1500" /><!-- Офицер Гноллов 24 лвл -->
+        <npc id="20438" count="5" respawnTime="35sec" chaseRange="1500" /><!-- Генерал Гноллов 26 лвл -->
+        <npc id="20207" count="5" respawnTime="35sec" chaseRange="1500" /><!-- Партизан Гноллов 26 лвл -->
+    </spawn>
+    <spawn name="abandon_camp_hills">
+        <group>
+            <npc id="20439" x="-51013" y="133894" z="-2648" heading="8006" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-50574" y="134158" z="-2608" heading="2328" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20438" x="-50028" y="134191" z="-2566" heading="61571" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20207" x="-49642" y="134109" z="-2544" heading="64738" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-50243" y="134558" z="-2608" heading="4836" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-49872" y="135010" z="-2549" heading="8704" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-49412" y="135706" z="-2533" heading="11681" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-49038" y="136697" z="-2545" heading="12098" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-48293" y="137626" z="-2516" heading="9271" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-46843" y="138520" z="-2506" heading="2723" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-46095" y="137679" z="-2504" heading="55340" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-46469" y="137145" z="-2476" heading="38642" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-47339" y="136725" z="-2435" heading="36523" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-47673" y="135924" z="-2356" heading="46099" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-47753" y="135037" z="-2276" heading="49139" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-47477" y="134287" z="-2243" heading="57588" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-46607" y="133864" z="-2243" heading="60362" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-46598" y="132994" z="-2243" heading="44343" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-47200" y="131752" z="-2262" heading="44658" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-50871" y="131334" z="-2944" heading="26246" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-51066" y="132005" z="-2937" heading="15066" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-50362" y="132462" z="-2769" heading="7316" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-50206" y="133226" z="-2677" heading="8629" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-48608" y="133906" z="-2409" heading="1880" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-48263" y="132926" z="-2337" heading="50418" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20439" x="-49615" y="134636" z="-2551" heading="10151" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-49117" y="135309" z="-2514" heading="6381" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-48896" y="136109" z="-2507" heading="14458" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-48516" y="136707" z="-2489" heading="9152" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-48219" y="137746" z="-2509" heading="16125" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-47686" y="138465" z="-2513" heading="8817" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-47099" y="138663" z="-2503" heading="64154" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-46811" y="137569" z="-2489" heading="48431" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-46635" y="136540" z="-2437" heading="50892" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-46525" y="135538" z="-2384" heading="50207" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-46474" y="134628" z="-2312" heading="49477" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-46902" y="133543" z="-2260" heading="45001" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-47009" y="132722" z="-2254" heading="46613" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-47524" y="132051" z="-2254" heading="42011" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-47724" y="131290" z="-2277" heading="46769" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-49091" y="131636" z="-2543" heading="15591" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20438" x="-49671" y="132900" z="-2688" heading="22805" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-49171" y="132742" z="-2576" heading="63016" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-49037" y="132371" z="-2545" heading="48820" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-49346" y="132203" z="-2599" heading="35680" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-48815" y="134242" z="-2468" heading="8804" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-48356" y="135031" z="-2376" heading="11157" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-46974" y="136019" z="-2375" heading="6516" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-46087" y="136751" z="-2446" heading="7451" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-46762" y="138109" z="-2512" heading="22924" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-49051" y="136852" z="-2558" heading="40651" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-49766" y="135897" z="-2565" heading="42459" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-47918" y="132909" z="-2299" heading="55848" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-47745" y="132613" z="-2298" heading="53734" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-48153" y="131796" z="-2321" heading="41887" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-48403" y="131299" z="-2365" heading="45654" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-50390" y="131124" z="-2904" heading="29810" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20207" x="-47648" y="130919" z="-2284" heading="44589" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-47816" y="130147" z="-2339" heading="47992" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-48548" y="130073" z="-2443" heading="32747" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-49517" y="130383" z="-2660" heading="28664" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20207" x="-50126" y="130931" z="-2818" heading="25102" respawnTime="60sec" /> <!-- Партизан Гноллов -->
+            <npc id="20439" x="-48139" y="130753" z="-2351" heading="40570" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-48978" y="130016" z="-2498" heading="40707" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20439" x="-49103" y="130737" z="-2534" heading="15886" respawnTime="60sec" /> <!-- Офицер Гноллов -->
+            <npc id="20438" x="-49356" y="130861" z="-2594" heading="33747" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-50846" y="130787" z="-2985" heading="42807" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+            <npc id="20438" x="-49783" y="130007" z="-2662" heading="62238" respawnTime="60sec" /> <!-- Генерал Гноллов -->
+        </group>
+    </spawn>
+    <spawn>
+        <npc id="20755" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Командир Гноллов Латников 30 лвл  -->
+        <npc id="20211" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Вожак Гноллов 30 лвл -->
+        <npc id="21011" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Воитель Авангарда Гноллов 30 лвл -->
+        <npc id="21013" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Стрелец Авангарда Гноллов 32 -->
+        <npc id="20549" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Лорд Гноллов 34 -->
+        <npc id="21015" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Главарь Авангарда Гноллов 34 -->
+        <npc id="20212" x="34595" y="148088" z="-3510" heading="16167" respawnTime="35sec" /><!-- Турмак Кровавый Топор 34 -->
     </spawn>
 
 

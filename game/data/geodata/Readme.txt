@@ -1,27 +1,3 @@
-##############################################
-GEODATA COMPENDIUM
-##############################################
-
-Comprehensive guide for geodata.
-
-How to configure it
-	a - Prerequisites
-	b - Make it work
-
-##############################################
-How to configure it
-##############################################
-
-----------------------------------------------
-a - Prerequisites
-----------------------------------------------
-
-* A 64bits Windows/Java JDK is a must-have to run server with geodata. Linux servers don't have the issue.
-* The server can start (hardly) with -Xmx3000m. -Xmx4g is recommended.
-
-----------------------------------------------
-b - Make it work
-----------------------------------------------
-
-To make geodata work:
-* unpack your geodata files into "/data/geodata" folder (or any other folder)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d31bc95f8bd931a096c8ecd9a38a676f344d834af022c717815ca89eab65fb46
+size 852

@@ -268,12 +268,96 @@
         -->
         <!-- 38 лвл-->
         <!--
+        <npc id="20090" level="38" type="Monster" name="Noble Ant Captain">
+        <npc id="21270" level="38" type="Monster" name="Cave Ant Soldier">
+        <npc id="21272" level="38" type="Monster" name="Cave Ant Soldier">
+        <npc id="20765" level="38" type="Monster" name="Warrior of the Plains">
+        <npc id="20149" level="38" type="Monster" name="Steel Golem">
+        <npc id="20791" level="38" type="Monster" name="Crokian Warrior">
+        <npc id="20552" level="38" type="Monster" name="Fettered Soul">
+        <npc id="20580" level="38" type="Monster" name="Leto Lizardman Warrior">
+        <npc id="20932" level="38" type="Monster" name="Hatu Crimson Bear">
+        <npc id="20989" level="38" type="Monster" name="Lageos">
+        <npc id="20990" level="38" type="Monster" name="Pageos">
+        <npc id="21034" level="38" type="Monster" name="Ogre">
+        <npc id="21145" level="38" type="Monster" name="Catacomb Stakato Soldier">
+        <npc id="22025" level="38" type="Monster" name="Frozen Wasteland Werewolf">
+        <npc id="27459" level="38" type="Monster" name="Regenerated Kanilov">
+        <npc id="27460" level="38" type="Monster" name="Regenerated Poslof">
+        <npc id="27461" level="38" type="Monster" name="Sakum's Summoned Pet">
+        <npc id="29002" level="38" type="Monster" name="Queen Ant Larva">
         -->
         <!-- 39 лвл-->
         <!--
+        <npc id="18607" level="39" type="Monster" name="Gargos" title="Fire Spirit">
+        <npc id="18608" level="39" type="Monster" name="Kinsus" title="Fire Spirit">
+        <npc id="18613" level="39" type="Monster" name="Water Spirit">
+        <npc id="18615" level="39" type="Monster" name="Fire Spirit">
+        <npc id="20553" level="39" type="Monster" name="Windsus">
+        <npc id="20581" level="39" type="Monster" name="Leto Lizardman Shaman">
+        <npc id="21172" level="39" type="Monster" name="Lith Patrolman">
+        <npc id="21273" level="39" type="Monster" name="Cave Noble Ant">
+        <npc id="20764" level="39" type="Monster" name="Shaman of the Plains">
+        <npc id="21193" level="39" type="Monster" name="Gigant Raider">
+        <npc id="20779" level="39" type="Monster" name="Ragna Orc Seer">
+        <npc id="20778" level="39" type="Monster" name="Ragna Orc Overlord">
+        <npc id="20786" level="39" type="Monster" name="Lienrik">
+        <npc id="20792" level="39" type="Monster" name="Farhite">
+        <npc id="21642" level="39" type="Monster" name="Tasaba Lizardman Sniper">
+        <npc id="21643" level="39" type="Monster" name="Tasaba Lizardman Sniper">
+        <npc id="22027" level="39" type="Monster" name="Forgotten Crewman">
+        <npc id="27340" level="39" type="Monster" name="Pursuer">
+        <npc id="29005" level="39" type="Monster" name="Royal Guard Ant">
         -->
         <!-- 40 лвл-->
         <!--
+        <npc id="18322" level="40" type="Monster" name="Caught Sea Giant">
+        <npc id="19086" level="40" type="Monster" name="Daemon Angma">
+        <npc id="19087" level="40" type="Monster" name="Daemon Angma Captain">
+        <npc id="19088" level="40" type="Monster" name="Follower of Shillien">
+        <npc id="19090" level="40" type="Monster" name="Cursed Villager">
+        <npc id="19091" level="40" type="Monster" name="Cursed Villager">
+        <npc id="19092" level="40" type="Monster" name="Totem">
+        <npc id="19238" level="40" type="Monster" name="Daemon Angma" title="Helpful">
+        <npc id="19239" level="40" type="Monster" name="Daemon Angma" title="Aggressive">
+        <npc id="19240" level="40" type="Monster" name="Daemon Angma" title="Distracted">
+        <npc id="19241" level="40" type="Monster" name="Daemon Angma" title="Mastermind">
+        <npc id="19242" level="40" type="Monster" name="Sound Clam">
+        <npc id="19243" level="40" type="Monster" name="Campaign Presentation 1">
+        <npc id="19246" level="40" type="Monster" name="Tanima">
+        <npc id="20135" level="40" type="Monster" name="Alligator">
+        <npc id="20148" level="40" type="Monster" name="Hungry Spirit">
+        <npc id="20167" level="40" type="Monster" name="Serpent Slave">
+        <npc id="20213" level="40" type="Monster" name="Porta">
+        <npc id="20299" level="40" type="Monster" name="Zenta Lizardman">
+        <npc id="20305" level="40" type="Monster" name="Grave">
+        <npc id="20490" level="40" type="Monster" name="Death Doll">
+        <npc id="20554" level="40" type="Monster" name="Grandis">
+        <npc id="20555" level="40" type="Monster" name="Giant Fungus">
+        <npc id="20563" level="40" type="Monster" name="Manashen Gargoyle">
+        <npc id="20583" level="40" type="Monster" name="Timak Orc">
+        <npc id="20600" level="40" type="Monster" name="Karul Bugbear">
+        <npc id="20630" level="40" type="Monster" name="Taik Orc">
+        <npc id="20763" level="40" type="Monster" name="Lord of the Plains">
+        <npc id="20787" level="40" type="Monster" name="Lienrik Lad">
+        <npc id="20793" level="40" type="Monster" name="Nos">
+        <npc id="20933" level="40" type="Monster" name="Hatu Windsus">
+        <npc id="20936" level="40" type="Monster" name="Tanor Silenos">
+        <npc id="21146" level="40" type="Monster" name="Grave Keeper Dark Horror">
+        <npc id="21216" level="40" type="Monster" name="Overlord of the Holy Lands">
+        <npc id="21240" level="40" type="Monster" name="Barrow Overlord">
+        <npc id="21645" level="40" type="Monster" name="Lienrik Lad">
+        <npc id="22026" level="40" type="Monster" name="Bandit Captain">
+        <npc id="22028" level="40" type="Monster" name="Vagabond of the Ruins">
+        <npc id="22029" level="40" type="Monster" name="Ragna Orc">
+        <npc id="22045" level="40" type="Monster" name="Dark Corpse">
+        <npc id="22461" level="40" type="Monster" name="Gluttonous Kanabion">
+        <npc id="22462" level="40" type="Monster" name="Gluttonous Kanabion" title="Doppler">
+        <npc id="24391" level="40" type="Monster" name="Sobbing Windra">
+        <npc id="24392" level="40" type="Monster" name="Whispering Windra">
+        <npc id="24393" level="40" type="Monster" name="Giggling Windra">
+
+
         -->
         <!-- 41 лвл-->
         <!--
@@ -304,6 +388,10 @@
 	    <npc id="25211" level="36" type="RaidBoss" name="Sebek" title="Raid Boss">Алигатор
 
 	    <npc id="25506" level="37" type="RaidBoss" name="Rayito the Looter" title="Raid Boss">
+	    <npc id="25170" level="38" type="RaidBoss" name="Lizardmen Leader Hellion" title="Raid Boss">
+	    <npc id="25394" level="38" type="RaidBoss" name="Premo Prime" title="Raid Boss">
+	    <npc id="25082" level="39" type="RaidBoss" name="Leader of Cat Gang" title="Raid Boss">
+	    <npc id="25504" level="39" type="RaidBoss" name="Nellis' Vengeful Spirit" title="Raid Boss">
         -->
         <!-- 20357 20919 20920 21100 Ящеры -->
 
@@ -311,8 +399,6 @@
         <npc id="21123" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Баал Разрушитель Дре Ванул 25 лвл -->
         <npc id="21122" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Людоед Кхаши 24 лвл -->
 
-        <npc id="20779" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Провидец Орков Рагна 39 лвл -->
-        <npc id="20778" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Владыка Орков Рагна 39 лвл -->
 
 
 

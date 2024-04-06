@@ -2064,7 +2064,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="20438" level="26" type="Monster" name="Ol Mahum General">
+	<npc id="20438" level="26" type="Monster" name="Генерал Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -2095,7 +2095,7 @@
 		<status undying="false" canBeSown="true" />
 		<skillList>
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
 			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
@@ -2106,7 +2106,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -2114,7 +2115,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="196" max="374" chance="100" /> <!-- Adena -->
+					<item id="57" min="396" max="574" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2802">
 					<item id="291" min="1" max="1" chance="2.8677" /> <!-- Trident -->
@@ -2170,7 +2171,7 @@
 			<height normal="27" grown="32" />
 		</collision>
 	</npc>
-	<npc id="20439" level="24" type="Monster" name="Ol Mahum Officer">
+	<npc id="20439" level="24" type="Monster" name="Офицер Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -2201,7 +2202,7 @@
 		<status undying="false" canBeSown="true" />
 		<skillList>
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
 			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
 			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
 			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
@@ -2212,6 +2213,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>OL_MAHUM</clan>
@@ -2220,7 +2222,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="177" max="327" chance="100" /> <!-- Adena -->
+					<item id="57" min="377" max="527" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1077">
 					<item id="25" min="1" max="1" chance="2.9004" /> <!-- Piece Bone Breastplate -->
