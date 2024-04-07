@@ -2,29 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="BeeHive">
 		<group>
-			<npc id="20933" x="27471" y="181457" z="-3272" heading="52705" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="28531" y="184111" z="-3704" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="31421" y="181907" z="-3304" heading="56871" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="27759" y="184160" z="-3656" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="26721" y="184823" z="-3400" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="28431" y="185001" z="-3704" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="32571" y="179613" z="-3368" heading="58773" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="29145" y="185673" z="-3672" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="30830" y="185773" z="-3592" heading="40659" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="32752" y="185996" z="-3320" heading="51000" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="31058" y="183715" z="-3592" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="25216" y="178561" z="-2952" heading="27085" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="29060" y="179207" z="-3608" heading="42576" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="25287" y="180064" z="-2464" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="30733" y="180846" z="-3672" heading="16100" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="29396" y="181035" z="-3624" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="29396" y="181391" z="-3640" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="30755" y="178836" z="-3624" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="31418" y="177894" z="-3672" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="32107" y="178034" z="-3576" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="31851" y="179087" z="-3520" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="28755" y="178488" z="-3624" heading="30912" respawnTime="32sec" /> <!-- Hatu Windsus -->
-			<npc id="20933" x="31404" y="178688" z="-3656" heading="55434" respawnTime="32sec" /> <!-- Hatu Windsus -->
 			<npc id="30616" x="19509" y="192096" z="-3720" heading="20480" respawnTime="60sec" /> <!-- Kepra - Enku Chief -->
 			<npc id="30636" x="23471" y="188092" z="-3608" heading="16384" respawnTime="60sec" /> <!-- Camoniell - Summoner -->
 		</group>

@@ -3,20 +3,6 @@
 	<spawn name="23_24">
 		<group>
 			<npc id="31148" x="106354" y="197181" z="-4200" heading="48000" respawnTime="60sec" /> <!-- Pirate's Treasure Chest -->
-			<npc id="20787" x="125104" y="219365" z="-3144" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="124465" y="219940" z="-3064" heading="40894" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="123315" y="222736" z="-2632" heading="30505" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="123288" y="222764" z="-2632" heading="44551" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="123174" y="221983" z="-2760" heading="44515" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="123226" y="222845" z="-2624" heading="14520" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="124102" y="214111" z="-3432" heading="13913" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="123701" y="214617" z="-3376" heading="24072" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="123514" y="214648" z="-3360" heading="5355" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="125998" y="220025" z="-2944" heading="58823" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="125234" y="219143" z="-3208" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="119843" y="211544" z="-3272" heading="3986" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="121366" y="213702" z="-3640" heading="2301" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20787" x="119614" y="211086" z="-3288" heading="42391" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
 			<npc id="21644" x="126119" y="220034" z="-2944" heading="48364" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik -->
 			<npc id="21644" x="125692" y="219527" z="-3032" heading="63869" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik -->
 			<npc id="21644" x="123823" y="222610" z="-2600" heading="37506" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik -->
@@ -24,33 +10,6 @@
 			<npc id="21644" x="123836" y="213751" z="-3456" heading="35026" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik -->
 			<npc id="21644" x="118272" y="211476" z="-3600" heading="22555" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik -->
 			<npc id="21644" x="120997" y="214146" z="-3560" heading="41873" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik -->
-			<npc id="21645" x="123615" y="222039" z="-2712" heading="36738" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="121131" y="214733" z="-3488" heading="40827" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="125033" y="213764" z="-3584" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="125335" y="220225" z="-2960" heading="27199" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="119452" y="211584" z="-3280" heading="51938" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="119249" y="211953" z="-3296" heading="23332" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="124366" y="223540" z="-2496" heading="31728" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="118673" y="211985" z="-3376" heading="33463" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="21645" x="126014" y="220031" z="-2944" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
-			<npc id="20314" x="106252" y="197068" z="-4200" respawnTime="94sec" chaseRange="1000" /> <!-- Giant White Shark -->
-			<npc id="20314" x="106353" y="197246" z="-4200" respawnTime="94sec" chaseRange="1000" /> <!-- Giant White Shark -->
-			<npc id="20793" x="115183" y="201743" z="-3416" heading="63944" respawnTime="60sec" chaseRange="2500" /> <!-- Nos -->
-			<npc id="20793" x="117888" y="199501" z="-3688" heading="10202" respawnTime="60sec" chaseRange="2500" /> <!-- Nos -->
-			<npc id="20793" x="114027" y="201939" z="-3488" heading="51518" respawnTime="60sec" chaseRange="2500" /> <!-- Nos -->
-			<npc id="20135" x="103807" y="202963" z="-3328" heading="53161" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="104727" y="202480" z="-3512" heading="52013" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="105601" y="201473" z="-3632" heading="30835" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="108828" y="201048" z="-3584" heading="16776" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="109166" y="198516" z="-3608" heading="56934" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="107637" y="199550" z="-3616" heading="26953" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="109921" y="198559" z="-3624" heading="40442" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="111175" y="199083" z="-3640" heading="33578" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="111865" y="200131" z="-3616" heading="10151" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="113173" y="199094" z="-3714" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="112123" y="199269" z="-3688" heading="63755" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="119804" y="201382" z="-3719" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
-			<npc id="20135" x="121076" y="200685" z="-3520" heading="1553" respawnTime="30sec" chaseRange="2500" /> <!-- Alligator -->
 		</group>
 	</spawn>
 </list>

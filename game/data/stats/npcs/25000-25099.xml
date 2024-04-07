@@ -4896,11 +4896,11 @@
 			<height normal="29" />
 		</collision>
 	</npc>
-	<npc id="25095" level="29" type="RaidBoss" name="Elf Renoa" title="Raid Boss">
+	<npc id="25095" level="29" type="RaidBoss" name="Эльф Реноа" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25096" count="3" respawnTime="360" weightPoint="1" /> <!-- Renoa's Elpy -->
-				<npc id="25097" count="1" respawnTime="360" weightPoint="1" /> <!-- Renoa's Hog -->
+				<npc id="25096" count="3" respawnTime="360" weightPoint="1" /> <!-- Эльпи Реноа -->
+				<npc id="25097" count="1" respawnTime="360" weightPoint="1" /> <!-- Вепрь Реноа -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="2" /> <!-- Hold -->
@@ -4962,7 +4962,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="25096" level="28" type="Monster" name="Renoa's Elpy" title="Raid Fighter">
+	<npc id="25096" level="28" type="Monster" name="Эльпи Реноа" title="Raid Fighter">
 		<parameters>
 			<skill name="DDMagic_a" id="4193" level="2" /> <!-- BOSS Life Drain -->
 			<skill name="Debuff_a" id="4199" level="2" /> <!-- Decrease P. Atk. -->
@@ -5003,7 +5003,7 @@
 			<height normal="4.5" />
 		</collision>
 	</npc>
-	<npc id="25097" level="28" type="Monster" name="Renoa's Hog" title="Raid Fighter">
+	<npc id="25097" level="28" type="Monster" name="Вепрь Реноа" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4727" level="2" /> <!-- Stun -->
 		</parameters>
