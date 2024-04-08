@@ -1013,7 +1013,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20316" level="11" type="Monster" name="Blackwing Bat">
+	<npc id="20316" level="11" type="Monster" name="Темнокрылая Летучая Мышь">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1021,7 +1021,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="391" sp="15" />
+		<acquire exp="135" sp="14" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="185.38552" hpRegen="2.5" mp="116.4" mpRegen="1.2" />
 			<attack physical="21.0973" magical="14.40672" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1059,7 +1059,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="109" max="147" chance="100" /> <!-- Adena -->
+					<item id="57" min="90" max="110" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.5454">
 					<item id="23" min="1" max="1" chance="23.7858" /> <!-- Wooden Breastplate -->
@@ -1395,7 +1395,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20320" level="12" type="Monster" name="Goblin Grave Robber Leader">
+	<npc id="20320" level="12" type="Monster" name="Предводитель Гоблинов Грабителей Могил">
 		<parameters>
 			<param name="MoveAroundSocial" value="42" />
 			<param name="MoveAroundSocial1" value="42" />
@@ -1404,7 +1404,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="12" /> <!-- Knife -->
-		<acquire exp="427" sp="16" />
+		<acquire exp="140" sp="14" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="199.62322" hpRegen="2.5" mp="124.48" mpRegen="1.2" />
 			<attack physical="22.99606" magical="15.70333" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -1441,7 +1441,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="112" max="154" chance="100" /> <!-- Adena -->
+					<item id="57" min="98" max="112" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2487">
 					<item id="216" min="1" max="1" chance="11.939" /> <!-- Dirk -->
@@ -2149,7 +2149,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="654" sp="26" />
+		<acquire exp="161" sp="18" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2191,7 +2191,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="127" max="180" chance="100" /> <!-- Adena -->
+					<item id="57" min="127" max="140" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1076">
 					<item id="2371" min="1" max="1" chance="68.0851" /> <!-- Fist of Butcher -->
@@ -2589,7 +2589,7 @@
 			<height normal="20" grown="24" />
 		</collision>
 	</npc>
-	<npc id="20340" level="12" type="Monster" name="Slave Skeleton">
+	<npc id="20340" level="12" type="Monster" name="Скелет Невольник">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -2599,7 +2599,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" /> <!-- rhand: Skeleton Dagger -->
-		<acquire exp="363" sp="13" />
+		<acquire exp="140" sp="15" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="199.62322" hpRegen="2.5" mp="124.48" mpRegen="1.2" />
 			<attack physical="22.99606" magical="15.70333" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -3973,7 +3973,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="20368" level="13" type="Monster" name="Grave Keeper">
+	<npc id="20368" level="13" type="Monster" name="Хранитель Могил">
 		<parameters>
 			<param name="MoveAroundSocial" value="116" />
 			<param name="MoveAroundSocial1" value="116" />
@@ -3982,7 +3982,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="545" sp="21" />
+		<acquire exp="157" sp="21" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4022,7 +4022,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="106" max="150" chance="100" /> <!-- Adena -->
+					<item id="57" min="106" max="130" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0572">
 					<item id="271" min="1" max="1" chance="100" /> <!-- Hunting Bow -->
@@ -4136,7 +4136,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20370" level="12" type="Monster" name="Barbed Bat">
+	<npc id="20370" level="12" type="Monster" name="Шипастая Летучая Мышь">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -4145,7 +4145,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="427" sp="16" />
+		<acquire exp="145" sp="15" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="199.62322" hpRegen="2.5" mp="124.48" mpRegen="1.2" />
 			<attack physical="22.99606" magical="15.70333" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4183,7 +4183,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="112" max="154" chance="100" /> <!-- Adena -->
+					<item id="57" min="96" max="120" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.5657">
 					<item id="23" min="1" max="1" chance="23.7858" /> <!-- Wooden Breastplate -->

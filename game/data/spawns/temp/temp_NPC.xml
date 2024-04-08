@@ -499,8 +499,13 @@
         <npc id="25188" level="30" type="RaidBoss" name="Apepi" title="Raid Boss">Дракончик
         <npc id="25501" level="30" type="RaidBoss" name="Boss Akata" title="Raid Boss">Крысолюд
 
+        <npc id="25401" level="32" type="RaidBoss" name="Skyla" title="Raid Boss">
+
+        <npc id="25404" level="33" type="RaidBoss" name="Corsair Captain Kylon" title="Raid Boss">
+
 	    <npc id="25189" level="34" type="RaidBoss" name="Cronos's Servitor Mumu" title="Raid Boss">кот маг
 
+        <npc id="25185" level="35" type="RaidBoss" name="Tasaba Patriarch Hellena" title="Raid Boss">
 	    <npc id="25398" level="35" type="RaidBoss" name="Eye of Beleth" title="Raid Boss">Глаз
 
 	    <npc id="25211" level="36" type="RaidBoss" name="Sebek" title="Raid Boss">Алигатор
@@ -549,6 +554,8 @@
 
         <npc id="21123" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Баал Разрушитель Дре Ванул 25 лвл -->
         <npc id="21122" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Людоед Кхаши 24 лвл -->
+
+
 
 
 

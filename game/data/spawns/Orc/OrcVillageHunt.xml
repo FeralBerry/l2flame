@@ -265,7 +265,7 @@
 				<node x="-15612" y="-135236"/>
 			</territory>
 		</territories>
-		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Evolved Kiku -->
+		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Усиленный Кику 14 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -277,7 +277,7 @@
 				<node x="-21822" y="-133012"/>
 			</territory>
 		</territories>
-		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Evolved Kiku 14 лвл -->
+		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Усиленный Кику 14 лвл -->
 		<npc id="20368" count="15" respawnTime="16sec" chaseRange="1500" /><!-- Хранитель Могил 13 лвл -->
 	</spawn>
 	<spawn>

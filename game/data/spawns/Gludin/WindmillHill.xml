@@ -1,18 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
-	<spawn name="WindmillHill">
-		<group>
-			<npc id="33085" x="-74716" y="168554" z="-3496" respawnTime="60sec" /> <!-- Teleport Device -->
-			<npc id="33176" x="-74574" y="168646" z="-3496" heading="60460" respawnTime="60sec" /> <!-- Vent - Guard -->
-			<npc id="33421" x="-74627" y="168726" z="-3504" heading="39876" respawnTime="60sec" /> <!-- Commando -->
-			<npc id="33423" x="-74686" y="168695" z="-3496" heading="65444" respawnTime="60sec" /> <!-- Commando -->
-			<npc id="33424" x="-74764" y="168276" z="-3504" respawnTime="60sec" /> <!-- Commando -->
-			<npc id="33508" x="-69501" y="170888" z="-3456" respawnTime="60sec" /> <!-- Schunain - Guard -->
-			<npc id="33422" x="-77644" y="165991" z="-3704" respawnTime="60sec" /> <!-- Commando -->
-			<npc id="33422" x="-76394" y="166579" z="-3448" respawnTime="60sec" /> <!-- Commando -->
-			<npc id="33422" x="-70656" y="172172" z="-3672" respawnTime="60sec" /> <!-- Commando -->
-		</group>
-	</spawn>
 	<spawn>
 		<territories>
 			<territory name="glugin_001" minZ="-3648" maxZ="-2760">
@@ -125,12 +112,5 @@
 	</spawn>
 	<spawn>
 		<npc id="25365" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Патриарх Куроборос (26)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Патриарх Куроборос (26) -->
-	</spawn>
-	<spawn>
-		<!--
-		<npc id="25401" level="32" type="RaidBoss" name="Skyla" title="Raid Boss">
-		<npc id="25404" level="33" type="RaidBoss" name="Corsair Captain Kylon" title="Raid Boss">
-		<npc id="25185" level="35" type="RaidBoss" name="Tasaba Patriarch Hellena" title="Raid Boss">
-		-->
 	</spawn>
 </list>

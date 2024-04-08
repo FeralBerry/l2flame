@@ -324,7 +324,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20015" level="13" type="Monster" name="Marsh Zombie">
+	<npc id="20015" level="13" type="Monster" name="Болотный Зомби">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -333,7 +333,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="654" sp="26" />
+		<acquire exp="156" sp="16" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -372,7 +372,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="127" max="180" chance="100" /> <!-- Adena -->
+					<item id="57" min="104" max="130" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2311">
 					<item id="9" min="1" max="1" chance="9.9075" /> <!-- Cedar Staff -->
@@ -427,7 +427,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="20016" level="13" type="Monster" name="Stone Golem">
+	<npc id="20016" level="13" type="Monster" name="Каменный Голем">
 		<parameters>
 			<param name="MoveAroundSocial" value="116" />
 			<param name="MoveAroundSocial1" value="116" />
@@ -436,7 +436,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="654" sp="26" />
+		<acquire exp="161" sp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -476,7 +476,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="127" max="180" chance="100" /> <!-- Adena -->
+					<item id="57" min="100" max="140" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0687">
 					<item id="271" min="1" max="1" chance="100" /> <!-- Hunting Bow -->

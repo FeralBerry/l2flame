@@ -847,7 +847,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="20510" level="12" type="Monster" name="Puma">
+	<npc id="20510" level="12" type="Monster" name="Пума">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -855,7 +855,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="423" sp="16" />
+		<acquire exp="145" sp="16" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="199.62322" hpRegen="2.5" mp="124.48" mpRegen="1.2" />
 			<attack physical="22.99606" magical="15.70333" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -886,7 +886,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="110" max="152" chance="100" /> <!-- Adena -->
+					<item id="57" min="100" max="120" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.5601">
 					<item id="23" min="1" max="1" chance="23.7858" /> <!-- Wooden Breastplate -->
@@ -1339,7 +1339,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" /> <!-- rhand: Skeleton Dagger -->
-		<acquire exp="363" sp="13" />
+		<acquire exp="170" sp="17" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
 			<attack physical="27.24646" magical="18.6058" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -1377,7 +1377,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="95" max="131" chance="100" /> <!-- Adena -->
+					<item id="57" min="112" max="140" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0791">
 					<item id="2371" min="1" max="1" chance="68.0851" /> <!-- Fist of Butcher -->
@@ -1470,7 +1470,7 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="20518" level="13" type="Monster" name="Skeleton Hunter Archer">
+	<npc id="20518" level="13" type="Monster" name="Скелет Охотник Стрелок">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -1480,7 +1480,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="275" /> <!-- rhand: Long Bow -->
-		<acquire exp="397" sp="16" />
+		<acquire exp="160" sp="16" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -1592,7 +1592,7 @@
 			<height normal="28" grown="33" />
 		</collision>
 	</npc>
-	<npc id="20521" level="14" type="Monster" name="Whinstone Golem">
+	<npc id="20521" level="14" type="Monster" name="Базальтовый Голем">
 		<parameters>
 			<param name="MoveAroundSocial" value="116" />
 			<param name="MoveAroundSocial1" value="116" />
@@ -1601,7 +1601,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="705" sp="27" />
+		<acquire exp="170" sp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
 			<attack physical="27.24646" magical="18.6058" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1641,7 +1641,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="128" max="189" chance="100" /> <!-- Adena -->
+					<item id="57" min="128" max="145" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2394">
 					<item id="9" min="1" max="1" chance="9.9075" /> <!-- Cedar Staff -->
@@ -1984,7 +1984,7 @@
 			<height normal="11" />
 		</collision>
 	</npc>
-	<npc id="20528" level="13" type="Monster" name="Goblin Lord">
+	<npc id="20528" level="13" type="Monster" name="Лорд Гоблинов">
 		<parameters>
 			<param name="MoveAroundSocial" value="42" />
 			<param name="MoveAroundSocial1" value="42" />
@@ -1993,7 +1993,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="217" /> <!-- rhand: Shining Knife -->
-		<acquire exp="458" sp="18" />
+		<acquire exp="155" sp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -2020,7 +2020,7 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<group chance="70">
@@ -2459,7 +2459,7 @@
 		</collision>
 	</npc>
 	<!-- отсутствует 20539 -->
-	<npc id="20540" level="12" type="Monster" name="Gemstone Beast">
+	<npc id="20540" level="12" type="Monster" name="Самоцветный Зверь">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -2467,7 +2467,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="352" sp="13" />
+		<acquire exp="155" sp="16" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="199.62322" hpRegen="2.5" mp="124.48" mpRegen="1.2" />
 			<attack physical="22.99606" magical="15.70333" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2498,7 +2498,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="92" max="127" chance="100" /> <!-- Adena -->
+					<item id="57" min="98" max="127" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.4668">
 					<item id="23" min="1" max="1" chance="23.7858" /> <!-- Wooden Breastplate -->

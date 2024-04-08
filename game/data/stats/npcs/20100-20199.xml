@@ -1948,7 +1948,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20143" level="12" type="Monster" name="Grizzly Bear">
+	<npc id="20143" level="12" type="Monster" name="Гризли">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -1956,7 +1956,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="436" sp="16" />
+		<acquire exp="150" sp="15" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="199.62322" hpRegen="2.5" mp="124.48" mpRegen="1.2" />
 			<attack physical="22.99606" magical="15.70333" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1993,7 +1993,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="114" max="157" chance="100" /> <!-- Adena -->
+					<item id="57" min="96" max="130" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.0005">
 					<item id="20" min="1" max="1" chance="58.8462" /> <!-- Buckler -->
@@ -2703,7 +2703,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="20153" level="11" type="Monster" name="Magical Weaver">
+	<npc id="20153" level="11" type="Monster" name="Магический Ткач">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2712,7 +2712,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="391" sp="15" />
+		<acquire exp="132" sp="14" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="185.38552" hpRegen="2.5" mp="116.4" mpRegen="1.2" />
 			<attack physical="21.0973" magical="14.40672" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2751,7 +2751,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="109" max="147" chance="100" /> <!-- Adena -->
+					<item id="57" min="88" max="110" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.2328">
 					<item id="429" min="1" max="1" chance="4.3575" /> <!-- Leather Tunic -->
