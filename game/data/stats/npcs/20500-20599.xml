@@ -2174,7 +2174,7 @@
 		</collision>
 	</npc>
 
-	<npc id="20531" level="1" type="Monster" name="Young Prairie Keltir">
+	<npc id="20531" level="1" type="Monster" name="Молодой Степной Шакал">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2182,7 +2182,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="35" sp="2" />
+		<acquire exp="15" sp="2" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="39.74519" hpRegen="2" mp="40.0" mpRegen="0.9" />
 			<attack physical="8.47458" magical="5.78704" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2267,7 +2267,10 @@
 			<height normal="10" />
 		</collision>
 	</npc>
-	<npc id="20535" level="2" type="Monster" name="Prairie Keltir">
+	<!-- отсутствует 20532 -->
+	<!-- отсутствует 20533 -->
+	<!-- отсутствует 20534 -->
+	<npc id="20535" level="2" type="Monster" name="Степной шакал">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2275,7 +2278,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="70" sp="2" />
+		<acquire exp="20" sp="3" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="48.09168" hpRegen="2" mp="47.28" mpRegen="0.9" />
 			<attack physical="9.32203" magical="6.36574" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2361,7 +2364,9 @@
 			<height normal="10" />
 		</collision>
 	</npc>
-	<npc id="20538" level="3" type="Monster" name="Elder Prairie Keltir">
+	<!-- отсутствует 20536 -->
+	<!-- отсутствует 20537 -->
+	<npc id="20538" level="3" type="Monster" name="Матерый степной шакал">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2369,7 +2374,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="105" sp="2" />
+		<acquire exp="35" sp="4" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="57.54874" hpRegen="2" mp="54.64" mpRegen="0.9" />
 			<attack physical="10.24492" magical="6.99595" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2453,6 +2458,7 @@
 			<height normal="10" />
 		</collision>
 	</npc>
+	<!-- отсутствует 20539 -->
 	<npc id="20540" level="12" type="Monster" name="Gemstone Beast">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />

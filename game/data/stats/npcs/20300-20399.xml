@@ -644,7 +644,7 @@
 			<height normal="50" />
 		</collision>
 	</npc>
-	<npc id="20311" level="6" type="Monster" name="Rakeclaw Imp">
+	<npc id="20311" level="6" type="Monster" name="Когтистый Бес">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -652,7 +652,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="213" sp="6" />
+		<acquire exp="62" sp="7" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="93.54158" hpRegen="2" mp="77.2" mpRegen="0.9" />
 			<attack physical="13.52471" magical="9.23562" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -689,20 +689,59 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="4" max="9" chance="70" /> <!-- Adena -->
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="70">
+					<item id="57" min="41" max="58" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.9543">
+					<item id="1122" min="1" max="1" chance="33.3333" /> <!-- Cotton Shoes -->
+					<item id="1129" min="1" max="1" chance="33.3333" /> <!-- Crude Leather Shoes -->
+					<item id="1119" min="1" max="1" chance="33.3334" /> <!-- Short Leather Gloves -->
+				</group>
+				<group chance="5.103">
+					<item id="1864" min="1" max="1" chance="60" /> <!-- Stem -->
+					<item id="1869" min="1" max="1" chance="30" /> <!-- Iron Ore -->
+					<item id="1666" min="1" max="1" chance="10" /> <!-- Recipe: Wooden Arrow -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="50" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="43" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="7" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1666" min="1" max="1" chance="2.5914" /> <!-- Recipe: Wooden Arrow -->
+				<item id="1060" min="1" max="1" chance="17.2757" /> <!-- Lesser Healing Potion -->
+				<item id="2005" min="1" max="1" chance="0.5553" /> <!-- Broadsword Blade -->
+			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20312" level="7" type="Monster" name="Rakeclaw Imp Hunter">
+	<npc id="20312" level="7" type="Monster" name="Охотник Когтистых Бесов">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -710,7 +749,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="249" sp="8" />
+		<acquire exp="90" sp="8" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="108.42254" hpRegen="2" mp="84.88" mpRegen="0.9" />
 			<attack physical="14.80956" magical="10.11301" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -748,7 +787,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="51" max="72" chance="100" /> <!-- Adena -->
+					<item id="57" min="40" max="55" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.9946">
 					<item id="19" min="1" max="1" chance="58.8235" /> <!-- Small Shield -->
@@ -799,7 +838,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20313" level="10" type="Monster" name="Rakeclaw Imp Leader">
+	<npc id="20313" level="10" type="Monster" name="Матерый Когтистый Бес">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -807,7 +846,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="363" sp="12" />
+		<acquire exp="120" sp="12" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
 			<attack physical="19.33758" magical="13.20506" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -845,7 +884,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="98" max="132" chance="100" /> <!-- Adena -->
+					<item id="57" min="80" max="100" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.4936">
 					<item id="428" min="1" max="1" chance="19.2434" /> <!-- Feriotic Tunic -->
@@ -1256,7 +1295,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20319" level="5" type="Monster" name="Goblin Grave Robber">
+	<npc id="20319" level="5" type="Monster" name="Гоблин Грабитель Могил">
 		<parameters>
 			<param name="MoveAroundSocial" value="42" />
 			<param name="MoveAroundSocial1" value="42" />
@@ -1265,7 +1304,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="4" /> <!-- Club -->
-		<acquire exp="178" sp="5" />
+		<acquire exp="65" sp="6" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="80.17319" hpRegen="2" mp="69.6" mpRegen="0.9" />
 			<attack physical="12.34006" magical="8.42666" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1302,7 +1341,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="30" max="42" chance="100" /> <!-- Adena -->
+					<item id="57" min="28" max="33" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="33.529">
 					<item id="112" min="1" max="1" chance="30.627" /> <!-- Apprentice's Earring -->
@@ -3572,7 +3611,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20363" level="9" type="Monster" name="Maraku Werewolf">
+	<npc id="20363" level="9" type="Monster" name="Оборотень Мараку">
 		<parameters>
 			<param name="MoveAroundSocial" value="72" />
 			<param name="MoveAroundSocial1" value="72" />
@@ -3580,7 +3619,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="321" sp="11" />
+		<acquire exp="108" sp="11" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="143.17564" hpRegen="2" mp="100.48" mpRegen="0.9" />
 			<attack physical="17.70841" magical="12.09255" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3617,7 +3656,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="80" max="108" chance="100" /> <!-- Adena -->
+					<item id="57" min="72" max="90" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1832">
 					<item id="254" min="1" max="1" chance="100" /> <!-- Iron Gloves -->
@@ -3763,7 +3802,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20365" level="8" type="Monster" name="Mountain Fungus">
+	<npc id="20365" level="8" type="Monster" name="Горный Гриб">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -3771,7 +3810,7 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>MALE</sex>
-		<acquire exp="284" sp="10" />
+		<acquire exp="100" sp="10" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="124.92828" hpRegen="2" mp="92.64" mpRegen="0.9" />
 			<attack physical="16.20165" magical="11.06363" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

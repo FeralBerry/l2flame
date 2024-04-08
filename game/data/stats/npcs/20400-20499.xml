@@ -1284,7 +1284,7 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="20426" level="10" type="Monster" name="Evil Eye">
+	<npc id="20426" level="10" type="Monster" name="Око Зла">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1294,7 +1294,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="356" sp="12" />
+		<acquire exp="112" sp="12" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
 			<attack physical="19.33758" magical="13.20506" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1332,7 +1332,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="96" max="130" chance="100" /> <!-- Adena -->
+					<item id="57" min="80" max="110" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="3.6525">
 					<item id="113" min="1" max="1" chance="31.0253" /> <!-- Mystic's Earring -->
@@ -1388,7 +1388,7 @@
 			<height normal="43" />
 		</collision>
 	</npc>
-	<npc id="20427" level="10" type="Monster" name="Evil Eye Watcher">
+	<npc id="20427" level="10" type="Monster" name="Наблюдатель Око Зла">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1398,7 +1398,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="296" sp="10" />
+		<acquire exp="125" sp="12" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
 			<attack physical="19.33758" magical="13.20506" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4256,7 +4256,7 @@
 			<height normal="25.5" />
 		</collision>
 	</npc>
-	<npc id="20475" level="4" type="Monster" name="Kasha Wolf">
+	<npc id="20475" level="4" type="Monster" name="Волк Кхаши">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -4264,7 +4264,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="141" sp="4" />
+		<acquire exp="50" sp="5" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="68.20985" hpRegen="2" mp="62.08" mpRegen="0.9" />
 			<attack physical="11.24892" magical="7.68155" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4449,7 +4449,7 @@
 			<height normal="25.5" />
 		</collision>
 	</npc>
-	<npc id="20477" level="6" type="Monster" name="Kasha Timber Wolf">
+	<npc id="20477" level="6" type="Monster" name="Лесной Волк Кхаши">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -4457,7 +4457,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="211" sp="6" />
+		<acquire exp="80" sp="7" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="93.54158" hpRegen="2" mp="77.2" mpRegen="0.9" />
 			<attack physical="13.52471" magical="9.23562" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4488,7 +4488,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="41" max="58" chance="100" /> <!-- Adena -->
+					<item id="57" min="32" max="40" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0947">
 					<item id="12" min="1" max="1" chance="50" /> <!-- Knife -->

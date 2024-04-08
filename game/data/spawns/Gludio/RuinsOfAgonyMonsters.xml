@@ -2,21 +2,27 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="roa_001">
 		<territories>
-			<territory name="roa_001" shape="Cylinder" minZ="-3800" maxZ="-3200" rad="200">
-				<node x="33285" y="160688" />
+			<territory name="roa_001" shape="Cylinder" minZ="-3560" maxZ="-3544" rad="300">
+				<node x="-43058" y="118614" />
 			</territory>
 		</territories>
+		<npc id="24382" count="4" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
+		<npc id="24383" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
 	</spawn>
 	<!--
+	<npc id="20051" level="20" type="Monster" name="Skeleton Bowman">
+	<npc id="20543" level="20" type="Monster" name="Ghost">
 	<npc id="24384" count="6" respawnTime="3sec" chaseRange="550" /> Krakos Bat 20 переделать
 	<npc id="24385" count="10" respawnTime="3sec" chaseRange="550" /> Vampire 20 переделать
-	<npc id="24386" count="2" respawnTime="3sec" chaseRange="550" /> Skeleton Scout 27 переделать
-	<npc id="24387" count="2" respawnTime="3sec" chaseRange="550" />  Skeleton Archer 27 переделать
-	<npc id="24388" count="4" respawnTime="3sec" chaseRange="550" />  Skeleton Warrior 27 переделать
+	<npc id="20054" level="21" type="Monster" name="Ruin Spartoi">
+	<npc id="20329" level="21" type="Monster" name="Ghost Guardian">
+	<npc id="20060" level="22" type="Monster" name="Raging Spartoi">
+	<npc id="20458" level="22" type="Monster" name="Zombie Warrior">
 	<npc id="24389" count="2" respawnTime="3sec" chaseRange="550" /> Spartoi Soldier 33 переделать
 	<npc id="24390" count="2" respawnTime="3sec" chaseRange="550" /> Raging Spartoi 33 переделать
 	<npc id="20140" level="24" type="Monster" name="Giant Leech">
 	<npc id="21167" level="24" type="Monster" name="Lith Witch">
+	<npc id="21133" level="25" type="Monster" name="Dead Pit Skeleton Archer">
 	<npc id="20225" level="25" type="Monster" name="Giant Mist Leech">
 	<npc id="21234" level="25" type="Monster" name="Grave Guardian">
 	<npc id="21134" level="26" type="Monster" name="Dead Pit Spartoi">*?

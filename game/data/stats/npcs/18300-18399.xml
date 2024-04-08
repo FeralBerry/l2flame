@@ -2132,7 +2132,7 @@
 			<height normal="25.8" />
 		</collision>
 	</npc>
-	<npc id="18342" level="1" type="Monster" name="Gremlin">
+	<npc id="18342" level="1" type="Monster" name="Гремлин">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2140,7 +2140,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="29" sp="2" />
+		<acquire exp="10" sp="1" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="39.74519" hpRegen="2" mp="40" mpRegen="0.9" />
 			<attack physical="8.47458" magical="5.78704" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
