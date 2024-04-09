@@ -1,4 +1,11 @@
+npc_begin	id=18299	name=[Пламя Заклейменного]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18342	name=[Гремлин]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=18609	name=[Папион]	nick=[Дух Воды]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=18610	name=[Хиллас]	nick=[Дух Воды]	nickcolor=191970FF	npc_end
+npc_begin	id=18611	name=[Дух Воды]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=18612	name=[Водяной призрак]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=18614	name=[Дух Огня]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=18616	name=[Фирак]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20008	name=[Ящер Фелим]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20010	name=[Ящер Фелим Скаут]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20014	name=[Ящер Фелим Воин]	nick=[]	nickcolor=53868BFF	npc_end
@@ -29,8 +36,11 @@ npc_begin	id=20114	name=[Элитная Саламандра]	nick=[]	nickcolor=
 npc_begin	id=20117	name=[Дре Ванул]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20143	name=[Гризли]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20147	name=[Хобгоблин]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20152	name=[Ящер]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20153	name=[Магический Ткач]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20154	name=[Росток Мандрагоры]	nick=[]	nickcolor=53868BFF	npc_end
+npc_begin	id=20158	name=[Медуза]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20173	name=[Тролль]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20291	name=[Герой Орков Энку]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20292	name=[Шаман Орков Энку]	nick=[]	nickcolor=53868BFF	npc_end
 npc_begin	id=20293	name=[Ящер Вируд]	nick=[]	nickcolor=191970FF	npc_end
@@ -125,6 +135,7 @@ npc_begin	id=20602	name=[Стрелок Орков Тамлин]	nick=[]	nickcol
 npc_begin	id=20603	name=[Паук Кронбе]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20604	name=[Лакин]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20605	name=[Астральный Дрейк]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=20608	name=[Костяной Стрелок]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20647	name=[Око Хаоса]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20648	name=[Палиот]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20649	name=[Паук Зомби]	nick=[]	nickcolor=54FF9FFF	npc_end
@@ -137,6 +148,9 @@ npc_begin	id=20683	name=[Разведчик Фавнов Ванор]	nick=[]	nic
 npc_begin	id=20684	name=[Воин Фавнов Ванор]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20685	name=[Шаман Фавнов Ванор]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20686	name=[Вождь Фавнов Ванор]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=20747	name=[Демонесса]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=20748	name=[Свита Демонессы]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=20750	name=[Огненный Стрелок]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=20751	name=[Пума из Магмы]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20752	name=[Миньон Пумы из Магмы]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=20753	name=[Монарх Тьмы]	nick=[]	nickcolor=54FF9FFF	npc_end
@@ -290,14 +304,22 @@ npc_begin	id=21127	name=[Северный Гоблин]	nick=[]	nickcolor=54FF9F
 npc_begin	id=21128	name=[Голем Крушитель]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21129	name=[Вождь Оборотней Кероп]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21130	name=[Главарь Северных Гоблинов]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=21131	name=[Зачарованный Колючий Голем]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=21135	name=[Воин Подземных Кобольдов]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=21141	name=[Змей Катакомб]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=21143	name=[Летучий Падальщик Катакомб]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=21189	name=[Офицер смотритель]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=21190	name=[Пехотинец Гигант]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=21191	name=[Клерик Гигант]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=21211	name=[Смотритель Подземелья]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=21212	name=[Посвященный Сторож]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21216	name=[Владыка Святых Земель]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21220	name=[Архонт Мавзолея]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21232	name=[Защитник Кургана]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21233	name=[Смотритель Кургана]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21234	name=[Защитник Могил]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=21235	name=[Смотритель Могил]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=21235	name=[Смотритель Могил]	nick=[]	nickcolor=191970FF	npc_end
+npc_begin	id=21236	name=[Часовой Катакомб]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=21241	name=[Жрец Кургана]	nick=[]	nickcolor=191970FF	npc_end
 npc_begin	id=21257	name=[Блюститель Око Зла]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21258	name=[Шаман Падших Орков]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=21259	name=[Шаман Падших Орков]	nick=[]	nickcolor=54FF9FFF	npc_end
@@ -2561,6 +2583,228 @@ npc_begin	id=24966	name=[Фила Африас]	nick=[]	nickcolor=54FF9FFF	npc_e
 npc_begin	id=24967	name=[Цветущий Чертополох]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=24968	name=[Муравей-цветок]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=24969	name=[Бабочка Арсос]	nick=[]	nickcolor=54FF9FFF	npc_end
+npc_begin	id=25001	name=[Кутус Серый Коготь]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25002	name=[Страж Кутуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25003	name=[Пешка Кутуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25004	name=[Капитан Наемников Турек]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25005	name=[Стрелок Наемников Турек]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25006	name=[Воин Наемников Турек]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25007	name=[Паук Клету]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25008	name=[Прислужник Клету]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25009	name=[Пешка Клету]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25010	name=[Яростный Тилес]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25011	name=[Страж Тилеса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25012	name=[Последователь Тилеса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25013	name=[Призрак Главаря Крестьян]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25014	name=[Призрак Крестьянина]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25015	name=[Призрак Крестьянина]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25016	name=[Третий Подводный Стражник]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25017	name=[Эскорт Третьего Стражника]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25018	name=[Поддержка Третьего Стражника]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25019	name=[Пан Дриад]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25020	name=[Колдун Брека Пасту]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25021	name=[Силуэт Пасту]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25022	name=[Тень Пасту]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25023	name=[Королева Стакато Зирна]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25024	name=[Начальник Стражи Зирны]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25025	name=[Страж Зирны]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25026	name=[Кату Главарь Авангарда Атуи]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25027	name=[Зверолов Авангарда Кату]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25028	name=[Налетчик Авангарда Кату ]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25029	name=[Атрайбан]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25030	name=[Лучший Ученик Атрайбана]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25031	name=[Ученик Атрайбана]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25032	name=[Стражник Евы Миллену]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25033	name=[Шаман Стражи Миллену]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25034	name=[Воин Стражи Миллену]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25035	name=[Посланец Шилен Кабрио]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25036	name=[Захватчик Кабрио]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25037	name=[Кукла Кабрио]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25038	name=[Тирак]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25039	name=[Страж Тирака]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25040	name=[Рыцарь Тирака]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25041	name=[Реммель]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25042	name=[Стрелок Реммеля]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25043	name=[Страж Реммеля]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25044	name=[Барион]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25045	name=[Темный Маг Бариона]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25046	name=[Воин Бариона]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25047	name=[Карте]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25048	name=[Глава Рыцарей Карте]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25049	name=[Королевский Страж Карте]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25050	name=[Верфа]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25051	name=[Рахха]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25052	name=[Жрица Раххи]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25053	name=[Фанатик Раххи]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25054	name=[Кернон ]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25055	name=[Талиадон]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25056	name=[Вемск]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25057	name=[Птицезмей]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25058	name=[Лучник Птицезмея]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25059	name=[Воин Птицезмея]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25060	name=[Отверженная Каэль]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25061	name=[Сфера Каэль]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25062	name=[Эскорт Каэль]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25063	name=[Чертуба Великий Дух]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25064	name=[Чародей Бури Терук]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25065	name=[Эскорт Терука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25066	name=[Рыцарь Терука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25067	name=[Капитан Красного Флага Шака]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25068	name=[Снайпер Шаки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25069	name=[Последователь Шаки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25070	name=[Смотритель Зачарованного Леса Руэль]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25071	name=[Ветер Руэля]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25072	name=[Единорог Руэля]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25073	name=[Кровавый Жрец Рудельто]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25074	name=[Баньши Рудельто]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25075	name=[Дре Ванул Рудельто]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25076	name=[Принцесса Молранг]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25077	name=[Капитан Доган]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25078	name=[Страж Принцессы]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25079	name=[Бандит Кошачий Глаз]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25080	name=[Наемник]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25081	name=[Бандит Кошачий Глаз]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25082	name=[Лидер Кошачьей Банды]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25083	name=[Кот Бандит]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25084	name=[Кот Бандит]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25085	name=[Глава Рейнджеров Орков Тимак]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25086	name=[Рейнджер Орков Тимак]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25087	name=[Рейнджер Орков Тимак]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25088	name=[Сумасшедший Механический Голем]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25089	name=[Бездушный Дикий Кабан]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25090	name=[Бездушный Волк]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25091	name=[Бездушный Медведь]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25092	name=[Корим]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25093	name=[Начальник Стражи Кайвон]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25094	name=[Стража Корима]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25095	name=[Эльф Реноа]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25096	name=[Эльпи Реноа]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25097	name=[Вепрь Реноа]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25098	name=[Слуга Седжара]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25099	name=[Трухлявое Дерево Репиро]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25100	name=[Дух Моря Спор]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25101	name=[Боец Моря Спор]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25102	name=[Шакрам]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25103	name=[Волшебник Исирр]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25104	name=[Страж Исирра]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25105	name=[Стража Исирра]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25106	name=[Лидия Призрак Родника]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25107	name=[Лучник Лидии]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25108	name=[Воин Лидии]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25109	name=[Жрица Антараса Кло]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25110	name=[Слуга Кло]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25111	name=[Слуга Кло]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25112	name=[Агент Белефа Мина]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25113	name=[Дева Мины]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25114	name=[Кукла Страж Мины]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25115	name=[Тварь Икара I]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25116	name=[Тварь Икара II]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25117	name=[Тварь Икара III]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25118	name=[Смотритель Земли Казненных Гильотин]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25119	name=[Посланник Королевы Фей Берун]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25120	name=[Офицер Беруна]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25121	name=[Болтун Беруна]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25122	name=[Отчаявшийся Беженец Лео]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25123	name=[Слуга Лео]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25124	name=[Лакей Лео]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25125	name=[Свирепый Король Тигров]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25126	name=[Длиннорогий Голконда]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25128	name=[Великий Пророк Вуку Гармаш]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25127	name=[Матриарх Лангк Рашкос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25129	name=[Шаман Вуку]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25130	name=[Тримден Питомец Гармаша]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25131	name=[Кровавый Повелитель Гато]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25132	name=[Зверолов Гато]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25133	name=[Главарь Воинов Гато]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25134	name=[Глава Лито Талкин]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25135	name=[Пророк Талкина]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25136	name=[Телохранитель Талкина]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25137	name=[Пророк Белефа Сефия]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25138	name=[Поглотитель Душ]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25139	name=[Демон Сефии]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25140	name=[Хекатон Прайм]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25141	name=[Хекатон Коттус]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25142	name=[Хекатон Чирес]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25143	name=[Шуриэль Пламя Гнева]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25144	name=[Оракул Шуриэля]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25145	name=[Паладин Шуриэля]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25146	name=[Змеедемон Бифронс]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25147	name=[Ассасин Бифронса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25148	name=[Мясник Бифронса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25149	name=[Повелитель Зомби Кроул]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25150	name=[Злой Дух Стрелок]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25151	name=[Злой Дух Воин]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25152	name=[Повелитель Пламени Шадар]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25153	name=[Бес Шадара]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25154	name=[Суккуб Шадара]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25155	name=[Король Шаманов Селу]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25156	name=[Фанатик Шаман]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25157	name=[Фанатик Солдат]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25158	name=[Король Тарлк]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25159	name=[Единорог Паниэль]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25160	name=[Единорог Рапини]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25161	name=[Единорог Ририф]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25162	name=[Гигант Марпанак]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25163	name=[Ревущий Налетчик]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25166	name=[Икунтай]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25167	name=[Слуга Икунтая]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25168	name=[Миньон Икунтая]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25169	name=[Раграмэн]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25170	name=[Глава Ящеров Хеллион]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25171	name=[Стрелок Хеллиона]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25172	name=[Стража Хеллиона]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25173	name=[Король Тигров Карута]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25174	name=[Последователь Каруты]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25175	name=[Подчиненный Каруты]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25176	name=[Черная Лилия]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25177	name=[Рыцарь Стражник Черной Лилии]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25178	name=[Слуга Черной Лилии]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25179	name=[Стражник Статуи Гиганта Карума]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25180	name=[Страж Карума]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25181	name=[Воин Карума]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25182	name=[Демон Курикупс]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25183	name=[Жена Курикупса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25184	name=[Дьявольский Клинок Хаоса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25185	name=[Хелена Патриарх Тасаба]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25186	name=[Зверолов Хелены]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25187	name=[Солдат Хелены]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25188	name=[Апепи]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25189	name=[Слуга Кроноса Маму]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25190	name=[Чародей Маму]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25191	name=[Воин Маму]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25192	name=[Панатен Защитник Земли]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25193	name=[Рыцарь Панатена]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25194	name=[Защитник Панатена]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25198	name=[Герольд Фафуриона Локнес]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25199	name=[Пророк Фафуриона Шешарк]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25200	name=[Родич Шешарка]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25357	name=[Вожак Трусливых Крысолюдов]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25358	name=[Страж Трусливых Крысолюдов]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25359	name=[Жрец Трусливых Крысолюдов]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25362	name=[Главарь Охотников Шарук]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25363	name=[Следопыт Шарука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25364	name=[Зверолов Шарука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25365	name=[Патриарх Куроборос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25366	name=[Жрец Куроборос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25367	name=[Последователь Жреца Куробороса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25368	name=[Воспитаник Жреца Куробороса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25372	name=[Отверженный Стражник]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25373	name=[Герольд Дагониэля Малекс]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25374	name=[Летун Бездны]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25375	name=[Повелитель Зомби Фаракелсус]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25376	name=[Зомби Воин Фаракелсуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25377	name=[Зомби Жрец Фаракелсуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25378	name=[Зверь Безумия]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25379	name=[Зверь Слабоумия]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25380	name=[Герольд Икара Кайша]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25381	name=[Летящий Кошмар]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25382	name=[Летящий Враг]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25426	name=[Предатель Уруту Фреки]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25427	name=[Кровопийца Фреки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25428	name=[Дикий Медведь Фреки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25528	name=[Тиберий]	nick=[Главный Инспектор]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25529	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
+npc_begin	id=25530	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=27701	name=[Дэрил]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=27702	name=[Атрон]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=27703	name=[Сео]	nick=[]	nickcolor=54FF9FFF	npc_end
@@ -2688,40 +2932,6 @@ npc_begin	id=27828	name=[Стражник Катши]	nick=[Хранитель �
 npc_begin	id=27829	name=[Диверсант Катши]	nick=[Хранитель Игнис]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=27830	name=[Муза Катши]	nick=[Хранитель Игнис]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=27831	name=[Стражник Катши]	nick=[Хранитель Игнис]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=25001	name=[Кутус Серый Коготь]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25002	name=[Охранник Кутуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25003	name=[Прихвостень Кутуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25060	name=[Отверженная Каэль]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25061	name=[Сфера Каэль]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25062	name=[Эскорт Каэль]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25127	name=[Матриарх Лангк Рашкос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25357	name=[Вожак Трусливых Крысолюдов]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25358	name=[Страж Трусливых Крысолюдов]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25359	name=[Жрец Трусливых Крысолюдов]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25362	name=[Главарь Охотников Шарук]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25363	name=[Следопыт Шарука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25364	name=[Зверолов Шарука]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25365	name=[Патриарх Куроборос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25366	name=[Жрец Куроборос]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25367	name=[Последователь Жреца Куробороса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25368	name=[Воспитаник Жреца Куробороса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25372	name=[Отверженный Стражник]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25373	name=[Герольд Дагониэля Малекс]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25374	name=[Летун Бездны]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25375	name=[Повелитель Зомби Фаракелсус]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25376	name=[Зомби Воин Фаракелсуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25377	name=[Зомби Жрец Фаракелсуса]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25378	name=[Зверь Безумия]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25379	name=[Зверь Слабоумия]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25380	name=[Герольд Икара Кайша]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25381	name=[Летящий Кошмар]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25382	name=[Летящий Враг]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25426	name=[Предатель Уруту Фреки]	nick=[Рейдовый Босс]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25427	name=[Кровопийца Фреки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25428	name=[Дикий Медведь Фреки]	nick=[Рейдовый Боец]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25528	name=[Тиберий]	nick=[Главный Инспектор]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25529	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
-npc_begin	id=25530	name=[Страж Сада]	nick=[Вице Инспектор]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25339	name=[Тень Халиши]	nick=[Загробный Правитель]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25340	name=[Рыцарь Тени]	nick=[]	nickcolor=3F8BFEFF	npc_end
 npc_begin	id=25341	name=[Рыцарь Тени]	nick=[]	nickcolor=3F8BFEFF	npc_end
@@ -4137,7 +4347,6 @@ npc_begin	id=18295	name=[Сундук Захватчиков Темного Зн
 npc_begin	id=18296	name=[Сундук Захватчиков Темного Знамения]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18297	name=[Сундук Вестников Захватчиков]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18298	name=[Сундук Вестников Захватчиков]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18299	name=[Пламя Заклейменного]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18300	name=[Призванный Дух Жертва Заклейменного]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18301	name=[Пламя Отступника]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18302	name=[Призванный Дух Жертва Отступника]	nick=[]	nickcolor=54FF9FFF	npc_end
@@ -4437,14 +4646,8 @@ npc_begin	id=18605	name=[]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18606	name=[]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18607	name=[Гаргос]	nick=[Дух Огня]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18608	name=[Кинсус]	nick=[Дух Огня]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18609	name=[Папион]	nick=[Дух Воды]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18610	name=[Хиллас]	nick=[Дух Воды]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18611	name=[Дух Воды]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18612	name=[Дух Воды]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18613	name=[Дух Воды]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18614	name=[Дух Огня]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18615	name=[Дух Огня]	nick=[]	nickcolor=54FF9FFF	npc_end
-npc_begin	id=18616	name=[Фирак]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18617	name=[]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18618	name=[]	nick=[]	nickcolor=54FF9FFF	npc_end
 npc_begin	id=18619	name=[]	nick=[]	nickcolor=54FF9FFF	npc_end

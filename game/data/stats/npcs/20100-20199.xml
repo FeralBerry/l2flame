@@ -2640,7 +2640,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
+		<ai clanHelpRange="300" aggroRange="250" isAggressive="true">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>
@@ -3214,7 +3214,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>FEMALE</sex>
-		<acquire exp="2057" sp="120" />
+		<acquire exp="3057" sp="220" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="736.96177" hpRegen="4.5" mp="370.580748055665" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3229,7 +3229,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -3241,6 +3241,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
@@ -4212,7 +4213,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
-		<acquire exp="1599" sp="91" />
+		<acquire exp="3599" sp="191" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
 			<attack physical="113.49065" magical="77.49941" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -4227,7 +4228,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="11" /> <!-- Giants -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
@@ -4238,11 +4239,71 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true" />
 		<collision>
 			<radius normal="21" grown="25" />
 			<height normal="35" grown="43" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="525" max="850" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.5458">
+					<item id="849" min="1" max="1" chance="2.6765" /> <!-- Tiger's Eye Earring -->
+					<item id="1901" min="1" max="1" chance="91.3106" /> <!-- Tiger's Eye Earring Stone -->
+					<item id="912" min="1" max="1" chance="2.0063" /> <!-- Near Forest Necklace -->
+					<item id="880" min="1" max="1" chance="4.0066" /> <!-- Black Pearl Ring -->
+				</group>
+				<group chance="6.3669">
+					<item id="1874" min="1" max="1" chance="5.3502" /> <!-- Oriharukon Ore -->
+					<item id="1878" min="1" max="1" chance="32.1012" /> <!-- Braided Hemp -->
+					<item id="1884" min="1" max="1" chance="49.3865" /> <!-- Cord -->
+					<item id="1889" min="1" max="1" chance="5.3502" /> <!-- Compound Braid -->
+					<item id="5220" min="1" max="1" chance="3.2101" /> <!-- Metal Hardener -->
+					<item id="2187" min="1" max="1" chance="3.5827" /> <!-- Recipe: Manticore Skin Shirt -->
+					<item id="2293" min="1" max="1" chance="0.4459" /> <!-- Recipe: Glaive -->
+					<item id="2269" min="1" max="1" chance="0.5732" /> <!-- Recipe: Morning Star -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1882" min="1" max="1" chance="17.0847" /> <!-- Leather -->
+				<item id="2271" min="1" max="1" chance="0.5492" /> <!-- Recipe: Winged Spear -->
+				<item id="2155" min="1" max="1" chance="12.3405" /> <!-- Recipe: Elven Ring -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20174" level="35" type="Monster" name="Two-Headed Giant">
 		<parameters>

@@ -414,7 +414,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -428,12 +428,70 @@
 			<skill id="4614" level="4" /> <!-- Death Bomb -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai clanHelpRange="300" aggroRange="300" />
 		<collision>
 			<radius normal="6" />
 			<height normal="13" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="279" max="557" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.3299">
+					<item id="849" min="1" max="1" chance="2.6765" /> <!-- Tiger's Eye Earring -->
+					<item id="1901" min="1" max="1" chance="91.3106" /> <!-- Tiger's Eye Earring Stone -->
+					<item id="912" min="1" max="1" chance="2.0063" /> <!-- Near Forest Necklace -->
+					<item id="880" min="1" max="1" chance="4.0066" /> <!-- Black Pearl Ring -->
+				</group>
+				<group chance="6.0439">
+					<item id="1874" min="1" max="1" chance="5.5417" /> <!-- Oriharukon Ore -->
+					<item id="1878" min="1" max="1" chance="33.2501" /> <!-- Braided Hemp -->
+					<item id="1884" min="1" max="1" chance="51.154" /> <!-- Cord -->
+					<item id="1889" min="1" max="1" chance="5.5417" /> <!-- Compound Braid -->
+					<item id="5220" min="1" max="1" chance="3.325" /> <!-- Metal Hardener -->
+					<item id="2272" min="1" max="1" chance="0.5938" /> <!-- Recipe: Sword of Revolution -->
+					<item id="2274" min="1" max="1" chance="0.5937" /> <!-- Recipe: Skull Breaker -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2198" min="1" max="1" chance="1.3867" /> <!-- Recipe: Sage's Rag -->
+				<item id="1872" min="1" max="1" chance="88.192" /> <!-- Animal Bone -->
+				<item id="2154" min="1" max="1" chance="7.0818" /> <!-- Recipe: Elven Earring -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="18310" level="33" type="Monster" name="Evoked Spirit Offering of the Branded">
 		<parameters>

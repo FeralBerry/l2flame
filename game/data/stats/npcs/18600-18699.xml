@@ -436,7 +436,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="9" /> <!-- Demons -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="14" /> <!-- HP Increase (6x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -449,6 +449,7 @@
 			<skill id="4664" level="4" /> <!-- NPC 100% HP Drain -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
+		<sNpcPropHpRate>6</sNpcPropHpRate>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300">
 			<clanList>
 				<clan>BOOSTUP</clan>
@@ -460,17 +461,63 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="42">
-					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
-					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
-					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				<group chance="70">
+					<item id="57" min="827" max="1255" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="22">
-					<item id="8603" min="1" max="1" chance="15" /> <!-- Herb of Mana -->
-					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
-					<item id="8605" min="1" max="1" chance="31" /> <!-- Superior Herb of Mana -->
+				<group chance="1.126">
+					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->
+					<item id="1938" min="1" max="1" chance="41.0057" /> <!-- Mithril Banded Mail Material -->
+					<item id="394" min="1" max="1" chance="1.0427" /> <!-- Reinforced Leather Shirt -->
+					<item id="415" min="1" max="1" chance="1.6666" /> <!-- Mithril Banded Gaiters -->
+					<item id="1939" min="1" max="1" chance="53.5758" /> <!-- Mithril Banded Gaiters Material -->
+					<item id="416" min="1" max="1" chance="1.6665" /> <!-- Reinforced Leather Gaiters -->
+				</group>
+				<group chance="15.6149">
+					<item id="1868" min="1" max="1" chance="75.4039" /> <!-- Thread -->
+					<item id="1873" min="1" max="1" chance="15.0808" /> <!-- Silver Nugget -->
+					<item id="5549" min="1" max="1" chance="3.7702" /> <!-- Metallic Thread -->
+					<item id="1889" min="1" max="1" chance="2.5135" /> <!-- Compound Braid -->
+					<item id="2272" min="1" max="1" chance="0.2693" /> <!-- Recipe: Sword of Revolution -->
+					<item id="2274" min="1" max="1" chance="0.2693" /> <!-- Recipe: Skull Breaker -->
+					<item id="2148" min="1" max="1" chance="2.693" /> <!-- Recipe: Crafted Leather -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
 				</group>
 			</drop>
+			<spoil>
+				<item id="2276" min="1" max="1" chance="0.5536" /> <!-- Recipe: Maingauche -->
+				<item id="394" min="1" max="1" chance="0.1325" /> <!-- Reinforced Leather Shirt -->
+				<item id="2154" min="1" max="1" chance="8.2984" /> <!-- Recipe: Elven Earring -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18610" level="36" type="Monster" name="Hillas" title="Water Spirit">
@@ -501,7 +548,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="7" /> <!-- Spirits -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="14" /> <!-- HP Increase (6x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -514,7 +561,8 @@
 			<skill id="4664" level="4" /> <!-- NPC 100% HP Drain -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<ai type="BALANCED" clanHelpRange="300" aggroRange="300">
+		<sNpcPropHpRate>6</sNpcPropHpRate>
+		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" isAggressive="true">
 			<clanList>
 				<clan>BOOSTUP</clan>
 			</clanList>
@@ -525,17 +573,62 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="42">
-					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
-					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
-					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				<group chance="70">
+					<item id="57" min="1227" max="1455" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="22">
-					<item id="8603" min="1" max="1" chance="15" /> <!-- Herb of Mana -->
-					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
-					<item id="8605" min="1" max="1" chance="31" /> <!-- Superior Herb of Mana -->
+				<group chance="0.0648">
+					<item id="83" min="1" max="1" chance="2.676" /> <!-- Sword of Magic -->
+					<item id="144" min="1" max="1" chance="2.676" /> <!-- Sword of Occult -->
+					<item id="124" min="1" max="1" chance="1.9824" /> <!-- Two-Handed Sword -->
+					<item id="2026" min="1" max="1" chance="88.7007" /> <!-- Two-Handed Sword Edge -->
+					<item id="127" min="1" max="1" chance="1.9824" /> <!-- Crimson Sword -->
+					<item id="130" min="1" max="1" chance="1.9825" /> <!-- Elven Sword -->
+				</group>
+				<group chance="3.2471">
+					<item id="1875" min="1" max="1" chance="9.8039" /> <!-- Stone of Purity -->
+					<item id="1879" min="1" max="1" chance="24.5098" /> <!-- Cokes -->
+					<item id="1885" min="1" max="1" chance="12.2549" /> <!-- High Grade Suede -->
+					<item id="5550" min="1" max="1" chance="1.9608" /> <!-- Durable Metal Plate -->
+					<item id="5549" min="1" max="1" chance="14.7059" /> <!-- Metallic Thread -->
+					<item id="2250" min="1" max="1" chance="36.7647" /> <!-- Recipe: Bone Arrow -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
 				</group>
 			</drop>
+			<spoil>
+				<item id="2021" min="1" max="1" chance="0.6804" /> <!-- Spinebone Sword Blade -->
+				<item id="2184" min="1" max="1" chance="5.6604" /> <!-- Recipe: Mithril Banded Gaiters -->
+				<item id="2153" min="1" max="1" chance="8.3805" /> <!-- Recipe: Tiger's Eye Earring -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18611" level="33" type="Monster" name="Water Spirit">
@@ -553,7 +646,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="630" sp="22" />
+		<acquire exp="4630" sp="222" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="685.8044" hpRegen="5.5" mp="11080.8" mpRegen="2.1" />
 			<attack physical="290.44588" magical="198.33688" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -568,7 +661,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="7" /> <!-- Spirits -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -581,8 +674,8 @@
 			<skill id="5773" level="1" /> <!-- Surrender to Water -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>0.5</sNpcPropHpRate>
-		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
+		<sNpcPropHpRate>4</sNpcPropHpRate>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>BOOSTUP</clan>
 			</clanList>
@@ -593,16 +686,45 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="100">
+					<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
+					<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
+					<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
+					<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
+					<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
+					<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				</group>
+				<group chance="70">
+					<item id="57" min="245" max="491" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.7936">
+					<item id="553" min="1" max="1" chance="2.8426" /> <!-- Iron Boots -->
+					<item id="1940" min="1" max="1" chance="82.9444" /> <!-- Iron Boots Design -->
+					<item id="2422" min="1" max="1" chance="2.8426" /> <!-- Reinforced Leather Boots -->
+					<item id="2423" min="1" max="1" chance="2.8426" /> <!-- Boots of Knowledge -->
+					<item id="63" min="1" max="1" chance="2.8426" /> <!-- Gauntlets -->
+					<item id="2446" min="1" max="1" chance="2.8426" /> <!-- Reinforced Leather Gloves -->
+					<item id="2447" min="1" max="1" chance="2.8426" /> <!-- Gloves of Knowledge -->
+				</group>
+				<group chance="6.6356">
+					<item id="1875" min="1" max="1" chance="3.8769" /> <!-- Stone of Purity -->
+					<item id="1879" min="1" max="1" chance="9.6921" /> <!-- Cokes -->
+					<item id="1885" min="1" max="1" chance="4.8461" /> <!-- High Grade Suede -->
+					<item id="5550" min="1" max="1" chance="0.7754" /> <!-- Durable Metal Plate -->
+					<item id="5549" min="1" max="1" chance="5.8153" /> <!-- Metallic Thread -->
+					<item id="2154" min="1" max="1" chance="6.2262" /> <!-- Recipe: Elven Earring -->
+					<item id="2190" min="1" max="1" chance="4.1538" /> <!-- Recipe: Mithril Stockings -->
+					<item id="1832" min="1" max="1" chance="64.6142" /> <!-- Greater Antidote -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1884" min="1" max="1" chance="35.7298" /> <!-- Cord -->
+				<item id="2275" min="1" max="1" chance="0.4147" /> <!-- Recipe: Heavy Bone Club -->
+				<item id="1901" min="1" max="1" chance="8.0195" /> <!-- Tiger's Eye Earring Stone -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18612" level="36" type="Monster" name="Water Spirit">
@@ -635,7 +757,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="7" /> <!-- Spirits -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -648,7 +770,7 @@
 			<skill id="5773" level="1" /> <!-- Surrender to Water -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>0.5</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>BOOSTUP</clan>
@@ -660,16 +782,64 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="70">
+					<item id="57" min="904" max="1107" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.9841">
+					<item id="553" min="1" max="1" chance="2.8426" /> <!-- Iron Boots -->
+					<item id="1940" min="1" max="1" chance="82.9444" /> <!-- Iron Boots Design -->
+					<item id="2422" min="1" max="1" chance="2.8426" /> <!-- Reinforced Leather Boots -->
+					<item id="2423" min="1" max="1" chance="2.8426" /> <!-- Boots of Knowledge -->
+					<item id="63" min="1" max="1" chance="2.8426" /> <!-- Gauntlets -->
+					<item id="2446" min="1" max="1" chance="2.8426" /> <!-- Reinforced Leather Gloves -->
+					<item id="2447" min="1" max="1" chance="2.8426" /> <!-- Gloves of Knowledge -->
+				</group>
+				<group chance="17.8523">
+					<item id="1867" min="1" max="1" chance="40.8443" /> <!-- Animal Skin -->
+					<item id="1872" min="1" max="1" chance="40.8443" /> <!-- Animal Bone -->
+					<item id="1882" min="1" max="1" chance="6.8074" /> <!-- Leather -->
+					<item id="2977" min="1" max="1" chance="4.1008" /> <!-- Recipe: Brigandine Boots -->
+					<item id="2286" min="1" max="1" chance="0.1702" /> <!-- Recipe: Bonebreaker -->
+					<item id="2985" min="1" max="1" chance="3.1322" /> <!-- Recipe: Plate Boots -->
+					<item id="2981" min="1" max="1" chance="4.1008" /> <!-- Recipe: Mithril Gloves -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1873" min="1" max="1" chance="28.7994" /> <!-- Silver Nugget -->
+				<item id="2273" min="1" max="1" chance="0.5143" /> <!-- Recipe: Tarbar -->
+				<item id="2154" min="1" max="1" chance="7.7086" /> <!-- Recipe: Elven Earring -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18613" level="39" type="Monster" name="Water Spirit">
@@ -770,7 +940,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="14" /> <!-- HP Increase (6x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -783,7 +953,7 @@
 			<skill id="5772" level="1" /> <!-- Surrender to Fire -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>0.5</sNpcPropHpRate>
+		<sNpcPropHpRate>6</sNpcPropHpRate>
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>BOOSTUP</clan>
@@ -795,16 +965,64 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="70">
+					<item id="57" min="933" max="1468" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.1485">
+					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->
+					<item id="1938" min="1" max="1" chance="41.0057" /> <!-- Mithril Banded Mail Material -->
+					<item id="394" min="1" max="1" chance="1.0427" /> <!-- Reinforced Leather Shirt -->
+					<item id="415" min="1" max="1" chance="1.6666" /> <!-- Mithril Banded Gaiters -->
+					<item id="1939" min="1" max="1" chance="53.5758" /> <!-- Mithril Banded Gaiters Material -->
+					<item id="416" min="1" max="1" chance="1.6665" /> <!-- Reinforced Leather Gaiters -->
+				</group>
+				<group chance="24.8481">
+					<item id="1874" min="1" max="1" chance="1.4097" /> <!-- Oriharukon Ore -->
+					<item id="1878" min="1" max="1" chance="8.4581" /> <!-- Braided Hemp -->
+					<item id="1884" min="1" max="1" chance="13.0125" /> <!-- Cord -->
+					<item id="1889" min="1" max="1" chance="1.4097" /> <!-- Compound Braid -->
+					<item id="5220" min="1" max="1" chance="0.8458" /> <!-- Metal Hardener -->
+					<item id="2275" min="1" max="1" chance="0.151" /> <!-- Recipe: Heavy Bone Club -->
+					<item id="1661" min="1" max="1" chance="4.2291" /> <!-- Thief Key -->
+					<item id="1341" min="10" max="30" chance="70.4841" /> <!-- Bone Arrow -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="2030" min="1" max="1" chance="0.9246" /> <!-- Tome of Blood Page -->
+				<item id="2188" min="1" max="1" chance="5.6469" /> <!-- Recipe: Manticore Skin Gaiters -->
+				<item id="2154" min="1" max="1" chance="8.4644" /> <!-- Recipe: Elven Earring -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18615" level="39" type="Monster" name="Fire Spirit">
@@ -885,7 +1103,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="726" sp="28" />
+		<acquire exp="4726" sp="228" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="2512.2" mpRegen="2.1" />
 			<attack physical="305.54906" magical="208.6504" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -900,7 +1118,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -912,7 +1130,7 @@
 			<skill id="4664" level="4" /> <!-- NPC 100% HP Drain -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>0.5</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>BOOSTUP</clan>
@@ -924,16 +1142,30 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="70">
+					<item id="57" min="649" max="995" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.5434">
+					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->
+					<item id="1938" min="1" max="1" chance="41.0057" /> <!-- Mithril Banded Mail Material -->
+					<item id="394" min="1" max="1" chance="1.0427" /> <!-- Reinforced Leather Shirt -->
+					<item id="415" min="1" max="1" chance="1.6666" /> <!-- Mithril Banded Gaiters -->
+					<item id="1939" min="1" max="1" chance="53.5758" /> <!-- Mithril Banded Gaiters Material -->
+					<item id="416" min="1" max="1" chance="1.6665" /> <!-- Reinforced Leather Gaiters -->
+				</group>
+				<group chance="33.6218">
+					<item id="1867" min="1" max="1" chance="44.8024" /> <!-- Animal Skin -->
+					<item id="1872" min="1" max="1" chance="44.8024" /> <!-- Animal Bone -->
+					<item id="1882" min="1" max="1" chance="7.4671" /> <!-- Leather -->
+					<item id="2156" min="1" max="1" chance="2.6881" /> <!-- Recipe: Elven Necklace -->
+					<item id="2272" min="1" max="1" chance="0.24" /> <!-- Recipe: Sword of Revolution -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="848" min="1" max="1" chance="0.6478" /> <!-- Enchanted Earring -->
+				<item id="1832" min="1" max="3" chance="59.0229" /> <!-- Greater Antidote -->
+				<item id="1901" min="1" max="1" chance="14.6742" /> <!-- Tiger's Eye Earring Stone -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="18617" level="36" type="Monster">

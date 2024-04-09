@@ -50,37 +50,6 @@
 			<npc id="21645" x="126014" y="220031" z="-2944" respawnTime="60sec" chaseRange="2500" /> <!-- Lienrik Lad -->
 			<npc id="20314" x="106252" y="197068" z="-4200" respawnTime="94sec" chaseRange="1000" /> <!-- Giant White Shark -->
 			<npc id="20314" x="106353" y="197246" z="-4200" respawnTime="94sec" chaseRange="1000" /> <!-- Giant White Shark -->
-			<npc id="20784" x="105034" y="202932" z="-3408" heading="54827" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="20784" x="105653" y="204138" z="-3224" heading="4637" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="20784" x="101259" y="200064" z="-3648" heading="45394" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="20784" x="101689" y="200683" z="-3720" heading="16020" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="20784" x="104653" y="210593" z="-2712" heading="43326" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="20784" x="105352" y="211222" z="-2872" heading="5856" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="20785" x="102303" y="199992" z="-3648" heading="36033" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="20785" x="102213" y="199920" z="-3640" heading="42287" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="20785" x="104062" y="203015" z="-3360" heading="36588" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="20785" x="105079" y="203163" z="-3360" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="20785" x="104710" y="210676" z="-2712" heading="15539" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="20785" x="105343" y="211889" z="-2872" heading="26957" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="20789" x="115513" y="199231" z="-3752" heading="16383" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="111992" y="199199" z="-3688" heading="15501" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="111900" y="199221" z="-3672" heading="62817" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="109222" y="201156" z="-3592" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="114161" y="202298" z="-3448" heading="60221" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="113040" y="202777" z="-3288" heading="3524" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="112800" y="200509" z="-3720" heading="52055" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="113464" y="199699" z="-3720" heading="20745" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="109712" y="200548" z="-3568" heading="17393" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="117804" y="198997" z="-3712" heading="10326" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="115344" y="199337" z="-3744" heading="59801" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20789" x="117306" y="199474" z="-3696" heading="39481" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian -->
-			<npc id="20790" x="117522" y="199406" z="-3704" heading="34066" respawnTime="60sec" chaseRange="2500" /> <!-- Dailaon -->
-			<npc id="20790" x="113846" y="201358" z="-3560" heading="50192" respawnTime="60sec" chaseRange="2500" /> <!-- Dailaon -->
-			<npc id="20790" x="115049" y="199343" z="-3744" heading="12745" respawnTime="60sec" chaseRange="2500" /> <!-- Dailaon -->
-			<npc id="20790" x="117804" y="199262" z="-3712" heading="19172" respawnTime="60sec" chaseRange="2500" /> <!-- Dailaon -->
-			<npc id="20790" x="110106" y="198815" z="-3608" respawnTime="60sec" chaseRange="2500" /> <!-- Dailaon -->
-			<npc id="20790" x="109381" y="198284" z="-3584" heading="20045" respawnTime="60sec" chaseRange="2500" /> <!-- Dailaon -->
-			<npc id="20790" x="113465" y="202471" z="-3296" heading="31287" respawnTime="60sec" chaseRange="2500" /> <!-- Dailaon -->
 			<npc id="20791" x="113094" y="202537" z="-3288" heading="42441" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian Warrior -->
 			<npc id="20791" x="117927" y="199589" z="-3680" heading="29452" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian Warrior -->
 			<npc id="20791" x="108548" y="201257" z="-3592" heading="60385" respawnTime="60sec" chaseRange="2500" /> <!-- Crokian Warrior -->
@@ -99,18 +68,6 @@
 			<npc id="20793" x="115183" y="201743" z="-3416" heading="63944" respawnTime="60sec" chaseRange="2500" /> <!-- Nos -->
 			<npc id="20793" x="117888" y="199501" z="-3688" heading="10202" respawnTime="60sec" chaseRange="2500" /> <!-- Nos -->
 			<npc id="20793" x="114027" y="201939" z="-3488" heading="51518" respawnTime="60sec" chaseRange="2500" /> <!-- Nos -->
-			<npc id="21639" x="104760" y="201950" z="-3640" heading="58276" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="21639" x="105887" y="204277" z="-3240" heading="35078" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="21639" x="101062" y="200934" z="-3720" heading="31628" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="21639" x="100987" y="200687" z="-3720" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="21639" x="104101" y="210778" z="-2584" heading="31138" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="21639" x="105479" y="212524" z="-2928" heading="43645" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman -->
-			<npc id="21640" x="102340" y="199686" z="-3600" heading="23007" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="21640" x="105360" y="203146" z="-3368" heading="61096" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="21640" x="106121" y="204024" z="-3304" heading="36944" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="21640" x="102331" y="200449" z="-3664" heading="6225" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="21640" x="105278" y="210713" z="-2872" heading="53231" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
-			<npc id="21640" x="104893" y="210538" z="-2776" heading="25787" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Shaman -->
 			<npc id="21642" x="104101" y="202377" z="-3576" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Sniper -->
 			<npc id="21642" x="102225" y="200138" z="-3656" heading="30719" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Sniper -->
 			<npc id="21642" x="104449" y="210520" z="-2688" heading="8074" respawnTime="60sec" chaseRange="2500" /> <!-- Tasaba Lizardman Sniper -->

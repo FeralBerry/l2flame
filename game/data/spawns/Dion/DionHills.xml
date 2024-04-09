@@ -3,12 +3,6 @@
 	<spawn name="DionHills">
 		<group>
 			<npc id="35402" x="17677" y="145282" z="-3048" heading="22500" respawnTime="60sec" /> <!-- Borna - Clan Hall Gatekeeper -->
-			<npc id="20781" x="6165" y="160682" z="-3568" heading="45002" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="5131" y="155398" z="-3560" heading="51489" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="20781" x="12204" y="163804" z="-3640" respawnTime="30sec" /> <!-- Delu Lizardman Shaman -->
-			<npc id="21107" x="20192" y="163766" z="-3424" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="17793" y="162100" z="-3504" heading="41955" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
-			<npc id="21107" x="25527" y="163820" z="-3304" respawnTime="30sec" /> <!-- Delu Lizardman Commander -->
 			<npc id="30627" x="10133" y="157155" z="-2384" respawnTime="60sec" /> <!-- Tree -->
 		</group>
 	</spawn>
