@@ -410,7 +410,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18609" level="36" type="Monster" name="Papion" title="Water Spirit">
+	<npc id="18609" level="36" type="Monster" name="Папион" title="Дух Воды">
 		<parameters>
 			<param name="MoveAroundSocial" value="150" />
 			<param name="MoveAroundSocial1" value="150" />
@@ -421,9 +421,9 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="10782" sp="652" />
+		<acquire exp="5782" sp="652" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="10512.7777620382" hpRegen="9" mp="2770.2" mpRegen="1.8" />
+			<vitals hp="812.7777620382" hpRegen="9" mp="270.2" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="121.98819" magical="89.26566" />
 			<speed>
@@ -520,7 +520,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="18610" level="36" type="Monster" name="Hillas" title="Water Spirit">
+	<npc id="18610" level="36" type="Monster" name="Хиллас" title="Дух Воды">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -533,9 +533,9 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="10782" sp="652" />
+		<acquire exp="5782" sp="652" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="12143.4125711026" hpRegen="9" mp="11080.8" mpRegen="1.8" />
+			<vitals hp="943.4125711026" hpRegen="9" mp="380.8" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="121.98819" magical="89.26566" />
 			<speed>
@@ -631,7 +631,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="18611" level="33" type="Monster" name="Water Spirit">
+	<npc id="18611" level="33" type="Monster" name="Дух воды">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -648,7 +648,7 @@
 		<sex>FEMALE</sex>
 		<acquire exp="4630" sp="222" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="685.8044" hpRegen="5.5" mp="11080.8" mpRegen="2.1" />
+			<vitals hp="685.8044" hpRegen="5.5" mp="280.8" mpRegen="2.1" />
 			<attack physical="290.44588" magical="198.33688" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="195.66302" magical="143.17771" />
 			<speed>
@@ -698,7 +698,7 @@
 					<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
 				</group>
 				<group chance="70">
-					<item id="57" min="245" max="491" chance="100" /> <!-- Adena -->
+					<item id="57" min="945" max="1291" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.7936">
 					<item id="553" min="1" max="1" chance="2.8426" /> <!-- Iron Boots -->
@@ -727,7 +727,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="18612" level="36" type="Monster" name="Water Spirit">
+	<npc id="18612" level="36" type="Monster" name="Водяной призрак">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -744,8 +744,8 @@
 		<sex>FEMALE</sex>
 		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="710.4101" hpRegen="5.5" mp="11080.8" mpRegen="2.1" />
-			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<vitals hp="710.4101" hpRegen="5.5" mp="580.8" mpRegen="2.1" />
+			<attack physical="205.54906" magical="158.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="200.23844" magical="146.5258" />
 			<speed>
 				<walk ground="60" />
@@ -927,8 +927,8 @@
 		<equipment rhand="150" lhand="103" /> <!-- Elemental Sword / Tower Shield -->
 		<acquire exp="726" sp="28" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="710.4101" hpRegen="5.5" mp="11290.8" mpRegen="2.1" />
-			<attack physical="305.54906" magical="208.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<vitals hp="710.4101" hpRegen="5.5" mp="290.8" mpRegen="2.1" />
+			<attack physical="155.54906" magical="108.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="200.23844" magical="146.5258" />
 			<speed>
 				<walk ground="40" />
@@ -1092,7 +1092,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18616" level="36" type="Monster" name="Bloom">
+	<npc id="18616" level="36" type="Monster" name="Фирак">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1106,7 +1106,7 @@
 		<acquire exp="4726" sp="228" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="2512.2" mpRegen="2.1" />
-			<attack physical="305.54906" magical="208.6504" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<attack physical="255.54906" magical="208.6504" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="200.23844" magical="146.5258" />
 			<speed>
 				<walk ground="90" />

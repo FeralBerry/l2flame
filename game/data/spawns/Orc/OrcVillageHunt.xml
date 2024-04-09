@@ -9,10 +9,10 @@
 				<node x="-50394" y="-115198" />
 			</territory>
 		</territories>
-		<npc id="20535" count="45" respawnTime="9sec" chaseRange="1500" /><!-- Степной шакал 2 лвл -->
+		<npc id="18342" count="100" respawnTime="9sec" chaseRange="1500" /><!-- Гремлин  1 лвл -->
 		<npc id="20531" count="50" respawnTime="9sec" chaseRange="1500" /><!-- Молодой степной шакал 1 лвл -->
+		<npc id="20535" count="45" respawnTime="9sec" chaseRange="1500" /><!-- Степной шакал 2 лвл -->
 		<npc id="20538" count="40" respawnTime="9sec" chaseRange="1500" /><!-- Матерый степной шакал 3 лвл -->
-		<npc id="18342" count="100" respawnTime="9sec" chaseRange="1500" /><!-- Gremlin  1 лвл -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -55,7 +55,7 @@
 		</territories>
 		<npc id="20475" count="12" respawnTime="15sec" chaseRange="1500"/><!-- Волк Кхаши 4 лвл -->
 		<npc id="20319" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Гоблин Грабитель Могил 5 лвл -->
-		<npc id="20477" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Древесный Волк Кхаши 6 лвл -->
+		<npc id="20477" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Лесной Волк Кхаши 6 лвл -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -70,7 +70,7 @@
 		</territories>
 		<npc id="20475" count="12" respawnTime="15sec" chaseRange="1500"/><!-- Волк Кхаши 4 лвл -->
 		<npc id="20319" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Гоблин Грабитель Могил 5 лвл -->
-		<npc id="20477" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Древесный Волк Кхаши 6 лвл -->
+		<npc id="20477" count="35" respawnTime="20sec" chaseRange="1500"/><!-- Лесной Волк Кхаши 6 лвл -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -187,7 +187,7 @@
 			</territory>
 		</territories>
 		<npc id="20313" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Матерый Когтистый Бес 10 лвл -->
-		<npc id="20427" count="15" respawnTime="44sec" chaseRange="1500" /><!-- Смотритель Око Зла 10 лвл -->
+		<npc id="20427" count="15" respawnTime="44sec" chaseRange="1500" /><!-- Наблюдатель Око Зла 10 лвл -->
 		<npc id="20426" count="15" respawnTime="21sec" chaseRange="1500" /><!-- Око Зла 10 лвл -->
 	</spawn>
 	<spawn>
@@ -265,7 +265,7 @@
 				<node x="-15612" y="-135236"/>
 			</territory>
 		</territories>
-		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Evolved Kiku -->
+		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Усиленный Кику 14 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -277,7 +277,7 @@
 				<node x="-21822" y="-133012"/>
 			</territory>
 		</territories>
-		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Evolved Kiku 14 лвл -->
+		<npc id="23485" count="20" respawnTime="21sec" chaseRange="1500" /> <!-- Усиленный Кику 14 лвл -->
 		<npc id="20368" count="15" respawnTime="16sec" chaseRange="1500" /><!-- Хранитель Могил 13 лвл -->
 	</spawn>
 	<spawn>

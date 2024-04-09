@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
     <spawn name="temp">
         <!-- 14 лвл-->
@@ -32,7 +32,6 @@
         <npc id="20335" x="-73252" y="98416" z="-3610" heading="32266" respawnTime="25sec" /><!-- Гризли 17 лвл -->
         <!-- 18 лвл-->
         <npc id="20042" x="-51146" y="120328" z="-2934" heading="36292" respawnTime="30sec" /><!-- Главарь Скелетов Следопытов 18 лвл -->
-        <npc id="20038" x="-78321" y="165606" z="-3699" heading="32633" respawnTime="20sec" /><!-- Гигантский Ядовитый Паук 18 лвл -->
         <!-- 19 лвл-->
         <npc id="20457" x="-6356" y="143834" z="-3561" heading="6600" respawnTime="30sec" /><!-- Воитель Зомби 19 лвл-->
         <npc id="20341" x="20844" y="-108155" z="-3076" heading="0" respawnTime="68sec" /><!-- Нежить Невольник 19 лвл-->
@@ -87,7 +86,6 @@
         <npc id="21139" x="-50398" y="212042" z="-5092" heading="32575" respawnTime="120sec" /><!-- Шипастая Летучая Мышь Катакомб 23 лвл (x4) -->
         <npc id="21097" x="-82060" y="124317" z="-3752" heading="0" respawnTime="25sec" /><!-- Молодой Арахнид 23 лвл -->
         <npc id="20204" x="4259" y="171994" z="-3208" respawnTime="29sec" /><!-- Кровавая Пчела 23 лвл -->
-        <npc id="20062" x="-53226" y="110386" z="-3574" heading="20895" respawnTime="24sec" /><!-- Людоед Тумран 23 лвл -->
         <npc id="23021" x="-70387" y="167505" z="-3448" heading="61054" respawnTime="60sec" /> <!-- Giant Venomous Spider -->
         <npc id="23020" x="-69533" y="165656" z="-3576" heading="3179" respawnTime="60sec" /> <!-- Giant Wild Boar -->
 
@@ -269,44 +267,287 @@
         -->
         <!-- 38 лвл-->
         <!--
+        <npc id="20090" level="38" type="Monster" name="Noble Ant Captain">
+        <npc id="21270" level="38" type="Monster" name="Cave Ant Soldier">
+        <npc id="21272" level="38" type="Monster" name="Cave Ant Soldier">
+        <npc id="20765" level="38" type="Monster" name="Warrior of the Plains">
+        <npc id="20149" level="38" type="Monster" name="Steel Golem">
+        <npc id="20791" level="38" type="Monster" name="Crokian Warrior">
+        <npc id="20552" level="38" type="Monster" name="Fettered Soul">
+        <npc id="20580" level="38" type="Monster" name="Leto Lizardman Warrior">
+        <npc id="20932" level="38" type="Monster" name="Hatu Crimson Bear">
+        <npc id="20989" level="38" type="Monster" name="Lageos">
+        <npc id="20990" level="38" type="Monster" name="Pageos">
+        <npc id="21034" level="38" type="Monster" name="Ogre">
+        <npc id="21145" level="38" type="Monster" name="Catacomb Stakato Soldier">
+        <npc id="22025" level="38" type="Monster" name="Frozen Wasteland Werewolf">
+        <npc id="27459" level="38" type="Monster" name="Regenerated Kanilov">
+        <npc id="27460" level="38" type="Monster" name="Regenerated Poslof">
+        <npc id="27461" level="38" type="Monster" name="Sakum's Summoned Pet">
+        <npc id="29002" level="38" type="Monster" name="Queen Ant Larva">
         -->
         <!-- 39 лвл-->
         <!--
+        <npc id="18607" level="39" type="Monster" name="Gargos" title="Fire Spirit">
+        <npc id="18608" level="39" type="Monster" name="Kinsus" title="Fire Spirit">
+        <npc id="18613" level="39" type="Monster" name="Water Spirit">
+        <npc id="18615" level="39" type="Monster" name="Fire Spirit">
+        <npc id="20553" level="39" type="Monster" name="Windsus">
+        <npc id="20581" level="39" type="Monster" name="Leto Lizardman Shaman">
+        <npc id="21172" level="39" type="Monster" name="Lith Patrolman">
+        <npc id="21273" level="39" type="Monster" name="Cave Noble Ant">
+        <npc id="20764" level="39" type="Monster" name="Shaman of the Plains">
+        <npc id="21193" level="39" type="Monster" name="Gigant Raider">
+        <npc id="20779" level="39" type="Monster" name="Ragna Orc Seer">
+        <npc id="20778" level="39" type="Monster" name="Ragna Orc Overlord">
+        <npc id="20786" level="39" type="Monster" name="Lienrik">
+        <npc id="20792" level="39" type="Monster" name="Farhite">
+        <npc id="21642" level="39" type="Monster" name="Tasaba Lizardman Sniper">
+        <npc id="21643" level="39" type="Monster" name="Tasaba Lizardman Sniper">
+        <npc id="22027" level="39" type="Monster" name="Forgotten Crewman">
+        <npc id="27340" level="39" type="Monster" name="Pursuer">
+        <npc id="29005" level="39" type="Monster" name="Royal Guard Ant">
         -->
         <!-- 40 лвл-->
         <!--
+        <npc id="18322" level="40" type="Monster" name="Caught Sea Giant">
+        <npc id="19086" level="40" type="Monster" name="Daemon Angma">
+        <npc id="19087" level="40" type="Monster" name="Daemon Angma Captain">
+        <npc id="19088" level="40" type="Monster" name="Follower of Shillien">
+        <npc id="19090" level="40" type="Monster" name="Cursed Villager">
+        <npc id="19091" level="40" type="Monster" name="Cursed Villager">
+        <npc id="19092" level="40" type="Monster" name="Totem">
+        <npc id="19238" level="40" type="Monster" name="Daemon Angma" title="Helpful">
+        <npc id="19239" level="40" type="Monster" name="Daemon Angma" title="Aggressive">
+        <npc id="19240" level="40" type="Monster" name="Daemon Angma" title="Distracted">
+        <npc id="19241" level="40" type="Monster" name="Daemon Angma" title="Mastermind">
+        <npc id="19242" level="40" type="Monster" name="Sound Clam">
+        <npc id="19243" level="40" type="Monster" name="Campaign Presentation 1">
+        <npc id="19246" level="40" type="Monster" name="Tanima">
+        <npc id="20135" level="40" type="Monster" name="Alligator">
+        <npc id="20148" level="40" type="Monster" name="Hungry Spirit">
+        <npc id="20167" level="40" type="Monster" name="Serpent Slave">
+        <npc id="20213" level="40" type="Monster" name="Porta">
+        <npc id="20299" level="40" type="Monster" name="Zenta Lizardman">
+        <npc id="20305" level="40" type="Monster" name="Grave">
+        <npc id="20490" level="40" type="Monster" name="Death Doll">
+        <npc id="20554" level="40" type="Monster" name="Grandis">
+        <npc id="20555" level="40" type="Monster" name="Giant Fungus">
+        <npc id="20563" level="40" type="Monster" name="Manashen Gargoyle">
+        <npc id="20583" level="40" type="Monster" name="Timak Orc">
+        <npc id="20600" level="40" type="Monster" name="Karul Bugbear">
+        <npc id="20630" level="40" type="Monster" name="Taik Orc">
+        <npc id="20763" level="40" type="Monster" name="Lord of the Plains">
+        <npc id="20787" level="40" type="Monster" name="Lienrik Lad">
+        <npc id="20793" level="40" type="Monster" name="Nos">
+        <npc id="20933" level="40" type="Monster" name="Hatu Windsus">
+        <npc id="20936" level="40" type="Monster" name="Tanor Silenos">
+        <npc id="21146" level="40" type="Monster" name="Grave Keeper Dark Horror">
+        <npc id="21216" level="40" type="Monster" name="Overlord of the Holy Lands">
+        <npc id="21240" level="40" type="Monster" name="Barrow Overlord">
+        <npc id="21645" level="40" type="Monster" name="Lienrik Lad">
+        <npc id="22026" level="40" type="Monster" name="Bandit Captain">
+        <npc id="22028" level="40" type="Monster" name="Vagabond of the Ruins">
+        <npc id="22029" level="40" type="Monster" name="Ragna Orc">
+        <npc id="22045" level="40" type="Monster" name="Dark Corpse">
+        <npc id="22461" level="40" type="Monster" name="Gluttonous Kanabion">
+        <npc id="22462" level="40" type="Monster" name="Gluttonous Kanabion" title="Doppler">
+        <npc id="24391" level="40" type="Monster" name="Sobbing Windra">
+        <npc id="24392" level="40" type="Monster" name="Whispering Windra">
+        <npc id="24393" level="40" type="Monster" name="Giggling Windra">
         -->
         <!-- 41 лвл-->
         <!--
+        <npc id="20162" level="41" type="Monster" name="Ogre">
+        <npc id="20214" level="41" type="Monster" name="Excuro">
+        <npc id="20301" level="41" type="Monster" name="Zenta Lizardman Scout">
+        <npc id="20556" level="41" type="Monster" name="Giant Monstereye">
+        <npc id="20564" level="41" type="Monster" name="Enchanted Monstereye">
+        <npc id="20584" level="41" type="Monster" name="Timak Orc Archer">
+        <npc id="20601" level="41" type="Monster" name="Tamlin Orc">
+        <npc id="20631" level="41" type="Monster" name="Taik Orc Archer">
+        <npc id="20770" level="41" type="Monster" name="Timak Orc Troop Archer">
+        <npc id="20794" level="41" type="Monster" name="Blade Stakato">
+        <npc id="20804" level="41" type="Monster" name="Crokian Lad">
+        <npc id="20849" level="41" type="Monster" name="Light Worm">
         -->
         <!-- 42 лвл-->
         <!--
+        <npc id="18620" level="42" type="Monster" name="Adiantum">
+        <npc id="20215" level="42" type="Monster" name="Mordeo">
+        <npc id="20302" level="42" type="Monster" name="Zenta Lizardman Warrior">
+        <npc id="20314" level="42" type="Monster" name="Giant White Shark">
+        <npc id="20557" level="42" type="Monster" name="Dire Wyrm">
+        <npc id="20565" level="42" type="Monster" name="Enchanted Stone Golem">
+        <npc id="20585" level="42" type="Monster" name="Timak Orc Soldier">
+        <npc id="20602" level="42" type="Monster" name="Tamlin Orc Archer">
+        <npc id="20632" level="42" type="Monster" name="Taik Orc Warrior">
+        <npc id="20805" level="42" type="Monster" name="Dailaon Lad">
+        <npc id="20834" level="42" type="Monster" name="Mardian">
+        <npc id="20937" level="42" type="Monster" name="Tanor Silenos Grunt">
+        <npc id="20752" level="42" type="Monster" name="Snipe Cohort">
+        <npc id="20795" level="42" type="Monster" name="Blade Stakato Worker">
+        <npc id="21035" level="42" type="Monster" name="Catherok">
+        <npc id="21173" level="42" type="Monster" name="Lith Shaman">
+        <npc id="21194" level="42" type="Monster" name="Gigant Confessor">
+        <npc id="21217" level="42" type="Monster" name="Hallowed Priest">
+        <npc id="21241" level="42" type="Monster" name="Barrow Priest">
+        <npc id="22030" level="42" type="Monster" name="Ragna Orc Shaman">
+        <npc id="22048" level="42" type="Monster" name="Dark Spider">
+        <npc id="22463" level="42" type="Monster" name="Gluttonous Kanabion" title="Void">
         -->
         <!-- 43 лвл-->
         <!--
-        -->
-        <!-- 43 лвл-->
-        <!--
+        <npc id="18562" level="43" type="Monster" name="Blade Otis" title="Kaneus">
+        <npc id="18563" level="43" type="Monster" name="Otis' Subordinate">
+        <npc id="20159" level="43" type="Monster" name="Minotaur">
+	    <npc id="20216" level="43" type="Monster" name="Ricenseo">
+	    <npc id="20303" level="43" type="Monster" name="Zenta Lizardman Shaman">
+	    <npc id="20558" level="43" type="Monster" name="Rotting tree">
+	    <npc id="20566" level="43" type="Monster" name="Enchanted Iron Golem">
+	    <npc id="20586" level="43" type="Monster" name="Timak Orc Warrior">
+	    <npc id="20603" level="43" type="Monster" name="Kronbe Spider">
+        <npc id="20633" level="43" type="Monster" name="Taik Orc Shaman">
+        <npc id="20769" level="43" type="Monster" name="Timak Orc Troop Warrior">
+        <npc id="20796" level="43" type="Monster" name="Blade Stakato Warrior">
+        <npc id="20806" level="43" type="Monster" name="Crokian Lad Warrior">
+        <npc id="20832" level="43" type="Monster" name="Zaken's Pikeman">
+        <npc id="20942" level="43" type="Monster" name="Nightmare Guide">
+        <npc id="21039" level="43" type="Monster" name="Snipe Cohort">
+        <npc id="21147" level="43" type="Monster" name="Catacomb Gargoyle">
+        <npc id="21602" level="43" type="Monster" name="Zaken's Pikeman">
+        <npc id="21603" level="43" type="Monster" name="Zaken's Pikeman">
+        <npc id="21604" level="43" type="Monster" name="Zaken's Elite Pikeman">
+        <npc id="22031" level="43" type="Monster" name="Ragna Orc Archer">
+        <npc id="27160" level="43" type="Monster" name="Gok Magok" title="Grandis Chief">
         -->
         <!-- 44 лвл-->
         <!--
+        <npc id="18302" level="44" type="Monster" name="Apostate's Evoked Spirit Offering">
+        <npc id="18312" level="44" type="Monster" name="Apostate's Evoked Spirit Offering">
+        <npc id="20217" level="44" type="Monster" name="Krator">
+        <npc id="20300" level="44" type="Monster" name="Zenta Lizardman Matriarch">
+        <npc id="20559" level="44" type="Monster" name="Rotting Golem">
+        <npc id="20567" level="44" type="Monster" name="Enchanted Gargoyle">
+        <npc id="20587" level="44" type="Monster" name="Timak Orc Shaman">
+        <npc id="20604" level="44" type="Monster" name="Lakin">
+        <npc id="20634" level="44" type="Monster" name="Taik Orc Captain">
+        <npc id="20751" level="44" type="Monster" name="Snipe">
+        <npc id="20768" level="44" type="Monster" name="Timak Orc Troop Shaman">
+        <npc id="20797" level="44" type="Monster" name="Blade Stakato Drone">
+        <npc id="20807" level="44" type="Monster" name="Farhite Lad">
+        <npc id="20833" level="44" type="Monster" name="Zaken's Archer">
+        <npc id="20836" level="44" type="Monster" name="Pirate Zombie">
+        <npc id="20938" level="44" type="Monster" name="Tanor Silenos Scout">
+        <npc id="20992" level="44" type="Monster" name="Swamp Alligator">
+        <npc id="20993" level="44" type="Monster" name="Swamp Warrior">
+        <npc id="21036" level="44" type="Monster" name="Shindebarn">
+        <npc id="21148" level="44" type="Monster" name="Catacomb Liviona">
+        <npc id="21605" level="44" type="Monster" name="Zaken's Archer">
+        <npc id="21606" level="44" type="Monster" name="Zaken's Archer">
+        <npc id="21607" level="44" type="Monster" name="Zaken's Elite Archer">
+        <npc id="22032" level="44" type="Monster" name="Ragna Orc Warrior">
+        <npc id="22047" level="44" type="Monster" name="Guardian of the Ghost Town">
         -->
         <!-- 45 лвл-->
         <!--
+        <npc id="20767" level="45" type="Monster" name="Timak Orc Troop Leader">
+        <npc id="20798" level="45" type="Monster" name="Water Giant">
+        <npc id="18534" level="45" type="Monster" name="Kertang's Treasure Chest">
+        <npc id="18539" level="45" type="Monster" name="Resurrection Tower">
+        <npc id="18548" level="45" type="Monster" name="Ancient Giants' Experiment">
+        <npc id="18549" level="45" type="Monster" name="Ancient Giants' Experiment">
+        <npc id="20218" level="45" type="Monster" name="Premo">
+        <npc id="20235" level="45" type="Monster" name="Shackle">
+        <npc id="20279" level="45" type="Monster" name="Shackle">
+        <npc id="20560" level="45" type="Monster" name="Trisalim Spider">
+        <npc id="20568" level="45" type="Monster" name="Formor">
+        <npc id="20588" level="45" type="Monster" name="Timak Orc Overlord">
+        <npc id="20589" level="45" type="Monster" name="Fline">
+        <npc id="20605" level="45" type="Monster" name="Weird Drake">
+        <npc id="20635" level="45" type="Monster" name="Carinkain">
+        <npc id="20659" level="45" type="Monster" name="Grave Wanderer">
+        <npc id="20681" level="45" type="Monster" name="Vanor Silenos">
+        <npc id="20808" level="45" type="Monster" name="Nos Lad">
+        <npc id="20835" level="45" type="Monster" name="Zaken's Seer">
+        <npc id="20837" level="45" type="Monster" name="Tainted Ogre">
+        <npc id="20838" level="45" type="Monster" name="Bloody Bat">
+        <npc id="20943" level="45" type="Monster" name="Nightmare Keeper">
+        <npc id="20991" level="45" type="Monster" name="Swamp Tribe">
+        <npc id="21174" level="45" type="Monster" name="Lith Commander">
+        <npc id="21195" level="45" type="Monster" name="Gigant Commander">
+        <npc id="21218" level="45" type="Monster" name="Vault Overlord">
+        <npc id="21242" level="45" type="Monster" name="Grave Overlord">
+        <npc id="21608" level="45" type="Monster" name="Zaken's Watchman">
+        <npc id="21609" level="45" type="Monster" name="Zaken's Watchman">
+        <npc id="21610" level="45" type="Monster" name="Zaken's High Grade Watchman">
+        <npc id="22033" level="45" type="Monster" name="Ragna Orc Mage">
+        <npc id="22034" level="45" type="Monster" name="Ragna Orc Mage">
+        <npc id="22035" level="45" type="Monster" name="Ragna Orc Mage">
+        <npc id="22036" level="45" type="Monster" name="Ragna Orc Mage">
+        <npc id="22037" level="45" type="Monster" name="Ragna Orc Healer">
+        <npc id="22443" level="45" type="Monster" name="Kertang's Messenger">
+        <npc id="22464" level="45" type="Monster" name="Callous Kanabion">
+        <npc id="25829" level="45" type="Monster" name="Mertes">
+        <npc id="25830" level="45" type="Monster" name="Golem of Repairs">
+        <npc id="29013" level="45" type="Monster" name="Premo">
         -->
         <!-- РБ
-        <npc id="25019" level="25" type="RaidBoss" name="Pan Dryad" title="Raid Boss">Сатир
         <npc id="25076" level="25" type="RaidBoss" name="Princess Molrang" title="Raid Boss">Лягушка
-        <npc id="25360" level="26" type="RaidBoss" name="Tiger Hornet" title="Raid Boss">Оса
+
 	    <npc id="25352" level="30" type="RaidBoss" name="Giant Wasteland Basilisk" title="Raid Boss">Василиск
         <npc id="25188" level="30" type="RaidBoss" name="Apepi" title="Raid Boss">Дракончик
         <npc id="25501" level="30" type="RaidBoss" name="Boss Akata" title="Raid Boss">Крысолюд
+
+        <npc id="25401" level="32" type="RaidBoss" name="Skyla" title="Raid Boss">
+
+        <npc id="25404" level="33" type="RaidBoss" name="Corsair Captain Kylon" title="Raid Boss">
+
 	    <npc id="25189" level="34" type="RaidBoss" name="Cronos's Servitor Mumu" title="Raid Boss">кот маг
 
+        <npc id="25185" level="35" type="RaidBoss" name="Tasaba Patriarch Hellena" title="Raid Boss">
 	    <npc id="25398" level="35" type="RaidBoss" name="Eye of Beleth" title="Raid Boss">Глаз
+
 	    <npc id="25211" level="36" type="RaidBoss" name="Sebek" title="Raid Boss">Алигатор
 
 	    <npc id="25506" level="37" type="RaidBoss" name="Rayito the Looter" title="Raid Boss">
+
+	    <npc id="25170" level="38" type="RaidBoss" name="Lizardmen Leader Hellion" title="Raid Boss">
+	    <npc id="25394" level="38" type="RaidBoss" name="Premo Prime" title="Raid Boss">
+
+	    <npc id="25082" level="39" type="RaidBoss" name="Leader of Cat Gang" title="Raid Boss">
+	    <npc id="25504" level="39" type="RaidBoss" name="Nellis' Vengeful Spirit" title="Raid Boss">
+
+	    <npc id="25064" level="40" type="RaidBoss" name="Wizard of Storm Teruk" title="Raid Boss">
+	    <npc id="25115" level="40" type="RaidBoss" name="Icarus Sample 1" title="Raid Boss">
+	    <npc id="25134" level="40" type="RaidBoss" name="Leto Chief Talkin" title="Raid Boss">
+	    <npc id="25155" level="40" type="RaidBoss" name="Shaman King Selu" title="Raid Boss">
+	    <npc id="25208" level="40" type="RaidBoss" name="Water Couatle Ateka" title="Raid Boss">
+	    <npc id="25214" level="40" type="RaidBoss" name="Fafurion's Page Sika" title="Raid Boss">
+	    <npc id="25410" level="40" type="RaidBoss" name="Road Scavenger Leader" title="Raid Boss">
+	    <npc id="25415" level="40" type="RaidBoss" name="Nakondas" title="Raid Boss">
+	    <npc id="25487" level="40" type="RaidBoss" name="Water Spirit Lian" title="Raid Boss">
+	    <npc id="25490" level="40" type="RaidBoss" name="Gwindorr" title="Raid Boss">
+
+        <npc id="25007" level="42" type="RaidBoss" name="Retreat Spider Cletu" title="Raid Boss">
+
+        <npc id="25088" level="43" type="RaidBoss" name="Crazy Mechanic Golem" title="Raid Boss">
+        <npc id="25192" level="43" type="RaidBoss" name="Earth Protector Panathen" title="Raid Boss">
+
+        <npc id="25085" level="44" type="RaidBoss" name="Timak Orc Chief Ranger" title="Raid Boss">
+        <npc id="25099" level="44" type="RaidBoss" name="Rotten Tree Repiro" title="Raid Boss">
+        <npc id="25418" level="44" type="RaidBoss" name="Dread Avenger Kraven" title="Raid Boss">
+        <npc id="25431" level="44" type="RaidBoss" name="Flamestone Golem" title="Raid Boss">
+        <npc id="25438" level="44" type="RaidBoss" name="Thief Kelbar" title="Raid Boss">
+
+        <npc id="25102" level="45" type="RaidBoss" name="Shacram" title="Raid Boss">
+        <npc id="25173" level="45" type="RaidBoss" name="Tiger King Karuta" title="Raid Boss">
+        <npc id="25057" level="45" type="RaidBoss" name="Biconne of Blue Sky" title="Raid Boss">
+        <npc id="25260" level="45" type="RaidBoss" name="Iron Giant Totem" title="Raid Boss">
+        <npc id="25395" level="45" type="RaidBoss" name="Archon Suscepter" title="Raid Boss">
+        <npc id="25437" level="45" type="RaidBoss" name="Timak Orc Gosmos" title="Raid Boss">
+        <npc id="25441" level="45" type="RaidBoss" name="Evil Spirit Cyrion" title="Raid Boss">
+        <npc id="25498" level="45" type="RaidBoss" name="Fafurion's Henchman Istary" title="Raid Boss">
         -->
         <!-- 20357 20919 20920 21100 Ящеры -->
 
@@ -314,8 +555,8 @@
         <npc id="21123" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Баал Разрушитель Дре Ванул 25 лвл -->
         <npc id="21122" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Людоед Кхаши 24 лвл -->
 
-        <npc id="20779" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Провидец Орков Рагна 39 лвл -->
-        <npc id="20778" x="-17552" y="-81390" z="-3584" heading="0" respawnTime="20sec" /><!-- Владыка Орков Рагна 39 лвл -->
+
+
 
 
 

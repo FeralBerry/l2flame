@@ -2096,15 +2096,15 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="24382" level="10" type="Monster" name="Nasty Zombie">
+	<npc id="24382" level="20" type="Monster" name="Отвратительный Зомби">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="120" sp="13" />
+		<acquire exp="320" sp="33" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
-			<attack physical="27.24646" magical="18.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="71.08179" magical="52.01457" />
+			<vitals hp="630.38548" hpRegen="2.5" mp="240.88" mpRegen="1.2" />
+			<attack physical="87.24646" magical="68.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="151.08179" magical="102.01457" />
 			<speed>
 				<walk ground="15" />
 				<run ground="15" />
@@ -2113,36 +2113,52 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
+		<ai isAggressive="true" />
+		<skillList>
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="106" max="184" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0258">
+					<item id="256" min="1" max="1" chance="100" /> <!-- Cestus -->
+				</group>
+				<group chance="11.7598">
+					<item id="1868" min="1" max="1" chance="76.9231" /> <!-- Thread -->
+					<item id="1873" min="1" max="1" chance="15.3846" /> <!-- Silver Nugget -->
+					<item id="2142" min="1" max="1" chance="7.6923" /> <!-- Recipe: Varnish of Purity -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2144" min="1" max="1" chance="4.5937" /> <!-- Recipe: Compound Braid -->
+				<item id="50" min="1" max="1" chance="0.8817" /> <!-- Leather Gloves -->
+				<item id="1924" min="1" max="1" chance="7.4091" /> <!-- Leather Helmet Design -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="12" />
 			<height normal="27.5" />
 		</collision>
-		<skillList>
-			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-		</skillList>
-		<dropLists>
-			<drop>
-				<item id="57" min="2" max="5" chance="70" /> <!-- Adena -->
-			</drop>
-		</dropLists>
 	</npc>
-	<npc id="24383" level="10" type="Monster" name="Nasty Zombie Lord">
+	<npc id="24383" level="20" type="Monster" name="Отвратительный Лорд Зомби">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="120" sp="13" />
+		<acquire exp="360" sp="36" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
-			<attack physical="27.24646" magical="18.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="71.08179" magical="52.01457" />
+			<vitals hp="730.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
+			<attack physical="87.24646" magical="68.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="151.08179" magical="102.01457" />
 			<speed>
 				<walk ground="15" />
 				<run ground="15" />
@@ -2150,11 +2166,8 @@
 			<hitTime>430</hitTime>
 			<abnormalResist physical="10" magical="10" />
 		</stats>
+		<ai isAggressive="true" />
 		<status attackable="true" />
-		<collision>
-			<radius normal="13" />
-			<height normal="21" />
-		</collision>
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
@@ -2168,9 +2181,66 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="2" max="5" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="137" max="239" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.2923">
+					<item id="1101" min="1" max="1" chance="38.5101" /> <!-- Tunic of Devotion -->
+					<item id="1104" min="1" max="1" chance="61.4899" /> <!-- Stockings of Devotion -->
+				</group>
+				<group chance="16.89">
+					<item id="1869" min="1" max="1" chance="11.5518" /> <!-- Iron Ore -->
+					<item id="1870" min="1" max="1" chance="11.5518" /> <!-- Coal -->
+					<item id="1871" min="1" max="1" chance="11.5518" /> <!-- Charcoal -->
+					<item id="1872" min="1" max="1" chance="15.4024" /> <!-- Animal Bone -->
+					<item id="1867" min="1" max="1" chance="15.4024" /> <!-- Animal Skin -->
+					<item id="2140" min="1" max="1" chance="2.3104" /> <!-- Recipe: High Grade Suede -->
+					<item id="5158" min="1" max="1" chance="0.4621" /> <!-- Recipe: Spiritshot (D) Compressed Package (100%) -->
+					<item id="735" min="1" max="1" chance="0.9626" /> <!-- Potion of Alacrity -->
+					<item id="1831" min="1" max="1" chance="30.8047" /> <!-- Antidote -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1865" min="1" max="1" chance="29.7237" /> <!-- Varnish -->
+				<item id="1866" min="1" max="1" chance="19.8158" /> <!-- Suede -->
+				<item id="1897" min="1" max="1" chance="7.0771" /> <!-- Necklace of Wisdom Chain -->
+			</spoil>
 		</dropLists>
+		<collision>
+			<radius normal="13" />
+			<height normal="21" />
+		</collision>
 	</npc>
 	<npc id="24384" level="20" type="Monster" name="Krakos Bat">
 		<race>ANIMAL</race>

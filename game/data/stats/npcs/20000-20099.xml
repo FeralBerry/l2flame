@@ -324,7 +324,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20015" level="13" type="Monster" name="Marsh Zombie">
+	<npc id="20015" level="13" type="Monster" name="Болотный Зомби">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -333,7 +333,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="654" sp="26" />
+		<acquire exp="156" sp="16" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -372,7 +372,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="127" max="180" chance="100" /> <!-- Adena -->
+					<item id="57" min="104" max="130" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2311">
 					<item id="9" min="1" max="1" chance="9.9075" /> <!-- Cedar Staff -->
@@ -427,7 +427,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="20016" level="13" type="Monster" name="Stone Golem">
+	<npc id="20016" level="13" type="Monster" name="Каменный Голем">
 		<parameters>
 			<param name="MoveAroundSocial" value="116" />
 			<param name="MoveAroundSocial1" value="116" />
@@ -436,7 +436,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="654" sp="26" />
+		<acquire exp="161" sp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
 			<attack physical="25.04271" magical="17.10092" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -476,7 +476,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="127" max="180" chance="100" /> <!-- Adena -->
+					<item id="57" min="100" max="140" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0687">
 					<item id="271" min="1" max="1" chance="100" /> <!-- Hunting Bow -->
@@ -3249,7 +3249,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20053" level="21" type="Monster" name="Ol Mahum Patrol">
+	<npc id="20053" level="21" type="Monster" name="Дозорный Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3278,7 +3278,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -3289,7 +3289,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -3729,7 +3730,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20058" level="22" type="Monster" name="Ol Mahum Guard">
+	<npc id="20058" level="22" type="Monster" name="Гнолл Страж">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -3758,7 +3759,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
@@ -3769,6 +3770,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<ai clanHelpRange="300" aggroRange="450">
 			<clanList>
 				<clan>OL_MAHUM</clan>
@@ -4048,7 +4050,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="20061" level="23" type="Monster" name="Ol Mahum Straggler">
+	<npc id="20061" level="23" type="Monster" name="Гнолл Одиночка">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -4088,7 +4090,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -4256,7 +4258,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20063" level="24" type="Monster" name="Ol Mahum Shooter">
+	<npc id="20063" level="24" type="Monster" name="Гнолл Стрелок">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -4270,7 +4272,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- Bow -->
-		<acquire exp="1156" sp="56" />
+		<acquire exp="2156" sp="106" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="435.34437" hpRegen="3.5" mp="292.875348144335" mpRegen="1.5" />
 			<attack physical="60.19687" magical="41.10666" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -4285,7 +4287,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -4296,7 +4298,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -4308,7 +4311,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="183" max="337" chance="100" /> <!-- Adena -->
+					<item id="57" min="383" max="637" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1553">
 					<item id="273" min="1" max="1" chance="8.3226" /> <!-- Composite Bow -->
@@ -4469,7 +4472,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="20065" level="25" type="Monster" name="Ol Mahum Patrolman">
+	<npc id="20065" level="25" type="Monster" name="Дозорный Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -4483,7 +4486,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- Long Sword -->
-		<acquire exp="992" sp="49" />
+		<acquire exp="1892" sp="109" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="460.96247" hpRegen="3.5" mp="259.2" mpRegen="1.5" />
 			<attack physical="64.83203" magical="44.27187" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4498,7 +4501,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
 			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
@@ -4509,7 +4512,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -4518,8 +4522,66 @@
 			<radius normal="13.5" />
 			<height normal="25" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="288" max="753" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.1271">
+					<item id="847" min="1" max="1" chance="5.1488" /> <!-- Red Crescent Earring -->
+					<item id="910" min="1" max="1" chance="3.8616" /> <!-- Necklace of Devotion -->
+					<item id="1899" min="1" max="1" chance="83.2663" /> <!-- Necklace of Devotion Chain -->
+					<item id="890" min="1" max="1" chance="7.7233" /> <!-- Ring of Devotion -->
+				</group>
+				<group chance="4.8109">
+					<item id="1876" min="1" max="1" chance="14.2682" /> <!-- Mithril Ore -->
+					<item id="1880" min="1" max="1" chance="7.1341" /> <!-- Steel -->
+					<item id="1877" min="1" max="1" chance="2.8536" /> <!-- Adamantite Nugget -->
+					<item id="1881" min="1" max="1" chance="9.5121" /> <!-- Coarse Bone Powder -->
+					<item id="1882" min="1" max="1" chance="15.8536" /> <!-- Leather -->
+					<item id="2181" min="1" max="1" chance="7.1413" /> <!-- Recipe: White Tunic -->
+					<item id="1061" min="1" max="1" chance="43.2371" /> <!-- Healing Potion -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2181" min="1" max="1" chance="4.2851" /> <!-- Recipe: White Tunic -->
+				<item id="1899" min="1" max="1" chance="6.6888" /> <!-- Necklace of Devotion Chain -->
+				<item id="1899" min="1" max="1" chance="6.6888" /> <!-- Necklace of Devotion Chain -->
+			</spoil>
+		</dropLists>
 	</npc>
-	<npc id="20066" level="25" type="Monster" name="Ol Mahum Officer">
+	<npc id="20066" level="25" type="Monster" name="Капитан Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -4534,7 +4596,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" /> <!-- Bastard Sword -->
-		<acquire exp="1263" sp="64" />
+		<acquire exp="3263" sp="164" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="460.96247" hpRegen="3.5" mp="304.590362070109" mpRegen="1.5" />
 			<attack physical="64.83203" magical="44.27187" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4549,7 +4611,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
@@ -4561,7 +4623,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -4573,7 +4636,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="196" max="367" chance="100" /> <!-- Adena -->
+					<item id="57" min="396" max="867" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1012">
 					<item id="347" min="1" max="1" chance="38.4431" /> <!-- Ring Mail Breastplate -->
@@ -5154,7 +5217,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20073" level="28" type="Monster" name="Ol Mahum Legionnaire">
+	<npc id="20073" level="28" type="Monster" name="Легионер Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -5168,7 +5231,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="1178" sp="62" />
+		<acquire exp="2178" sp="122" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -5184,7 +5247,7 @@
 		</stats>
 		<status undying="false" canBeSown="true" />
 		<skillList>
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -5196,7 +5259,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -5205,6 +5269,60 @@
 			<radius normal="13.5" />
 			<height normal="25" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="217" max="425" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0181">
+					<item id="220" min="1" max="1" chance="100" /> <!-- Crafted Dagger -->
+				</group>
+				<group chance="3.8664">
+					<item id="1876" min="1" max="1" chance="24.5217" /> <!-- Mithril Ore -->
+					<item id="1880" min="1" max="1" chance="12.2609" /> <!-- Steel -->
+					<item id="1877" min="1" max="1" chance="4.9043" /> <!-- Adamantite Nugget -->
+					<item id="1881" min="1" max="1" chance="16.3478" /> <!-- Coarse Bone Powder -->
+					<item id="1882" min="1" max="1" chance="27.2464" /> <!-- Leather -->
+					<item id="2182" min="1" max="1" chance="14.7189" /> <!-- Recipe: Scale Gaiters -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2018" min="1" max="1" chance="0.6735" /> <!-- Assassin Knife Edge -->
+				<item id="1876" min="1" max="1" chance="10.1359" /> <!-- Mithril Ore -->
+				<item id="1880" min="1" max="1" chance="5.068" /> <!-- Steel -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20074" level="29" type="Monster" name="Androscorpio">
 		<parameters>
@@ -5389,7 +5507,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20076" level="29" type="Monster" name="Ol Mahum Commander">
+	<npc id="20076" level="29" type="Monster" name="Командир Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -5404,7 +5522,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" /> <!-- Bastard Sword -->
-		<acquire exp="1582" sp="85" />
+		<acquire exp="4582" sp="485" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -5419,7 +5537,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
@@ -5431,6 +5549,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
@@ -5442,17 +5561,58 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="21" max="50" chance="70" /> <!-- Adena -->
-				<item id="8600" min="1" max="1" chance="10" /> <!-- Herb of Life -->
-				<item id="8601" min="1" max="1" chance="8" /> <!-- Major Herb of Life -->
-				<item id="8602" min="1" max="1" chance="2" /> <!-- Superior Herb of Life -->
-				<item id="8603" min="1" max="1" chance="19.8" /> <!-- Herb of Mana -->
-				<item id="8604" min="1" max="1" chance="9.9" /> <!-- Major Herb of Mana -->
-				<item id="8605" min="1" max="1" chance="3.3" /> <!-- Superior Herb of Mana -->
-				<item id="13028" min="1" max="1" chance="0.1" /> <!-- Vitality Recovering Potion - Grizzly -->
-				<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
-				<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
+				<group chance="70">
+					<item id="57" min="815" max="1226" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.2168">
+					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->
+					<item id="605" min="1" max="1" chance="50" /> <!-- Leather Gauntlets -->
+				</group>
+				<group chance="15.046">
+					<item id="1869" min="1" max="1" chance="30.7377" /> <!-- Iron Ore -->
+					<item id="1864" min="1" max="1" chance="61.4754" /> <!-- Stem -->
+					<item id="1880" min="1" max="1" chance="3.0738" /> <!-- Steel -->
+					<item id="5550" min="1" max="1" chance="0.4098" /> <!-- Durable Metal Plate -->
+					<item id="737" min="1" max="1" chance="3.0738" /> <!-- Scroll of Resurrection -->
+					<item id="6387" min="1" max="1" chance="1.2295" /> <!-- Blessed Scroll of Resurrection for Pets -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1869" min="1" max="1" chance="50.779" /> <!-- Iron Ore -->
+				<item id="1061" min="1" max="1" chance="30.7751" /> <!-- Healing Potion -->
+				<item id="1900" min="1" max="1" chance="5.5557" /> <!-- Enchanted Necklace Chain -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="20077" level="30" type="Monster" name="Androscorpio Hunter">

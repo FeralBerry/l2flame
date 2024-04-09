@@ -927,7 +927,7 @@
 			<height normal="31" grown="36" />
 		</collision>
 	</npc>
-	<npc id="20755" level="30" type="Monster" name="Talakin">
+	<npc id="20755" level="30" type="Monster" name="Командир Гноллов Латников">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -975,7 +975,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>OL_MAHUM</clan>
 			</clanList>
@@ -1010,7 +1010,7 @@
 			<height normal="27" grown="32" />
 		</collision>
 	</npc>
-	<npc id="20756" level="28" type="Monster" name="Talakin Archer">
+	<npc id="20756" level="28" type="Monster" name="Снайпер Гноллов Латников">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1085,7 +1085,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="20757" level="27" type="Monster" name="Talakin Raider">
+	<npc id="20757" level="27" type="Monster" name="Бандит Гноллов Латников">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />

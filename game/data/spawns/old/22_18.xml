@@ -2,17 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="22_18">
 		<group>
-			<npc id="20568" x="93088" y="20064" z="-3592" heading="6635" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="92233" y="21939" z="-3568" heading="5816" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="93086" y="20908" z="-3512" heading="29091" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="93304" y="22697" z="-3240" heading="13343" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="92260" y="22647" z="-3424" heading="24172" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="89466" y="25395" z="-3624" heading="380" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="89880" y="25586" z="-3640" heading="60247" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="87286" y="24751" z="-3592" heading="63028" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="88250" y="25536" z="-3560" heading="6572" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="86351" y="25801" z="-3592" heading="55233" respawnTime="60sec" /> <!-- Formor -->
-			<npc id="20568" x="87340" y="28844" z="-3544" heading="3355" respawnTime="60sec" /> <!-- Formor -->
 			<npc id="20569" x="95398" y="13251" z="-3528" heading="24530" respawnTime="60sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="94675" y="13165" z="-3600" heading="5155" respawnTime="60sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="95813" y="13211" z="-3432" heading="17243" respawnTime="60sec" /> <!-- Formor Elder -->
@@ -59,34 +48,6 @@
 			<npc id="20572" x="77666" y="6234" z="-3464" respawnTime="25sec" /> <!-- Tarlk Bugbear Captain -->
 			<npc id="20572" x="79972" y="3729" z="-2936" heading="51631" respawnTime="25sec" /> <!-- Tarlk Bugbear Captain -->
 			<npc id="20572" x="82910" y="3746" z="-2872" heading="56402" respawnTime="25sec" /> <!-- Tarlk Bugbear Captain -->
-			<npc id="20568" x="94854" y="17161" z="-3640" heading="54946" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="93960" y="22413" z="-3264" heading="28502" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="92910" y="20239" z="-3600" heading="17487" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="91624" y="21940" z="-3616" heading="59678" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="91470" y="22612" z="-3624" heading="25623" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="96312" y="26094" z="-3520" heading="40683" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="97407" y="28085" z="-3656" heading="9014" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="95114" y="27672" z="-3696" heading="22221" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="97076" y="26794" z="-3528" heading="42065" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="88320" y="26572" z="-3672" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="89459" y="29447" z="-3640" heading="8850" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="91743" y="27362" z="-3600" heading="54597" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="92976" y="28700" z="-3680" heading="7692" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="92197" y="27830" z="-3672" heading="28951" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="86218" y="23184" z="-3760" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="87125" y="23718" z="-3760" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="90104" y="25585" z="-3632" heading="65446" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="88431" y="24619" z="-3584" heading="64304" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="90155" y="24430" z="-3624" heading="17983" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="81800" y="27900" z="-3728" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="87135" y="28587" z="-3480" heading="4892" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="82405" y="27188" z="-3688" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="84393" y="27508" z="-3720" heading="14284" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="76317" y="26844" z="-3480" heading="28284" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="78493" y="24731" z="-3464" heading="53398" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="78852" y="25644" z="-3464" heading="7085" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="80472" y="22932" z="-3668" respawnTime="25sec" /> <!-- Formor -->
-			<npc id="20568" x="80774" y="22754" z="-3668" respawnTime="25sec" /> <!-- Formor -->
 			<npc id="20569" x="97833" y="7363" z="-3704" heading="57144" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="90504" y="8966" z="-3392" heading="41256" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="94529" y="8420" z="-3908" respawnTime="25sec" /> <!-- Formor Elder -->

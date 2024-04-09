@@ -2,29 +2,6 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="AntNest">
 		<group>
-			<npc id="20090" x="-19696" y="183811" z="-5600" heading="40099" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-19438" y="183298" z="-5600" heading="14113" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-19532" y="182733" z="-5520" heading="22685" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-19409" y="183115" z="-5600" heading="50522" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-19474" y="183267" z="-5600" heading="18629" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-19373" y="182653" z="-5496" heading="19627" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-19396" y="184145" z="-5600" heading="23831" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-21920" y="186574" z="-5688" heading="12366" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-23654" y="182385" z="-5600" heading="25780" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-23805" y="182896" z="-5600" heading="63771" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-24098" y="184008" z="-5600" heading="43326" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-23280" y="184215" z="-5648" heading="32504" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-24115" y="182866" z="-5584" heading="13992" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-23755" y="183596" z="-5600" heading="5614" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-23244" y="185454" z="-5592" heading="8188" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-23130" y="185643" z="-5600" heading="35743" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-21691" y="186417" z="-5688" heading="16163" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-27926" y="182303" z="-5312" heading="33760" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-27282" y="182662" z="-5392" heading="14188" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-26533" y="182706" z="-5408" heading="36022" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-29028" y="182990" z="-5312" heading="62602" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-28997" y="183080" z="-5312" heading="2160" respawnTime="60sec" /> <!-- Noble Ant Captain -->
-			<npc id="20090" x="-28898" y="183233" z="-5312" heading="51975" respawnTime="60sec" /> <!-- Noble Ant Captain -->
 			<npc id="29004" x="-21732" y="179232" z="-5832" heading="25028" respawnTime="60sec" /> <!-- Escort Ant -->
 			<npc id="29004" x="-21718" y="178902" z="-5816" heading="49413" respawnTime="60sec" /> <!-- Escort Ant -->
 			<npc id="29004" x="-21691" y="179142" z="-5832" heading="53816" respawnTime="60sec" /> <!-- Escort Ant -->

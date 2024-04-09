@@ -1,14 +1,3 @@
-pet_evolve_begin	pet_id=12	evolve_step=1	evolve_condition={{level;30}}	evolve_cost={{57;100};{3031;200}}	pet_evolve_end
-pet_evolve_begin	pet_id=12	evolve_step=2	evolve_condition={{level;50}}	evolve_cost={{57;300};{3031;400}}	pet_evolve_end
-pet_evolve_begin	pet_id=13	evolve_step=1	evolve_condition={{level;30}}	evolve_cost={{57;100};{3031;200}}	pet_evolve_end
-pet_evolve_begin	pet_id=13	evolve_step=2	evolve_condition={{level;50}}	evolve_cost={{57;300};{3031;400}}	pet_evolve_end
-pet_evolve_begin	pet_id=14	evolve_step=1	evolve_condition={{level;30}}	evolve_cost={{57;100};{3031;200}}	pet_evolve_end
-pet_evolve_begin	pet_id=14	evolve_step=2	evolve_condition={{level;50}}	evolve_cost={{57;300};{3031;400}}	pet_evolve_end
-pet_evolve_begin	pet_id=15	evolve_step=1	evolve_condition={{level;30}}	evolve_cost={{57;100};{3031;200}}	pet_evolve_end
-pet_evolve_begin	pet_id=15	evolve_step=2	evolve_condition={{level;50}}	evolve_cost={{57;300};{3031;400}}	pet_evolve_end
-pet_evolve_begin	pet_id=16	evolve_step=1	evolve_condition={{level;30}}	evolve_cost={{57;100};{3031;200}}	pet_evolve_end
-pet_evolve_begin	pet_id=16	evolve_step=2	evolve_condition={{level;50}}	evolve_cost={{57;300};{3031;400}}	pet_evolve_end
-pet_evolve_begin	pet_id=17	evolve_step=1	evolve_condition={{level;30}}	evolve_cost={{57;100};{3031;200}}	pet_evolve_end
-pet_evolve_begin	pet_id=17	evolve_step=2	evolve_condition={{level;50}}	evolve_cost={{57;300};{3031;400}}	pet_evolve_end
-pet_evolve_begin	pet_id=99	evolve_step=1	evolve_condition={{level;99}}	evolve_cost={{57;100};{3031;200}}	pet_evolve_end
-pet_evolve_begin	pet_id=99	evolve_step=2	evolve_condition={{level;99}}	evolve_cost={{57;300};{3031;400}}	pet_evolve_end
+version https://git-lfs.github.com/spec/v1
+oid sha256:5abd2da1be29e16e7e9443f6472f6dda177ff9f353333e7c1255dc196803656f
+size 1692

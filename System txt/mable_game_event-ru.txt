@@ -1,7 +1,3 @@
-mable_game_event_begin	event_group=back	event_id=1	event_group_description=[Движение назад]	event_description=[Из-за нападения монстров приходится отступить.]	mable_game_event_end
-mable_game_event_begin	event_group=next	event_id=1	event_group_description=[Движение вперед]	event_description=[Ноги сами идут вперед.]	mable_game_event_end
-mable_game_event_begin	event_group=warp	event_id=1	event_group_description=[Принудительная Телепортация]	event_description=[Нужно быть осторожнее со свитками телепортации...]	mable_game_event_end
-mable_game_event_begin	event_group=warp	event_id=2	event_group_description=[Принудительная Телепортация]	event_description=[Открывшийся прямо на пути пространственный разлом перемещает в новое место.]	mable_game_event_end
-mable_game_event_begin	event_group=reward	event_id=1	event_group_description=[Получение предмета]	event_description=[Вы нашли сокровище!]	mable_game_event_end
-mable_game_event_begin	event_group=reward	event_id=2	event_group_description=[Остановка]	event_description=[Нужно подготовиться к путешествию.]	mable_game_event_end
-mable_game_event_begin	event_group=prison	event_id=1	event_group_description=[Необитаемый остров]	event_description=[Выбраться будет нелегко.]	mable_game_event_end
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e191f563837c6378df31a18088f5c484a386637c141734b72eb13766f5c1e9
+size 1601

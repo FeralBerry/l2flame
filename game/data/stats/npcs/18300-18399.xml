@@ -391,7 +391,7 @@
 			<height normal="20" />
 		</collision>
 	</npc>
-	<npc id="18309" level="35" type="Monster" name="Flame of the Branded">
+	<npc id="18309" level="35" type="Monster" name="Пламя Заклейменного">
 		<parameters>
 			<param name="RoomIndex" value="1" />
 			<param name="SSQPart" value="DAWN" />
@@ -401,7 +401,7 @@
 		<sex>MALE</sex>
 		<acquire exp="4893" sp="290" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="6954.574" hpRegen="13.5" mp="402.6" mpRegen="1.8" />
+			<vitals hp="695.574" hpRegen="13.5" mp="402.6" mpRegen="1.8" />
 			<attack physical="129.32896" magical="88.31491" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="136.72948" magical="82.8278636923005" />
 			<speed>
@@ -425,7 +425,7 @@
 			<skill id="4438" level="2" /> <!-- Greater Sleep Resistance -->
 			<skill id="4439" level="2" /> <!-- Greater Hold Resistance -->
 			<skill id="4444" level="2" /> <!-- Greater Bow/ Crossbow Resistance -->
-			<skill id="4614" level="4" /> <!-- Death Bomb -->
+			<skill id="4614" level="2" /> <!-- Death Bomb -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
@@ -437,7 +437,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="279" max="557" chance="100" /> <!-- Adena -->
+					<item id="57" min="879" max="1257" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.3299">
 					<item id="849" min="1" max="1" chance="2.6765" /> <!-- Tiger's Eye Earring -->
@@ -2132,7 +2132,7 @@
 			<height normal="25.8" />
 		</collision>
 	</npc>
-	<npc id="18342" level="1" type="Monster" name="Gremlin">
+	<npc id="18342" level="1" type="Monster" name="Гремлин">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2140,7 +2140,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="29" sp="2" />
+		<acquire exp="10" sp="1" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="39.74519" hpRegen="2" mp="40" mpRegen="0.9" />
 			<attack physical="8.47458" magical="5.78704" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

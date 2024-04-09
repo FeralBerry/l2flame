@@ -1,29 +1,3 @@
-usm_begin	MovieID=139	FileName=[awake1-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=140	FileName=[awake2-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=141	FileName=[awake3-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=142	FileName=[awake4-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=143	FileName=[awake5-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=144	FileName=[awake6-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=145	FileName=[awake7-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=146	FileName=[awake8-ru.usm]	PosX=0	PosY=0	Width=248	Height=432	SkinType=1	SkipButtonType=1	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=147	FileName=[ertheia-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=148	FileName=[heroes-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=1	FileName=[Q001-ru.usm]	PosX=0	PosY=0	Width=304	Height=400	SkinType=1	SkipButtonType=1	targetAnchorPointType=[centerLeft]	clipAnchorPointType=[centerLeft]	usm_end
-usm_begin	MovieID=2	FileName=[GD10_prologue-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=3	FileName=[Q002-ru.usm]	PosX=0	PosY=0	Width=304	Height=400	SkinType=1	SkipButtonType=1	targetAnchorPointType=[centerRight]	clipAnchorPointType=[centerRight]	usm_end
-usm_begin	MovieID=4	FileName=[Q003-ru.usm]	PosX=0	PosY=0	Width=304	Height=400	SkinType=1	SkipButtonType=1	targetAnchorPointType=[centerRight]	clipAnchorPointType=[centerRight]	usm_end
-usm_begin	MovieID=5	FileName=[Q004-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=6	FileName=[Q005-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=7	FileName=[Q006-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=8	FileName=[Q007-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=9	FileName=[Q009-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=10	FileName=[Q010-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=11	FileName=[Q011-ru.usm]	PosX=0	PosY=0	Width=304	Height=400	SkinType=1	SkipButtonType=1	targetAnchorPointType=[centerRight]	clipAnchorPointType=[centerRight]	usm_end
-usm_begin	MovieID=12	FileName=[Q012-ru.usm]	PosX=0	PosY=0	Width=304	Height=400	SkinType=1	SkipButtonType=1	targetAnchorPointType=[centerRight]	clipAnchorPointType=[centerRight]	usm_end
-usm_begin	MovieID=13	FileName=[Q013-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=14	FileName=[Q014-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=15	FileName=[Q015-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=16	FileName=[ff_intro-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[centerCenter]	clipAnchorPointType=[centerCenter]	usm_end
-usm_begin	MovieID=149	FileName=[antaras-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=150	FileName=[dk_intro-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
-usm_begin	MovieID=151	FileName=[dethrone_intro-ru.usm]	PosX=0	PosY=0	Width=0	Height=0	SkinType=1	SkipButtonType=0	targetAnchorPointType=[TopLeft]	clipAnchorPointType=[TopLeft]	usm_end
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce796f55b5c1b04e3e347b384d997b1a6d6300b5125879283bc56acb69c2d645
+size 5299

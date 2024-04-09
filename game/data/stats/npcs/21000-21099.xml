@@ -1145,7 +1145,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="21011" level="30" type="Monster" name="Ol Mahum Van Grunt">
+	<npc id="21011" level="30" type="Monster" name="Воитель Авангарда Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -1365,7 +1365,7 @@
 			<height normal="20" grown="24" />
 		</collision>
 	</npc>
-	<npc id="21013" level="32" type="Monster" name="Ol Mahum Van Archer">
+	<npc id="21013" level="32" type="Monster" name="Стрелец Авангарда Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -1586,7 +1586,7 @@
 			<height normal="29" />
 		</collision>
 	</npc>
-	<npc id="21015" level="34" type="Monster" name="Ol Mahum Van Leader">
+	<npc id="21015" level="34" type="Monster" name="Главарь Авангарда Гноллов">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />

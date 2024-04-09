@@ -1,30 +1,3 @@
-homun_npc_begin	index=1	type=0	npc_id=19751	base_skill={32999;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Chu]	homun_npc_end
-homun_npc_begin	index=2	type=1	npc_id=19752	base_skill={32999;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Chu]	homun_npc_end
-homun_npc_begin	index=3	type=2	npc_id=19753	base_skill={32999;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Chu]	homun_npc_end
-homun_npc_begin	index=4	type=0	npc_id=19754	base_skill={33000;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Utanka]	homun_npc_end
-homun_npc_begin	index=5	type=1	npc_id=19755	base_skill={33000;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Utanka]	homun_npc_end
-homun_npc_begin	index=6	type=2	npc_id=19756	base_skill={33000;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Utanka]	homun_npc_end
-homun_npc_begin	index=7	type=0	npc_id=19757	base_skill={33001;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Buffalo]	homun_npc_end
-homun_npc_begin	index=8	type=1	npc_id=19758	base_skill={33001;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Buffalo]	homun_npc_end
-homun_npc_begin	index=9	type=2	npc_id=19759	base_skill={33001;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Buffalo]	homun_npc_end
-homun_npc_begin	index=10	type=0	npc_id=19760	base_skill={33002;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Chick]	homun_npc_end
-homun_npc_begin	index=11	type=1	npc_id=19761	base_skill={33002;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Chick]	homun_npc_end
-homun_npc_begin	index=12	type=2	npc_id=19762	base_skill={33002;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Chick]	homun_npc_end
-homun_npc_begin	index=13	type=0	npc_id=19763	base_skill={33003;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Hatchling]	homun_npc_end
-homun_npc_begin	index=14	type=1	npc_id=19764	base_skill={33003;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Hatchling]	homun_npc_end
-homun_npc_begin	index=15	type=2	npc_id=19765	base_skill={33003;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Hatchling]	homun_npc_end
-homun_npc_begin	index=16	type=0	npc_id=19793	base_skill={33930;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Cow]	homun_npc_end
-homun_npc_begin	index=17	type=1	npc_id=19794	base_skill={33930;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Cow]	homun_npc_end
-homun_npc_begin	index=18	type=2	npc_id=19795	base_skill={33930;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Cow]	homun_npc_end
-homun_npc_begin	index=19	type=0	npc_id=19796	base_skill={33931;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Cholong]	homun_npc_end
-homun_npc_begin	index=20	type=1	npc_id=19797	base_skill={33931;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Cholong]	homun_npc_end
-homun_npc_begin	index=21	type=2	npc_id=19798	base_skill={33931;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Cholong]	homun_npc_end
-homun_npc_begin	index=22	type=0	npc_id=19799	base_skill={33932;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Nymph]	homun_npc_end
-homun_npc_begin	index=23	type=1	npc_id=19800	base_skill={33932;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Nymph]	homun_npc_end
-homun_npc_begin	index=24	type=2	npc_id=19801	base_skill={33932;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Nymph]	homun_npc_end
-homun_npc_begin	index=25	type=0	npc_id=19802	base_skill={33933;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Eye]	homun_npc_end
-homun_npc_begin	index=26	type=1	npc_id=19803	base_skill={33933;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Eye]	homun_npc_end
-homun_npc_begin	index=27	type=2	npc_id=19804	base_skill={33933;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Eye]	homun_npc_end
-homun_npc_begin	index=28	type=0	npc_id=19805	base_skill={33934;0}	npc_grade=1	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Popo]	homun_npc_end
-homun_npc_begin	index=29	type=1	npc_id=19806	base_skill={33934;0}	npc_grade=2	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Popo]	homun_npc_end
-homun_npc_begin	index=30	type=2	npc_id=19807	base_skill={33934;0}	npc_grade=3	img_name=[L2UI_EPIC.HomunCulusWnd.HomunNPC_Popo]	homun_npc_end
+version https://git-lfs.github.com/spec/v1
+oid sha256:96ebb9a660800bdc29279775a15b117324e6b8090843e84522fc934aea27fa3c
+size 4285
