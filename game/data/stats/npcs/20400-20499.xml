@@ -1458,7 +1458,7 @@
 			<height normal="43" />
 		</collision>
 	</npc>
-	<npc id="20428" level="14" type="Monster" name="Evil Eye Patroller">
+	<npc id="20428" level="14" type="Monster" name="Дозорный Око Зла">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1468,7 +1468,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="498" sp="19" />
+		<acquire exp="170" sp="17" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
 			<attack physical="27.24646" magical="18.6058" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1506,7 +1506,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="114" max="168" chance="100" /> <!-- Adena -->
+					<item id="57" min="114" max="148" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.9449">
 					<item id="114" min="1" max="1" chance="10.0297" /> <!-- Earring of Strength -->

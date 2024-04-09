@@ -735,7 +735,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="20021" level="14" type="Monster" name="Red Bear">
+	<npc id="20021" level="14" type="Monster" name="Рыжий медведь">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -743,7 +743,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="498" sp="19" />
+		<acquire exp="168" sp="18" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
 			<attack physical="27.24646" magical="18.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -780,7 +780,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="114" max="168" chance="100" /> <!-- Adena -->
+					<item id="57" min="114" max="158" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.213">
 					<item id="9" min="1" max="1" chance="9.9075" /> <!-- Cedar Staff -->
