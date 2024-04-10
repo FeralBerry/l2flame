@@ -1600,7 +1600,7 @@
 			<height normal="14.5" grown="18" />
 		</collision>
 	</npc>
-	<npc id="20033" level="17" type="Monster" name="Shade Horror">
+	<npc id="20033" level="17" type="Monster" name="Бесплотный ужас">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1609,7 +1609,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="504" sp="21" />
+		<acquire exp="204" sp="21" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1648,7 +1648,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="100" max="161" chance="100" /> <!-- Adena -->
+					<item id="57" min="136" max="181" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.0089">
 					<item id="845" min="1" max="1" chance="8.7774" /> <!-- Cat's Eye Earring -->
@@ -2248,7 +2248,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20041" level="18" type="Monster" name="Tainted Zombie">
+	<npc id="20041" level="18" type="Monster" name="Гнилой зомби">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -2257,7 +2257,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="754" sp="33" />
+		<acquire exp="216" sp="22" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="301.66622" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
 			<attack physical="37.82932" magical="25.83252" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

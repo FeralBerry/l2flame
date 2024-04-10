@@ -2523,7 +2523,7 @@
 		</collision>
 	</npc>
 
-	<npc id="20542" level="19" type="Monster" name="Skeleton Longbowman">
+	<npc id="20542" level="19" type="Monster" name="Скелет с Длинным Луком">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -2532,7 +2532,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="275" /> <!-- rhand: Long Bow -->
-		<acquire exp="587" sp="26" />
+		<acquire exp="228" sp="26" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="321.63954" hpRegen="2.5" mp="183.28" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
