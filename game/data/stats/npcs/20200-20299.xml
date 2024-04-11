@@ -7406,7 +7406,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20293" level="24" type="Monster" name="Virud Lizardman">
+	<npc id="20293" level="24" type="Monster" name="Ящер Вируд">
 		<parameters>
 			<param name="MoveAroundSocial" value="58" />
 			<param name="MoveAroundSocial1" value="58" />
@@ -7415,7 +7415,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- rhand: Trident -->
-		<acquire exp="1142" sp="56" />
+		<acquire exp="288" sp="29" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="435.34437" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
 			<attack physical="80.19687" magical="61.10666" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7455,7 +7455,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="181" max="334" chance="100" /> <!-- Adena -->
+					<item id="57" min="192" max="240" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0256">
 					<item id="257" min="1" max="1" chance="100" /> <!-- Viper Fang -->
@@ -7505,7 +7505,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20294" level="26" type="Monster" name="Virud Lizardman Matriarch">
+	<npc id="20294" level="26" type="Monster" name="Матриарх Ящеров Вируд">
 		<parameters>
 			<param name="MoveAroundSocial" value="65" />
 			<param name="MoveAroundSocial1" value="40" />
@@ -7520,7 +7520,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" lhand="19" /> <!-- rhand: Long Sword lhand: Small Shield -->
-		<acquire exp="1202" sp="67" />
+		<acquire exp="390" sp="40" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="535.34437" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
 			<attack physical="90.19687" magical="81.10666" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7561,7 +7561,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="170" max="324" chance="100" /> <!-- Adena -->
+					<item id="57" min="260" max="324" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0139">
 					<item id="258" min="1" max="1" chance="100" /> <!-- Bagh-Nakh -->
@@ -7612,7 +7612,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20295" level="27" type="Monster" name="Virud Lizardman Warrior">
+	<npc id="20295" level="27" type="Monster" name="Воин Ящеров Вируд">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -7626,7 +7626,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- rhand: Great Spear -->
-		<acquire exp="1237" sp="60" />
+		<acquire exp="410" sp="45" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="687.02878" hpRegen="3.5" mp="218.52" mpRegen="1.5" />
 			<attack physical="91.75278" magical="75.34044" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7666,7 +7666,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="340" max="656" chance="100" /> <!-- Adena -->
+					<item id="57" min="270" max="330" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0281">
 					<item id="220" min="1" max="1" chance="100" /> <!-- Crafted Dagger -->
@@ -7686,7 +7686,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20296" level="28" type="Monster" name="Virud Lizardman Scout">
+	<npc id="20296" level="28" type="Monster" name="Разведчик Ящеров Вируд">
 		<parameters>
 			<param name="MoveAroundSocial" value="139" />
 			<param name="MoveAroundSocial1" value="35" />
@@ -7699,7 +7699,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2507" /> <!-- rhand: Lizardspear -->
-		<acquire exp="1287" sp="66" />
+		<acquire exp="420" sp="42" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="564.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="107.91924" magical="82.72263" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -7739,7 +7739,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="224" max="448" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.7972">
 					<item id="433" min="1" max="1" chance="1.1833" /> <!-- Elven Tunic -->
@@ -7797,7 +7797,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20297" level="27" type="Monster" name="Virud Lizardman Shaman">
+	<npc id="20297" level="27" type="Monster" name="Шаман Ящеров Вируд">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
@@ -7811,7 +7811,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="7" /> <!-- rhand: Apprentice's Rod -->
-		<acquire exp="1378" sp="72" />
+		<acquire exp="410" sp="41" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="610.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
 			<attack physical="105.84125" magical="88.13234" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -7851,7 +7851,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="208" max="407" chance="100" /> <!-- Adena -->
+					<item id="57" min="270" max="330" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3014">
 					<item id="291" min="1" max="1" chance="2.8677" /> <!-- Trident -->
@@ -7904,7 +7904,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20298" level="28" type="Monster" name="Virud Lizardman Shaman">
+	<npc id="20298" level="28" type="Monster" name="Шаман Ящеров Вируд">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
@@ -7918,7 +7918,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="7" /> <!-- rhand: Apprentice's Rod -->
-		<acquire exp="1378" sp="82" />
+		<acquire exp="420" sp="42" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="710.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
 			<attack physical="111.84125" magical="98.13234" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -7958,7 +7958,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="215" max="426" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="340" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2168">
 					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->

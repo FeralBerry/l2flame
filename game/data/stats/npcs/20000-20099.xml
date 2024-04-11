@@ -34,7 +34,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="20008" level="17" type="Monster" name="Felim Lizardman">
+	<npc id="20008" level="17" type="Monster" name="Ящер Фелим">
 		<parameters>
 			<param name="MoveAroundSocial" value="58" />
 			<param name="MoveAroundSocial1" value="58" />
@@ -43,7 +43,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="1" /> <!-- Short Sword -->
-		<acquire exp="605" sp="25" />
+		<acquire exp="204" sp="21" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="282.57403" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -130,7 +130,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20010" level="17" type="Monster" name="Felim Lizardman Scout">
+	<npc id="20010" level="17" type="Monster" name="Ящер Фелим Скаут">
 		<parameters>
 			<param name="MoveAroundSocial" value="58" />
 			<param name="MoveAroundSocial1" value="58" />
@@ -139,7 +139,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- Great Spear -->
-		<acquire exp="605" sp="25" />
+		<acquire exp="206" sp="21" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="296.95422" hpRegen="2.5" mp="149.2" mpRegen="1.2" />
 			<attack physical="39.61691" magical="30.22451" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -225,7 +225,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20014" level="17" type="Monster" name="Felim Lizardman Warrior">
+	<npc id="20014" level="17" type="Monster" name="Ящер Фелим Воин">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -234,7 +234,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- Great Spear -->
-		<acquire exp="605" sp="25" />
+		<acquire exp="210" sp="23" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -272,7 +272,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="120" max="193" chance="100" /> <!-- Adena -->
+					<item id="57" min="120" max="183" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0965">
 					<item id="2" min="1" max="1" chance="7.1749" /> <!-- Long Sword -->
@@ -930,7 +930,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20024" level="21" type="Monster" name="Langk Lizardman Warrior">
+	<npc id="20024" level="21" type="Monster" name="Воин Ящер Ланг">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -939,7 +939,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- Great Spear -->
-		<acquire exp="534" sp="22" />
+		<acquire exp="255" sp="26" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="44.8979" magical="30.83074" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -977,7 +977,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="122" max="197" chance="100" /> <!-- Adena -->
+					<item id="57" min="160" max="210" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0984">
 					<item id="2" min="1" max="1" chance="7.1749" /> <!-- Long Sword -->
@@ -1129,7 +1129,7 @@
 			<height normal="35" grown="42" />
 		</collision>
 	</npc>
-	<npc id="20027" level="21" type="Monster" name="Langk Lizardman Scout">
+	<npc id="20027" level="21" type="Monster" name="Разведчик Ящер Ланг">
 		<parameters>
 			<param name="MoveAroundSocial" value="58" />
 			<param name="MoveAroundSocial1" value="58" />
@@ -1138,7 +1138,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- Great Spear -->
-		<acquire exp="570" sp="23" />
+		<acquire exp="252" sp="26" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="364.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
 			<attack physical="42.16396" magical="31.96382" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1176,7 +1176,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="118" max="183" chance="100" /> <!-- Adena -->
+					<item id="57" min="163" max="215" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0267">
 					<item id="176" min="1" max="1" chance="50" /> <!-- Journeyman's Staff -->
@@ -1434,7 +1434,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="20030" level="21" type="Monster" name="Langk Lizardman">
+	<npc id="20030" level="21" type="Monster" name="Ящер Ланг">
 		<parameters>
 			<param name="MoveAroundSocial" value="58" />
 			<param name="MoveAroundSocial1" value="58" />
@@ -1443,7 +1443,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="1" /> <!-- Short Sword -->
-		<acquire exp="534" sp="22" />
+		<acquire exp="250" sp="25" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="149.2" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1480,7 +1480,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="116" max="177" chance="100" /> <!-- Adena -->
+					<item id="57" min="165" max="227" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2755">
 					<item id="216" min="1" max="1" chance="11.939" /> <!-- Dirk -->

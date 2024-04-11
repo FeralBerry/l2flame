@@ -3865,7 +3865,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="25372" level="20" type="RaidBoss" name="Discarded Guardian" title="Raid Boss">
+	<npc id="25372" level="20" type="RaidBoss" name="Отверженный Стражник" title="Raid Boss">
 		<parameters>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="SelfRangeCancel_a" id="4177" level="2" /> <!-- BOSS Cancel Magic -->
@@ -3875,7 +3875,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="436632" sp="37265" raidPoints="232" />
+		<acquire exp="196632" sp="8265" raidPoints="232" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="73694.3721507883" hpRegen="41.3500808058837" mp="192.0" mpRegen="1.2" />
 			<attack physical="97.6503288577427" magical="9.52955003556756" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -4047,18 +4047,18 @@
 			<height normal="33.5" />
 		</collision>
 	</npc>
-	<npc id="25375" level="20" type="RaidBoss" name="Zombie Lord Farakelsus" title="Raid Boss">
+	<npc id="25375" level="20" type="RaidBoss" name="Повелитель Зомби Фаракелсус" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25376" count="2" respawnTime="360" weightPoint="1" /> <!-- Ferkel's Warrior -->
-				<npc id="25377" count="1" respawnTime="360" weightPoint="1" /> <!-- Ferkel's Priest -->
+				<npc id="25376" count="2" respawnTime="360" weightPoint="1" /> <!-- Зомби Воин Фаракелсуса -->
+				<npc id="25377" count="1" respawnTime="360" weightPoint="1" /> <!-- Зомби Жрец Фаракелсуса -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="RangeDDMagic_a" id="4178" level="2" /> <!-- BOSS Flamestrike -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="436632" sp="37265" raidPoints="232" />
+		<acquire exp="176632" sp="7626" raidPoints="232" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="36847.1860753942" hpRegen="16.5400323223535" mp="192.0" mpRegen="1.2" />
 			<attack physical="48.8251644288713" magical="2.38238750889189" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -4119,7 +4119,7 @@
 			<height normal="27.5" />
 		</collision>
 	</npc>
-	<npc id="25376" level="19" type="Monster" name="Warrior Zombie of Farakelsus" title="Raid Fighter">
+	<npc id="25376" level="19" type="Monster" name="Зомби Воин Фаракелсуса" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4743" level="1" /> <!-- BOSS Strike -->
 		</parameters>
@@ -4162,7 +4162,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="25377" level="19" type="Monster" name="Priest Zombie of Farakelsus" title="Raid Fighter">
+	<npc id="25377" level="19" type="Monster" name="Зомби Жрец Фаракелсуса" title="Raid Fighter">
 		<parameters>
 			<skill name="HealMagic_a" id="4783" level="1" /> <!-- BOSS Heal -->
 			<skill name="SelfRangeBuff_a" id="4213" level="1" /> <!-- BOSS Haste -->
@@ -4207,17 +4207,17 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="25378" level="20" type="RaidBoss" name="Madness Beast" title="Raid Boss">
+	<npc id="25378" level="20" type="RaidBoss" name="Зверь Безумия" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25379" count="3" respawnTime="360" weightPoint="1" /> <!-- Dementia Beast -->
+				<npc id="25379" count="3" respawnTime="360" weightPoint="1" /> <!-- Зверь Слабоумия -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="2" /> <!-- Hold -->
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="436632" sp="37265" raidPoints="232" />
+		<acquire exp="136632" sp="6726" raidPoints="232" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="36847.1860753942" hpRegen="16.5400323223535" mp="192.0" mpRegen="1.2" />
 			<attack physical="48.8251644288713" magical="2.38238750889189" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4273,7 +4273,7 @@
 			<height normal="18.7" />
 		</collision>
 	</npc>
-	<npc id="25379" level="19" type="Monster" name="Dementia Beast" title="Raid Fighter">
+	<npc id="25379" level="19" type="Monster" name="Зверь Слабоумия" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4743" level="1" /> <!-- BOSS Strike -->
 		</parameters>

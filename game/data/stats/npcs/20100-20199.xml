@@ -137,7 +137,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="20109" level="17" type="Monster" name="Salamander">
+	<npc id="20109" level="17" type="Monster" name="Саламандра">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -148,7 +148,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>MALE</sex>
-		<acquire exp="989" sp="42" />
+		<acquire exp="440" sp="44" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -188,7 +188,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="196" max="315" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="360" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3952">
 					<item id="24" min="1" max="1" chance="19.255" /> <!-- Bone Breastplate -->
@@ -337,7 +337,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="20112" level="18" type="Monster" name="Salamander Elder">
+	<npc id="20112" level="18" type="Monster" name="Старшая Саламандра">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -345,7 +345,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>MALE</sex>
-		<acquire exp="992" sp="43" />
+		<acquire exp="460" sp="46" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="301.66622" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
 			<attack physical="37.82932" magical="25.83252" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -382,7 +382,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="188" max="310" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="380" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.386">
 					<item id="1101" min="1" max="1" chance="38.5101" /> <!-- Tunic of Devotion -->
@@ -481,7 +481,7 @@
 			<height normal="27" />
 		</collision>
 	</npc>
-	<npc id="20114" level="19" type="Monster" name="Salamander Noble">
+	<npc id="20114" level="19" type="Monster" name="Элитная Саламандра">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -489,7 +489,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>MALE</sex>
-		<acquire exp="1051" sp="47" />
+		<acquire exp="480" sp="48" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="321.63954" hpRegen="2.5" mp="183.28" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -526,7 +526,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="190" max="323" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="400" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.9917">
 					<item id="845" min="1" max="1" chance="8.7774" /> <!-- Cat's Eye Earring -->
@@ -2658,7 +2658,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="20152" level="25" type="Monster" name="Lizardman">
+	<npc id="20152" level="25" type="Monster" name="Ящер">
 		<parameters>
 			<param name="MoveAroundSocial" value="58" />
 			<param name="MoveAroundSocial1" value="58" />
@@ -2667,7 +2667,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- Trident -->
-		<acquire exp="1214" sp="61" />
+		<acquire exp="375" sp="38" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="460.96247" hpRegen="3.5" mp="259.2" mpRegen="1.5" />
 			<attack physical="84.83203" magical="64.27187" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
