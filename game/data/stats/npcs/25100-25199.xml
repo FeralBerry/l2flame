@@ -1480,7 +1480,7 @@
 			<height normal="94" />
 		</collision>
 	</npc>
-	<npc id="25127" level="24" type="RaidBoss" name="Langk Matriarch Rashkos" title="Raid Boss">
+	<npc id="25127" level="24" type="RaidBoss" name="Матриарх Лангк Рашкос" title="Raid Boss">
 		<parameters>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="SelfRangeCancel_a" id="4177" level="3" /> <!-- BOSS Cancel Magic -->
@@ -1491,7 +1491,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="124" /> <!-- rhand: Two-Handed Sword -->
-		<acquire exp="258411" sp="7403" raidPoints="300" />
+		<acquire exp="458411" sp="23403" raidPoints="300" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="83501.9913811124" hpRegen="44.9019254294477" mp="245.52" mpRegen="1.5" />
 			<attack physical="136.640905723798" magical="17.2030105157932" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1528,6 +1528,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="10000" max="20000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="76.0957">
 					<item id="46" min="2" max="4" chance="65.1332" /> <!-- Bronze Helmet -->
 					<item id="627" min="4" max="12" chance="34.8668" /> <!-- Aspis -->

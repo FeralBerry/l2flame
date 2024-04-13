@@ -3072,18 +3072,18 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="25060" level="24" type="RaidBoss" name="Unrequited Kael" title="Raid Boss">
+	<npc id="25060" level="24" type="RaidBoss" name="Отверженная Каэль" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25061" count="3" respawnTime="360" weightPoint="1" /> <!-- Kael's Bead -->
-				<npc id="25062" count="1" respawnTime="360" weightPoint="1" /> <!-- Kael's Escort -->
+				<npc id="25061" count="3" respawnTime="360" weightPoint="1" /> <!-- Сфера Каэль -->
+				<npc id="25062" count="1" respawnTime="360" weightPoint="1" /> <!-- Эскорт Каэль -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="2" /> <!-- Hold -->
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="258411" sp="7403" raidPoints="300" />
+		<acquire exp="358411" sp="16403" raidPoints="300" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="41750.9956905562" hpRegen="17.9607701717791" mp="245.52" mpRegen="1.5" />
 			<attack physical="68.3204528618992" magical="4.30075262894831" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3118,6 +3118,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="10000" max="18000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="42.7486">
 					<item id="605" min="4" max="12" chance="65.2174" /> <!-- Leather Gauntlets -->
 					<item id="1123" min="8" max="22" chance="34.7826" /> <!-- Blue Buckskin Boots -->
@@ -3139,7 +3142,7 @@
 			<height normal="75" />
 		</collision>
 	</npc>
-	<npc id="25061" level="23" type="Monster" name="Kael's Bead" title="Raid Fighter">
+	<npc id="25061" level="23" type="Monster" name="Сфера Каэль" title="Raid Fighter">
 		<parameters>
 			<skill name="DDMagic_a" id="4194" level="2" /> <!-- BOSS Aura Burn -->
 			<skill name="Debuff_a" id="4199" level="2" /> <!-- Decrease P. Atk. -->
@@ -3181,7 +3184,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="25062" level="23" type="Monster" name="Kael's Escort" title="Raid Fighter">
+	<npc id="25062" level="23" type="Monster" name="Эскорт Каэль" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4728" level="2" /> <!-- Stun -->
 		</parameters>

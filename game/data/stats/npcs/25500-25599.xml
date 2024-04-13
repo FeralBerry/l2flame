@@ -1157,15 +1157,15 @@
 			<height normal="42.5105" />
 		</collision>
 	</npc>
-	<npc id="25528" level="22" type="RaidBoss" name="Tiberias" title="Prime Inspector">
+	<npc id="25528" level="22" type="RaidBoss" name="Тиберий" title="Главный Инспектор">
 		<parameters>
 			<param name="MoveArounding" value="0" />
 			<param name="Party_Type" value="2" />
 			<param name="Party_Loyalty" value="1" />
 			<param name="Party_OneShot" value="10" />
 			<minions name="Privates">
-				<npc id="25529" count="1" respawnTime="240" weightPoint="1" /> <!-- Garden Guard -->
-				<npc id="25530" count="3" respawnTime="150" weightPoint="1" /> <!-- Garden Guard -->
+				<npc id="25529" count="1" respawnTime="240" weightPoint="1" /> <!-- Вице Инспектор -->
+				<npc id="25530" count="3" respawnTime="150" weightPoint="1" /> <!-- Вице Инспектор -->
 			</minions>
 			<param name="Skill01_Probablity" value="300" />
 			<param name="Skill01_AttackSplash" value="1" />
@@ -1218,7 +1218,9 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<item id="9712" min="1" max="1" chance="100" /> <!-- Gate Key: Massive Cavern -->
+				<group chance="100">
+					<item id="57" min="7000" max="70000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="57.9113">
 					<item id="348" min="1" max="1" chance="18.4329" /> <!-- Scale Mail -->
 					<item id="377" min="1" max="1" chance="29.4753" /> <!-- Scale Gaiters -->
@@ -1244,7 +1246,7 @@
 			<height normal="24.6155" />
 		</collision>
 	</npc>
-	<npc id="25529" level="22" type="Folk" name="Garden Guard" title="Vice Inspector">
+	<npc id="25529" level="22" type="Folk" name="Страж Сада" title="Вице Инспектор">
 		<parameters>
 			<param name="AttackRange" value="2" />
 			<param name="IsHealer" value="1" />
@@ -1299,7 +1301,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="25530" level="22" type="Folk" name="Garden Guard" title="Vice Inspector">
+	<npc id="25530" level="22" type="Folk" name="Страж Сада" title="Вице Инспектор">
 		<parameters>
 			<param name="Party_Type" value="1" />
 			<param name="Party_Loyalty" value="1" />

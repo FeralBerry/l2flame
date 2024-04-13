@@ -3337,11 +3337,11 @@
 			<height normal="24.5" />
 		</collision>
 	</npc>
-	<npc id="25362" level="23" type="RaidBoss" name="Tracker Leader Sharuk" title="Raid Boss">
+	<npc id="25362" level="23" type="RaidBoss" name="Главарь Охотников Шарук" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25363" count="2" respawnTime="360" weightPoint="1" /> <!-- Sharuk's Tracker -->
-				<npc id="25364" count="3" respawnTime="360" weightPoint="1" /> <!-- Sharuk's Marksman -->
+				<npc id="25363" count="2" respawnTime="360" weightPoint="1" /> <!-- Следопыт Шарука -->
+				<npc id="25364" count="3" respawnTime="360" weightPoint="1" /> <!-- Зверолов Шарука -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4743" level="2" /> <!-- BOSS Strike -->
@@ -3349,7 +3349,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- rhand: Trident -->
-		<acquire exp="2690116" sp="69902" raidPoints="284" />
+		<acquire exp="3190116" sp="13902" raidPoints="284" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="40330.25972324" hpRegen="17.5347470979605" mp="231.96" mpRegen="1.5" />
 			<attack physical="62.85327646485" magical="3.96218033323786" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3383,6 +3383,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="9000" max="15000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="70.3582">
 					<item id="433" min="6" max="16" chance="2.3482" /> <!-- Elven Tunic -->
 					<item id="434" min="1" max="1" chance="25.8301" /> <!-- White Tunic -->
@@ -3417,7 +3420,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="25363" level="22" type="Monster" name="Sharuk's Tracker" title="Raid Fighter">
+	<npc id="25363" level="22" type="Monster" name="Следопыт Шарука" title="Raid Fighter">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
@@ -3454,7 +3457,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="25364" level="22" type="Monster" name="Sharuk's Marksman" title="Raid Fighter">
+	<npc id="25364" level="22" type="Monster" name="Зверолов Шарука" title="Raid Fighter">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2507" /> <!-- rhand: Lizardspear -->
@@ -3557,11 +3560,11 @@
 			<height normal="34.5" />
 		</collision>
 	</npc>
-	<npc id="25366" level="23" type="RaidBoss" name="Kuroboros' Priest" title="Raid Boss">
+	<npc id="25366" level="23" type="RaidBoss" name="Жрец Куробороса" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25367" count="2" respawnTime="360" weightPoint="1" /> <!-- Kuroboros' Follower -->
-				<npc id="25368" count="1" respawnTime="360" weightPoint="1" /> <!-- Kuroboros' Discipline -->
+				<npc id="25367" count="2" respawnTime="360" weightPoint="1" /> <!-- Последователь Жреца Куробороса -->
+				<npc id="25368" count="1" respawnTime="360" weightPoint="1" /> <!-- Воспитаник Жреца Куробороса -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="RangeDDMagic_a" id="4178" level="2" /> <!-- BOSS Flamestrike -->
@@ -3569,7 +3572,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="2690116" sp="69902" raidPoints="284" />
+		<acquire exp="299011" sp="11990" raidPoints="284" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="40330.25972324" hpRegen="17.5347470979605" mp="231.96" mpRegen="1.5" />
 			<attack physical="62.85327646485" magical="3.96218033323786" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3603,6 +3606,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="8000" max="12000" chance="70" /> <!-- Enchanted Earring -->
+				</group>
 				<group chance="56.9472">
 					<item id="848" min="3" max="9" chance="24.9403" /> <!-- Enchanted Earring -->
 					<item id="879" min="3" max="7" chance="45.0298" /> <!-- Enchanted Ring -->
@@ -3623,7 +3629,7 @@
 			<height normal="37" />
 		</collision>
 	</npc>
-	<npc id="25367" level="22" type="Monster" name="Kuroboros' Follower" title="Raid Fighter">
+	<npc id="25367" level="22" type="Monster" name="Последователь Жреца Куробороса" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4743" level="2" /> <!-- BOSS Strike -->
 		</parameters>
@@ -3664,7 +3670,7 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="25368" level="22" type="Monster" name="Kuroboros' Discipline" title="Raid Fighter">
+	<npc id="25368" level="22" type="Monster" name="Воспитаник Жреца Куробороса" title="Raid Fighter">
 		<parameters>
 			<skill name="HealMagic_a" id="4788" level="6" /> <!-- BOSS Chant of Life -->
 			<skill name="SelfRangeBuff_a" id="4212" level="6" /> <!-- BOSS Shield -->
