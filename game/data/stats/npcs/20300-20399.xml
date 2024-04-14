@@ -410,7 +410,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20308" level="16" type="Monster" name="Hook Spider">
+	<npc id="20308" level="16" type="Monster" name="Цепкий Паук">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -418,7 +418,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="570" sp="23" />
+		<acquire exp="192" sp="20" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
 			<attack physical="32.16396" magical="21.96382" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -456,7 +456,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="118" max="183" chance="100" /> <!-- Adena -->
+					<item id="57" min="118" max="163" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="3.4269">
 					<item id="38" min="1" max="1" chance="5.2405" /> <!-- Low Boots -->
