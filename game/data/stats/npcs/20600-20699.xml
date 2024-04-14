@@ -870,7 +870,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
-		<ai type="ARCHER" aggroRange="700" clanHelpRange="400" isAggressive="true">
+		<ai type="ARCHER" aggroRange="400" clanHelpRange="400" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
 			</clanList>

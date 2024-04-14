@@ -7004,7 +7004,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="21094" level="20" type="Monster" name="Ratman Chieftain">
+	<npc id="21094" level="20" type="Monster" name="Вождь Крысолюдов">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7013,7 +7013,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="3" /> <!-- rhand: Broadsword -->
-		<acquire exp="712" sp="32" />
+		<acquire exp="242" sp="25" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192.0" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />

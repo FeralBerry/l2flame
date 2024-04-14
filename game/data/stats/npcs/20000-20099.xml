@@ -1670,7 +1670,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20034" level="17" type="Monster" name="Prowler">
+	<npc id="20034" level="17" type="Monster" name="Паук Скиталец">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1678,7 +1678,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="618" sp="26" />
+		<acquire exp="210" sp="21" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1714,7 +1714,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="122" max="197" chance="100" /> <!-- Adena -->
+					<item id="57" min="122" max="177" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0282">
 					<item id="256" min="1" max="1" chance="100" /> <!-- Cestus -->
@@ -1880,7 +1880,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="652" sp="28" />
+		<acquire exp="216" sp="22" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="301.66622" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
 			<attack physical="37.82932" magical="25.83252" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1919,7 +1919,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="124" max="204" chance="100" /> <!-- Adena -->
+					<item id="57" min="124" max="184" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.2709">
 					<item id="845" min="1" max="1" chance="8.7774" /> <!-- Cat's Eye Earring -->
@@ -2084,7 +2084,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="640" sp="28" />
+		<acquire exp="216" sp="22" />
 		<equipment rhand="12" /> <!-- Knife -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="301.66622" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
@@ -2123,7 +2123,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="121" max="200" chance="100" /> <!-- Adena -->
+					<item id="57" min="121" max="182" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.7224">
 					<item id="945" min="1" max="1" chance="16.452" /> <!-- Skeleton Buckler -->
@@ -2188,7 +2188,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="216" /> <!-- Dirk -->
-		<acquire exp="533" sp="23" />
+		<acquire exp="217" sp="23" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="301.66622" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
 			<attack physical="37.82932" magical="25.83252" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -2226,7 +2226,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="101" max="167" chance="100" /> <!-- Adena -->
+					<item id="57" min="101" max="187" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.4353">
 					<item id="945" min="1" max="1" chance="16.452" /> <!-- Skeleton Buckler -->
@@ -2423,7 +2423,7 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="20043" level="19" type="Monster" name="Arachnid Tracker">
+	<npc id="20043" level="19" type="Monster" name="Арахнид Охотник">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2432,7 +2432,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="760" sp="34" />
+		<acquire exp="238" sp="24" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="321.63954" hpRegen="2.5" mp="183.28" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2471,7 +2471,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="137" max="234" chance="100" /> <!-- Adena -->
+					<item id="57" min="137" max="194" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1149">
 					<item id="2" min="1" max="1" chance="7.1749" /> <!-- Long Sword -->
@@ -2528,7 +2528,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20044" level="19" type="Monster" name="Lirein Elder">
+	<npc id="20044" level="19" type="Monster" name="Старшая Лирейн">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2538,7 +2538,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="691" sp="31" />
+		<acquire exp="230" sp="24" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="321.63954" hpRegen="2.5" mp="183.28" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2578,7 +2578,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="125" max="213" chance="100" /> <!-- Adena -->
+					<item id="57" min="125" max="190" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.03">
 					<item id="309" min="1" max="1" chance="50" /> <!-- Tears of Eva -->
@@ -2803,7 +2803,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20048" level="20" type="Monster" name="Lesser Succubus">
+	<npc id="20048" level="20" type="Monster" name="Младший Суккуб">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2812,7 +2812,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="605" sp="27" />
+		<acquire exp="241" sp="24" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192.0" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2850,7 +2850,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="106" max="184" chance="100" /> <!-- Adena -->
+					<item id="57" min="166" max="204" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0258">
 					<item id="256" min="1" max="1" chance="100" /> <!-- Cestus -->
@@ -2872,7 +2872,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20049" level="20" type="Monster" name="Lycanthrope">
+	<npc id="20049" level="20" type="Monster" name="Ликантроп">
 		<parameters>
 			<param name="MoveAroundSocial" value="72" />
 			<param name="MoveAroundSocial1" value="72" />
@@ -2880,7 +2880,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="726" sp="32" />
+		<acquire exp="245" sp="25" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2918,7 +2918,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="127" max="221" chance="100" /> <!-- Adena -->
+					<item id="57" min="167" max="200" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.031">
 					<item id="256" min="1" max="1" chance="100" /> <!-- Cestus -->
@@ -2969,7 +2969,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20050" level="20" type="Monster" name="Poisonous Thornleg">
+	<npc id="20050" level="20" type="Monster" name="Ядовитый Арахнид">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2978,7 +2978,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="799" sp="35" />
+		<acquire exp="240" sp="25" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="240.722187541411" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3017,7 +3017,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="140" max="243" chance="100" /> <!-- Adena -->
+					<item id="57" min="140" max="210" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2214">
 					<item id="15" min="1" max="1" chance="7.7061" /> <!-- Short Spear -->

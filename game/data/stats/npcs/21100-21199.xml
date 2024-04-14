@@ -1857,7 +1857,7 @@
 			<height normal="24" grown="28.8" />
 		</collision>
 	</npc>
-	<npc id="21117" level="19" type="Monster" name="Kasha Imp">
+	<npc id="21117" level="19" type="Monster" name="Бес Кхаши">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1865,7 +1865,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="678" sp="30" />
+		<acquire exp="230" sp="23" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="321.63954" hpRegen="2.5" mp="183.28" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1901,7 +1901,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="122" max="208" chance="100" /> <!-- Adena -->
+					<item id="57" min="122" max="195" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="3.7675">
 					<item id="38" min="1" max="1" chance="5.2405" /> <!-- Low Boots -->
@@ -1956,7 +1956,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="21118" level="20" type="Monster" name="Baar Dre Vanul">
+	<npc id="21118" level="20" type="Monster" name="Баал Дре Ванул">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1964,7 +1964,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="726" sp="32" />
+		<acquire exp="250" sp="26" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192.0" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2059,7 +2059,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="21119" level="21" type="Monster" name="Hobgoblin">
+	<npc id="21119" level="21" type="Monster" name="ХобГоблин Кхаши">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2073,7 +2073,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="4" /> <!-- rhand: Club -->
-		<acquire exp="917" sp="42" />
+		<acquire exp="255" sp="25" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2109,7 +2109,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="156" max="278" chance="100" /> <!-- Adena -->
+					<item id="57" min="156" max="218" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1464">
 					<item id="27" min="1" max="1" chance="3.1003" /> <!-- Hard Leather Shirt -->

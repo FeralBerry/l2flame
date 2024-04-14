@@ -69,7 +69,7 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="20107" level="16" type="Monster" name="Wererat">
+	<npc id="20107" level="16" type="Monster" name="Крысолюд">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -77,7 +77,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="475" sp="19" />
+		<acquire exp="193" sp="19" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
 			<attack physical="32.16396" magical="21.96382" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -217,7 +217,7 @@
 			<height normal="6.8" />
 		</collision>
 	</npc>
-	<npc id="20110" level="17" type="Monster" name="Undine">
+	<npc id="20110" level="17" type="Monster" name="Ундина">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -226,7 +226,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="958" sp="40" />
+		<acquire exp="200" sp="21" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -264,7 +264,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="190" max="305" chance="100" /> <!-- Adena -->
+					<item id="57" min="130" max="170" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3826">
 					<item id="24" min="1" max="1" chance="19.255" /> <!-- Bone Breastplate -->
@@ -289,7 +289,7 @@
 			<height normal="27" />
 		</collision>
 	</npc>
-	<npc id="20111" level="17" type="Monster" name="Wererat Leader">
+	<npc id="20111" level="17" type="Monster" name="Крысолюд Адъютант">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -298,7 +298,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="1" /> <!-- rhand: Short Sword -->
-		<acquire exp="958" sp="40" />
+		<acquire exp="205" sp="21" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -336,6 +336,61 @@
 			<radius normal="14" />
 			<height normal="25" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="120" max="173" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.242">
+					<item id="24" min="1" max="1" chance="19.255" /> <!-- Bone Breastplate -->
+					<item id="390" min="1" max="1" chance="19.255" /> <!-- Cotton Shirt -->
+					<item id="31" min="1" max="1" chance="30.745" /> <!-- Bone Gaiters -->
+					<item id="412" min="1" max="1" chance="30.745" /> <!-- Cotton Pants -->
+				</group>
+				<group chance="11.7754">
+					<item id="1864" min="1" max="1" chance="61.7284" /> <!-- Stem -->
+					<item id="1869" min="1" max="1" chance="30.8642" /> <!-- Iron Ore -->
+					<item id="2141" min="1" max="1" chance="6.1728" /> <!-- Recipe: Silver Mold -->
+					<item id="5273" min="1" max="1" chance="1.2346" /> <!-- Recipe: Greater Spiritshot (D) Compressed Package(100%) -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2150" min="1" max="1" chance="11.553" /> <!-- Recipe: Blue Diamond Necklace -->
+				<item id="1924" min="1" max="1" chance="7.938" /> <!-- Leather Helmet Design -->
+				<item id="1864" min="1" max="1" chance="49.2156" /> <!-- Stem -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20112" level="18" type="Monster" name="Старшая Саламандра">
 		<parameters>
@@ -407,7 +462,7 @@
 			<height normal="6.8" />
 		</collision>
 	</npc>
-	<npc id="20113" level="18" type="Monster" name="Undine Elder">
+	<npc id="20113" level="18" type="Monster" name="Старшая Ундина">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -416,7 +471,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="1011" sp="44" />
+		<acquire exp="220" sp="24" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="301.66622" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
 			<attack physical="37.82932" magical="25.83252" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -454,7 +509,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="192" max="316" chance="100" /> <!-- Adena -->
+					<item id="57" min="142" max="190" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3937">
 					<item id="24" min="1" max="1" chance="19.255" /> <!-- Bone Breastplate -->
@@ -667,7 +722,7 @@
 			<height normal="10" />
 		</collision>
 	</npc>
-	<npc id="20117" level="20" type="Monster" name="Dre Vanul">
+	<npc id="20117" level="20" type="Monster" name="Дре Ванул">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -678,7 +733,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="666" sp="29" />
+		<acquire exp="245" sp="25" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192.0" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2356,7 +2411,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20147" level="21" type="Monster" name="Hobgoblin">
+	<npc id="20147" level="21" type="Monster" name="Хобгоблин">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2370,7 +2425,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="4" /> <!-- Club -->
-		<acquire exp="917" sp="42" />
+		<acquire exp="250" sp="25" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -2408,7 +2463,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="156" max="278" chance="100" /> <!-- Adena -->
+					<item id="57" min="156" max="210" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1464">
 					<item id="27" min="1" max="1" chance="3.1003" /> <!-- Hard Leather Shirt -->
@@ -2803,7 +2858,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20154" level="21" type="Monster" name="Mandragora Sprout">
+	<npc id="20154" level="21" type="Monster" name="Росток Мандрагоры">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2819,7 +2874,7 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>FEMALE</sex>
-		<acquire exp="917" sp="42" />
+		<acquire exp="256" sp="26" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2859,7 +2914,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="156" max="278" chance="100" /> <!-- Adena -->
+					<item id="57" min="156" max="218" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.7851">
 					<item id="846" min="1" max="1" chance="10.4521" /> <!-- Coral Earring -->

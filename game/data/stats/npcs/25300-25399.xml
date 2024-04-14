@@ -3077,11 +3077,11 @@
 			<height normal="50" />
 		</collision>
 	</npc>
-	<npc id="25357" level="21" type="RaidBoss" name="Sukar Wererat Chief" title="Raid Boss">
+	<npc id="25357" level="21" type="RaidBoss" name="Вожак Трусливых Крысолюдов" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25358" count="2" respawnTime="360" weightPoint="1" /> <!-- Sukar Wererat Guard -->
-				<npc id="25359" count="1" respawnTime="360" weightPoint="1" /> <!-- Sukar Wererat Priest -->
+				<npc id="25358" count="2" respawnTime="360" weightPoint="1" /> <!-- Страж Трусливых Крысолюдов -->
+				<npc id="25359" count="1" respawnTime="360" weightPoint="1" /> <!-- Жрец Трусливых Крысолюдов -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="RangeDDMagic_a" id="4178" level="2" /> <!-- BOSS Flamestrike -->
@@ -3089,7 +3089,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="216" /> <!-- rhand: Dirk -->
-		<acquire exp="578451" sp="45688" raidPoints="248" />
+		<acquire exp="228451" sp="15688" raidPoints="248" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="37886.4853669374" hpRegen="16.8269664693931" mp="205.2" mpRegen="1.5" />
 			<attack physical="53.1275788089434" magical="3.16860505219161" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -3145,7 +3145,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="25358" level="20" type="Monster" name="Sukar Wererat Guard" title="Raid Fighter">
+	<npc id="25358" level="20" type="Monster" name="Страж Трусливых Крысолюдов" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4733" level="2" /> <!-- BOSS Mortal Blow -->
 		</parameters>
@@ -3186,7 +3186,7 @@
 			<height normal="18.7" />
 		</collision>
 	</npc>
-	<npc id="25359" level="20" type="Monster" name="Sukar Wererat Priest" title="Raid Fighter">
+	<npc id="25359" level="20" type="Monster" name="Жрец Трусливых Крысолюдов" title="Raid Fighter">
 		<parameters>
 			<skill name="HealMagic_a" id="4783" level="2" /> <!-- BOSS Heal -->
 			<skill name="SelfRangeBuff_a" id="4211" level="2" /> <!-- BOSS Might -->
@@ -3946,17 +3946,17 @@
 			<height normal="40.3" />
 		</collision>
 	</npc>
-	<npc id="25373" level="21" type="RaidBoss" name="Malex Herald of Dagoniel" title="Raid Boss">
+	<npc id="25373" level="21" type="RaidBoss" name="Герольд Дагониэля Малекс" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25374" count="3" respawnTime="360" weightPoint="1" /> <!-- Abyss Flyer -->
+				<npc id="25374" count="3" respawnTime="360" weightPoint="1" /> <!-- Летун Бездны -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="RangeHold_a" id="4197" level="2" /> <!-- Hold -->
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="578451" sp="45688" raidPoints="248" />
+		<acquire exp="378451" sp="35688" raidPoints="248" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="37886.4853669374" hpRegen="16.8269664693931" mp="205.2" mpRegen="1.5" />
 			<attack physical="53.1275788089434" magical="3.16860505219161" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -4013,7 +4013,7 @@
 			<height normal="54" />
 		</collision>
 	</npc>
-	<npc id="25374" level="20" type="Monster" name="Abyss Flyer" title="Raid Fighter">
+	<npc id="25374" level="20" type="Monster" name="Летун Бездны" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4728" level="2" /> <!-- Stun -->
 		</parameters>

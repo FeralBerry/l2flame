@@ -38,7 +38,7 @@
                 <node x="-56858" y="187697"/>
             </territory>
         </territories>
-        <npc id="21241" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Жрец Кургана 28 -->
+        <npc id="21141" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Змей Катакомб 28 -->
         <npc id="21135" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Воин Подземных Кобольдов 27 -->
         <npc id="20608" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Костяной Стрелок 29 -->
     </spawn>

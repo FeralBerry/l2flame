@@ -7192,7 +7192,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 20288 - 20290 -->
-	<npc id="20291" level="21" type="Monster" name="Enku Orc Hero">
+	<npc id="20291" level="21" type="Monster" name="Герой Орков Энку">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -7207,7 +7207,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- Long Sword -->
-		<acquire exp="1113" sp="52" />
+		<acquire exp="258" sp="26" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7246,7 +7246,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="189" max="337" chance="100" /> <!-- Adena -->
+					<item id="57" min="189" max="237" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.3915">
 					<item id="27" min="1" max="1" chance="3.1003" /> <!-- Hard Leather Shirt -->
@@ -7300,7 +7300,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20292" level="20" type="Monster" name="Enku Orc Shaman">
+	<npc id="20292" level="20" type="Monster" name="Шаман Орков Энку">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -7312,7 +7312,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="7" /> <!-- Apprentice's Rod -->
-		<acquire exp="813" sp="36" />
+		<acquire exp="248" sp="24" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -7353,7 +7353,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="142" max="248" chance="100" /> <!-- Adena -->
+					<item id="57" min="162" max="208" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.5169">
 					<item id="845" min="1" max="1" chance="8.7774" /> <!-- Cat's Eye Earring -->
@@ -7727,7 +7727,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
+		<ai aggroRange="400" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>
@@ -7839,7 +7839,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="true">
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>
@@ -7946,7 +7946,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="true">
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>

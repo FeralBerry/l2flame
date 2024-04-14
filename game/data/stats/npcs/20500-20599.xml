@@ -648,7 +648,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="20508" level="17" type="Monster" name="Plunder Tarantula">
+	<npc id="20508" level="17" type="Monster" name="Тарантул Хищник">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -656,7 +656,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="618" sp="26" />
+		<acquire exp="201" sp="20" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -692,7 +692,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="122" max="197" chance="100" /> <!-- Adena -->
+					<item id="57" min="122" max="177" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2468">
 					<item id="1101" min="1" max="1" chance="38.5101" /> <!-- Tunic of Devotion -->

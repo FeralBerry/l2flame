@@ -317,7 +317,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="20403" level="16" type="Monster" name="Hunter Tarantula">
+	<npc id="20403" level="16" type="Monster" name="Тарантул Охотник">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -325,7 +325,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="570" sp="23" />
+		<acquire exp="190" sp="19" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
 			<attack physical="32.16396" magical="21.96382" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -361,7 +361,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="118" max="183" chance="100" /> <!-- Adena -->
+					<item id="57" min="118" max="163" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="3.4269">
 					<item id="38" min="1" max="1" chance="5.2405" /> <!-- Low Boots -->
@@ -2878,7 +2878,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="20449" level="15" type="Monster" name="Will-O-Wisp">
+	<npc id="20449" level="15" type="Monster" name="Блуждающий огонь">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2887,7 +2887,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="533" sp="22" />
+		<acquire exp="181" sp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="246.95422" hpRegen="2.5" mp="149.2" mpRegen="1.2" />
 			<attack physical="29.61691" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2923,7 +2923,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="116" max="177" chance="100" /> <!-- Adena -->
+					<item id="57" min="116" max="157" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.559">
 					<item id="429" min="1" max="1" chance="4.3575" /> <!-- Leather Tunic -->
@@ -3449,7 +3449,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 20459 -->
-	<npc id="20460" level="15" type="Monster" name="Crimson Spider">
+	<npc id="20460" level="15" type="Monster" name="Багровый Паук">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -3457,7 +3457,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="545" sp="22" />
+		<acquire exp="181" sp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="246.95422" hpRegen="2.5" mp="149.2" mpRegen="1.2" />
 			<attack physical="29.61691" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3492,7 +3492,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="119" max="180" chance="100" /> <!-- Adena -->
+					<item id="57" min="119" max="150" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2258">
 					<item id="66" min="1" max="1" chance="9.9075" /> <!-- Gladius -->
@@ -4156,7 +4156,7 @@
 			<height normal="22" grown="26.4" />
 		</collision>
 	</npc>
-	<npc id="20474" level="15" type="Monster" name="Kasha Spider">
+	<npc id="20474" level="15" type="Monster" name="Паук Кхаши">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -4164,7 +4164,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="534" sp="22" />
+		<acquire exp="182" sp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="246.95422" hpRegen="2.5" mp="149.2" mpRegen="1.2" />
 			<attack physical="29.61691" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4199,7 +4199,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="116" max="177" chance="100" /> <!-- Adena -->
+					<item id="57" min="116" max="156" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2755">
 					<item id="216" min="1" max="1" chance="11.939" /> <!-- Dirk -->
@@ -4912,7 +4912,7 @@
 		</collision>
 	</npc>
 	<!-- пропуск 20484 - 20486 -->
-	<npc id="20487" level="16" type="Monster" name="Kuruka Ratman">
+	<npc id="20487" level="16" type="Monster" name="Крысолюд Курука">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -4921,7 +4921,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="216" /> <!-- rhand: Dirk -->
-		<acquire exp="475" sp="19" />
+		<acquire exp="192" sp="19" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
 			<attack physical="32.16396" magical="21.96382" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -4980,7 +4980,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="20488" level="17" type="Monster" name="Kuruka Ratman Hunter">
+	<npc id="20488" level="17" type="Monster" name="Охотник Крысолюдов Курука">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -4989,7 +4989,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="3" /> <!-- rhand: Broadsword -->
-		<acquire exp="504" sp="21" />
+		<acquire exp="204" sp="21" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -5025,7 +5025,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="100" max="161" chance="100" /> <!-- Adena -->
+					<item id="57" min="100" max="171" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0231">
 					<item id="256" min="1" max="1" chance="100" /> <!-- Cestus -->

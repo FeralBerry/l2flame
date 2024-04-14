@@ -2699,7 +2699,7 @@
 			<height normal="33.5" />
 		</collision>
 	</npc>
-	<npc id="20775" level="17" type="Monster" name="Bugbear Raider">
+	<npc id="20775" level="17" type="Monster" name="Людоед Налетчик">
 		<parameters>
 			<param name="MoveAroundSocial" value="124" />
 			<param name="MoveAroundSocial1" value="124" />
@@ -2707,7 +2707,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
-		<acquire exp="599" sp="25" />
+		<acquire exp="210" sp="21" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2739,7 +2739,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="119" max="191" chance="100" /> <!-- Adena -->
+					<item id="57" min="119" max="171" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1779">
 					<item id="15" min="1" max="1" chance="7.7061" /> <!-- Short Spear -->
@@ -2793,7 +2793,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="20776" level="20" type="Monster" name="Dark Succubus">
+	<npc id="20776" level="20" type="Monster" name="Темный Суккуб">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2802,7 +2802,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="783" sp="35" />
+		<acquire exp="245" sp="24" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192.0" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2840,7 +2840,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="137" max="239" chance="100" /> <!-- Adena -->
+					<item id="57" min="167" max="219" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2923">
 					<item id="1101" min="1" max="1" chance="38.5101" /> <!-- Tunic of Devotion -->
