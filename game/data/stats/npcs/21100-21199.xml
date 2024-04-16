@@ -8431,7 +8431,7 @@
 			<height normal="32" />
 		</collision>
 	</npc>
-	<npc id="21189" level="27" type="Monster" name="Gigant Overseer">
+	<npc id="21189" level="27" type="Monster" name="Офицер смотритель">
 		<parameters>
 			<param name="MoveAroundSocial" value="85" />
 			<param name="MoveAroundSocial1" value="85" />
@@ -8446,7 +8446,7 @@
 		<race>DIVINE</race>
 		<sex>MALE</sex>
 		<equipment rhand="5792" /> <!-- rhand: Tomb Guard B -->
-		<acquire exp="3420" sp="175" />
+		<acquire exp="1620" sp="162" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -8502,7 +8502,7 @@
 					<item id="6360" min="97" max="190" chance="100" /> <!-- Blue Seal Stone -->
 				</group>
 				<group chance="70">
-					<item id="57" min="356" max="1200" chance="70" /> <!-- Adena -->
+					<item id="57" min="270" max="324" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="3.1112">
 					<item id="847" min="1" max="1" chance="5.1488" /> <!-- Red Crescent Earring -->

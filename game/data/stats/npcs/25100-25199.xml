@@ -630,7 +630,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>FEMALE</sex>
-		<acquire exp="330828" sp="11148" raidPoints="416" />
+		<acquire exp="576000" sp="57600" raidPoints="416" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="53690.0336885106" hpRegen="21.714038575401" mp="329.4" mpRegen="1.5" />
 			<attack physical="111.218777383212" magical="7.21487767094488" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -664,6 +664,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="384000" max="460800" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="65.7659">
 					<item id="850" min="6" max="18" chance="4.031" /> <!-- Elven Earring -->
 					<item id="881" min="5" max="15" chance="7.2609" /> <!-- Elven Ring -->
@@ -1491,7 +1494,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="124" /> <!-- rhand: Two-Handed Sword -->
-		<acquire exp="458411" sp="23403" raidPoints="300" />
+		<acquire exp="345600" sp="34800" raidPoints="300" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="83501.9913811124" hpRegen="44.9019254294477" mp="245.52" mpRegen="1.5" />
 			<attack physical="136.640905723798" magical="17.2030105157932" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1529,7 +1532,7 @@
 		<dropLists>
 			<drop>
 				<group chance="100">
-					<item id="57" min="10000" max="20000" chance="70" /> <!-- Adena -->
+					<item id="57" min="230400" max="288000" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="76.0957">
 					<item id="46" min="2" max="4" chance="65.1332" /> <!-- Bronze Helmet -->
@@ -2777,7 +2780,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="291239" sp="14413" raidPoints="520" />
+		<acquire exp="630000" sp="63600" raidPoints="520" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="69449.5684546156" hpRegen="26.794392073316" mp="402.6" mpRegen="1.8" />
 			<attack physical="163.695648646951" magical="12.9299967753255" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2814,6 +2817,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="420000" max="504000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="75.7935">
 					<item id="438" min="1" max="1" chance="29.0162" /> <!-- Sage's Rag -->
 					<item id="1953" min="12" max="36" chance="70.9838" /> <!-- Sage's Rag Lining -->

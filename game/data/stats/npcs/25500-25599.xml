@@ -1178,7 +1178,7 @@
 		</parameters>
 		<race>KAMAEL</race>
 		<sex>MALE</sex>
-		<acquire exp="225567" sp="18408" raidPoints="47" />
+		<acquire exp="316800" sp="32400" raidPoints="47" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="31106.7890880982" hpRegen="16.3719942568938" mp="218.52" mpRegen="1.5" />
 			<attack physical="87.8963925138357" magical="38.964731121782" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -1219,7 +1219,7 @@
 		<dropLists>
 			<drop>
 				<group chance="100">
-					<item id="57" min="7000" max="70000" chance="70" /> <!-- Adena -->
+					<item id="57" min="211200" max="264000" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="57.9113">
 					<item id="348" min="1" max="1" chance="18.4329" /> <!-- Scale Mail -->

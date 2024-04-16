@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="25001" level="23" type="RaidBoss" name="Greyclaw Kutus" title="Raid Boss">
+	<npc id="25001" level="23" type="RaidBoss" name="Кутус Серый Коготь" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25002" count="3" respawnTime="360" weightPoint="1" /> <!-- Guard of Kutus -->
-				<npc id="25003" count="1" respawnTime="360" weightPoint="1" /> <!-- Pawn of Kutus -->
+				<npc id="25002" count="3" respawnTime="360" weightPoint="1" /> <!-- Страж Кутуса -->
+				<npc id="25003" count="1" respawnTime="360" weightPoint="1" /> <!-- Пешка Кутуса -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="2" /> <!-- Hold -->
@@ -12,7 +12,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="67" lhand="633" /> <!-- rhand: Orcish Sword lhand: Zubei's Shield -->
-		<acquire exp="169011" sp="6990" raidPoints="284" />
+		<acquire exp="331200" sp="33600" raidPoints="284" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="40330.25972324" hpRegen="17.5347470979605" mp="231.96" mpRegen="1.5" />
 			<attack physical="62.85327646485" magical="3.96218033323786" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -46,6 +46,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="220800" max="276000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="65.1693">
 					<item id="348" min="1" max="1" chance="41.8439" /> <!-- Scale Mail -->
 					<item id="377" min="4" max="12" chance="8.3639" /> <!-- Scale Gaiters -->
@@ -71,7 +74,7 @@
 			<height normal="43.5" />
 		</collision>
 	</npc>
-	<npc id="25002" level="22" type="Monster" name="Guard of Kutus" title="Raid Fighter">
+	<npc id="25002" level="22" type="Monster" name="Страж Кутуса" title="Raid Fighter">
 		<parameters>
 			<skill name="DDMagic_a" id="4191" level="2" /> <!-- BOSS Windstrike -->
 			<skill name="Debuff_a" id="4198" level="2" /> <!-- Poison -->
@@ -114,7 +117,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="25003" level="22" type="Monster" name="Pawn of Kutus" title="Raid Fighter">
+	<npc id="25003" level="22" type="Monster" name="Пешка Кутуса" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4727" level="2" /> <!-- Stun -->
 		</parameters>
@@ -913,7 +916,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="25019" level="25" type="RaidBoss" name="Pan Dryad" title="Raid Boss">
+	<npc id="25019" level="25" type="RaidBoss" name="Наместник Гноллов" title="Raid Boss">
 		<parameters>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="SelfRangeCancel_a" id="4177" level="2" /> <!-- BOSS Cancel Magic -->
@@ -924,7 +927,7 @@
 		<race>FAIRY</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- rhand: Trident -->
-		<acquire exp="254101" sp="7928" raidPoints="320" />
+		<acquire exp="450000" sp="45600" raidPoints="320" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="86632.6170728744" hpRegen="46.0963284168942" mp="259.2" mpRegen="1.5" />
 			<attack physical="148.444637760902" magical="18.7186896910546" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -961,6 +964,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="300000" max="360000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="63.9842">
 					<item id="393" min="1" max="1" chance="26.1614" /> <!-- Mithril Banded Mail -->
 					<item id="394" min="1" max="1" chance="26.1614" /> <!-- Reinforced Leather Shirt -->
@@ -1900,11 +1906,11 @@
 			<height normal="12" />
 		</collision>
 	</npc>
-	<npc id="25038" level="28" type="RaidBoss" name="Tirak" title="Raid Boss">
+	<npc id="25038" level="28" type="RaidBoss" name="Тирак" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25039" count="1" respawnTime="360" weightPoint="1" /> <!-- Tirak's Guard -->
-				<npc id="25040" count="4" respawnTime="360" weightPoint="1" /> <!-- Tirak's Knight -->
+				<npc id="25039" count="1" respawnTime="360" weightPoint="1" /> <!-- Страж Тирака -->
+				<npc id="25040" count="4" respawnTime="360" weightPoint="1" /> <!-- Рыцарь Тирака -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="DDMagic_a" id="4192" level="2" /> <!-- BOSS HP Drain -->
@@ -1913,7 +1919,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="239004" sp="9728" raidPoints="376" />
+		<acquire exp="504000" sp="50400" raidPoints="376" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="48983.9727616865" hpRegen="20.2128543987694" mp="300.96" mpRegen="1.5" />
 			<attack physical="94.803457233182" magical="6.05989363604939" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -1950,6 +1956,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="336000" max="403200" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="50.3817">
 					<item id="849" min="4" max="10" chance="18.484" /> <!-- Tiger's Eye Earring -->
 					<item id="880" min="3" max="7" chance="38.7379" /> <!-- Black Pearl Ring -->
@@ -1974,7 +1983,7 @@
 			<height normal="75" />
 		</collision>
 	</npc>
-	<npc id="25039" level="27" type="Monster" name="Tirak's Guard" title="Raid Fighter">
+	<npc id="25039" level="27" type="Monster" name="Страж Тирака" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4732" level="2" /> <!-- BOSS Mortal Blow -->
 		</parameters>
@@ -2016,7 +2025,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="25040" level="27" type="Monster" name="Tirak's Knight" title="Raid Fighter">
+	<npc id="25040" level="27" type="Monster" name="Рыцарь Тирака" title="Raid Fighter">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" lhand="945" /> <!-- rhand: Long Sword lhand: Skeleton Buckler -->
@@ -3083,7 +3092,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="358411" sp="16403" raidPoints="300" />
+		<acquire exp="345600" sp="34800" raidPoints="300" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="41750.9956905562" hpRegen="17.9607701717791" mp="245.52" mpRegen="1.5" />
 			<attack physical="68.3204528618992" magical="4.30075262894831" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3119,7 +3128,7 @@
 		<dropLists>
 			<drop>
 				<group chance="100">
-					<item id="57" min="10000" max="18000" chance="70" /> <!-- Adena -->
+					<item id="57" min="230400" max="288000" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="42.7486">
 					<item id="605" min="4" max="12" chance="65.2174" /> <!-- Leather Gauntlets -->
@@ -4910,7 +4919,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="234571" sp="10416" raidPoints="396" />
+		<acquire exp="522000" sp="52800" raidPoints="396" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="51235.8374191156" hpRegen="20.9291966395288" mp="315.12" mpRegen="1.5" />
 			<attack physical="102.72029617436" magical="6.5563877303319" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4945,6 +4954,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="348000" max="417600" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="58.7452">
 					<item id="395" min="1" max="1" chance="32.8894" /> <!-- Manticore Skin Shirt -->
 					<item id="417" min="4" max="12" chance="6.5657" /> <!-- Manticore Skin Gaiters -->
@@ -5056,7 +5068,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="281239" sp="14413" raidPoints="520" />
+		<acquire exp="630000" sp="63600" raidPoints="520" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="138899.136909231" hpRegen="66.9859801832901" mp="402.6" mpRegen="1.8" />
 			<attack physical="327.391297293902" magical="51.7199871013021" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -5093,6 +5105,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="420000" max="504000" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="75.7935">
 					<item id="396" min="1" max="1" chance="29.0162" /> <!-- Salamander Skin Mail -->
 					<item id="1952" min="12" max="36" chance="70.9838" /> <!-- Salamander Skin Mail Texture -->
