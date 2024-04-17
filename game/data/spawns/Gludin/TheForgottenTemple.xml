@@ -52,7 +52,7 @@
             </territory>
         </territories>
         <npc id="21190" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пехотинец Гигант 30 -->
-        <npc id="20750" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Огненный Стрелок 29 -->
+        <npc id="20749" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Смерти 29 -->
     </spawn>
     <spawn name="ForgottenTemple_005">
         <territories>
@@ -63,7 +63,7 @@
                 <node x="-56456" y="188733"/>
             </territory>
         </territories>
-        <npc id="20750" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Огненный Стрелок 29 -->
+        <npc id="20749" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Пламя Смерти 29 -->
         <npc id="21190" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Пехотинец Гигант 30 -->
     </spawn>
     <spawn name="ForgottenTemple_006">

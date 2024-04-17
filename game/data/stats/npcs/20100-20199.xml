@@ -3322,7 +3322,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>FEMALE</sex>
-		<acquire exp="3057" sp="220" />
+		<acquire exp="2040" sp="204" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="736.96177" hpRegen="4.5" mp="370.580748055665" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3361,8 +3361,8 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="288" max="574" chance="100" /> <!-- Adena -->
+				<group chance="100">
+					<item id="57" min="1360" max="1632" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="0.0805">
 					<item id="436" min="1" max="1" chance="38.4858" /> <!-- Tunic of Knowledge -->
@@ -4480,7 +4480,7 @@
 			<height normal="35" grown="42" />
 		</collision>
 	</npc>
-	<npc id="20173" level="33" type="Monster" name="Troll">
+	<npc id="20173" level="33" type="Monster" name="Тролль">
 		<parameters>
 			<param name="MoveAroundSocial" value="135" />
 			<param name="MoveAroundSocial1" value="135" />
@@ -4493,7 +4493,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
-		<acquire exp="3599" sp="191" />
+		<acquire exp="1980" sp="198" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
 			<attack physical="113.49065" magical="77.49941" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -4527,8 +4527,8 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="525" max="850" chance="100" /> <!-- Adena -->
+				<group chance="100">
+					<item id="57" min="1320" max="1584" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="1.5458">
 					<item id="849" min="1" max="1" chance="2.6765" /> <!-- Tiger's Eye Earring -->

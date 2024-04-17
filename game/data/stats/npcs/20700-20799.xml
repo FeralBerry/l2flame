@@ -271,7 +271,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="20747" level="32" type="Monster" name="Roxide">
+	<npc id="20747" level="32" type="Monster" name="Демонесса">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -288,7 +288,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="3503" sp="197" />
+		<acquire exp="1920" sp="192" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="668.47132" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -326,8 +326,8 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="493" max="989" chance="100" /> <!-- Adena -->
+				<group chance="100">
+					<item id="57" min="1280" max="1536" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="0.4044">
 					<item id="627" min="1" max="1" chance="58.8055" /> <!-- Aspis -->
@@ -354,7 +354,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20748" level="31" type="Monster" name="Roxide Cohort">
+	<npc id="20748" level="31" type="Monster" name="Свита Демонессы">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -370,7 +370,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="73" /> <!-- rhand: Shamshir -->
-		<acquire exp="3239" sp="174" />
+		<acquire exp="1860" sp="186" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -410,7 +410,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="467" max="925" chance="100" /> <!-- Adena -->
+					<item id="57" min="1240" max="1488" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3023">
 					<item id="275" min="1" max="1" chance="2.6815" /> <!-- Long Bow -->
@@ -438,7 +438,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="20749" level="32" type="Monster" name="Death Fire">
+	<npc id="20749" level="30" type="Monster" name="Пламя Смерти">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -455,7 +455,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="3503" sp="197" />
+		<acquire exp="1800" sp="180" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="668.47132" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -473,7 +473,7 @@
 		<status undying="false" canBeSown="true" />
 		<skillList>
 			<skill id="4087" level="3" /> <!-- NPC Blaze -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4408" level="12" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
@@ -485,7 +485,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="1000" clanHelpRange="300">
 			<clanList>
 				<clan>DEMONIC</clan>
@@ -494,7 +494,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="493" max="989" chance="100" /> <!-- Adena -->
+					<item id="57" min="1200" max="1440" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.4044">
 					<item id="627" min="1" max="1" chance="58.8055" /> <!-- Aspis -->
@@ -518,7 +518,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="20750" level="29" type="Monster" name="Fire Archer">
+	<npc id="20750" level="29" type="Monster" name="Огненный Стрелок">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -532,7 +532,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- rhand: Bow -->
-		<acquire exp="3354" sp="180" />
+		<acquire exp="1740" sp="174" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -571,7 +571,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="484" max="958" chance="100" /> <!-- Adena -->
+					<item id="57" min="1160" max="1392" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0252">
 					<item id="222" min="1" max="1" chance="100" /> <!-- Poniard Dagger -->

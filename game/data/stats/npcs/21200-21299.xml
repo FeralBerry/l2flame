@@ -2975,7 +2975,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" /> <!-- rhand: Bastard Sword -->
-		<acquire exp="3828" sp="209" />
+		<acquire exp="1800" sp="180" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3013,8 +3013,8 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="546" max="1092" chance="100" /> <!-- Adena -->
+				<group chance="100">
+					<item id="57" min="1200" max="1440" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="0.2014">
 					<item id="69" min="1" max="1" chance="2.8343" /> <!-- Bastard Sword -->

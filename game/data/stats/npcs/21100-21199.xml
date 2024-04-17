@@ -3554,7 +3554,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="21135" level="27" type="Monster" name="Underground Kobold Warrior">
+	<npc id="21135" level="27" type="Monster" name="Воин Подземных Кобольдов">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -3568,7 +3568,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="1324" sp="67" />
+		<acquire exp="1620" sp="162" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3606,7 +3606,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="198" max="381" chance="100" /> <!-- Adena -->
+					<item id="57" min="	1080" max="1296" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0163">
 					<item id="274" min="1" max="1" chance="100" /> <!-- Strengthened Bow -->
@@ -4012,7 +4012,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="21141" level="28" type="Monster" name="Catacomb Serpent">
+	<npc id="21141" level="28" type="Monster" name="Змей Катакомб">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -4027,7 +4027,7 @@
 		<race>BEAST</race>
 		<sex>MALE</sex>
 		<equipment rhand="73" /> <!-- rhand: Shamshir -->
-		<acquire exp="3705" sp="194" />
+		<acquire exp="1680" sp="168" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4063,8 +4063,8 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="545" max="1067" chance="100" /> <!-- Adena -->
+				<group chance="100">
+					<item id="57" min="1120" max="1344" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="0.3852">
 					<item id="432" min="1" max="1" chance="38.4419" /> <!-- Cursed Tunic -->
@@ -4168,7 +4168,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="21143" level="31" type="Monster" name="Catacomb Scavenger Bat">
+	<npc id="21143" level="31" type="Monster" name="Летучий Падальщик Катакомб">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -4182,7 +4182,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="4169" sp="231" />
+		<acquire exp="1860" sp="186" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="635.76437" hpRegen="4.5" mp="343.8" mpRegen="1.8" />
 			<attack physical="99.21986" magical="67.7543" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4220,7 +4220,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="593" max="1182" chance="100" /> <!-- Adena -->
+					<item id="57" min="1240" max="1488" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.5987">
 					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->
@@ -8529,7 +8529,7 @@
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="21190" level="30" type="Monster" name="Gigant Footman">
+	<npc id="21190" level="30" type="Monster" name="Пехотинец Гигант">
 		<parameters>
 			<param name="MoveAroundSocial" value="85" />
 			<param name="MoveAroundSocial1" value="85" />
@@ -8544,7 +8544,7 @@
 		<race>DIVINE</race>
 		<sex>MALE</sex>
 		<equipment rhand="5791" /> <!-- rhand: Tomb Guard A -->
-		<acquire exp="4532" sp="248" />
+		<acquire exp="1800" sp="180" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -8597,7 +8597,7 @@
 					<item id="6360" min="128" max="259" chance="100" /> <!-- Blue Seal Stone -->
 				</group>
 				<group chance="70">
-					<item id="57" min="800" max="1455" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="440" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.6211">
 					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->
@@ -8623,7 +8623,7 @@
 			<height normal="40" />
 		</collision>
 	</npc>
-	<npc id="21191" level="33" type="Monster" name="Gigant Cleric">
+	<npc id="21191" level="33" type="Monster" name="Клерик Гигант">
 		<parameters>
 			<param name="MoveAroundSocial" value="98" />
 			<param name="MoveAroundSocial1" value="98" />
@@ -8638,7 +8638,7 @@
 		<race>DIVINE</race>
 		<sex>MALE</sex>
 		<equipment rhand="5793" /> <!-- rhand: Tomb Savant A -->
-		<acquire exp="5230" sp="300" />
+		<acquire exp="1980" sp="198" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
 			<attack physical="113.49065" magical="77.49941" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -8694,7 +8694,7 @@
 					<item id="6360" min="108" max="211" chance="100" /> <!-- Blue Seal Stone -->
 				</group>
 				<group chance="70">
-					<item id="57" min="500" max="860" chance="100" /> <!-- Adena -->
+					<item id="57" min="420" max="584" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3558">
 					<item id="628" min="1" max="1" chance="58.8353" /> <!-- Hoplon -->
