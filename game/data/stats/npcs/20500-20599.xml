@@ -648,7 +648,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="20508" level="17" type="Monster" name="Plunder Tarantula">
+	<npc id="20508" level="17" type="Monster" name="Тарантул Хищник">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -656,7 +656,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="618" sp="26" />
+		<acquire exp="201" sp="20" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
 			<attack physical="34.8979" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -692,7 +692,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="122" max="197" chance="100" /> <!-- Adena -->
+					<item id="57" min="122" max="177" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2468">
 					<item id="1101" min="1" max="1" chance="38.5101" /> <!-- Tunic of Devotion -->
@@ -2523,7 +2523,7 @@
 		</collision>
 	</npc>
 
-	<npc id="20542" level="19" type="Monster" name="Skeleton Longbowman">
+	<npc id="20542" level="19" type="Monster" name="Скелет с Длинным Луком">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -2532,7 +2532,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="275" /> <!-- rhand: Long Bow -->
-		<acquire exp="587" sp="26" />
+		<acquire exp="228" sp="26" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="321.63954" hpRegen="2.5" mp="183.28" mpRegen="1.2" />
 			<attack physical="40.96915" magical="27.97662" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -2859,7 +2859,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="1075" sp="52" />
+		<acquire exp="276" sp="28" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="410.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
 			<attack physical="55.84125" magical="38.13234" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2895,7 +2895,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="177" max="312" chance="100" /> <!-- Adena -->
+					<item id="57" min="184" max="230" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3906">
 					<item id="625" min="1" max="1" chance="58.9212" /> <!-- Bone Shield -->
@@ -2965,7 +2965,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" lhand="19" /> <!-- rhand: Bastard Sword lhand: Small Shield -->
-		<acquire exp="4233" sp="247" />
+		<acquire exp="1020" sp="102" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3003,7 +3003,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="592" max="1181" chance="100" /> <!-- Adena -->
+					<item id="57" min="680" max="816" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1685">
 					<item id="83" min="1" max="1" chance="2.676" /> <!-- Sword of Magic -->

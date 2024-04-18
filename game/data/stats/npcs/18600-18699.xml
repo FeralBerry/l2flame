@@ -421,7 +421,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="5782" sp="652" />
+		<acquire exp="3240" sp="324" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="812.7777620382" hpRegen="9" mp="270.2" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -462,7 +462,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="827" max="1255" chance="100" /> <!-- Adena -->
+					<item id="57" min="2100" max="2500" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.126">
 					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->
@@ -533,7 +533,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="5782" sp="652" />
+		<acquire exp="3240" sp="324" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="943.4125711026" hpRegen="9" mp="380.8" mpRegen="1.8" />
 			<attack physical="137.86467" magical="67.7543" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -574,7 +574,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="1227" max="1455" chance="100" /> <!-- Adena -->
+					<item id="57" min="2100" max="2500" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0648">
 					<item id="83" min="1" max="1" chance="2.676" /> <!-- Sword of Magic -->
@@ -646,7 +646,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="4630" sp="222" />
+		<acquire exp="1980" sp="198" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="685.8044" hpRegen="5.5" mp="280.8" mpRegen="2.1" />
 			<attack physical="290.44588" magical="198.33688" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -697,8 +697,8 @@
 					<item id="34849" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Power -->
 					<item id="34850" min="1" max="1" chance="0.7" /> <!-- Mysterious Herb of Magic -->
 				</group>
-				<group chance="70">
-					<item id="57" min="945" max="1291" chance="100" /> <!-- Adena -->
+				<group chance="100">
+					<item id="57" min="1320" max="1584" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="0.7936">
 					<item id="553" min="1" max="1" chance="2.8426" /> <!-- Iron Boots -->
@@ -742,7 +742,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="726" sp="28" />
+		<acquire exp="2160" sp="216" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="580.8" mpRegen="2.1" />
 			<attack physical="205.54906" magical="158.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -783,7 +783,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="904" max="1107" chance="100" /> <!-- Adena -->
+					<item id="57" min="1440" max="1728" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.9841">
 					<item id="553" min="1" max="1" chance="2.8426" /> <!-- Iron Boots -->
@@ -909,7 +909,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="18614" level="36" type="Monster" name="Fire Spirit">
+	<npc id="18614" level="36" type="Monster" name="Дух Огня">
 		<parameters>
 			<param name="MoveAroundSocial" value="215" />
 			<param name="MoveAroundSocial1" value="215" />
@@ -925,7 +925,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="150" lhand="103" /> <!-- Elemental Sword / Tower Shield -->
-		<acquire exp="726" sp="28" />
+		<acquire exp="2160" sp="216" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="290.8" mpRegen="2.1" />
 			<attack physical="155.54906" magical="108.6504" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -966,7 +966,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="933" max="1468" chance="100" /> <!-- Adena -->
+					<item id="57" min="1440" max="1728" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1485">
 					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->
@@ -1103,7 +1103,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="4726" sp="228" />
+		<acquire exp="2160" sp="216" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="710.4101" hpRegen="5.5" mp="2512.2" mpRegen="2.1" />
 			<attack physical="255.54906" magical="208.6504" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1143,7 +1143,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="649" max="995" chance="100" /> <!-- Adena -->
+					<item id="57" min="1440" max="1728" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.5434">
 					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->

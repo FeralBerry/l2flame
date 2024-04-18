@@ -3848,7 +3848,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="77" /> <!-- rhand: Tsurugi -->
-		<acquire exp="299004" sp="9728" raidPoints="376" />
+		<acquire exp="504000" sp="50400" raidPoints="376" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="97967.945523373" hpRegen="50.5321359969236" mp="300.96" mpRegen="1.5" />
 			<attack physical="189.606914466364" magical="24.2395745441976" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -3885,6 +3885,9 @@
 		<ai type="BALANCED" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="100">
+					<item id="57" min="336000" max="403200" chance="70" /> <!-- Adena -->
+				</group>
 				<group chance="46.1076">
 					<item id="63" min="3" max="9" chance="17.012" /> <!-- Gauntlets -->
 					<item id="553" min="4" max="10" chance="14.5817" /> <!-- Iron Boots -->

@@ -14,7 +14,7 @@
 				<node x="-73419" y="162037"/>
 			</territory>
 		</territories>
-		<npc id="20008" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman 17 -->
+		<npc id="20008" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Ящер Фелим 17 -->
 		<npc id="20010" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Scout 17 -->
 		<npc id="20014" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Warrior 17 -->
 	</spawn>

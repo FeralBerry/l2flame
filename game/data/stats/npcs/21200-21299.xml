@@ -1046,7 +1046,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="21211" level="27" type="Monster" name="Vault Seer">
+	<npc id="21211" level="27" type="Monster" name="Смотритель Подземелья">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1060,7 +1060,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="3321" sp="170" />
+		<acquire exp="1620" sp="162" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1098,7 +1098,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="495" max="955" chance="100" /> <!-- Adena -->
+					<item id="57" min="1080" max="1296" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0409">
 					<item id="156" min="1" max="1" chance="33.3333" /> <!-- Hand Axe -->
@@ -2878,7 +2878,7 @@
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="21235" level="27" type="Monster" name="Grave Seer">
+	<npc id="21235" level="27" type="Monster" name="Смотритель Могил">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2892,7 +2892,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<acquire exp="3321" sp="170" />
+		<acquire exp="1620" sp="162" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2934,7 +2934,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="546" max="1092" chance="100" /> <!-- Adena -->
+					<item id="57" min="1080" max="1296" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2014">
 					<item id="69" min="1" max="1" chance="2.8343" /> <!-- Bastard Sword -->
@@ -2975,7 +2975,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" /> <!-- rhand: Bastard Sword -->
-		<acquire exp="3828" sp="209" />
+		<acquire exp="1800" sp="180" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3013,8 +3013,8 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="546" max="1092" chance="100" /> <!-- Adena -->
+				<group chance="100">
+					<item id="57" min="1200" max="1440" chance="70" /> <!-- Adena -->
 				</group>
 				<group chance="0.2014">
 					<item id="69" min="1" max="1" chance="2.8343" /> <!-- Bastard Sword -->
@@ -4650,7 +4650,7 @@
 			<height normal="50.4" />
 		</collision>
 	</npc>
-	<npc id="21257" level="18" type="Monster" name="Evil Eye Seer">
+	<npc id="21257" level="18" type="Monster" name="Блюстительное Око Зла">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -4660,7 +4660,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="646" sp="28" />
+		<acquire exp="216" sp="22" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="301.66622" hpRegen="2.5" mp="174.64" mpRegen="1.2" />
 			<attack physical="37.82932" magical="25.83252" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -4699,7 +4699,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="122" max="202" chance="100" /> <!-- Adena -->
+					<item id="57" min="144" max="180" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0288">
 					<item id="217" min="1" max="1" chance="50" /> <!-- Shining Knife -->
