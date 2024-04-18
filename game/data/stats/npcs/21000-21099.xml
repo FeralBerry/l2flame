@@ -1159,7 +1159,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5" /> <!-- rhand: Mace -->
-		<acquire exp="1570" sp="86" />
+		<acquire exp="450" sp="45" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1195,7 +1195,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="224" max="448" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="360" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1834">
 					<item id="627" min="1" max="1" chance="58.8055" /> <!-- Aspis -->
@@ -1379,7 +1379,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="273" /> <!-- rhand: Composite Bow -->
-		<acquire exp="2304" sp="130" />
+		<acquire exp="480" sp="48" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="668.47132" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -1416,7 +1416,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="324" max="651" chance="100" /> <!-- Adena -->
+					<item id="57" min="320" max="384" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.3598">
 					<item id="848" min="1" max="1" chance="4.7174" /> <!-- Enchanted Earring -->
@@ -1601,7 +1601,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="67" /> <!-- rhand: Orcish Sword -->
-		<acquire exp="2448" sp="143" />
+		<acquire exp="510" sp="51" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1639,7 +1639,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="342" max="683" chance="100" /> <!-- Adena -->
+					<item id="57" min="340" max="408" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0975">
 					<item id="83" min="1" max="1" chance="2.676" /> <!-- Sword of Magic -->

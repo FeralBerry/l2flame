@@ -1869,7 +1869,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" lhand="19" /> <!-- rhand: Long Sword lhand: Small Shield -->
-		<acquire exp="1054" sp="50" />
+		<acquire exp="276" sp="28" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="410.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
 			<attack physical="55.84125" magical="38.13234" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1905,7 +1905,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="173" max="305" chance="100" /> <!-- Adena -->
+					<item id="57" min="184" max="230" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0238">
 					<item id="16" min="1" max="1" chance="100" /> <!-- Great Spear -->
@@ -1972,7 +1972,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="68" lhand="19" /> <!-- rhand: Falchion lhand: Small Shield -->
-		<acquire exp="917" sp="42" />
+		<acquire exp="252" sp="26" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2008,7 +2008,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="156" max="278" chance="100" /> <!-- Adena -->
+					<item id="57" min="168" max="218" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.0088">
 					<item id="39" min="1" max="1" chance="7.0524" /> <!-- Boots -->
@@ -2078,7 +2078,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="67" lhand="102" /> <!-- rhand: Orcish Sword lhand: Round Shield -->
-		<acquire exp="1293" sp="65" />
+		<acquire exp="780" sp="78" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="487.5704" hpRegen="3.5" mp="273.0" mpRegen="1.5" />
 			<attack physical="69.75926" magical="47.63653" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2115,7 +2115,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="396" max="574" chance="100" /> <!-- Adena -->
+					<item id="57" min="520" max="624" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2802">
 					<item id="291" min="1" max="1" chance="2.8677" /> <!-- Trident -->
@@ -2185,7 +2185,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="66" /> <!-- rhand: Gladius -->
-		<acquire exp="1122" sp="55" />
+		<acquire exp="576" sp="58" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="435.34437" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
 			<attack physical="60.19687" magical="41.10666" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2222,7 +2222,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="377" max="527" chance="100" /> <!-- Adena -->
+					<item id="57" min="384" max="480" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1077">
 					<item id="25" min="1" max="1" chance="2.9004" /> <!-- Piece Bone Breastplate -->

@@ -1003,7 +1003,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="2364" sp="130" />
+		<acquire exp="450" sp="45" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1040,7 +1040,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="337" max="674" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="360" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0176">
 					<item id="222" min="1" max="1" chance="100" /> <!-- Poniard Dagger -->
@@ -1081,7 +1081,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- rhand: Bow -->
-		<acquire exp="2260" sp="119" />
+		<acquire exp="420" sp="42" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -1118,7 +1118,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="333" max="651" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0276">
 					<item id="274" min="1" max="1" chance="100" /> <!-- Strengthened Bow -->
@@ -1157,7 +1157,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="3" /> <!-- rhand: Broadsword -->
-		<acquire exp="1656" sp="85" />
+		<acquire exp="405" sp="41" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1194,7 +1194,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="247" max="476" chance="100" /> <!-- Adena -->
+					<item id="57" min="270" max="324" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3556">
 					<item id="291" min="1" max="1" chance="2.8677" /> <!-- Trident -->

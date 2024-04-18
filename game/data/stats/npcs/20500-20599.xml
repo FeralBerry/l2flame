@@ -2859,7 +2859,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="1075" sp="52" />
+		<acquire exp="276" sp="28" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="410.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
 			<attack physical="55.84125" magical="38.13234" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2895,7 +2895,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="177" max="312" chance="100" /> <!-- Adena -->
+					<item id="57" min="184" max="230" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3906">
 					<item id="625" min="1" max="1" chance="58.9212" /> <!-- Bone Shield -->
@@ -2965,7 +2965,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" lhand="19" /> <!-- rhand: Bastard Sword lhand: Small Shield -->
-		<acquire exp="4233" sp="247" />
+		<acquire exp="1020" sp="102" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3003,7 +3003,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="592" max="1181" chance="100" /> <!-- Adena -->
+					<item id="57" min="680" max="816" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1685">
 					<item id="83" min="1" max="1" chance="2.676" /> <!-- Sword of Magic -->

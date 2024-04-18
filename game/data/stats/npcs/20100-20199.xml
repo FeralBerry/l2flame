@@ -1914,7 +1914,7 @@
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="593" sp="26" />
+		<acquire exp="240" sp="24" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192.53" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1952,7 +1952,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="127" max="221" chance="100" /> <!-- Adena -->
+					<item id="57" min="160" max="200" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.031">
 					<item id="256" min="1" max="1" chance="100" /> <!-- Cestus -->
@@ -3748,7 +3748,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="878" sp="42" />
+		<acquire exp="276" sp="28" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="410.70422" hpRegen="3.5" mp="231.96" mpRegen="1.5" />
 			<attack physical="55.84125" magical="38.13234" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3788,7 +3788,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="177" max="312" chance="100" /> <!-- Adena -->
+					<item id="57" min="184" max="230" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.8862">
 					<item id="846" min="1" max="1" chance="10.4521" /> <!-- Coral Earring -->
@@ -3857,7 +3857,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- rhand: Bow -->
-		<acquire exp="1042" sp="53" />
+		<acquire exp="375" sp="38" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="460.96247" hpRegen="3.5" mp="259.2" mpRegen="1.5" />
 			<attack physical="64.83203" magical="44.27187" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -3897,7 +3897,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="185" max="346" chance="100" /> <!-- Adena -->
+					<item id="57" min="250" max="300" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.6858">
 					<item id="40" min="1" max="1" chance="4.3392" /> <!-- Leather Boots -->
@@ -3967,7 +3967,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" /> <!-- rhand: Bastard Sword -->
-		<acquire exp="4509" sp="480" />
+		<acquire exp="1740" sp="174" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4009,7 +4009,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="620" max="1235" chance="100" /> <!-- Adena -->
+					<item id="57" min="1160" max="1392" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0114">
 					<item id="259" min="1" max="1" chance="100" /> <!-- Single-Edged Jamadhr -->

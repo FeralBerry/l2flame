@@ -649,7 +649,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" lhand="19" /> <!-- Long Sword / Small Shield -->
-		<acquire exp="2359" sp="119" />
+		<acquire exp="390" sp="39" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="975.3943" hpRegen="3.5" mp="273" mpRegen="1.5" />
 			<attack physical="69.75926" magical="47.63653" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -688,7 +688,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="357" max="682" chance="100" /> <!-- Adena -->
+					<item id="57" min="260" max="312" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0293">
 					<item id="220" min="1" max="1" chance="100" /> <!-- Crafted Dagger -->
@@ -753,7 +753,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="10" /> <!-- Dagger -->
-		<acquire exp="2484" sp="127" />
+		<acquire exp="810" sp="81" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1030.284" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -792,7 +792,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="371" max="714" chance="100" /> <!-- Adena -->
+					<item id="57" min="540" max="648" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.8727">
 					<item id="626" min="1" max="1" chance="6.6164" /> <!-- Bronze Shield -->
@@ -860,7 +860,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="275" /> <!-- Longbow -->
-		<acquire exp="2708" sp="142" />
+		<acquire exp="420" sp="42" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1087.697" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -886,7 +886,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>1</sNpcPropHpRate>
 		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
 			<clanList>
 				<clan>OL_MAHUM</clan>
@@ -899,7 +899,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="398" max="780" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0331">
 					<item id="274" min="1" max="1" chance="100" /> <!-- Strengthened Bow -->
@@ -964,7 +964,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="68" lhand="19" /> <!-- Falchion / Small Shield -->
-		<acquire exp="6775" sp="449" />
+		<acquire exp="2175" sp="218" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1147.003" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1003,7 +1003,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="400" max="793" chance="100" /> <!-- Adena -->
+					<item id="57" min="1450" max="1750" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.8949">
 					<item id="348" min="1" max="1" chance="1.3287" /> <!-- Scale Mail -->
@@ -1072,7 +1072,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="123" lhand="19" /> <!-- Saber / Small Shield -->
-		<acquire exp="2980" sp="163" />
+		<acquire exp="450" sp="45" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1208.202" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1111,7 +1111,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="425" max="850" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="360" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1717">
 					<item id="86" min="1" max="1" chance="1.2938" /> <!-- Tomahawk -->
@@ -1187,7 +1187,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="69" lhand="19" /> <!-- rhand: Bastard Sword lhand: Small Shield -->
-		<acquire exp="3527" sp="206" />
+		<acquire exp="1020" sp="102" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1229,7 +1229,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="279" max="557" chance="100" /> <!-- Adena -->
+					<item id="57" min="680" max="816" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.3299">
 					<item id="849" min="1" max="1" chance="2.6765" /> <!-- Tiger's Eye Earring -->
@@ -2354,7 +2354,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="13" /> <!-- Short Bow -->
-		<acquire exp="1270" sp="60" />
+		<acquire exp="528" sp="53" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="387.02878" hpRegen="3.5" mp="218.52" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -2394,7 +2394,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="412" max="681" chance="100" /> <!-- Adena -->
+					<item id="57" min="352" max="440" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.5666">
 					<item id="27" min="1" max="1" chance="3.1003" /> <!-- Hard Leather Shirt -->
