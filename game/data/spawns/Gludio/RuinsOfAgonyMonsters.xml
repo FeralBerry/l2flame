@@ -9,17 +9,37 @@
 		<npc id="24382" count="4" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
 		<npc id="24383" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
 	</spawn>
+	<spawn name="roa_002">
+		<territories>
+			<territory name="roa_001" shape="Cylinder" minZ="-2650" maxZ="-2680" rad="300">
+				<node x="-43949" y="122684" />
+			</territory>
+		</territories>
+		<npc id="24382" count="4" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
+		<npc id="24383" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
+	</spawn>
+	<spawn name="roa_002">
+		<territories>
+			<territory name="roa_001" shape="Cylinder" minZ="-3155" maxZ="-2700" rad="2000">
+				<node x="-46076" y="122839" />
+			</territory>
+		</territories>
+		<npc id="24382" count="4" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
+		<npc id="24383" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
+		<npc id="20051" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Лучник 20 -->
+	</spawn>
+
 	<!--
-	<npc id="20051" level="20" type="Monster" name="Skeleton Bowman">
-	<npc id="20543" level="20" type="Monster" name="Ghost">
-	<npc id="24384" count="6" respawnTime="3sec" chaseRange="550" /> Krakos Bat 20 переделать
-	<npc id="24385" count="10" respawnTime="3sec" chaseRange="550" /> Vampire 20 переделать
-	<npc id="20054" level="21" type="Monster" name="Ruin Spartoi">
-	<npc id="20329" level="21" type="Monster" name="Ghost Guardian">
-	<npc id="20060" level="22" type="Monster" name="Raging Spartoi">
-	<npc id="20458" level="22" type="Monster" name="Zombie Warrior">
-	<npc id="24389" count="2" respawnTime="3sec" chaseRange="550" /> Spartoi Soldier 33 переделать
-	<npc id="24390" count="2" respawnTime="3sec" chaseRange="550" /> Raging Spartoi 33 переделать
+	<npc id="20051" level="20" type="Monster" name="Скелет Лучник">
+	<npc id="20543" level="20" type="Monster" name="Призрак">
+	<npc id="24384" count="6" respawnTime="3sec" chaseRange="550" /> Кракос Летучая Мышь 20
+	<npc id="24385" count="10" respawnTime="3sec" chaseRange="550" /> Вампир 20
+	<npc id="20054" level="21" type="Monster" name="Скелет Руин">
+	<npc id="20329" level="21" type="Monster" name="Призрак Страж">
+	<npc id="20060" level="22" type="Monster" name="Яростный Скелет">
+	<npc id="20458" level="22" type="Monster" name="Воин Зомби">
+
+
 	<npc id="20140" level="24" type="Monster" name="Giant Leech">
 	<npc id="21167" level="24" type="Monster" name="Lith Witch">
 	<npc id="21133" level="25" type="Monster" name="Dead Pit Skeleton Archer">
@@ -43,6 +63,8 @@
 	<npc id="20615" level="29" type="Monster" name="Ritmal Swordsman">
 	<npc id="20191" level="30" type="Monster" name="Skeleton Raider">
 	<npc id="21169" level="30" type="Monster" name="Lith Guard">
+	<npc id="24389" count="2" respawnTime="3sec" chaseRange="550" /> Spartoi Soldier 33 переделать
+	<npc id="24390" count="2" respawnTime="3sec" chaseRange="550" /> Raging Spartoi 33 переделать
 	-->
 	<spawn>
 		<npc id="25149" x="-49326" y="112820" z="-3568" heading="16723" dbSave="true" dbName="Повелитель Зомби Кроул (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Повелитель Зомби Кроул (25) -->

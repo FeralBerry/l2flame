@@ -3068,7 +3068,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20051" level="20" type="Monster" name="Skeleton Bowman">
+	<npc id="20051" level="20" type="Monster" name="Скелет Лучник">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -3077,7 +3077,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="275" /> <!-- rhand: Long Bow -->
-		<acquire exp="734" sp="32" />
+		<acquire exp="240" sp="24" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192.0" mpRegen="1.2" />
 			<attack physical="44.32863" magical="30.2707" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -3107,7 +3107,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai type="ARCHER" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
@@ -3115,7 +3115,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="129" max="223" chance="100" /> <!-- Adena -->
+					<item id="57" min="129" max="200" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1931">
 					<item id="272" min="1" max="1" chance="8.11" /> <!-- Forest Bow -->
@@ -3355,7 +3355,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20054" level="21" type="Monster" name="Ruin Spartoi">
+	<npc id="20054" level="21" type="Monster" name="Скелет Руин">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3369,7 +3369,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="73" /> <!-- rhand: Shamshir -->
-		<acquire exp="917" sp="42" />
+		<acquire exp="264" sp="27" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3399,7 +3399,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
@@ -3407,7 +3407,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="156" max="278" chance="100" /> <!-- Adena -->
+					<item id="57" min="176" max="220" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.0088">
 					<item id="39" min="1" max="1" chance="7.0524" /> <!-- Boots -->
@@ -3940,7 +3940,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20060" level="22" type="Monster" name="Raging Spartoi">
+	<npc id="20060" level="22" type="Monster" name="Яростный Скелет">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3954,7 +3954,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" lhand="945" /> <!-- rhand: Skeleton Dagger lhand: Skeleton Buckler -->
-		<acquire exp="1005" sp="48" />
+		<acquire exp="264" sp="27" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="387.02878" hpRegen="3.5" mp="218.52" mpRegen="1.5" />
 			<attack physical="51.75278" magical="35.34044" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -3984,7 +3984,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
@@ -3992,7 +3992,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="168" max="301" chance="100" /> <!-- Adena -->
+					<item id="57" min="176" max="220" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0801">
 					<item id="87" min="1" max="1" chance="7.244" /> <!-- Iron Hammer -->
