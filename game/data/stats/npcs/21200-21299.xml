@@ -2824,7 +2824,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="21234" level="25" type="Monster" name="Grave Guardian">
+	<npc id="21234" level="25" type="Monster" name="Стражник Могил">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2838,7 +2838,7 @@
 		</parameters>
 		<race>FAIRY</race>
 		<sex>MALE</sex>
-		<acquire exp="3120" sp="156" />
+		<acquire exp="1500" sp="150" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="460.96247" hpRegen="3.5" mp="259.2" mpRegen="1.5" />
 			<attack physical="64.83203" magical="44.27187" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2868,7 +2868,7 @@
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>C_DUNGEON</clan>
 			</clanList>
@@ -2877,6 +2877,61 @@
 			<radius normal="10" />
 			<height normal="24" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="1000" max="1200" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.4324">
+					<item id="626" min="1" max="1" chance="6.6164" /> <!-- Bronze Shield -->
+					<item id="45" min="1" max="1" chance="4.6397" /> <!-- Bone Helmet -->
+					<item id="1932" min="1" max="1" chance="88.7439" /> <!-- Bone Helmet Design -->
+				</group>
+				<group chance="2.5651">
+					<item id="1875" min="1" max="1" chance="12.4881" /> <!-- Stone of Purity -->
+					<item id="1879" min="1" max="1" chance="31.2204" /> <!-- Cokes -->
+					<item id="5549" min="1" max="1" chance="18.7322" /> <!-- Metallic Thread -->
+					<item id="2152" min="1" max="1" chance="32.9793" /> <!-- Recipe: Enchanted Necklace -->
+					<item id="8294" min="1" max="1" chance="4.58" /> <!-- Recipe: Steel Sword (100%) -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1875" min="1" max="1" chance="2.8539" /> <!-- Stone of Purity -->
+				<item id="1899" min="1" max="1" chance="6.6888" /> <!-- Necklace of Devotion Chain -->
+				<item id="2152" min="1" max="1" chance="7.5366" /> <!-- Recipe: Enchanted Necklace -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="21235" level="27" type="Monster" name="Смотритель Могил">
 		<parameters>

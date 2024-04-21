@@ -3399,7 +3399,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="21133" level="25" type="Monster" name="Dead Pit Skeleton Archer">
+	<npc id="21133" level="25" type="Monster" name="Скелет Стрелок Смертельной Ловушки">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -3412,7 +3412,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="274" /> <!-- rhand: Reinforced Bow -->
-		<acquire exp="1022" sp="52" />
+		<acquire exp="375" sp="38" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="460.96247" hpRegen="3.5" mp="259.2" mpRegen="1.5" />
 			<attack physical="64.83203" magical="44.27187" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -3443,7 +3443,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" aggroRange="800" clanHelpRange="300" isAggressive="false">
+		<ai type="ARCHER" aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>UNDEAD</clan>
 			</clanList>
@@ -3451,7 +3451,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="159" max="297" chance="100" /> <!-- Adena -->
+					<item id="57" min="250" max="300" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0128">
 					<item id="156" min="1" max="1" chance="33.3333" /> <!-- Hand Axe -->
@@ -3477,7 +3477,7 @@
 			<height normal="27" />
 		</collision>
 	</npc>
-	<npc id="21134" level="26" type="Monster" name="Dead Pit Spartoi">
+	<npc id="21134" level="26" type="Monster" name="Скелет Смертельной Ловушки">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3491,7 +3491,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="219" /> <!-- rhand: Sword Breaker -->
-		<acquire exp="1078" sp="54" />
+		<acquire exp="390" sp="39" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="487.5704" hpRegen="3.5" mp="273.0" mpRegen="1.5" />
 			<attack physical="69.75926" magical="47.63653" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3522,7 +3522,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="800" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>UNDEAD</clan>
 			</clanList>
@@ -3530,7 +3530,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="163" max="312" chance="100" /> <!-- Adena -->
+					<item id="57" min="260" max="312" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0134">
 					<item id="258" min="1" max="1" chance="100" /> <!-- Bagh-Nakh -->
@@ -6240,7 +6240,7 @@
 			<height normal="33.6" />
 		</collision>
 	</npc>
-	<npc id="21167" level="24" type="Monster" name="Lith Witch">
+	<npc id="21167" level="24" type="Monster" name="Ведьма Лит">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -6252,10 +6252,10 @@
 			<param name="LongRangeGuardRate" value="5" />
 			<skill name="DDMagic" id="4001" level="2" /> <!-- NPC Windstrike -->
 		</parameters>
-		<race>DEMONIC</race>
+		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="5797" /> <!-- rhand: Tomb Savant A -->
-		<acquire exp="2763" sp="136" />
+		<acquire exp="1152" sp="116" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="435.34437" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
 			<attack physical="60.19687" magical="41.10666" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -6282,7 +6282,7 @@
 			<skill id="4413" level="9" /> <!-- Slightly Weak M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="5" /> <!-- Blunt Weapons -->
-			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4416" level="1" /> <!-- Undead -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
@@ -6307,6 +6307,9 @@
 				</group>
 				<group chance="70">
 					<item id="6360" min="72" max="143" chance="100" /> <!-- Blue Seal Stone -->
+				</group>
+				<group chance="70">
+					<item id="57" min="268" max="360" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.5327">
 					<item id="1102" min="1" max="1" chance="38.3948" /> <!-- Tunic of Magic -->
