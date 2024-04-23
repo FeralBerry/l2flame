@@ -11,28 +11,370 @@
 	</spawn>
 	<spawn name="roa_002">
 		<territories>
-			<territory name="roa_001" shape="Cylinder" minZ="-2650" maxZ="-2680" rad="300">
+			<territory name="roa_002" shape="Cylinder" minZ="-2650" maxZ="-2680" rad="300">
 				<node x="-43949" y="122684" />
 			</territory>
 		</territories>
 		<npc id="24382" count="4" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
 		<npc id="24383" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
 	</spawn>
-	<spawn name="roa_002">
+	<spawn name="roa_003">
 		<territories>
-			<territory name="roa_001" shape="Cylinder" minZ="-3155" maxZ="-2700" rad="2000">
+			<territory name="roa_003" shape="Cylinder" minZ="-3155" maxZ="-2700" rad="2000">
 				<node x="-46076" y="122839" />
 			</territory>
 		</territories>
-		<npc id="24382" count="4" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
-		<npc id="24383" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
-		<npc id="20051" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Лучник 20 -->
+		<npc id="24382" count="10" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
+		<npc id="24383" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
+		<npc id="20051" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Лучник 20 -->
 	</spawn>
-
+	<spawn name="roa_004">
+		<territories>
+			<territory name="roa_004" shape="Cylinder" minZ="-3445" maxZ="-3384" rad="800">
+				<node x="-46148" y="120092" />
+			</territory>
+		</territories>
+		<npc id="24384" count="5" respawnTime="20sec" chaseRange="550" /> <!-- Кракос Летучая Мышь 20 -->
+		<npc id="20543" count="5" respawnTime="25sec" chaseRange="550" /> <!-- Призрак 20 -->
+		<npc id="20051" count="5" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Лучник 20 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="roa_005" minZ="-3576" maxZ="-3445">
+				<node x="-45670" y="119403"/>
+				<node x="-46739" y="117852"/>
+				<node x="-46438" y="117581"/>
+				<node x="-47019" y="115771"/>
+				<node x="-46286" y="115415"/>
+				<node x="-44974" y="116184"/>
+				<node x="-45291" y="117190"/>
+				<node x="-44878" y="118590"/>
+			</territory>
+		</territories>
+		<npc id="20051" count="6" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Лучник 20 -->
+		<npc id="24385" count="6" respawnTime="25sec" chaseRange="550" /> <!-- Вампир 20 -->
+		<npc id="20054" count="6" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Руин 21 -->
+		<npc id="20329" count="6" respawnTime="25sec" chaseRange="550" /> <!-- Призрак Страж 21 -->
+		<npc id="20060" count="6" respawnTime="25sec" chaseRange="550" /> <!-- Яростный Скелет 22 -->
+		<npc id="20458" count="6" respawnTime="25sec" chaseRange="550" /> <!-- Воин Зомби 22 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="roa_006" minZ="-3616" maxZ="-3552">
+				<node x="-43758" y="118428"/>
+				<node x="-42734" y="118017"/>
+				<node x="-43635" y="115791"/>
+				<node x="-44520" y="116155"/>
+				<node x="-44133" y="117362"/>
+				<node x="-44337" y="117758"/>
+			</territory>
+			<banned_territory minZ="-3568" maxZ="-3560">
+				<node x="-43447" y="117781"/>
+				<node x="-43427" y="118028"/>
+				<node x="-43113" y="117870"/>
+				<node x="-43262" y="117664"/>
+			</banned_territory>
+		</territories>
+		<npc id="24384" count="12" respawnTime="20sec" chaseRange="550" /> <!-- Кракос Летучая Мышь 20 -->
+		<npc id="20543" count="12" respawnTime="25sec" chaseRange="550" /> <!-- Призрак 20 -->
+		<npc id="20051" count="12" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Лучник 20 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="roa_007" shape="Cylinder" minZ="-3656" maxZ="-3656" rad="300">
+				<node x="-44365" y="115123" />
+			</territory>
+		</territories>
+		<npc id="20054" count="4" respawnTime="20sec" chaseRange="550" /> <!-- Скелет Руин 21 -->
+		<npc id="20329" count="4" respawnTime="25sec" chaseRange="550" /> <!-- Призрак Страж 21 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3552" maxZ="-3512">
+				<node x="-42972" y="115963"/>
+				<node x="-43902" y="114588"/>
+				<node x="-43902" y="114588"/>
+				<node x="-43477" y="114013"/>
+				<node x="-43694" y="112909"/>
+				<node x="-43155" y="112433"/>
+				<node x="-42434" y="112980"/>
+				<node x="-42436" y="113808"/>
+				<node x="-42153" y="114339"/>
+				<node x="-42344" y="114934"/>
+			</territory>
+		</territories>
+		<npc id="20458" count="6" respawnTime="20sec" chaseRange="550" /> <!-- Воин Зомби 22-->
+		<npc id="20140" count="6" respawnTime="20sec" chaseRange="550" /> <!-- Гигантская Пиявка 24 -->
+		<npc id="20060" count="6" respawnTime="25sec" chaseRange="550" /> <!-- Яростный Скелет 22 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3793" maxZ="-3640">
+				<node x="-44845" y="114720"/>
+				<node x="-43970" y="113870"/>
+				<node x="-44181" y="112787"/>
+				<node x="-43251" y="111201"/>
+				<node x="-46356" y="108797"/>
+				<node x="-46987" y="108838"/>
+				<node x="-47174" y="110431"/>
+				<node x="-46929" y="111014"/>
+				<node x="-47230" y="112247"/>
+				<node x="-45345" y="113601"/>
+			</territory>
+			<banned_territory minZ="-3808" maxZ="-3808">
+				<node x="-46054" y="111995"/>
+				<node x="-45829" y="111696"/>
+				<node x="-46054" y="111995"/>
+				<node x="-45703" y="112272"/>
+			</banned_territory>
+			<banned_territory minZ="-3808" maxZ="-3808">
+				<node x="-46422" y="111728"/>
+				<node x="-47057" y="111438"/>
+				<node x="-46849" y="111054"/>
+				<node x="-46225" y="111379"/>
+			</banned_territory>
+		</territories>
+		<npc id="20458" count="10" respawnTime="20sec" chaseRange="550" /> <!-- Воин Зомби 22-->
+		<npc id="20140" count="10" respawnTime="20sec" chaseRange="550" /> <!-- Гигантская Пиявка 24 -->
+		<npc id="20060" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Яростный Скелет 22 -->
+		<npc id="21167" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Ведьма Лит 24 -->
+		<npc id="21133" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Стрелок Смертельной Ловушки 25 -->
+		<npc id="20225" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Гигантская Туманная Пиявка 25 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3568" maxZ="-3576">
+				<node x="-47874" y="109457"/>
+				<node x="-47760" y="110544"/>
+				<node x="-48175" y="110266"/>
+				<node x="-48398" y="110576"/>
+				<node x="-49781" y="109546"/>
+				<node x="-49426" y="109044"/>
+			</territory>
+		</territories>
+		<npc id="21167" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Ведьма Лит 24 -->
+		<npc id="21133" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Стрелок Смертельной Ловушки 25 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3720" maxZ="-3576">
+				<node x="-47587" y="109267"/>
+				<node x="-47161" y="108723"/>
+				<node x="-49217" y="107497"/>
+				<node x="-51395" y="108345"/>
+				<node x="-50258" y="109345"/>
+				<node x="-49615" y="108642"/>
+			</territory>
+			<banned_territory minZ="-3720" maxZ="-3720">
+				<node x="-48944" y="108533"/>
+				<node x="-48764" y="108207"/>
+				<node x="-48368" y="108454"/>
+				<node x="-48597" y="108787"/>
+			</banned_territory>
+		</territories>
+		<npc id="21167" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Ведьма Лит 24 -->
+		<npc id="21133" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Стрелок Смертельной Ловушки 25 -->
+		<npc id="21234" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Стражник Могил 25 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3576" maxZ="-3568">
+				<node x="-48732" y="110741"/>
+				<node x="-48097" y="111149"/>
+				<node x="-48787" y="112141"/>
+				<node x="-49055" y="111998"/>
+				<node x="-49234" y="112201"/>
+				<node x="-49724" y="111648"/>
+				<node x="-49247" y="110793"/>
+				<node x="-48892" y="111010"/>
+			</territory>
+			<banned_territory minZ="-3568" maxZ="-3568">
+				<node x="-49350" y="111596"/>
+				<node x="-49202" y="111927"/>
+				<node x="-49425" y="111923"/>
+				<node x="-49512" y="111678"/>
+			</banned_territory>
+		</territories>
+		<npc id="21133" count="5" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Стрелок Смертельной Ловушки 25 -->
+		<npc id="21234" count="5" respawnTime="25sec" chaseRange="550" /> <!-- Стражник Могил 25 -->
+	</spawn>
+	<spawn>
+		<!--RB 25-->
+		<territories>
+			<territory minZ="-3584" maxZ="-3568">
+				<node x="-49121" y="112763"/>
+				<node x="-50255" y="114395"/>
+				<node x="-52384" y="112699"/>
+				<node x="-51517" y="111245"/>
+				<node x="-49708" y="112489"/>
+			</territory>
+		</territories>
+		<npc id="21133" count="12" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Стрелок Смертельной Ловушки 25 -->
+		<npc id="21234" count="12" respawnTime="25sec" chaseRange="550" /> <!-- Стражник Могил 25 -->
+		<npc id="21134" count="12" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Смертельной Ловушки 26 -->
+		<npc id="20171" count="12" respawnTime="25sec" chaseRange="550" /> <!-- Спектр 26 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3576" maxZ="-3568">
+				<node x="-51645" y="111074"/>
+				<node x="-51256" y="110607"/>
+				<node x="-52772" y="109488"/>
+				<node x="-54301" y="110217"/>
+				<node x="-53589" y="111841"/>
+				<node x="-52354" y="112728"/>
+			</territory>
+			<banned_territory minZ="-3568" maxZ="-3576">
+				<node x="-52192" y="112282"/>
+				<node x="-51962" y="111962"/>
+				<node x="-52378" y="111739"/>
+				<node x="-52569" y="112062"/>
+			</banned_territory>
+		</territories>
+		<npc id="24386" count="15" respawnTime="25sec" chaseRange="550" /> <!-- Скелетон Разведчик 27 -->
+		<npc id="24387" count="15" respawnTime="25sec" chaseRange="550" /> <!-- Скелетон Лучник 27 -->
+		<npc id="24388" count="15" respawnTime="25sec" chaseRange="550" /> <!-- Скелетон Воин 27 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3720" maxZ="-3704">
+				<node x="-53287" y="108818"/>
+				<node x="-52919" y="108342"/>
+				<node x="-51733" y="108709"/>
+				<node x="-50638" y="109734"/>
+				<node x="-51253" y="110337"/>
+			</territory>
+		</territories>
+		<npc id="24388" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Скелетон Воин 27 -->
+		<npc id="20227" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Туманный Потрошитель 27 -->
+		<npc id="20519" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Пикинер 27 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3720" maxZ="-3720">
+				<node x="-55476" y="107537"/>
+				<node x="-54896" y="106839"/>
+				<node x="-53856" y="107621"/>
+				<node x="-53447" y="108406"/>
+				<node x="-53813" y="108663"/>
+				<node x="-54867" y="108481"/>
+			</territory>
+		</territories>
+		<npc id="20615" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="10" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Налетчик 30 -->
+	</spawn>
+	<spawn>
+		<!-- RB 29 -->
+		<territories>
+			<territory minZ="-3384" maxZ="-3320">
+				<node x="-47272" y="107808"/>
+				<node x="-49312" y="106842"/>
+				<node x="-49943" y="107046"/>
+				<node x="-50498" y="106014"/>
+				<node x="-48425" y="105614"/>
+				<node x="-46728" y="106149"/>
+			</territory>
+		</territories>
+		<npc id="21136" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Ужас Смертельной Ловушки 28 -->
+		<npc id="20198" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Мародер 29 -->
+		<npc id="22007" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Призрак Солдата 29 -->
+		<npc id="20615" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Скелет Налетчик 30 -->
+		<npc id="21169" count="8" respawnTime="25sec" chaseRange="550" /> <!-- Страж Лит 30 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="roa_009" shape="Cylinder" minZ="-3624" maxZ="-3384" rad="800">
+				<node x="-46062" y="107335" />
+			</territory>
+		</territories>
+		<npc id="20254" count="8" respawnTime="20sec" chaseRange="550" /> <!-- Скелет с Секирой 28 -->
+		<npc id="20160" count="8" respawnTime="20sec" chaseRange="550" /> <!-- Потрошитель 28 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3224" maxZ="-3400">
+				<node x="-44990" y="107212"/>
+				<node x="-44516" y="108921"/>
+				<node x="-41751" y="108311"/>
+				<node x="-41831" y="107291"/>
+				<node x="-43425" y="106178"/>
+			</territory>
+		</territories>
+		<npc id="20171" count="12" respawnTime="20sec" chaseRange="550" /> <!-- Спектр 26 -->
+		<npc id="20227" count="12" respawnTime="20sec" chaseRange="550" /> <!-- Туманный Потрошитель 27 -->
+		<npc id="20519" count="12" respawnTime="20sec" chaseRange="550" /> <!-- Скелет Пикинер 27 -->
+		<npc id="21168" count="12" respawnTime="20sec" chaseRange="550" /> <!-- Воин Лит 27 -->
+	</spawn>
+	<spawn>
+		<!-- RB 27 -->
+		<territories>
+			<territory minZ="-3464" maxZ="-3272">
+				<node x="-42020" y="109137"/>
+				<node x="-42304" y="110430"/>
+				<node x="-41780" y="111318"/>
+				<node x="-39079" y="111744"/>
+				<node x="-38672" y="110416"/>
+				<node x="-39798" y="110174"/>
+			</territory>
+		</territories>
+		<npc id="20615" count="8" respawnTime="20sec" chaseRange="550" /> <!-- Призрачный Мечник 29 -->
+		<npc id="20198" count="8" respawnTime="20sec" chaseRange="550" /> <!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="8" respawnTime="20sec" chaseRange="550" /> <!-- Скелет Мародер 29 -->
+		<npc id="20227" count="8" respawnTime="20sec" chaseRange="550" /> <!-- Туманный Потрошитель 27 -->
+		<npc id="20519" count="8" respawnTime="20sec" chaseRange="550" /> <!-- Скелет Пикинер 27 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3568" maxZ="-3672">
+				<node x="-50194" y="114415"/>
+				<node x="-48180" y="112786"/>
+				<node x="-45997" y="114729"/>
+				<node x="-48503" y="116055"/>
+			</territory>
+		</territories>
+		<npc id="20060" count="15" respawnTime="20sec" chaseRange="550" /> <!-- Яростный Скелет 22 -->
+		<npc id="20458" count="15" respawnTime="20sec" chaseRange="550" /> <!-- Воин Зомби 22 -->
+		<npc id="24385" count="15" respawnTime="20sec" chaseRange="550" /> <!-- Вампир 20 -->
+		<npc id="21167" count="15" respawnTime="20sec" chaseRange="550" /> <!-- Ведьма Лит 24 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3352" maxZ="-2896">
+				<node x="-49380" y="115978"/>
+				<node x="-48594" y="117586"/>
+				<node x="-47491" y="117816"/>
+				<node x="-47019" y="118717"/>
+				<node x="-47847" y="121172"/>
+				<node x="-51102" y="120583"/>
+				<node x="-55007" y="117850"/>
+				<node x="-54623" y="115873"/>
+			</territory>
+		</territories>
+		<npc id="24382" count="20" respawnTime="20sec" chaseRange="550" /> <!-- Отвратительный Зомби 20 -->
+		<npc id="24383" count="20" respawnTime="25sec" chaseRange="550" /> <!-- Отвратительный Лорд Зомби 20 -->
+		<npc id="24385" count="20" respawnTime="25sec" chaseRange="550" /> <!--  Вампир 20 -->
+		<npc id="20054" count="20" respawnTime="25sec" chaseRange="550" /> <!--  Скелет Руин 21 -->
+		<npc id="20329" count="20" respawnTime="25sec" chaseRange="550" /> <!--  Призрак Страж 21 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3320" maxZ="-3112">
+				<node x="-53156" y="113771"/>
+				<node x="-53429" y="115105"/>
+				<node x="-54357" y="115740"/>
+				<node x="-55520" y="115780"/>
+				<node x="-56056" y="114078"/>
+				<node x="-56123" y="111538"/>
+				<node x="-54654" y="111275"/>
+			</territory>
+		</territories>
+		<npc id="20329" count="15" respawnTime="25sec" chaseRange="550" /> <!--  Призрак Страж 21 -->
+		<npc id="20060" count="15" respawnTime="25sec" chaseRange="550" /> <!--  Яростный Скелет 22 -->
+		<npc id="20458" count="15" respawnTime="25sec" chaseRange="550" /> <!--  Воин Зомби 22 -->
+	</spawn>
 	<!--
-	<npc id="20051" level="20" type="Monster" name="Скелет Лучник">
-	<npc id="20543" level="20" type="Monster" name="Призрак">
-	<npc id="24384" count="6" respawnTime="3sec" chaseRange="550" /> Кракос Летучая Мышь 20
 	<npc id="24385" count="10" respawnTime="3sec" chaseRange="550" /> Вампир 20
 	<npc id="20054" level="21" type="Monster" name="Скелет Руин">
 	<npc id="20329" level="21" type="Monster" name="Призрак Страж">
@@ -48,23 +390,20 @@
 	<npc id="18267" level="27" type="Chest" name="Сундук с Сокровищами">
 	<npc id="20227" level="27" type="Monster" name="Туманный Потрошитель">
 	<npc id="20519" level="27" type="Monster" name="Скелет Пикинер">
+	<npc id="21168" level="27" type="Monster" name="Воин Лит">
+	<npc id="24386" level="27" type="Monster" name="Скелетон Разведчик">
+	<npc id="24387" level="27" type="Monster" name="Скелетон Лучник">
+	<npc id="24388" level="27" type="Monster" name="Скелетон Воин">
+	<npc id="20254" level="28" type="Monster" name="Скелет с Секирой">
+	<npc id="20160" level="28" type="Monster" name="Потрошитель">
+	<npc id="21136" level="28" type="Monster" name="Ужас Смертельной Ловушки">
+	<npc id="20198" level="29" type="Monster" name="Вурдалак Берсерк">
+	<npc id="20190" level="29" type="Monster" name="Скелет Мародер">
+	<npc id="22007" level="29" type="Monster" name="Призрак Солдата">
+	<npc id="20615" level="29" type="Monster" name="Призрачный Мечник">
+	<npc id="20191" level="30" type="Monster" name="Скелет Налетчик">
+	<npc id="21169" level="30" type="Monster" name="Страж Лит">
 
-	<npc id="21168" level="27" type="Monster" name="Lith Warrior">
-
-	<npc id="24386" level="27" type="Monster" name="Skeleton Scout">
-	<npc id="24387" level="27" type="Monster" name="Skeleton Archer">
-	<npc id="24388" level="27" type="Monster" name="Skeleton Warrior">
-	<npc id="20254" level="28" type="Monster" name="Skeleton Axeman">
-	<npc id="20160" level="28" type="Monster" name="Neer Crawler">
-	<npc id="21136" level="28" type="Monster" name="Dead Pit Horror">
-	<npc id="20198" level="29" type="Monster" name="Neer Ghoul Berserker">
-	<npc id="20190" level="29" type="Monster" name="Skeleton Marauder">
-	<npc id="22007" level="29" type="Monster" name="Ghost of a Soldier">
-	<npc id="20615" level="29" type="Monster" name="Ritmal Swordsman">
-	<npc id="20191" level="30" type="Monster" name="Skeleton Raider">
-	<npc id="21169" level="30" type="Monster" name="Lith Guard">
-	<npc id="24389" count="2" respawnTime="3sec" chaseRange="550" /> Spartoi Soldier 33 переделать
-	<npc id="24390" count="2" respawnTime="3sec" chaseRange="550" /> Raging Spartoi 33 переделать
 	-->
 	<spawn>
 		<npc id="25149" x="-49326" y="112820" z="-3568" heading="16723" dbSave="true" dbName="Повелитель Зомби Кроул (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Повелитель Зомби Кроул (25) -->

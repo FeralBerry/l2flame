@@ -5220,7 +5220,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20254" level="28" type="Monster" name="Skeleton Axeman">
+	<npc id="20254" level="28" type="Monster" name="Скелет с Секирой">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -5234,7 +5234,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="86" /> <!-- Tomahawk -->
-		<acquire exp="1442" sp="76" />
+		<acquire exp="420" sp="42" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -5273,7 +5273,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="212" max="415" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3075">
 					<item id="291" min="1" max="1" chance="2.8677" /> <!-- Trident -->

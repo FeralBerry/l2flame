@@ -1582,7 +1582,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>

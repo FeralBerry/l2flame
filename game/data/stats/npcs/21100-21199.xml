@@ -3630,7 +3630,7 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="21136" level="28" type="Monster" name="Dead Pit Horror">
+	<npc id="21136" level="28" type="Monster" name="Ужас Смертельной Ловушки">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -3643,7 +3643,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1178" sp="62" />
+		<acquire exp="420" sp="42" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3672,7 +3672,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="800" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>UNDEAD</clan>
 			</clanList>
@@ -3680,7 +3680,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="173" max="339" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0144">
 					<item id="220" min="1" max="1" chance="100" /> <!-- Crafted Dagger -->
@@ -6333,7 +6333,7 @@
 			<height normal="32" />
 		</collision>
 	</npc>
-	<npc id="21168" level="27" type="Monster" name="Lith Warrior">
+	<npc id="21168" level="27" type="Monster" name="Воин Лит">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -6348,7 +6348,7 @@
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<equipment rhand="5796" /> <!-- rhand: Tomb Guard B -->
-		<acquire exp="3420" sp="175" />
+		<acquire exp="1620" sp="162" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -6404,6 +6404,9 @@
 				<group chance="70">
 					<item id="6360" min="97" max="190" chance="100" /> <!-- Blue Seal Stone -->
 				</group>
+				<group chance="70">
+					<item id="57" min="380" max="496" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="3.1112">
 					<item id="847" min="1" max="1" chance="5.1488" /> <!-- Red Crescent Earring -->
 					<item id="910" min="1" max="1" chance="3.8616" /> <!-- Necklace of Devotion -->
@@ -6430,7 +6433,7 @@
 			<height normal="33.6" />
 		</collision>
 	</npc>
-	<npc id="21169" level="30" type="Monster" name="Lith Guard">
+	<npc id="21169" level="30" type="Monster" name="Страж Лит">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -6445,7 +6448,7 @@
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<equipment rhand="5795" /> <!-- rhand: Tomb Guard A -->
-		<acquire exp="4532" sp="248" />
+		<acquire exp="1800" sp="180" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -6497,6 +6500,9 @@
 				</group>
 				<group chance="70">
 					<item id="6360" min="128" max="259" chance="100" /> <!-- Blue Seal Stone -->
+				</group>
+				<group chance="70">
+					<item id="57" min="300" max="440" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.6211">
 					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->

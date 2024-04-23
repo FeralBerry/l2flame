@@ -3518,7 +3518,7 @@
 			<height normal="45.5" />
 		</collision>
 	</npc>
-	<npc id="20160" level="28" type="Monster" name="Neer Crawler">
+	<npc id="20160" level="28" type="Monster" name="Потрошитель">
 		<parameters>
 			<param name="MoveAroundSocial" value="126" />
 			<param name="MoveAroundSocial1" value="126" />
@@ -3534,7 +3534,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1442" sp="76" />
+		<acquire exp="420" sp="42" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3566,15 +3566,15 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>NEER_CRAWLER</clan>
+				<clan>UNDEAD</clan>
 			</clanList>
 		</ai>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="212" max="415" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0176">
 					<item id="258" min="1" max="1" chance="100" /> <!-- Bagh-Nakh -->
@@ -4891,7 +4891,7 @@
 		</collision>
 	</npc>
 	<!--пропуск 20178 - 20188 -->
-	<npc id="20190" level="29" type="Monster" name="Skeleton Marauder">
+	<npc id="20190" level="29" type="Monster" name="Скелет Мародер">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -4905,7 +4905,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- Bow -->
-		<acquire exp="1567" sp="84" />
+		<acquire exp="435" sp="44" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -4934,7 +4934,7 @@
 		<exCrtEffect>false</exCrtEffect>
 		<ai type="ARCHER" aggroRange="450" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>SKELETON</clan>
+				<clan>UNDEAD</clan>
 			</clanList>
 		</ai>
 		<collision>
@@ -4944,7 +4944,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="226" max="448" chance="100" /> <!-- Adena -->
+					<item id="57" min="290" max="348" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1463">
 					<item id="275" min="1" max="1" chance="2.6815" /> <!-- Long Bow -->
@@ -4997,7 +4997,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20191" level="30" type="Monster" name="Skeleton Raider">
+	<npc id="20191" level="30" type="Monster" name="Скелет Налетчик">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -5011,7 +5011,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" lhand="945" /> <!-- rhand: Skeleton Dagger lhand: Skeleton Buckler -->
-		<acquire exp="1602" sp="88" />
+		<acquire exp="450" sp="45" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -5041,7 +5041,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
@@ -5049,7 +5049,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="228" max="457" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="360" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2312">
 					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->
@@ -5485,7 +5485,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="20198" level="29" type="Monster" name="Neer Ghoul Berserker">
+	<npc id="20198" level="29" type="Monster" name="Вурдалак Берсерк">
 		<parameters>
 			<param name="MoveAroundSocial" value="126" />
 			<param name="MoveAroundSocial1" value="126" />
@@ -5501,7 +5501,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1522" sp="82" />
+		<acquire exp="435" sp="44" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -5534,15 +5534,15 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>NEER_CRAWLER</clan>
+				<clan>UNDEAD</clan>
 			</clanList>
 		</ai>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="220" max="435" chance="100" /> <!-- Adena -->
+					<item id="57" min="290" max="348" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0114">
 					<item id="259" min="1" max="1" chance="100" /> <!-- Single-Edged Jamadhr -->
