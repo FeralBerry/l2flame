@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="1" name="Short Sword" type="Weapon">
+	<item id="1" name="Короткий меч" type="Weapon">
 		<set name="icon" val="icon.weapon_small_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -21,7 +21,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="2" name="Long Sword" type="Weapon">
+	<item id="2" name="Длинный Меч" type="Weapon">
 		<set name="icon" val="icon.weapon_long_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -44,7 +44,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="3" name="Broadsword" type="Weapon">
+	<item id="3" name="Широкий Меч" type="Weapon">
 		<set name="icon" val="icon.weapon_broad_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -67,7 +67,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="4" name="Club" type="Weapon">
+	<item id="4" name="Дубина" type="Weapon">
 		<set name="icon" val="icon.weapon_club_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -91,7 +91,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="5" name="Mace" type="Weapon">
+	<item id="5" name="Булава" type="Weapon">
 		<set name="icon" val="icon.weapon_mace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -115,7 +115,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="6" name="Apprentice's Wand" type="Weapon">
+	<item id="6" name="Скипетр Новичка" type="Weapon">
 		<set name="icon" val="icon.weapon_apprentices_wand_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -141,7 +141,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="7" name="Apprentice's Rod" type="Weapon">
+	<item id="7" name="Жезл Новичка" type="Weapon">
 		<set name="icon" val="icon.weapon_apprentices_rod_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -150,7 +150,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="WOOD" />
 		<set name="weight" val="1330" />
-		<set name="price" val="768" />
+		<set name="price" val="590" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="commissionItemType" val="ONE_HAND_MAGIC_BLUNT_WEAPON" />
@@ -166,7 +166,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="8" name="Willow Staff" type="Weapon">
+	<item id="8" name="Ивовый Посох" type="Weapon">
 		<set name="icon" val="icon.weapon_willow_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -191,7 +191,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="9" name="Cedar Staff" type="Weapon">
+	<item id="9" name="Кедровый Посох" type="Weapon">
 		<set name="icon" val="icon.weapon_cedar_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -216,7 +216,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="10" name="Squire's Dagger" type="Weapon">
+	<item id="10" name="Кинжал Оруженосца" type="Weapon">
 		<set name="icon" val="icon.weapon_dagger_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="DAGGER" />
@@ -241,7 +241,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="11" name="Bone Dagger" type="Weapon">
+	<item id="11" name="Костяной Кинжал" type="Weapon">
 		<set name="icon" val="icon.weapon_bone_dagger_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="DAGGER" />
@@ -265,7 +265,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="12" name="Knife" type="Weapon">
+	<item id="12" name="Нож" type="Weapon">
 		<set name="icon" val="icon.weapon_knife_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="DAGGER" />
@@ -289,7 +289,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="13" name="Short Bow" type="Weapon">
+	<item id="13" name="Короткий Лук" type="Weapon">
 		<set name="icon" val="icon.weapon_short_bow_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BOW" />
@@ -315,7 +315,7 @@
 			<stat type="pAtkRange">500</stat>
 		</stats>
 	</item>
-	<item id="14" name="Bow" type="Weapon">
+	<item id="14" name="Лук" type="Weapon">
 		<set name="icon" val="icon.weapon_bow_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BOW" />
@@ -341,7 +341,7 @@
 			<stat type="pAtkRange">500</stat>
 		</stats>
 	</item>
-	<item id="15" name="Short Spear" type="Weapon">
+	<item id="15" name="Короткое Копье" type="Weapon">
 		<set name="icon" val="icon.weapon_short_spear_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="POLE" />
@@ -368,7 +368,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="16" name="Great Spear" type="Weapon">
+	<item id="16" name="Копье" type="Weapon">
 		<set name="icon" val="icon.weapon_long_spear_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="POLE" />
@@ -395,7 +395,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="17" name="Wooden Arrow" type="EtcItem">
+	<item id="17" name="Деревянная Стрела" type="EtcItem">
 		<!-- An arrow made of wood. Used with No-grade bows. -->
 		<set name="icon" val="icon.etc_wooden_quiver_i00" />
 		<set name="default_action" val="NONE" />
@@ -407,7 +407,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="18" name="Leather Shield" type="Armor">
+	<item id="18" name="Кожаный Щит" type="Armor">
 		<set name="icon" val="icon.shield_leather_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -423,7 +423,7 @@
 			<stat type="sDef">47</stat>
 		</stats>
 	</item>
-	<item id="19" name="Small Shield" type="Armor">
+	<item id="19" name="Маленький Щит" type="Armor">
 		<set name="icon" val="icon.shield_small_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -439,7 +439,7 @@
 			<stat type="sDef">56</stat>
 		</stats>
 	</item>
-	<item id="20" name="Buckler" type="Armor">
+	<item id="20" name="Баклер" type="Armor">
 		<set name="icon" val="icon.shield_buckler_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -455,7 +455,7 @@
 			<stat type="sDef">67</stat>
 		</stats>
 	</item>
-	<item id="21" name="Shirt" type="Armor">
+	<item id="21" name="Рубаха" type="Armor">
 		<set name="icon" val="icon.armor_t02_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -470,7 +470,7 @@
 			<stat type="pDef">36</stat>
 		</stats>
 	</item>
-	<item id="22" name="Leather Shirt" type="Armor">
+	<item id="22" name="Кожаная Рубаха" type="Armor">
 		<set name="icon" val="icon.armor_t04_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -485,7 +485,7 @@
 			<stat type="pDef">43</stat>
 		</stats>
 	</item>
-	<item id="23" name="Wooden Breastplate" type="Armor">
+	<item id="23" name="Деревянная Кираса" type="Armor">
 		<set name="icon" val="icon.armor_t06_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -500,7 +500,7 @@
 			<stat type="pDef">47</stat>
 		</stats>
 	</item>
-	<item id="24" name="Bone Breastplate" type="Armor">
+	<item id="24" name="Костяная Кираса" type="Armor">
 		<set name="icon" val="icon.armor_t32_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -515,7 +515,7 @@
 			<stat type="pDef">50</stat>
 		</stats>
 	</item>
-	<item id="25" name="Piece Bone Breastplate" type="Armor">
+	<item id="25" name="Составная Костяная Кираса" type="Armor">
 		<set name="icon" val="icon.armor_t33_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -530,7 +530,7 @@
 			<stat type="pDef">62</stat>
 		</stats>
 	</item>
-	<item id="26" name="Bronze Breastplate" type="Armor">
+	<item id="26" name="Бронзовая Кираса" type="Armor">
 		<set name="icon" val="icon.armor_t34_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -545,7 +545,7 @@
 			<stat type="pDef">68</stat>
 		</stats>
 	</item>
-	<item id="27" name="Durable Leather Shirt" type="Armor">
+	<item id="27" name="Рубаха из Толстой Кожи" type="Armor">
 		<set name="icon" val="icon.armor_t30_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -560,7 +560,7 @@
 			<stat type="pDef">53</stat>
 		</stats>
 	</item>
-	<item id="28" name="Pants" type="Armor">
+	<item id="28" name="Бриджи" type="Armor">
 		<set name="icon" val="icon.armor_t02_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -575,7 +575,7 @@
 			<stat type="pDef">22</stat>
 		</stats>
 	</item>
-	<item id="29" name="Leather Pants" type="Armor">
+	<item id="29" name="Кожаные Бриджи" type="Armor">
 		<set name="icon" val="icon.armor_t04_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -590,7 +590,7 @@
 			<stat type="pDef">27</stat>
 		</stats>
 	</item>
-	<item id="30" name="Durable Leather Pants" type="Armor">
+	<item id="30" name="Бриджи из Толстой Кожи" type="Armor">
 		<set name="icon" val="icon.armor_t06_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -605,7 +605,7 @@
 			<stat type="pDef">29</stat>
 		</stats>
 	</item>
-	<item id="31" name="Bone Gaiters" type="Armor">
+	<item id="31" name="Костяные Набедренники" type="Armor">
 		<set name="icon" val="icon.armor_t32_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -620,7 +620,7 @@
 			<stat type="pDef">32</stat>
 		</stats>
 	</item>
-	<item id="32" name="Piece Bone Gaiters" type="Armor">
+	<item id="32" name="Составные Костяные Набедренники" type="Armor">
 		<set name="icon" val="icon.armor_t33_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -635,7 +635,7 @@
 			<stat type="pDef">39</stat>
 		</stats>
 	</item>
-	<item id="33" name="Durable Leather Gaiters" type="Armor">
+	<item id="33" name="Набедренники из Толстой Кожи" type="Armor">
 		<set name="icon" val="icon.armor_t30_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -650,7 +650,7 @@
 			<stat type="pDef">33</stat>
 		</stats>
 	</item>
-	<item id="34" name="Bronze Gaiters" type="Armor">
+	<item id="34" name="Бронзовые Набедренники" type="Armor">
 		<set name="icon" val="icon.armor_t34_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -665,7 +665,7 @@
 			<stat type="pDef">43</stat>
 		</stats>
 	</item>
-	<item id="35" name="Cloth Shoes" type="Armor">
+	<item id="35" name="Матерчатые Ботинки" type="Armor">
 		<set name="icon" val="icon.armor_t02_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -679,7 +679,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="36" name="Leather Sandals" type="Armor">
+	<item id="36" name="Кожаные Сандалии" type="Armor">
 		<set name="icon" val="icon.armor_t03_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -693,7 +693,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="37" name="Leather Shoes" type="Armor">
+	<item id="37" name="Кожаные Ботинки" type="Armor">
 		<set name="icon" val="icon.armor_t05_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -707,7 +707,7 @@
 			<stat type="pDef">13</stat>
 		</stats>
 	</item>
-	<item id="38" name="Low Boots" type="Armor">
+	<item id="38" name="Простые Сапоги" type="Armor">
 		<set name="icon" val="icon.armor_t32_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -721,7 +721,7 @@
 			<stat type="pDef">15</stat>
 		</stats>
 	</item>
-	<item id="39" name="Boots" type="Armor">
+	<item id="39" name="Сапоги" type="Armor">
 		<set name="icon" val="icon.armor_t30_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -735,7 +735,7 @@
 			<stat type="pDef">17</stat>
 		</stats>
 	</item>
-	<item id="40" name="Leather Boots" type="Armor">
+	<item id="40" name="Кожаные Сапоги" type="Armor">
 		<set name="icon" val="icon.armor_t09_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -752,7 +752,7 @@
 			<stat type="pDef">19</stat>
 		</stats>
 	</item>
-	<item id="41" name="Cloth Cap" type="Armor">
+	<item id="41" name="Матерчатая Шляпа" type="Armor">
 		<set name="icon" val="icon.armor_cloth_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -765,7 +765,7 @@
 			<stat type="pDef">13</stat>
 		</stats>
 	</item>
-	<item id="42" name="Leather Cap" type="Armor">
+	<item id="42" name="Кожаная Шляпа" type="Armor">
 		<set name="icon" val="icon.armor_leather_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -778,7 +778,7 @@
 			<stat type="pDef">16</stat>
 		</stats>
 	</item>
-	<item id="43" name="Wooden Helmet" type="Armor">
+	<item id="43" name="Деревянный Шлем" type="Armor">
 		<set name="icon" val="icon.armor_leather_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -791,7 +791,7 @@
 			<stat type="pDef">19</stat>
 		</stats>
 	</item>
-	<item id="44" name="Leather Helmet" type="Armor">
+	<item id="44" name="Кожаный Шлем" type="Armor">
 		<set name="icon" val="icon.armor_leather_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -799,12 +799,12 @@
 		<set name="material" val="LEATHER" />
 		<set name="weight" val="650" />
 		<set name="commissionItemType" val="HELMET" />
-		<set name="price" val="39100" />
+		<set name="price" val="7820" />
 		<stats>
 			<stat type="pDef">23</stat>
 		</stats>
 	</item>
-	<item id="45" name="Bone Helmet" type="Armor">
+	<item id="45" name="Костяной Шлем" type="Armor">
 		<set name="icon" val="icon.armor_leather_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -820,7 +820,7 @@
 			<stat type="pDef">29</stat>
 		</stats>
 	</item>
-	<item id="46" name="Bronze Helmet" type="Armor">
+	<item id="46" name="Бронзовый Шлем" type="Armor">
 		<set name="icon" val="icon.armor_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -836,7 +836,7 @@
 			<stat type="pDef">33</stat>
 		</stats>
 	</item>
-	<item id="47" name="Helmet" type="Armor">
+	<item id="47" name="Шлем" type="Armor">
 		<set name="icon" val="icon.armor_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -852,7 +852,7 @@
 			<stat type="pDef">37</stat>
 		</stats>
 	</item>
-	<item id="48" name="Short Gloves" type="Armor">
+	<item id="48" name="Короткие Перчатки" type="Armor">
 		<set name="icon" val="icon.armor_t02_g_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -866,7 +866,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="49" name="Gloves" type="Armor">
+	<item id="49" name="Перчатки" type="Armor">
 		<set name="icon" val="icon.armor_t06_g_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -880,7 +880,7 @@
 			<stat type="pDef">13</stat>
 		</stats>
 	</item>
-	<item id="50" name="Leather Gloves" type="Armor">
+	<item id="50" name="Кожаные Перчатки" type="Armor">
 		<set name="icon" val="icon.armor_t32_g_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -894,7 +894,7 @@
 			<stat type="pDef">15</stat>
 		</stats>
 	</item>
-	<item id="51" name="Bracer" type="Armor">
+	<item id="51" name="Наручи" type="Armor">
 		<set name="icon" val="icon.armor_t30_g_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -908,7 +908,7 @@
 			<stat type="pDef">17</stat>
 		</stats>
 	</item>
-	<item id="52" name="Vesper Dual Swords" type="Weapon">
+	<item id="52" name="Парные Мечи Венеры" type="Weapon">
 		<!-- When enchanting dual swords, two-handed swords/ blunts, and fists, the P. Atk. bonus is higher than that of one-handed weapons. 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_dual_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -942,7 +942,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="53" name="(Not used)" type="EtcItem">
+	<item id="53" name="Agathion Angry Devil - 30-day" type="EtcItem">
 		<!-- Double-click to obtain Agathion Angry Devil. -->
 		<set name="icon" val="icon.etc_pi_gift_box_i00" />
 		<set name="default_action" val="PEEL" />
@@ -960,7 +960,7 @@
 			<item id="13024" min="1" max="1" chance="100" /> <!-- Agathion Angry Devil - 30-day -->
 		</capsuled_items>
 	</item>
-	<item id="54" name="(Not used)" type="EtcItem">
+	<item id="54" name="Agathion Joy - 30-day" type="EtcItem">
 		<!-- Double-click to obtain Agathion Shiny. -->
 		<set name="icon" val="icon.etc_pi_gift_box_i00" />
 		<set name="default_action" val="PEEL" />
@@ -1020,7 +1020,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="58" name="Mithril Breastplate" type="Armor">
+	<item id="58" name="Мифриловая Кираса" type="Armor">
 		<set name="icon" val="icon.armor_t19_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -1038,7 +1038,7 @@
 			<stat type="pDef">95</stat>
 		</stats>
 	</item>
-	<item id="59" name="Mithril Gaiters" type="Armor">
+	<item id="59" name="Мифриловые Набедренники" type="Armor">
 		<set name="icon" val="icon.armor_t19_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -1056,7 +1056,7 @@
 			<stat type="pDef">61</stat>
 		</stats>
 	</item>
-	<item id="60" name="Compound Armor" type="Armor">
+	<item id="60" name="Композитный Доспех" type="Armor">
 		<!-- One-piece armor. -->
 		<set name="icon" val="icon.armor_t61_ul_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1075,7 +1075,7 @@
 			<stat type="pDef">224</stat>
 		</stats>
 	</item>
-	<item id="61" name="Mithril Gloves" type="Armor">
+	<item id="61" name="Мифриловые Перчатки" type="Armor">
 		<set name="icon" val="icon.armor_t46_g_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1092,7 +1092,7 @@
 			<stat type="pDef">29</stat>
 		</stats>
 	</item>
-	<item id="62" name="Reinforced Mithril Boots" type="Armor">
+	<item id="62" name="Укрепленные Мифриловые Сапоги" type="Armor">
 		<set name="icon" val="icon.armor_t47_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -1109,7 +1109,7 @@
 			<stat type="pDef">32</stat>
 		</stats>
 	</item>
-	<item id="63" name="Gauntlets" type="Armor">
+	<item id="63" name="Рукавицы" type="Armor">
 		<set name="icon" val="icon.armor_t10_g_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1126,7 +1126,7 @@
 			<stat type="pDef">24</stat>
 		</stats>
 	</item>
-	<item id="64" name="Compound Boots" type="Armor">
+	<item id="64" name="Композитные Сапоги" type="Armor">
 		<set name="icon" val="icon.armor_t61_b_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -1143,7 +1143,7 @@
 			<stat type="pDef">36</stat>
 		</stats>
 	</item>
-	<item id="65" name="Red Potion" type="EtcItem">
+	<item id="65" name="Красное Зелье" type="EtcItem">
 		<set name="icon" val="icon.etc_potion_red_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
 		<set name="etcitem_type" val="POTION" />
@@ -1165,7 +1165,7 @@
 			<skill id="2031" level="1" /> <!-- Healing Potion -->
 		</skills>
 	</item>
-	<item id="66" name="Gladius" type="Weapon">
+	<item id="66" name="Гладиус" type="Weapon">
 		<set name="icon" val="icon.weapon_gladius_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1188,7 +1188,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="67" name="Orcish Sword" type="Weapon">
+	<item id="67" name="Меч Орков" type="Weapon">
 		<set name="icon" val="icon.weapon_orcish_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1211,7 +1211,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="68" name="Falchion" type="Weapon">
+	<item id="68" name="Фальшион" type="Weapon">
 		<set name="icon" val="icon.weapon_falchion_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1234,7 +1234,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="69" name="Bastard Sword" type="Weapon">
+	<item id="69" name="Полуторный Меч" type="Weapon">
 		<set name="icon" val="icon.weapon_bastard_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1261,7 +1261,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="70" name="Claymore" type="Weapon">
+	<item id="70" name="Клеймор" type="Weapon">
 		<set name="icon" val="icon.weapon_claymore_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1288,7 +1288,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="71" name="Flamberge" type="Weapon">
+	<item id="71" name="Фламберг" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_flamberge_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1318,7 +1318,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="72" name="Stormbringer" type="Weapon">
+	<item id="72" name="Громовержец" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_stormbringer_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1348,7 +1348,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="73" name="Shamshir" type="Weapon">
+	<item id="73" name="Шамшир" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_shamshir_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1378,7 +1378,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="74" name="Katana" type="Weapon">
+	<item id="74" name="Катана" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_katana_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1408,7 +1408,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="75" name="Caliburs" type="Weapon">
+	<item id="75" name="Экскалибур" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_caliburs_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1438,7 +1438,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="76" name="Sword of Delusion" type="Weapon">
+	<item id="76" name="Меч Иллюзий" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_sword_of_delusion_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1468,7 +1468,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="77" name="Tsurugi" type="Weapon">
+	<item id="77" name="Цуруги" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_tsurugi_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1498,7 +1498,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="78" name="Great Sword" type="Weapon">
+	<item id="78" name="Большой Меч" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_great_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1528,7 +1528,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="79" name="Damascus Sword" type="Weapon">
+	<item id="79" name="Дамаскус" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_sword_of_damascus_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1558,7 +1558,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="80" name="Tallum Blade" type="Weapon">
+	<item id="80" name="Клинок Таллума" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_tallum_blade_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1588,7 +1588,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="81" name="Dragon Slayer" type="Weapon">
+	<item id="81" name="Убийца Драконов" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_dragon_slayer_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1618,7 +1618,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="82" name="Celestial Blade" type="Weapon">
+	<item id="82" name="Божественный Клинок" type="Weapon">
 		<set name="icon" val="icon.weapon_forgotten_blade_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1646,7 +1646,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="83" name="Sword of Magic" type="Weapon">
+	<item id="83" name="Меч Магии" type="Weapon">
 		<set name="icon" val="icon.weapon_sword_of_magic_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1673,7 +1673,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="84" name="Homunkulus' Sword" type="Weapon">
+	<item id="84" name="Меч Гомункула" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_homunkuluss_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1703,7 +1703,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="85" name="Corroded Phantom Sword" type="Weapon">
+	<item id="85" name="Ржавый Меч Фантома" type="Weapon">
 		<set name="icon" val="icon.weapon_phantom_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1730,7 +1730,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="86" name="Tomahawk" type="Weapon">
+	<item id="86" name="Томагавк" type="Weapon">
 		<set name="icon" val="icon.weapon_tomahawk_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1757,7 +1757,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="87" name="Iron Hammer" type="Weapon">
+	<item id="87" name="Железный Молот" type="Weapon">
 		<set name="icon" val="icon.weapon_iron_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1781,7 +1781,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="88" name="Morning Star" type="Weapon">
+	<item id="88" name="Моргенштерн" type="Weapon">
 		<set name="icon" val="icon.weapon_morning_star_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1808,7 +1808,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="89" name="Big Hammer" type="Weapon">
+	<item id="89" name="Большой Молот" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_big_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1838,7 +1838,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="90" name="Goat Head Staff" type="Weapon">
+	<item id="90" name="Рогатый Посох" type="Weapon">
 		<set name="icon" val="icon.weapon_goathead_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1866,7 +1866,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="91" name="Heavy War Axe" type="Weapon">
+	<item id="91" name="Тяжелый Топор Войны" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_heavy_war_axe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1896,7 +1896,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="92" name="Spirit's Staff" type="Weapon">
+	<item id="92" name="Посох Духа" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_sprites_staff_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1927,7 +1927,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="93" name="Winged Spear" type="Weapon">
+	<item id="93" name="Крылатое Копье" type="Weapon">
 		<set name="icon" val="icon.weapon_winged_spear_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="POLE" />
@@ -1957,7 +1957,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="94" name="Bec de Corbin" type="Weapon">
+	<item id="94" name="Бердыш" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_bech_de_corbin_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1990,7 +1990,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="95" name="Poleaxe" type="Weapon">
+	<item id="95" name="Секира" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_poleaxe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2023,7 +2023,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="96" name="Scythe" type="Weapon">
+	<item id="96" name="Боевая Коса" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_scythe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2056,7 +2056,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="97" name="Lance" type="Weapon">
+	<item id="97" name="Пика" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_lancia_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2089,7 +2089,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="98" name="Halberd" type="Weapon">
+	<item id="98" name="Алебарда" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_halbard_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2122,7 +2122,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="99" name="Apprentice's Spellbook" type="Weapon">
+	<item id="99" name="Книга Ученика" type="Weapon">
 		<set name="icon" val="icon.weapon_apprentices_spellbook_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />

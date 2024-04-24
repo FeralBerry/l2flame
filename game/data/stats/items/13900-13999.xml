@@ -1191,7 +1191,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="1560" />
-		<set name="price" val="21000" />
+		<set name="price" val="105000" />
 		<set name="soulshots" val="2" />
 		<set name="spiritshots" val="2" />
 		<set name="commissionItemType" val="ONE_HAND_SWORD" />
@@ -1255,7 +1255,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="2140" />
-		<set name="price" val="21000" />
+		<set name="price" val="105000" />
 		<set name="soulshots" val="2" />
 		<set name="spiritshots" val="2" />
 		<set name="commissionItemType" val="SPEAR" />
@@ -1308,7 +1308,7 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="FINE_STEEL" />
 		<set name="weight" val="1560" />
-		<set name="price" val="21000" />
+		<set name="price" val="105000" />
 		<set name="soulshots" val="2" />
 		<set name="spiritshots" val="2" />
 		<set name="commissionItemType" val="ONE_HAND_SWORD" />
