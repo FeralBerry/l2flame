@@ -374,37 +374,6 @@
 		<npc id="20060" count="15" respawnTime="25sec" chaseRange="550" /> <!--  Яростный Скелет 22 -->
 		<npc id="20458" count="15" respawnTime="25sec" chaseRange="550" /> <!--  Воин Зомби 22 -->
 	</spawn>
-	<!--
-	<npc id="24385" count="10" respawnTime="3sec" chaseRange="550" /> Вампир 20
-	<npc id="20054" level="21" type="Monster" name="Скелет Руин">
-	<npc id="20329" level="21" type="Monster" name="Призрак Страж">
-	<npc id="20060" level="22" type="Monster" name="Яростный Скелет">
-	<npc id="20458" level="22" type="Monster" name="Воин Зомби">
-	<npc id="20140" level="24" type="Monster" name="Гигантская Пиявка">
-	<npc id="21167" level="24" type="Monster" name="Ведьма Лит">
-	<npc id="21133" level="25" type="Monster" name="Скелет Стрелок Смертельной Ловушки">
-	<npc id="20225" level="25" type="Monster" name="Гигантская Туманная Пиявка">
-	<npc id="21234" level="25" type="Monster" name="Стражник Могил">
-	<npc id="21134" level="26" type="Monster" name="Скелет Смертельной Ловушки">
-	<npc id="20171" level="26" type="Monster" name="Спектр">
-	<npc id="18267" level="27" type="Chest" name="Сундук с Сокровищами">
-	<npc id="20227" level="27" type="Monster" name="Туманный Потрошитель">
-	<npc id="20519" level="27" type="Monster" name="Скелет Пикинер">
-	<npc id="21168" level="27" type="Monster" name="Воин Лит">
-	<npc id="24386" level="27" type="Monster" name="Скелетон Разведчик">
-	<npc id="24387" level="27" type="Monster" name="Скелетон Лучник">
-	<npc id="24388" level="27" type="Monster" name="Скелетон Воин">
-	<npc id="20254" level="28" type="Monster" name="Скелет с Секирой">
-	<npc id="20160" level="28" type="Monster" name="Потрошитель">
-	<npc id="21136" level="28" type="Monster" name="Ужас Смертельной Ловушки">
-	<npc id="20198" level="29" type="Monster" name="Вурдалак Берсерк">
-	<npc id="20190" level="29" type="Monster" name="Скелет Мародер">
-	<npc id="22007" level="29" type="Monster" name="Призрак Солдата">
-	<npc id="20615" level="29" type="Monster" name="Призрачный Мечник">
-	<npc id="20191" level="30" type="Monster" name="Скелет Налетчик">
-	<npc id="21169" level="30" type="Monster" name="Страж Лит">
-
-	-->
 	<spawn>
 		<npc id="25149" x="-49326" y="112820" z="-3568" heading="16723" dbSave="true" dbName="Повелитель Зомби Кроул (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Повелитель Зомби Кроул (25) -->
 	</spawn>

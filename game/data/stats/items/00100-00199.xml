@@ -67,7 +67,7 @@
 			<stat type="sDef">79</stat>
 		</stats>
 	</item>
-	<item id="103" name="Tower Shield" type="Armor">
+	<item id="103" name="Башенный Щит" type="Armor">
 		<set name="icon" val="icon.shield_tower_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -86,7 +86,7 @@
 			<stat type="sDef">190</stat>
 		</stats>
 	</item>
-	<item id="104" name="Shield of Victory" type="Armor">
+	<item id="104" name="Щит Победы" type="Armor">
 		<set name="icon" val="icon.shield_small_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -105,7 +105,7 @@
 			<stat type="sDef">216</stat>
 		</stats>
 	</item>
-	<item id="105" name="Implosion Shield" type="Armor">
+	<item id="105" name="Щит Имплозии" type="Armor">
 		<set name="icon" val="icon.shield_doom_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -124,7 +124,7 @@
 			<stat type="sDef">216</stat>
 		</stats>
 	</item>
-	<item id="106" name="Dark Dragon Shield" type="Armor">
+	<item id="106" name="Щит Темного Дракона" type="Armor">
 		<set name="icon" val="icon.shield_dark_dragon_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -143,7 +143,7 @@
 			<stat type="sDef">230</stat>
 		</stats>
 	</item>
-	<item id="107" name="Compound Shield" type="Armor">
+	<item id="107" name="Композитный Щит" type="Armor">
 		<set name="icon" val="icon.shield_composite_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -162,7 +162,7 @@
 			<stat type="sDef">190</stat>
 		</stats>
 	</item>
-	<item id="108" name="Masterpiece Shield" type="Armor">
+	<item id="108" name="Великолепный Щит" type="Armor">
 		<set name="icon" val="icon.shield_masterpiece_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -181,7 +181,7 @@
 			<stat type="sDef">230</stat>
 		</stats>
 	</item>
-	<item id="109" name="Shield of Solar Eclipse" type="Armor">
+	<item id="109" name="Щит Солнечного Затмения" type="Armor">
 		<set name="icon" val="icon.shield_shield_of_sola_eclipse_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -200,7 +200,7 @@
 			<stat type="sDef">216</stat>
 		</stats>
 	</item>
-	<item id="110" name="Doom Shield" type="Armor">
+	<item id="110" name="Щит Рока" type="Armor">
 		<set name="icon" val="icon.shield_doom_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -219,7 +219,7 @@
 			<stat type="sDef">230</stat>
 		</stats>
 	</item>
-	<item id="111" name="Shield of Pledge" type="Armor">
+	<item id="111" name="Геральдический Щит" type="Armor">
 		<set name="icon" val="icon.shield_shield_of_pledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -238,7 +238,7 @@
 			<stat type="sDef">216</stat>
 		</stats>
 	</item>
-	<item id="112" name="Apprentice's Earring" type="Armor">
+	<item id="112" name="Серьга Ученика" type="Armor">
 		<set name="icon" val="icon.accessary_apprentices_earing_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rear;lear" />
@@ -251,7 +251,7 @@
 			<stat type="mDef">11</stat>
 		</stats>
 	</item>
-	<item id="113" name="Mage Earring" type="Armor">
+	<item id="113" name="Серьга Мистика" type="Armor">
 		<set name="icon" val="icon.accessary_mage_earing_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rear;lear" />
@@ -259,12 +259,12 @@
 		<set name="material" val="SILVER" />
 		<set name="weight" val="150" />
 		<set name="commissionItemType" val="EARRING" />
-		<set name="price" val="3100" />
+		<set name="price" val="670" />
 		<stats>
 			<stat type="mDef">13</stat>
 		</stats>
 	</item>
-	<item id="114" name="Earring of Strength" type="Armor">
+	<item id="114" name="Серьга Силы" type="Armor">
 		<set name="icon" val="icon.accessary_earing_of_strength_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rear;lear" />
@@ -277,7 +277,7 @@
 			<stat type="mDef">16</stat>
 		</stats>
 	</item>
-	<item id="115" name="Earring of Wisdom" type="Armor">
+	<item id="115" name="Серьга Мудрости" type="Armor">
 		<set name="icon" val="icon.accessary_earing_of_wisdom_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rear;lear" />
@@ -290,7 +290,7 @@
 			<stat type="mDef">16</stat>
 		</stats>
 	</item>
-	<item id="116" name="Magic Ring" type="Armor">
+	<item id="116" name="Магическое Кольцо" type="Armor">
 		<set name="icon" val="icon.accessary_magic_ring_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
@@ -303,7 +303,7 @@
 			<stat type="mDef">7</stat>
 		</stats>
 	</item>
-	<item id="117" name="Corroded Ring of Mana" type="Armor">
+	<item id="117" name="Ржавое Кольцо Маны" type="Armor">
 		<set name="icon" val="icon.accessary_ring_of_mana_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
@@ -319,7 +319,7 @@
 			<stat type="mDef">34</stat>
 		</stats>
 	</item>
-	<item id="118" name="Magic Necklace" type="Armor">
+	<item id="118" name="Ожерелье Магии" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_magic_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -332,7 +332,7 @@
 			<stat type="mDef">15</stat>
 		</stats>
 	</item>
-	<item id="119" name="Necklace of Seal" type="Armor">
+	<item id="119" name="Ожерелье Печати" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_binding_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -348,7 +348,7 @@
 			<stat type="mDef">64</stat>
 		</stats>
 	</item>
-	<item id="120" name="Sword of Reflection" type="Weapon">
+	<item id="120" name="Меч Отражения" type="Weapon">
 		<set name="icon" val="icon.weapon_sword_of_watershadow_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -371,7 +371,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="121" name="Sword of Watershadow" type="Weapon">
+	<item id="121" name="Меч Темной Воды" type="Weapon">
 		<set name="icon" val="icon.weapon_sword_of_watershadow_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -394,7 +394,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="122" name="Handmade Sword" type="Weapon">
+	<item id="122" name="Кованый Меч" type="Weapon">
 		<set name="icon" val="icon.weapon_handmade_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -417,7 +417,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="123" name="Saber" type="Weapon">
+	<item id="123" name="Сабля" type="Weapon">
 		<set name="icon" val="icon.weapon_saber_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -444,7 +444,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="124" name="Two-handed Sword" type="Weapon">
+	<item id="124" name="Двуручный Меч" type="Weapon">
 		<set name="icon" val="icon.weapon_two_handed_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -471,7 +471,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="125" name="Spinebone Sword" type="Weapon">
+	<item id="125" name="Хребетный Меч" type="Weapon">
 		<set name="icon" val="icon.weapon_spinebone_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -498,7 +498,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="126" name="Artisan's Sword" type="Weapon">
+	<item id="126" name="Меч Ремесленника" type="Weapon">
 		<set name="icon" val="icon.weapon_artisans_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -525,7 +525,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="127" name="Crimson Sword" type="Weapon">
+	<item id="127" name="Багровый Меч" type="Weapon">
 		<set name="icon" val="icon.weapon_crimson_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -552,7 +552,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="128" name="Knight's Sword" type="Weapon">
+	<item id="128" name="Меч Рыцаря" type="Weapon">
 		<set name="icon" val="icon.weapon_knights_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -579,7 +579,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="129" name="Sword of Revolution" type="Weapon">
+	<item id="129" name="Меч Революции" type="Weapon">
 		<set name="icon" val="icon.weapon_sword_of_revolution_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -606,7 +606,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="130" name="Elven Sword" type="Weapon">
+	<item id="130" name="Меч Эльфов" type="Weapon">
 		<set name="icon" val="icon.weapon_elven_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -633,7 +633,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="131" name="Spirit Sword" type="Weapon">
+	<item id="131" name="Меч Духов" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_spirits_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -663,7 +663,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="132" name="Ultimate Sword" type="Weapon">
+	<item id="132" name="Меч Рубежа" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_sword_of_limit_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -693,7 +693,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="133" name="Raid Sword" type="Weapon">
+	<item id="133" name="Меч Налетчика" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_raid_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -723,7 +723,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="134" name="Sword of Nightmare" type="Weapon">
+	<item id="134" name="Меч Кошмаров" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_sword_of_nightmare_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -753,7 +753,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="135" name="Samurai Long Sword" type="Weapon">
+	<item id="135" name="Длинный Меч Самурая" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_samurai_longsword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -783,7 +783,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="136" name="(Not used)" type="EtcItem">
+	<item id="136" name="Агатион Гнева (30 д.)" type="EtcItem">
 		<!-- Double-click to obtain Agathion Angry Devil. -->
 		<set name="icon" val="icon.etc_pi_gift_box_i00" />
 		<set name="default_action" val="PEEL" />
@@ -801,7 +801,7 @@
 			<item id="14075" min="1" max="1" chance="100" /> <!-- Agathion Angry Devil - Event - 30-day -->
 		</capsuled_items>
 	</item>
-	<item id="137" name="(Not used)" type="EtcItem">
+	<item id="137" name="Агатион Радости (30 д.)" type="EtcItem">
 		<!-- Double-click to obtain Agathion Shiny. -->
 		<set name="icon" val="icon.etc_pi_gift_box_i00" />
 		<set name="default_action" val="PEEL" />
@@ -819,7 +819,7 @@
 			<item id="14076" min="1" max="1" chance="100" /> <!-- Agathion Joy - Event - 30-day -->
 		</capsuled_items>
 	</item>
-	<item id="138" name="(Not used)" type="EtcItem">
+	<item id="138" name="Агатион Печали (30 д.)" type="EtcItem">
 		<!-- Double-click to obtain Agathion Sobbing. -->
 		<set name="icon" val="icon.etc_pi_gift_box_i00" />
 		<set name="default_action" val="PEEL" />
@@ -837,7 +837,7 @@
 			<item id="14077" min="1" max="1" chance="100" /> <!-- Agathion Sobbing (Event) - 30-day -->
 		</capsuled_items>
 	</item>
-	<item id="139" name="Package: Agathion Angry Devil (7-day)" type="EtcItem">
+	<item id="139" name="Упаковка: Агатион Гнева (7 д.)" type="EtcItem">
 		<!-- Double-click to obtain Agathion Angry Devil (7-day). -->
 		<set name="icon" val="icon.etc_pi_gift_box_i02" />
 		<set name="default_action" val="PEEL" />
@@ -854,7 +854,7 @@
 			<item id="14093" min="1" max="1" chance="100" /> <!-- Agathion Angry Devil - 7-day -->
 		</capsuled_items>
 	</item>
-	<item id="140" name="Package: Agathion Joy (7-day)" type="EtcItem">
+	<item id="140" name="Упаковка: Агатион Радости (7 д.)" type="EtcItem">
 		<!-- Double-click to obtain Agathion Shiny (7-day). -->
 		<set name="icon" val="icon.etc_pi_gift_box_i02" />
 		<set name="default_action" val="PEEL" />
@@ -871,7 +871,7 @@
 			<item id="14094" min="1" max="1" chance="100" /> <!-- Agathion Joy - 7-day -->
 		</capsuled_items>
 	</item>
-	<item id="141" name="Package: Agathion Sobbing (7-day)" type="EtcItem">
+	<item id="141" name="Упаковка: Агатион Печали (7 д.)" type="EtcItem">
 		<!-- Double-click to obtain Agathion Sobbing (7-day). -->
 		<set name="icon" val="icon.etc_pi_gift_box_i02" />
 		<set name="default_action" val="PEEL" />
@@ -888,7 +888,7 @@
 			<item id="14095" min="1" max="1" chance="100" /> <!-- Agathion Sobbing - 7-day -->
 		</capsuled_items>
 	</item>
-	<item id="142" name="Keshanberk" type="Weapon">
+	<item id="142" name="Кешанберк" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_kshanberk_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -918,7 +918,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="143" name="Sword of Mystic" type="Weapon">
+	<item id="143" name="Меч Мистика" type="Weapon">
 		<set name="icon" val="icon.weapon_sword_of_mystic_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -945,7 +945,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="144" name="Sword of Occult" type="Weapon">
+	<item id="144" name="Меч Оккультиста" type="Weapon">
 		<set name="icon" val="icon.weapon_sword_of_occult_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -972,7 +972,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="145" name="Sword of Whispering Death" type="Weapon">
+	<item id="145" name="Меч Шепчущей Смерти" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_deathbreath_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1002,7 +1002,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="146" name="Ghoulbane" type="Weapon">
+	<item id="146" name="Меч Вурдалака" type="Weapon">
 		<set name="icon" val="icon.weapon_falchion_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1029,7 +1029,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="147" name="Tear of Darkness" type="Weapon">
+	<item id="147" name="Слеза Тьмы" type="Weapon">
 		<set name="icon" val="icon.weapon_shamshir_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1056,7 +1056,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="148" name="Sword of Valhalla" type="Weapon">
+	<item id="148" name="Меч Вальхаллы" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_sword_of_valhalla_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1086,7 +1086,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="149" name="Corroded Sword of Life" type="Weapon">
+	<item id="149" name="Ржавый Меч Жизни" type="Weapon">
 		<set name="icon" val="icon.weapon_needle_wolverine_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -1113,7 +1113,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="150" name="Elemental Sword" type="Weapon">
+	<item id="150" name="Меч Стихий" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_elemental_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1143,7 +1143,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="151" name="Sword of Miracles" type="Weapon">
+	<item id="151" name="Легендарный Меч" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_sword_of_miracle_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1173,7 +1173,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="152" name="Heavy Chisel" type="Weapon">
+	<item id="152" name="Тяжелое Зубило" type="Weapon">
 		<set name="icon" val="icon.weapon_heavy_chisel_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1197,7 +1197,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="153" name="Sickle" type="Weapon">
+	<item id="153" name="Серп" type="Weapon">
 		<set name="icon" val="icon.weapon_sickle_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1221,7 +1221,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="154" name="Dwarven Mace" type="Weapon">
+	<item id="154" name="Булава Гномов" type="Weapon">
 		<set name="icon" val="icon.weapon_dwarven_mace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1245,7 +1245,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="155" name="Flanged Mace" type="Weapon">
+	<item id="155" name="Палица" type="Weapon">
 		<set name="icon" val="icon.weapon_buzdygan_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1269,7 +1269,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="156" name="Hand Axe" type="Weapon">
+	<item id="156" name="Тесак" type="Weapon">
 		<set name="icon" val="icon.weapon_hand_axe_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1296,7 +1296,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="157" name="Spiked Club" type="Weapon">
+	<item id="157" name="Шипованная Дубина" type="Weapon">
 		<set name="icon" val="icon.weapon_spike_club_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1323,7 +1323,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="158" name="Tarbar" type="Weapon">
+	<item id="158" name="Тарбар" type="Weapon">
 		<set name="icon" val="icon.weapon_tarbar_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1350,7 +1350,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="159" name="Bonebreaker" type="Weapon">
+	<item id="159" name="Костолом" type="Weapon">
 		<set name="icon" val="icon.weapon_bonebreaker_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1377,7 +1377,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="160" name="Battle Axe" type="Weapon">
+	<item id="160" name="Боевой Топор" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_battle_axe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1407,7 +1407,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="161" name="Silver Axe" type="Weapon">
+	<item id="161" name="Серебряный Топор" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_war_pick_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1437,7 +1437,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="162" name="War Axe" type="Weapon">
+	<item id="162" name="Топор Войны" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_war_axe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1467,7 +1467,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="163" name="(Not used)" type="EtcItem">
+	<item id="163" name="Агатион Всхлипывание (30 д.)" type="EtcItem">
 		<!-- Double-click to obtain Agathion Sobbing. -->
 		<set name="icon" val="icon.etc_pi_gift_box_i00" />
 		<set name="default_action" val="PEEL" />
@@ -1485,7 +1485,7 @@
 			<item id="13026" min="1" max="1" chance="100" /> <!-- Agathion Sobbing - 30-day -->
 		</capsuled_items>
 	</item>
-	<item id="164" name="Elysian" type="Weapon">
+	<item id="164" name="Элизиум" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_elysian_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1515,7 +1515,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="165" name="Corroded Hermuncus' Hammer" type="Weapon">
+	<item id="165" name="Ржавый Молот Гермункуса" type="Weapon">
 		<set name="icon" val="icon.weapon_basalt_battlehammer_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1542,7 +1542,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="166" name="Heavy Mace" type="Weapon">
+	<item id="166" name="Тяжелая Булава" type="Weapon">
 		<set name="icon" val="icon.weapon_heavy_mace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1569,7 +1569,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="167" name="Scalpel" type="Weapon">
+	<item id="167" name="Кирка" type="Weapon">
 		<set name="icon" val="icon.weapon_scalpel_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1596,7 +1596,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="168" name="Work Hammer" type="Weapon">
+	<item id="168" name="Кузнечный Молот" type="Weapon">
 		<set name="icon" val="icon.weapon_work_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1623,7 +1623,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="169" name="Skull Breaker" type="Weapon">
+	<item id="169" name="Череполом" type="Weapon">
 		<set name="icon" val="icon.weapon_skull_breaker_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1650,7 +1650,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="170" name="Package: Agathion Angry Devil (7-day) - Event" type="EtcItem">
+	<item id="170" name="Упаковка: Агатион Гнева (7 д.) - Ивент" type="EtcItem">
 		<!-- Double-click to obtain Agathion Angry Devil (7-day). -->
 		<set name="icon" val="icon.etc_pi_gift_box_i02" />
 		<set name="default_action" val="PEEL" />
@@ -1667,7 +1667,7 @@
 			<item id="14101" min="1" max="1" chance="100" /> <!-- Agathion Angry Devil - Event - 7-day -->
 		</capsuled_items>
 	</item>
-	<item id="171" name="Deadman's Glory" type="Weapon">
+	<item id="171" name="Топор Мертвеца" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_deadmans_glory_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1697,7 +1697,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="172" name="Heavy Bone Club" type="Weapon">
+	<item id="172" name="Тяжелая Костяная Дубина" type="Weapon">
 		<set name="icon" val="icon.weapon_heavy_bone_club_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1724,7 +1724,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="173" name="Skull Graver" type="Weapon">
+	<item id="173" name="Череподав" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_skull_graver_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1754,7 +1754,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="174" name="Nirvana Axe" type="Weapon">
+	<item id="174" name="Топор Нирваны" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_nirvana_axe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1785,7 +1785,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="175" name="Art of Battle Axe" type="Weapon">
+	<item id="175" name="Топор Искусства Войны" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_art_of_battle_axe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1815,7 +1815,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="176" name="Apprentice's Staff" type="Weapon">
+	<item id="176" name="Посох Новичка" type="Weapon">
 		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1840,7 +1840,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="177" name="Mage Staff" type="Weapon">
+	<item id="177" name="Магический Посох" type="Weapon">
 		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1865,7 +1865,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="178" name="Bone Staff" type="Weapon">
+	<item id="178" name="Костяной Посох" type="Weapon">
 		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1893,7 +1893,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="179" name="Mace of Prayer" type="Weapon">
+	<item id="179" name="Булава Послушника" type="Weapon">
 		<set name="icon" val="icon.weapon_mace_of_prayer_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1921,7 +1921,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="180" name="Mace of Judgment" type="Weapon">
+	<item id="180" name="Булава Правосудия" type="Weapon">
 		<set name="icon" val="icon.weapon_mace_of_judgment_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1949,7 +1949,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="181" name="Mace of Miracle" type="Weapon">
+	<item id="181" name="Булава Мага" type="Weapon">
 		<set name="icon" val="icon.weapon_mace_of_miracle_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -1977,7 +1977,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="182" name="Doom Hammer" type="Weapon">
+	<item id="182" name="Молот Рока" type="Weapon">
 		<set name="icon" val="icon.weapon_doom_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2005,7 +2005,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="183" name="Mystic Staff" type="Weapon">
+	<item id="183" name="Посох Мистика" type="Weapon">
 		<set name="icon" val="icon.weapon_mystic_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2033,7 +2033,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="184" name="Conjuror's Staff" type="Weapon">
+	<item id="184" name="Посох Заклинателя" type="Weapon">
 		<set name="icon" val="icon.weapon_conjure_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2061,7 +2061,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="185" name="Staff of Mana" type="Weapon">
+	<item id="185" name="Посох Маны" type="Weapon">
 		<set name="icon" val="icon.weapon_staff_of_mana_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2089,7 +2089,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="186" name="Staff of Magic" type="Weapon">
+	<item id="186" name="Посох Магии" type="Weapon">
 		<set name="icon" val="icon.weapon_staff_of_magicpower_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2117,7 +2117,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="187" name="Atuba Hammer" type="Weapon">
+	<item id="187" name="Молот Атубы" type="Weapon">
 		<set name="icon" val="icon.weapon_atuba_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2145,7 +2145,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="188" name="Ghost Staff" type="Weapon">
+	<item id="188" name="Посох Призрака" type="Weapon">
 		<set name="icon" val="icon.weapon_ghost_staff_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2173,7 +2173,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="189" name="Staff of Life" type="Weapon">
+	<item id="189" name="Посох Жизни" type="Weapon">
 		<set name="icon" val="icon.weapon_life_stick_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2201,7 +2201,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="190" name="Atuba Mace" type="Weapon">
+	<item id="190" name="Булава Атубы" type="Weapon">
 		<set name="icon" val="icon.weapon_atuba_mace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -2229,7 +2229,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="191" name="Heavy Doom Hammer" type="Weapon">
+	<item id="191" name="Тяжелый Молот Рока" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_heavy_doom_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2260,7 +2260,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="192" name="Crystal Staff" type="Weapon">
+	<item id="192" name="Кристальный Посох" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_crystal_staff_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2291,7 +2291,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="193" name="Stick of Faith" type="Weapon">
+	<item id="193" name="Жезл Веры" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_stick_of_faith_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2322,7 +2322,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="194" name="Heavy Doom Axe" type="Weapon">
+	<item id="194" name="Тяжелый Топор Рока" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_heavy_doom_axe_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2353,7 +2353,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="195" name="Cursed Staff" type="Weapon">
+	<item id="195" name="Проклятый Посох" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_cursed_staff_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2384,7 +2384,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="196" name="Stick of Eternity" type="Weapon">
+	<item id="196" name="Жезл Избавления" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_stick_of_eternity_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2415,7 +2415,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="197" name="Paradia Staff" type="Weapon">
+	<item id="197" name="Посох Парадии" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_paradia_staff_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2446,7 +2446,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="198" name="Inferno Staff" type="Weapon">
+	<item id="198" name="Посох Инферно" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_inferno_staff_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -2477,7 +2477,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="199" name="Pa'agrio Hammer" type="Weapon">
+	<item id="199" name="Молот Паагрио" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_paagrio_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
