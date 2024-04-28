@@ -549,7 +549,7 @@
 			<height normal="17.5" />
 		</collision>
 	</npc>
-	<npc id="22006" level="29" type="Monster" name="Grave Robber Guard">
+	<npc id="22006" level="29" type="Monster" name="Стражник Грабителей Могил">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="88" />
@@ -564,7 +564,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8528" /> <!-- rhand: For Monsters Only (Doom Hammer) -->
-		<acquire exp="1558" sp="83" />
+		<acquire exp="435" sp="44" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -596,7 +596,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>THIEF</clan>
 			</clanList>
@@ -604,7 +604,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="225" max="445" chance="100" /> <!-- Adena -->
+					<item id="57" min="290" max="348" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0117">
 					<item id="292" min="1" max="1" chance="100" /> <!-- Pike -->

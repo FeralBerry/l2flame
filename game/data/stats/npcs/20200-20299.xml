@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="20200" level="31" type="Monster" name="Strain">
+	<npc id="20200" level="31" type="Monster" name="Раб">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -13,7 +13,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1660" sp="92" />
+		<acquire exp="465" sp="47" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="635.76437" hpRegen="4.5" mp="343.8" mpRegen="1.8" />
 			<attack physical="99.21986" magical="67.7543" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -42,11 +42,11 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="236" max="471" chance="100" /> <!-- Adena -->
+					<item id="57" min="310" max="372" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.8385">
 					<item id="433" min="1" max="1" chance="1.1833" /> <!-- Elven Tunic -->
