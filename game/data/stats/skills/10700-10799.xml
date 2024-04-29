@@ -1821,7 +1821,7 @@
 		<affectObject>NOT_FRIEND</affectObject>
 		<conditions>
 			<condition name="OpBlink">
-				<direction>BACK</direction>
+				<direction>Назад</direction>
 				<range>300</range>
 			</condition>
 		</conditions>
@@ -2347,7 +2347,7 @@
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="OpBlink">
-				<direction>BACK</direction>
+				<direction>Назад</direction>
 				<range>
 					<value level="1">300</value>
 					<value level="2">350</value>

@@ -874,7 +874,7 @@
 				</weaponType>
 			</condition>
 			<condition name="OpBlink">
-				<direction>BACK</direction>
+				<direction>Назад</direction>
 				<range>400</range>
 			</condition>
 		</conditions>

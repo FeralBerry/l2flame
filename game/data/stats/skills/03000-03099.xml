@@ -444,7 +444,7 @@
 					<value level="6">53</value>
 				</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 		</effects>
 	</skill>
@@ -479,7 +479,7 @@
 					<value level="6">37</value>
 				</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 		</effects>
 	</skill>
@@ -2516,7 +2516,7 @@
 			<effect name="CriticalRatePositionBonus">
 				<amount>37</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 			<effect name="PvpPhysicalAttackDamageBonus">
 				<amount>5</amount>

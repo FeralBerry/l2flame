@@ -41,20 +41,29 @@ public class AdventurersGuide extends AbstractNpcAI
 	private static final int GEMSTONE_R = 19440;
 	// Skills
 	private static final SkillHolder BLESS_PROTECTION = new SkillHolder(5182, 1); // Blessing of Protection
-	private static final SkillHolder FANTASIA = new SkillHolder(32840, 1); // Fantasia Harmony - Adventurer
+	private static final SkillHolder FANTASIA = new SkillHolder(4322, 1); // Легкая Походка Путешественника
 	private static final SkillHolder[] GROUP_BUFFS =
 	{
-		new SkillHolder(34243, 1), // Musician's Melody (Adventurer)
-		new SkillHolder(34254, 1), // Sonate Performance (Adventurer)
+		new SkillHolder(4323, 1), // Щит Путешественника
+		new SkillHolder(4324, 1), // Благословение Тела Путешественника
+		new SkillHolder(4325, 1), // Гнев Вампира Путешественника
+		new SkillHolder(4326, 1), // Регенерация Путешественника
+		new SkillHolder(4327, 1), // Ускорение Путешественника
+		new SkillHolder(4328, 1), // Благословение Души Путешественника
+		new SkillHolder(4329, 1), // Проницательность Путешественника
+		new SkillHolder(4330, 1), // Концентрация Путешественника
+		new SkillHolder(4331, 1), // Воодушевление Путешественника
+		new SkillHolder(4332, 1), // Ментальная Защита
 	};
 	private static final SkillHolder[] DONATE_BUFFS =
 	{
-		new SkillHolder(34243, 3), // Musician's Melody (Adventurer)
-		new SkillHolder(34254, 1), // Sonate Performance (Adventurer)
+		new SkillHolder(34243, 3), // Поэма Музыкантов - Путешественник
+		new SkillHolder(32840, 1), // Гармония Фантазии - Путешественник
+		new SkillHolder(34254, 1), // Исполнение Сонаты - Путешественник
 	};
 	// Misc
-	private static final int MAX_LEVEL_BUFFS = 99;
-	private static final int MIN_LEVEL_PROTECTION = 40;
+	private static final int MAX_LEVEL_BUFFS = 40;
+	private static final int MIN_LEVEL_PROTECTION = 10;
 	
 	private AdventurersGuide()
 	{
@@ -155,7 +164,7 @@ public class AdventurersGuide extends AbstractNpcAI
 			SkillCaster.triggerCast(npc, player, holder.getSkill());
 		}
 		SkillCaster.triggerCast(npc, player, skill);
-		if ((player.getLevel() < MIN_LEVEL_PROTECTION) && (player.getClassId().level() <= 1))
+		if ((player.getLevel() < MIN_LEVEL_PROTECTION) && (player.getLevel() <= 1))
 		{
 			SkillCaster.triggerCast(npc, player, BLESS_PROTECTION.getSkill());
 		}

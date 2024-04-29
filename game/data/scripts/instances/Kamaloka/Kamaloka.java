@@ -16,14 +16,7 @@
  */
 package instances.Kamaloka;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Calendar;
-import java.util.List;
-import java.util.Map;
-import java.util.Map.Entry;
-import java.util.logging.Level;
-
+import instances.AbstractInstance;
 import org.l2jmobius.gameserver.data.xml.SkillData;
 import org.l2jmobius.gameserver.instancemanager.InstanceManager;
 import org.l2jmobius.gameserver.model.Location;
@@ -37,7 +30,9 @@ import org.l2jmobius.gameserver.model.skill.Skill;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 import org.l2jmobius.gameserver.network.serverpackets.SystemMessage;
 
-import instances.AbstractInstance;
+import java.util.*;
+import java.util.Map.Entry;
+import java.util.logging.Level;
 
 /**
  * Adapted from l2jserver script by Mobius
@@ -94,7 +89,7 @@ public class Kamaloka extends AbstractInstance
 	// Teleport points into instances x, y, z
 	private static final Location[] TELEPORTS =
 	{
-		new Location(-88429, -220629, -7903),
+		new Location(-88429, -220629, -7903),// 23 камалока
 		new Location(-82464, -219532, -7899),
 		new Location(-10700, -174882, -10936), // -76280, -185540, -10936
 		new Location(-89683, -213573, -8106),

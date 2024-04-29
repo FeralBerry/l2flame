@@ -741,7 +741,7 @@
 			<effect name="CriticalDamagePosition">
 				<amount>65</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 			<effect name="CriticalRatePositionBonus">
 				<amount>50</amount>
@@ -751,7 +751,7 @@
 			<effect name="CriticalRatePositionBonus">
 				<amount>50</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 			<effect name="FatalBlowRate">
 				<amount>15</amount>
@@ -822,7 +822,7 @@
 			<effect name="CriticalDamagePosition">
 				<amount>65</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 			<effect name="CriticalRatePositionBonus">
 				<amount>50</amount>
@@ -832,7 +832,7 @@
 			<effect name="CriticalRatePositionBonus">
 				<amount>50</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 			<effect name="FatalBlowRate">
 				<amount>15</amount>

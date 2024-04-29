@@ -2165,12 +2165,12 @@
 			<effect name="CriticalRatePositionBonus">
 				<amount>80</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 			<effect name="CriticalDamagePosition">
 				<amount>20</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 		</effects>
 	</skill>

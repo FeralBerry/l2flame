@@ -133,7 +133,7 @@
 			<effect name="CriticalDamagePosition">
 				<amount>1.5</amount>
 				<mode>PER</mode>
-				<position>BACK</position>
+				<position>Назад</position>
 			</effect>
 		</effects>
 	</skill>
