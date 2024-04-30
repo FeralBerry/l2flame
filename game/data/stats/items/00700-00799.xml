@@ -1051,16 +1051,17 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="767" name="Sealed Scroll" type="EtcItem">
+	<item id="767" name="Скрепленный Печатью Свиток" type="EtcItem">
 		<set name="icon" val="icon.item_canuse15" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
-		<set name="is_dropable" val="false" />
-		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
+		<set name="price" val="1000"/>
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
+		<set name="is_questitem" val="false" />
 	</item>
 	<item id="768" name="Oyen's Key" type="EtcItem">
 		<set name="icon" val="icon.item_normal26" />

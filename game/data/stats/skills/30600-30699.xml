@@ -450,7 +450,7 @@
 			<effect name="CriticalDamagePosition">
 				<amount>15</amount>
 				<mode>PER</mode>
-				<position>Назад</position>
+				<position>BACK</position>
 			</effect>
 			<effect name="Speed">
 				<amount>20</amount>

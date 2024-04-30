@@ -503,7 +503,7 @@
 			<effect name="RearDamage">
 				<amount>1</amount>
 				<mode>PER</mode>
-				<position>Назад</position>
+				<position>BACK</position>
 			</effect>
 		</effects>
 	</skill>

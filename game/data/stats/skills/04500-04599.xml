@@ -270,7 +270,7 @@
 		<effects>
 			<effect name="CriticalRatePositionBonus">
 				<amount>100</amount>
-				<position>Назад</position>
+				<position>BACK</position>
 			</effect>
 		</effects>
 	</skill>

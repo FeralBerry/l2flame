@@ -2243,7 +2243,7 @@
 		<effects>
 			<effect name="CriticalRatePositionBonus">
 				<amount>22</amount>
-				<position>Назад</position>
+				<position>BACK</position>
 			</effect>
 			<effect name="VampiricAttack">
 				<amount>2</amount>

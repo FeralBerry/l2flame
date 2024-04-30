@@ -2488,7 +2488,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="18554" level="23" type="Monster" name="Tomlan Kamos" title="Kaneus">
+	<npc id="18554" level="43" type="Monster" name="Tomlan Kamos" title="Kaneus">
 		<parameters>
 			<param name="Skill01_Probablity" value="20" />
 			<param name="Skill02_Probablity" value="20" />
@@ -2498,11 +2498,11 @@
 		<race>GIANT</race>
 		<sex>MALE</sex>
 		<equipment rhand="4" /> <!-- Club -->
-		<acquire exp="355900" sp="19458" />
+		<acquire exp="877200" sp="88800" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="103277.6" hpRegen="10.6620464638458" mp="11080.8" mpRegen="4.8" />
-			<attack physical="68.011286251937" magical="46.4428982373458" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="153.039616" magical="167.981616" />
+			<vitals hp="303277.6" hpRegen="39.6620464638458" mp="1080.8" mpRegen="4.8" />
+			<attack physical="368.011286251937" magical="46.4428982373458" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="483.039616" magical="237.981616" />
 			<speed>
 				<walk ground="55" />
 				<run ground="130" />
@@ -2527,29 +2527,28 @@
 			<skill id="4719" level="1" /> <!-- Power Strike -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>1</sNpcPropHpRate>
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" isAggressive="true"/>
 		<dropLists>
 			<drop>
-				<group chance="67.0007">
-					<item id="25" min="1" max="1" chance="31.2383" /> <!-- Piece Bone Breastplate -->
-					<item id="1926" min="8" max="22" chance="25.7479" /> <!-- Piece Bone Breastplate Fragment -->
-					<item id="26" min="1" max="1" chance="20.2198" /> <!-- Bronze Breastplate -->
-					<item id="32" min="4" max="10" chance="7.1402" /> <!-- Piece Bone Gaiters -->
-					<item id="1928" min="24" max="72" chance="11.6034" /> <!-- Piece Bone Gaiters Fragment -->
-					<item id="34" min="4" max="12" chance="4.0504" /> <!-- Bronze Gaiters -->
+				<group chance="70">
+					<item id="57" min="619200" max="774000" chance="100"/> <!-- Adena -->
+					<item id="767" min="1" max="10" chance="100"/> <!-- Adena -->
 				</group>
-				<group chance="72.5946">
-					<item id="25" min="5" max="13" chance="4.8052" /> <!-- Piece Bone Breastplate -->
-					<item id="1926" min="8" max="22" chance="35.6458" /> <!-- Piece Bone Breastplate Fragment -->
-					<item id="26" min="1" max="1" chance="27.9926" /> <!-- Bronze Breastplate -->
-					<item id="32" min="4" max="10" chance="9.885" /> <!-- Piece Bone Gaiters -->
-					<item id="1928" min="24" max="72" chance="16.064" /> <!-- Piece Bone Gaiters Fragment -->
-					<item id="34" min="4" max="12" chance="5.6074" /> <!-- Bronze Gaiters -->
+				<group chance="55.1501">
+					<item id="355" min="1" max="1" chance="29.2819" /> <!-- Dwarven Chain Mail Shirt -->
+					<item id="382" min="1" max="1" chance="46.8492" /> <!-- Dwarven Chain Gaiters -->
+					<item id="1968" min="53" max="157" chance="16.6485" /> <!-- Dwarven Chain Mail Shirt Material -->
+					<item id="1969" min="192" max="576" chance="7.2204" /> <!-- Dwarven Chain Gaiters Material -->
 				</group>
-				<group chance="71.3987">
-					<item id="955" min="1" max="1" chance="41.8605" /> <!-- Scroll: Enchant Weapon (D) -->
-					<item id="956" min="3" max="9" chance="58.1395" /> <!-- Scroll: Enchant Armor (D) -->
+				<group chance="45.7553">
+					<item id="227" min="1" max="1" chance="11.8715" /> <!-- Stiletto -->
+					<item id="242" min="1" max="1" chance="11.8715" /> <!-- Soulfire Dirk -->
+					<item id="2083" min="24" max="72" chance="18.1564" /> <!-- Stiletto Edge -->
+					<item id="2084" min="8" max="22" chance="58.1006" /> <!-- Soulfire Dirk Blade -->
+				</group>
+				<group chance="10.3727">
+					<item id="6573" min="1" max="1" chance="100" /> <!-- Blessed Scroll: Enchant Weapon (C) -->
 				</group>
 			</drop>
 		</dropLists>

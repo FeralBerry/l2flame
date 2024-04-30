@@ -63,7 +63,7 @@ public class Kamaloka extends AbstractInstance
 	// Level of the Kamaloka
 	private static final int[] LEVEL =
 	{
-		23, 26, 29, 33, 36, 39, 43, 46, 49, 53, 56, 59, 63, 66, 69, 73, 78, 81, 83
+		43, 46, 49, 53, 56, 59, 63, 66, 69, 73, 76, 79, 81, 83, 85, 87, 89, 91, 93
 	};
 	// Duration of the instance, minutes
 	private static final int[] DURATION =
@@ -89,7 +89,7 @@ public class Kamaloka extends AbstractInstance
 	// Teleport points into instances x, y, z
 	private static final Location[] TELEPORTS =
 	{
-		new Location(-88429, -220629, -7903),// 23 камалока
+		new Location(-88429, -220629, -7903),// 43 камалока
 		new Location(-82464, -219532, -7899),
 		new Location(-10700, -174882, -10936), // -76280, -185540, -10936
 		new Location(-89683, -213573, -8106),

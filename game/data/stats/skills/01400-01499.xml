@@ -2772,7 +2772,7 @@
 		<affectObject>NOT_FRIEND</affectObject>
 		<conditions>
 			<condition name="OpBlink">
-				<direction>Назад</direction>
+				<direction>BACK</direction>
 				<range>400</range>
 			</condition>
 		</conditions>

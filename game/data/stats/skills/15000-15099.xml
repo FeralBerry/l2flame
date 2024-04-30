@@ -2597,7 +2597,7 @@
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="OpBlink">
-				<direction>Назад</direction>
+				<direction>BACK</direction>
 				<range>300</range>
 			</condition>
 		</conditions>

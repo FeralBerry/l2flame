@@ -321,7 +321,7 @@
 					<value level="2">15</value>
 				</amount>
 				<mode>PER</mode>
-				<position>Назад</position>
+				<position>BACK</position>
 			</effect>
 			<effect name="CriticalRatePositionBonus">
 				<amount>
@@ -329,7 +329,7 @@
 					<value level="2">15</value>
 				</amount>
 				<mode>PER</mode>
-				<position>Назад</position>
+				<position>BACK</position>
 			</effect>
 			<effect name="ReuseSkillById">
 				<skillId>19303</skillId> <!-- Right Angle Reverse -->
