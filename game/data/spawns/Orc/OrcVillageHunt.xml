@@ -366,13 +366,13 @@
 		<npc id="20416" count="15" respawnTime="40sec" chaseRange="1500" /><!-- Старшая Алая Саламандра 18 лвл -->
 	</spawn>
 	<spawn>
-		<npc id="25378" x="-3619" y="-114487" z="-3512" heading="16723" dbSave="true" dbName="Madness Beast (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Зверь Безумия (20)* -->
+		<npc id="25378" x="-3619" y="-114487" z="-3512" heading="16723" dbSave="true" dbName="Зверь Безумия (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Зверь Безумия (20) -->
 	</spawn>
 	<spawn>
-		<npc id="25372" x="-18254" y="-133565" z="-2200" heading="16723" dbSave="true" dbName="Discarded Guardian (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Отверженный Стражник (20) -->
+		<npc id="25372" x="-18254" y="-133565" z="-2200" heading="16723" dbSave="true" dbName="Отверженный Стражник (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Отверженный Стражник (20) -->
 	</spawn>
 	<spawn>
-		<npc id="25375" x="-17364" y="-101425" z="-2096" heading="16723" dbSave="true" dbName="Zombie Lord Ferkel (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Zombie Lord Ferkel (20) -->
+		<npc id="25375" x="-17364" y="-101425" z="-2096" heading="16723" dbSave="true" dbName="Повелитель Зомби Фаракелсус (20)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Повелитель Зомби Фаракелсус (20) -->
 	</spawn>
 	<spawn>
 		<!-- NPC Квест и другие -->

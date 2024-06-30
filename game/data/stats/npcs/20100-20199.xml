@@ -1803,7 +1803,7 @@
 			<height normal="50" />
 		</collision>
 	</npc>
-	<npc id="20140" level="24" type="Monster" name="Giant Leech">
+	<npc id="20140" level="24" type="Monster" name="Гигантская Пиявка">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -1816,7 +1816,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="954" sp="47" />
+		<acquire exp="288" sp="29" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="435.34437" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
 			<attack physical="60.19687" magical="41.10666" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1845,7 +1845,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
 			</clanList>
@@ -1854,6 +1854,63 @@
 			<radius normal="70" />
 			<height normal="29" />
 		</collision>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="192" max="240" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.1299">
+					<item id="25" min="1" max="1" chance="2.9004" /> <!-- Piece Bone Breastplate -->
+					<item id="1926" min="1" max="1" chance="35.8597" /> <!-- Piece Bone Breastplate Fragment -->
+					<item id="26" min="1" max="1" chance="1.8774" /> <!-- Bronze Breastplate -->
+					<item id="32" min="1" max="1" chance="4.6407" /> <!-- Piece Bone Gaiters -->
+					<item id="1928" min="1" max="1" chance="51.7132" /> <!-- Piece Bone Gaiters Fragment -->
+					<item id="34" min="1" max="1" chance="3.0086" /> <!-- Bronze Gaiters -->
+				</group>
+				<group chance="10.4155">
+					<item id="1866" min="1" max="1" chance="38.5108" /> <!-- Suede -->
+					<item id="1871" min="1" max="1" chance="57.7662" /> <!-- Charcoal -->
+					<item id="2256" min="1" max="1" chance="1.4124" /> <!-- Recipe: Assassin Knife -->
+					<item id="5158" min="1" max="1" chance="2.3106" /> <!-- Recipe: Spiritshot (D) Compressed Package (100%) -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2179" min="1" max="1" chance="19.4917" /> <!-- Recipe: Crafted Leather Gloves -->
+				<item id="1880" min="1" max="1" chance="4.0738" /> <!-- Steel -->
+				<item id="1871" min="1" max="1" chance="40.7376" /> <!-- Charcoal -->
+			</spoil>
+		</dropLists>
 	</npc>
 	<npc id="20141" level="47" type="Monster" name="Giant Wild Hog">
 		<parameters>
@@ -3461,7 +3518,7 @@
 			<height normal="45.5" />
 		</collision>
 	</npc>
-	<npc id="20160" level="28" type="Monster" name="Neer Crawler">
+	<npc id="20160" level="28" type="Monster" name="Потрошитель">
 		<parameters>
 			<param name="MoveAroundSocial" value="126" />
 			<param name="MoveAroundSocial1" value="126" />
@@ -3477,7 +3534,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1442" sp="76" />
+		<acquire exp="420" sp="42" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3509,15 +3566,15 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>NEER_CRAWLER</clan>
+				<clan>UNDEAD</clan>
 			</clanList>
 		</ai>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="212" max="415" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0176">
 					<item id="258" min="1" max="1" chance="100" /> <!-- Bagh-Nakh -->
@@ -4368,7 +4425,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="20171" level="26" type="Monster" name="Specter">
+	<npc id="20171" level="26" type="Monster" name="Спектр">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -4382,7 +4439,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1293" sp="65" />
+		<acquire exp="390" sp="39" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="487.5704" hpRegen="3.5" mp="273.0" mpRegen="1.5" />
 			<attack physical="69.75926" magical="47.63653" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4412,15 +4469,11 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
+		<ai aggroRange="1000" clanHelpRange="300" />
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="196" max="374" chance="100" /> <!-- Adena -->
+					<item id="57" min="260" max="312" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1015">
 					<item id="101" min="1" max="1" chance="3.1675" /> <!-- Scroll of Wisdom -->
@@ -4838,7 +4891,7 @@
 		</collision>
 	</npc>
 	<!--пропуск 20178 - 20188 -->
-	<npc id="20190" level="29" type="Monster" name="Skeleton Marauder">
+	<npc id="20190" level="29" type="Monster" name="Скелет Мародер">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -4852,7 +4905,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- Bow -->
-		<acquire exp="1567" sp="84" />
+		<acquire exp="435" sp="44" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -4879,9 +4932,9 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" aggroRange="450" clanHelpRange="300" isAggressive="true">
+		<ai type="ARCHER" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>SKELETON</clan>
+				<clan>UNDEAD</clan>
 			</clanList>
 		</ai>
 		<collision>
@@ -4891,7 +4944,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="226" max="448" chance="100" /> <!-- Adena -->
+					<item id="57" min="290" max="348" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1463">
 					<item id="275" min="1" max="1" chance="2.6815" /> <!-- Long Bow -->
@@ -4944,7 +4997,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20191" level="30" type="Monster" name="Skeleton Raider">
+	<npc id="20191" level="30" type="Monster" name="Скелет Налетчик">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -4958,7 +5011,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" lhand="945" /> <!-- rhand: Skeleton Dagger lhand: Skeleton Buckler -->
-		<acquire exp="1602" sp="88" />
+		<acquire exp="450" sp="45" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -4988,7 +5041,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
@@ -4996,7 +5049,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="228" max="457" chance="100" /> <!-- Adena -->
+					<item id="57" min="300" max="360" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2312">
 					<item id="1123" min="1" max="1" chance="50" /> <!-- Blue Buckskin Boots -->
@@ -5432,7 +5485,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="20198" level="29" type="Monster" name="Neer Ghoul Berserker">
+	<npc id="20198" level="29" type="Monster" name="Вурдалак Берсерк">
 		<parameters>
 			<param name="MoveAroundSocial" value="126" />
 			<param name="MoveAroundSocial1" value="126" />
@@ -5448,7 +5501,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1522" sp="82" />
+		<acquire exp="435" sp="44" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -5481,15 +5534,15 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>NEER_CRAWLER</clan>
+				<clan>UNDEAD</clan>
 			</clanList>
 		</ai>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="220" max="435" chance="100" /> <!-- Adena -->
+					<item id="57" min="290" max="348" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0114">
 					<item id="259" min="1" max="1" chance="100" /> <!-- Single-Edged Jamadhr -->
@@ -5538,8 +5591,8 @@
 			</drop>
 			<spoil>
 				<item id="1832" min="1" max="1" chance="57.5495" /> <!-- Greater Antidote -->
-				<item id="1832" min="1" max="1" chance="57.5495" /> <!-- Greater Antidote -->
-				<item id="1832" min="1" max="1" chance="57.5495" /> <!-- Greater Antidote -->
+				<item id="1867" min="1" max="3" chance="41.3793" /> <!-- Animal Skin -->
+				<item id="1872" min="1" max="3" chance="41.3793" /> <!-- Animal Bone -->
 			</spoil>
 		</dropLists>
 		<collision>

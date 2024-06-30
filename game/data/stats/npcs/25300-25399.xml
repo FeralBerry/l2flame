@@ -2917,7 +2917,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="25354" level="35" type="RaidBoss" name="Gargoyle Lord Sirocco" title="Raid Boss">
+	<npc id="25354" level="35" type="RaidBoss" name="Повелитель Горгулий Сирокко" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
 				<npc id="25355" count="4" respawnTime="360" weightPoint="1" /> <!-- Sirocco's Gargoyle -->
@@ -2930,7 +2930,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1912394" sp="144137" raidPoints="520" />
+		<acquire exp="630000" sp="63600" raidPoints="520" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="69449.5684546156" hpRegen="26.794392073316" mp="402.6" mpRegen="1.8" />
 			<attack physical="163.695648646951" magical="12.9299967753255" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -2969,6 +2969,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="70">
+					<item id="57" min="420000" max="504000" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="62.1017">
 					<item id="630" min="6" max="16" chance="4.9799" /> <!-- Square Shield -->
 					<item id="2412" min="1" max="1" chance="38.3646" /> <!-- Plate Helmet -->
@@ -2995,7 +2998,7 @@
 			<height normal="65" />
 		</collision>
 	</npc>
-	<npc id="25355" level="34" type="Monster" name="Sirocco's Gargoyle" title="Raid Fighter">
+	<npc id="25355" level="34" type="Monster" name="Горгулья Сирокко" title="Raid Fighter">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
@@ -3034,7 +3037,7 @@
 			<height normal="50" />
 		</collision>
 	</npc>
-	<npc id="25356" level="34" type="Monster" name="Sirocco's Guards" title="Raid Fighter">
+	<npc id="25356" level="34" type="Monster" name="Страж Сирокко" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4741" level="3" /> <!-- BOSS Strike -->
 		</parameters>
@@ -4473,7 +4476,7 @@
 			<height normal="33.5" />
 		</collision>
 	</npc>
-	<npc id="25383" level="34" type="RaidBoss" name="Revenant of Sir Calibus" title="Raid Boss">
+	<npc id="25383" level="34" type="RaidBoss" name="Призрак Сэра Калибуса" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
 				<npc id="25384" count="3" respawnTime="360" weightPoint="1" /> <!-- Servant of Calibus -->
@@ -4484,7 +4487,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="75" /> <!-- rhand: Caliburs -->
-		<acquire exp="1918616" sp="135504" raidPoints="496" />
+		<acquire exp="612000" sp="61200" raidPoints="496" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="65791.6741786232" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
 			<attack physical="151.742801059792" magical="12.040611940131" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4521,6 +4524,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="70">
+					<item id="57" min="408000" max="489600" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="59.8502">
 					<item id="851" min="6" max="18" chance="3.8396" /> <!-- Omen Beast's Eye Earring -->
 					<item id="882" min="5" max="15" chance="6.9113" /> <!-- Mithril Ring -->
@@ -4543,7 +4549,7 @@
 			<height normal="29" />
 		</collision>
 	</npc>
-	<npc id="25384" level="33" type="Monster" name="Servant of Calibus" title="Raid Fighter">
+	<npc id="25384" level="33" type="Monster" name="Служитель Калибуса" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4733" level="3" /> <!-- BOSS Mortal Blow -->
 		</parameters>
@@ -4587,7 +4593,7 @@
 			<height normal="27" grown="34" />
 		</collision>
 	</npc>
-	<npc id="25385" level="36" type="RaidBoss" name="Evil Spirit Tempest" title="Raid Boss">
+	<npc id="25385" level="36" type="RaidBoss" name="Беспокойный Злой Дух" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
 				<npc id="25386" count="1" respawnTime="360" weightPoint="1" /> <!-- Ghost of the Execution Grounds -->
@@ -4600,7 +4606,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="1916441" sp="153260" raidPoints="540" />
+		<acquire exp="648000" sp="64800" raidPoints="540" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="73380.9239757113" hpRegen="28.0640450927111" mp="417.6" mpRegen="1.8" />
 			<attack physical="176.455636850148" magical="14.03993239503" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
@@ -4637,6 +4643,9 @@
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="70">
+					<item id="57" min="432000" max="518400" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="63.995">
 					<item id="61" min="9" max="25" chance="1.7159" /> <!-- Mithril Plate Gloves -->
 					<item id="607" min="9" max="27" chance="1.6206" /> <!-- Ogre Power Gauntlets -->
@@ -4665,7 +4674,7 @@
 			<height normal="54" />
 		</collision>
 	</npc>
-	<npc id="25386" level="35" type="Monster" name="Ghost of the Execution Grounds" title="Raid Fighter">
+	<npc id="25386" level="35" type="Monster" name="Призрак Земли Казненных" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4743" level="3" /> <!-- BOSS Strike -->
 		</parameters>
@@ -4709,7 +4718,7 @@
 			<height normal="31" />
 		</collision>
 	</npc>
-	<npc id="25387" level="35" type="Monster" name="Malignant Spirit of the Execution Grounds" title="Raid Fighter">
+	<npc id="25387" level="35" type="Monster" name="Злой Дух Земли Казненных" title="Raid Fighter">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" /> <!-- rhand: Skeleton Dagger -->

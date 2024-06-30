@@ -659,7 +659,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_depositable" val="false" />
 	</item>
-	<item id="4355" name="Blue Eva" type="EtcItem">
+	<item id="4355" name="Синяя Ева" type="EtcItem">
 		<!-- Special Coin -->
 		<set name="icon" val="icon.etc_magic_coin_blue_i01" />
 		<set name="immediate_effect" val="true" />
@@ -668,7 +668,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4356" name="Gold Einhasad" type="EtcItem">
+	<item id="4356" name="Золотая Эйнхасад" type="EtcItem">
 		<!-- Special Coin -->
 		<set name="icon" val="icon.etc_magic_coin_gold_i02" />
 		<set name="immediate_effect" val="true" />
@@ -677,7 +677,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4357" name="Silver Shillien" type="EtcItem">
+	<item id="4357" name="Серебряная Шилен" type="EtcItem">
 		<!-- Special Coin -->
 		<set name="icon" val="icon.etc_magic_coin_silver_i02" />
 		<set name="immediate_effect" val="true" />
@@ -686,7 +686,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4358" name="Bloody Pa'agrio" type="EtcItem">
+	<item id="4358" name="Кровавый Паагрио" type="EtcItem">
 		<!-- Special Coin -->
 		<set name="icon" val="icon.etc_magic_coin_blood_i02" />
 		<set name="immediate_effect" val="true" />

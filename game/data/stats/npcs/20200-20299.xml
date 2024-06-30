@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="20200" level="31" type="Monster" name="Strain">
+	<npc id="20200" level="31" type="Monster" name="Раб">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -13,7 +13,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1660" sp="92" />
+		<acquire exp="465" sp="47" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="635.76437" hpRegen="4.5" mp="343.8" mpRegen="1.8" />
 			<attack physical="99.21986" magical="67.7543" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -42,11 +42,11 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="236" max="471" chance="100" /> <!-- Adena -->
+					<item id="57" min="310" max="372" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.8385">
 					<item id="433" min="1" max="1" chance="1.1833" /> <!-- Elven Tunic -->
@@ -2448,7 +2448,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20225" level="25" type="Monster" name="Giant Mist Leech">
+	<npc id="20225" level="25" type="Monster" name="Гигантская Туманная Пиявка">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2464,7 +2464,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="1190" sp="60" />
+		<acquire exp="375" sp="38" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="460.96247" hpRegen="3.5" mp="259.2" mpRegen="1.5" />
 			<attack physical="64.83203" magical="44.27187" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2494,7 +2494,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>GIANT_LEECH</clan>
 			</clanList>
@@ -2506,7 +2506,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="185" max="346" chance="100" /> <!-- Adena -->
+					<item id="57" min="250" max="300" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.6858">
 					<item id="40" min="1" max="1" chance="4.3392" /> <!-- Leather Boots -->
@@ -2665,7 +2665,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20227" level="27" type="Monster" name="Mist Horror Ripper">
+	<npc id="20227" level="27" type="Monster" name="Туманный Потрошитель">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -2679,7 +2679,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1349" sp="70" />
+		<acquire exp="405" sp="41" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
 			<attack physical="74.99121" magical="51.20928" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2714,7 +2714,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="201" max="388" chance="100" /> <!-- Adena -->
+					<item id="57" min="270" max="324" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1412">
 					<item id="391" min="1" max="1" chance="38.4419" /> <!-- Puma Skin Shirt -->
@@ -5220,7 +5220,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20254" level="28" type="Monster" name="Skeleton Axeman">
+	<npc id="20254" level="28" type="Monster" name="Скелет с Секирой">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -5234,7 +5234,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="86" /> <!-- Tomahawk -->
-		<acquire exp="1442" sp="76" />
+		<acquire exp="420" sp="42" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
 			<attack physical="80.54056" magical="54.99876" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -5273,7 +5273,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="212" max="415" chance="100" /> <!-- Adena -->
+					<item id="57" min="280" max="336" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3075">
 					<item id="291" min="1" max="1" chance="2.8677" /> <!-- Trident -->

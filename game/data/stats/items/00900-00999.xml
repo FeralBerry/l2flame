@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="900" name="Ring of Grace" type="Armor">
+	<item id="900" name="Кольцо Грации" type="Armor">
 		<set name="icon" val="icon.accessary_ring_of_grace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
@@ -16,7 +16,7 @@
 			<stat type="mDef">34</stat>
 		</stats>
 	</item>
-	<item id="901" name="Ring of Holy Spirit" type="Armor">
+	<item id="901" name="Кольцо Святого Духа" type="Armor">
 		<set name="icon" val="icon.accessary_ring_of_holy_spirit_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
@@ -32,7 +32,7 @@
 			<stat type="mDef">36</stat>
 		</stats>
 	</item>
-	<item id="902" name="Phoenix Ring" type="Armor">
+	<item id="902" name="Кольцо Феникса" type="Armor">
 		<!-- Phoenix Ring. Max MP +13. -->
 		<set name="icon" val="icon.accessary_phoenixs_ring_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -50,7 +50,7 @@
 			<stat type="maxMp">13</stat>
 		</stats>
 	</item>
-	<item id="903" name="Cerberus Ring" type="Armor">
+	<item id="903" name="Кольцо Цербера" type="Armor">
 		<set name="icon" val="icon.accessary_cerberuss_ring_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
@@ -66,7 +66,7 @@
 			<stat type="mDef">40</stat>
 		</stats>
 	</item>
-	<item id="904" name="Ring of Aid" type="Armor">
+	<item id="904" name="Кольцо Помощи" type="Armor">
 		<set name="icon" val="icon.accessary_ring_of_assistance_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
@@ -82,7 +82,7 @@
 			<stat type="mDef">34</stat>
 		</stats>
 	</item>
-	<item id="905" name="Ring of Blessing" type="Armor">
+	<item id="905" name="Кольцо Благословения" type="Armor">
 		<set name="icon" val="icon.accessary_ring_of_blessing_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="rfinger;lfinger" />
@@ -98,7 +98,7 @@
 			<stat type="mDef">34</stat>
 		</stats>
 	</item>
-	<item id="906" name="Necklace of Knowledge" type="Armor">
+	<item id="906" name="Ожерелье Знаний" type="Armor">
 		<!-- Silver necklace engraved with rune characters of knowledge. -->
 		<set name="icon" val="icon.accessary_necklace_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -112,7 +112,7 @@
 			<stat type="mDef">18</stat>
 		</stats>
 	</item>
-	<item id="907" name="Necklace of Anguish" type="Armor">
+	<item id="907" name="Ожерелье Мучений" type="Armor">
 		<!-- Silver necklace engraved with rune characters of anguish. -->
 		<set name="icon" val="icon.accessary_necklace_of_anguish_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -126,7 +126,7 @@
 			<stat type="mDef">21</stat>
 		</stats>
 	</item>
-	<item id="908" name="Necklace of Wisdom" type="Armor">
+	<item id="908" name="Ожерелье Мудрости" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_wisdom_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -139,7 +139,7 @@
 			<stat type="mDef">25</stat>
 		</stats>
 	</item>
-	<item id="909" name="Blue Diamond Necklace" type="Armor">
+	<item id="909" name="Ожерелье с Синим Алмазом" type="Armor">
 		<set name="icon" val="icon.accessary_blue_diamond_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -152,7 +152,7 @@
 			<stat type="mDef">28</stat>
 		</stats>
 	</item>
-	<item id="910" name="Necklace of Devotion" type="Armor">
+	<item id="910" name="Ожерелье Преданности" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_devotion_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -168,7 +168,7 @@
 			<stat type="mDef">32</stat>
 		</stats>
 	</item>
-	<item id="911" name="Magic Necklace" type="Armor">
+	<item id="911" name="Зачарованное Ожерелье" type="Armor">
 		<set name="icon" val="icon.accessary_enchanted_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -184,7 +184,7 @@
 			<stat type="mDef">36</stat>
 		</stats>
 	</item>
-	<item id="912" name="Necklace of Old Forest" type="Armor">
+	<item id="912" name="Ожерелье Подлеска" type="Armor">
 		<set name="icon" val="icon.accessary_near_forest_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -200,7 +200,7 @@
 			<stat type="mDef">40</stat>
 		</stats>
 	</item>
-	<item id="913" name="Elven Necklace" type="Armor">
+	<item id="913" name="Ожерелье Эльфов" type="Armor">
 		<set name="icon" val="icon.accessary_elven_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -216,7 +216,7 @@
 			<stat type="mDef">45</stat>
 		</stats>
 	</item>
-	<item id="914" name="Dark Necklace" type="Armor">
+	<item id="914" name="Ожерелье Тьмы" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_darkness_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -232,7 +232,7 @@
 			<stat type="mDef">48</stat>
 		</stats>
 	</item>
-	<item id="915" name="Aquastone Necklace" type="Armor">
+	<item id="915" name="Бирюзовое Ожерелье" type="Armor">
 		<set name="icon" val="icon.accessary_aquastone_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -248,7 +248,7 @@
 			<stat type="mDef">52</stat>
 		</stats>
 	</item>
-	<item id="916" name="Necklace of Protection" type="Armor">
+	<item id="916" name="Ожерелье Защиты" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_protection_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -264,7 +264,7 @@
 			<stat type="mDef">56</stat>
 		</stats>
 	</item>
-	<item id="917" name="Necklace of Mermaid" type="Armor">
+	<item id="917" name="Ожерелье из Слез Русалки" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_mermaid_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -280,7 +280,7 @@
 			<stat type="mDef">60</stat>
 		</stats>
 	</item>
-	<item id="918" name="Adamantite Necklace" type="Armor">
+	<item id="918" name="Адамантитовое Ожерелье" type="Armor">
 		<set name="icon" val="icon.accessary_adamantite_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -296,7 +296,7 @@
 			<stat type="mDef">68</stat>
 		</stats>
 	</item>
-	<item id="919" name="Blessed Necklace" type="Armor">
+	<item id="919" name="Ожерелье Святости" type="Armor">
 		<set name="icon" val="icon.accessary_blessed_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -312,7 +312,7 @@
 			<stat type="mDef">64</stat>
 		</stats>
 	</item>
-	<item id="920" name="Tateossian Necklace" type="Armor">
+	<item id="920" name="Ожерелье Татеосса" type="Armor">
 		<!-- Tateossian Necklace. Produces the effect of MP +42. -->
 		<set name="icon" val="icon.accessory_tateossian_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -330,7 +330,7 @@
 			<stat type="maxMp">42</stat>
 		</stats>
 	</item>
-	<item id="921" name="Necklace of Mana" type="Armor">
+	<item id="921" name="Ожерелье Маны" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_mana_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -346,7 +346,7 @@
 			<stat type="mDef">68</stat>
 		</stats>
 	</item>
-	<item id="922" name="Sage's Necklace" type="Armor">
+	<item id="922" name="Ожерелье Мудреца" type="Armor">
 		<set name="icon" val="icon.accessary_sages_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -362,7 +362,7 @@
 			<stat type="mDef">72</stat>
 		</stats>
 	</item>
-	<item id="923" name="Paradia Necklace" type="Armor">
+	<item id="923" name="Ожерелье Парадии" type="Armor">
 		<set name="icon" val="icon.accessary_paradia_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -378,7 +378,7 @@
 			<stat type="mDef">72</stat>
 		</stats>
 	</item>
-	<item id="924" name="Majestic Necklace" type="Armor">
+	<item id="924" name="Ожерелье Величия" type="Armor">
 		<!-- Majestic Necklace. Max MP +33. -->
 		<set name="icon" val="icon.accessary_inferno_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -396,7 +396,7 @@
 			<stat type="maxMp">33</stat>
 		</stats>
 	</item>
-	<item id="925" name="Necklace of Solar Eclipse" type="Armor">
+	<item id="925" name="Ожерелье Солнечного Затмения" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_sola_eclipse_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -412,7 +412,7 @@
 			<stat type="mDef">68</stat>
 		</stats>
 	</item>
-	<item id="926" name="Black Ore Necklace" type="Armor">
+	<item id="926" name="Черное Ожерелье" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_black_ore_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -428,7 +428,7 @@
 			<stat type="mDef">72</stat>
 		</stats>
 	</item>
-	<item id="927" name="Summoning Necklace" type="Armor">
+	<item id="927" name="Ожерелье Призыва" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_summons_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -444,7 +444,7 @@
 			<stat type="mDef">68</stat>
 		</stats>
 	</item>
-	<item id="928" name="Otherworldly Necklace" type="Armor">
+	<item id="928" name="Потустороннее Ожерелье" type="Armor">
 		<set name="icon" val="icon.accessary_another_worlds_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -460,7 +460,7 @@
 			<stat type="mDef">72</stat>
 		</stats>
 	</item>
-	<item id="929" name="Elemental Necklace" type="Armor">
+	<item id="929" name="Ожерелье Стихий" type="Armor">
 		<set name="icon" val="icon.accessary_elemental_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -476,7 +476,7 @@
 			<stat type="mDef">72</stat>
 		</stats>
 	</item>
-	<item id="930" name="Necklace of Phantom" type="Armor">
+	<item id="930" name="Ожерелье Фантома" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_phantom_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -492,7 +492,7 @@
 			<stat type="mDef">80</stat>
 		</stats>
 	</item>
-	<item id="931" name="Necklace of Grace" type="Armor">
+	<item id="931" name="Ожерелье Грации" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_grace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -508,7 +508,7 @@
 			<stat type="mDef">68</stat>
 		</stats>
 	</item>
-	<item id="932" name="Necklace of Holy Spirit" type="Armor">
+	<item id="932" name="Ожерелье Святого Духа" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_holy_spirit_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -524,7 +524,7 @@
 			<stat type="mDef">72</stat>
 		</stats>
 	</item>
-	<item id="933" name="Phoenix Necklace" type="Armor">
+	<item id="933" name="Ожерелье Феникса" type="Armor">
 		<!-- Phoenix Necklace. Max MP +26. -->
 		<set name="icon" val="icon.accessary_phoenixs_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -542,7 +542,7 @@
 			<stat type="maxMp">26</stat>
 		</stats>
 	</item>
-	<item id="934" name="Cerberus Necklace" type="Armor">
+	<item id="934" name="Ожерелье Цербера" type="Armor">
 		<set name="icon" val="icon.accessary_cerberuss_necklace_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -558,7 +558,7 @@
 			<stat type="mDef">80</stat>
 		</stats>
 	</item>
-	<item id="935" name="Necklace of Aid" type="Armor">
+	<item id="935" name="Ожерелье Помощи" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_assistance_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -574,7 +574,7 @@
 			<stat type="mDef">68</stat>
 		</stats>
 	</item>
-	<item id="936" name="Necklace of Blessing" type="Armor">
+	<item id="936" name="Ожерелье Благословения" type="Armor">
 		<set name="icon" val="icon.accessary_necklace_of_blessing_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="neck" />
@@ -590,7 +590,7 @@
 			<stat type="mDef">68</stat>
 		</stats>
 	</item>
-	<item id="937" name="Directions to Ruins" type="EtcItem">
+	<item id="937" name="Дорога к Руинам" type="EtcItem">
 		<!-- Follow the northwestern path from the village, and head west when you meet the Obelisk of Victory. The entrance to the ruins lies at the slope of the mountain. -->
 		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
 		<set name="immediate_effect" val="true" />
@@ -602,7 +602,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="938" name="Deck" type="EtcItem">
+	<item id="938" name="Дека" type="EtcItem">
 		<set name="icon" val="icon.etc_spell_books_red_i00" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="SILVER" />
@@ -610,7 +610,7 @@
 		<set name="is_depositable" val="false" />
 		<set name="is_sellable" val="false" />
 	</item>
-	<item id="939" name="Gara's Quest Item #11" type="EtcItem">
+	<item id="939" name="Предмет Квеста Гары #11" type="EtcItem">
 		<set name="icon" val="icon.item_normal52" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
@@ -621,7 +621,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="940" name="Gara's Quest Item #12" type="EtcItem">
+	<item id="940" name="Предмет Квеста Гары #12" type="EtcItem">
 		<set name="icon" val="icon.item_normal52" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
@@ -632,7 +632,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="941" name="Gara's Mark of Bravery" type="EtcItem">
+	<item id="941" name="Свидетельство Храбрости Гары" type="EtcItem">
 		<set name="icon" val="icon.item_normal52" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
@@ -643,7 +643,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="942" name="Gara's Mark of Justice" type="EtcItem">
+	<item id="942" name="Свидетельство Справедливости Гары" type="EtcItem">
 		<set name="icon" val="icon.item_normal52" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
@@ -654,7 +654,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="943" name="Gara's Mark of Despair" type="EtcItem">
+	<item id="943" name="Свидетельство Отчаяния Гары" type="EtcItem">
 		<set name="icon" val="icon.item_normal52" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
@@ -665,7 +665,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="944" name="Death Knight's Skull" type="EtcItem">
+	<item id="944" name="Череп Рыцаря Смерти" type="EtcItem">
 		<set name="icon" val="icon.armor_head15" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
@@ -676,7 +676,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="945" name="Skeleton Buckler" type="Armor">
+	<item id="945" name="Баклер Скелета" type="Armor">
 		<!-- Small wooden shield that perpetrators of mages use. -->
 		<set name="icon" val="icon.shield_skeleton_buckler_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -693,7 +693,7 @@
 			<stat type="sDef">69</stat>
 		</stats>
 	</item>
-	<item id="946" name="Skeleton Dagger" type="Weapon">
+	<item id="946" name="Кинжал Скелета" type="Weapon">
 		<set name="icon" val="icon.weapon_dagger_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="DAGGER" />
@@ -717,7 +717,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="947" name="Scroll: Enchant B-grade Weapon" type="EtcItem">
+	<item id="947" name="Свиток: Модифицировать Оружие Ранга B" type="EtcItem">
 		<!-- For B-grade weapons. P. Atk. +3 for one-handed swords/ blunts/ staffs, daggers, spears. P. Atk. +4 for two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +6 for bows. M. Atk. +3 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. The enchanting is safe up to +3. Cannot be used for weapons enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i03" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -735,7 +735,7 @@
 			<skill id="2015" level="1" /> <!-- Scroll: Enchant Weapon (B-grade) -->
 		</skills>
 	</item>
-	<item id="948" name="Scroll: Enchant B-grade Armor" type="EtcItem">
+	<item id="948" name="Свиток: Модифицировать Доспех Ранга B" type="EtcItem">
 		<!-- For B-grade armor and accessories. P. Def. +1. When enchanted to +4, P. Def. +3, HP is increased with each enchant value. The enchanting is safe up to +3 for ordinary armor and up to +4 for one-piece armor. Cannot be used with equipment enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i03" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -753,7 +753,7 @@
 			<skill id="2016" level="1" /> <!-- Scroll: Enchant Armor (B-grade) -->
 		</skills>
 	</item>
-	<item id="949" name="Crystal Scroll: Enchant B-grade Weapon" type="EtcItem">
+	<item id="949" name="Кристальный Свиток: Модифицировать Оружие Ранга B" type="EtcItem">
 		<!-- Scroll of enchantment that empowers a B-grade weapon. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -765,7 +765,7 @@
 		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON" />
 		<set name="handler" val="EnchantScrolls" />
 	</item>
-	<item id="950" name="Crystal Scroll: Enchant B-grade Armor" type="EtcItem">
+	<item id="950" name="Кристальный Свиток: Модифицировать Доспех Ранга B" type="EtcItem">
 		<!-- Scroll of enchantment that empowers a B-grade armor. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -777,7 +777,7 @@
 		<set name="commissionItemType" val="SCROLL_ENCHANT_ARMOR" />
 		<set name="handler" val="EnchantScrolls" />
 	</item>
-	<item id="951" name="Scroll: Enchant C-grade Weapon" type="EtcItem">
+	<item id="951" name="Свиток: Модифицировать Оружие С" type="EtcItem">
 		<!-- For C-grade weapons. P. Atk. +3 for one-handed swords/ blunts/ staffs, daggers, spears. P. Atk. +4 for two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +6 for bows. M. Atk. +3 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. The enchanting is safe up to +3. Cannot be used with weapons enchanted to +30 and higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i02" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -795,7 +795,7 @@
 			<skill id="2017" level="1" /> <!-- Scroll: Enchant Weapon (C-grade) -->
 		</skills>
 	</item>
-	<item id="952" name="Scroll: Enchant C-grade Armor" type="EtcItem">
+	<item id="952" name="Свиток: Модифицировать Доспех Ранга C" type="EtcItem">
 		<!-- For C-grade armor and accessories. P. Def. +1. When enchanted to +4, P. Def. +3, HP is increased with each enchant value. The enchanting is safe up to +3 for ordinary armor and up to +4 for one-piece armor. Cannot be used with equipment enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i02" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -813,7 +813,7 @@
 			<skill id="2018" level="1" /> <!-- Scroll: Enchant Armor (C-grade) -->
 		</skills>
 	</item>
-	<item id="953" name="Crystal Scroll: Enchant C-grade Weapon" type="EtcItem">
+	<item id="953" name="Кристальный Свиток: Модифицировать Оружие Ранга C" type="EtcItem">
 		<!-- Scroll of enchantment that empowers a C-grade weapon. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -825,7 +825,7 @@
 		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON" />
 		<set name="handler" val="EnchantScrolls" />
 	</item>
-	<item id="954" name="Crystal Scroll: Enchant C-grade Armor" type="EtcItem">
+	<item id="954" name="Кристальный Свиток: Модифицировать Доспех Ранга С" type="EtcItem">
 		<!-- Scroll of enchantment that empowers a C-grade armor. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -837,7 +837,7 @@
 		<set name="commissionItemType" val="SCROLL_ENCHANT_ARMOR" />
 		<set name="handler" val="EnchantScrolls" />
 	</item>
-	<item id="955" name="Scroll: Enchant D-grade Weapon" type="EtcItem">
+	<item id="955" name="Свиток: Модифицировать Оружие Ранга D" type="EtcItem">
 		<!-- For D-grade weapons. P. Atk. +2 for one-handed swords/ blunts/ staffs, daggers, spears, two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +4 for bows. M. Atk. +2 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. Cannot be used with weapons enchanted to +30 and higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -855,7 +855,7 @@
 			<skill id="2019" level="1" /> <!-- Scroll: Enchant Weapon (D-grade) -->
 		</skills>
 	</item>
-	<item id="956" name="Scroll: Enchant D-grade Armor" type="EtcItem">
+	<item id="956" name="Свиток: Модифицировать Доспех Ранга D" type="EtcItem">
 		<!-- For D-grade armor and accessories. P. Def. +1. When enchanted to +4, P. Def. +3, HP is increased with each enchant value. The enchanting is safe up to +3 for ordinary armor and up to +4 for one-piece armor. Cannot be used with equipment enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -873,7 +873,7 @@
 			<skill id="2020" level="1" /> <!-- Scroll: Enchant Armor (D-grade) -->
 		</skills>
 	</item>
-	<item id="957" name="Crystal Scroll: Enchant D-grade Weapon" type="EtcItem">
+	<item id="957" name="Кристальный Свиток: Модифицировать Оружие Ранга D" type="EtcItem">
 		<!-- Scroll of enchantment that empowers a D-grade weapon. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -885,7 +885,7 @@
 		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON" />
 		<set name="handler" val="EnchantScrolls" />
 	</item>
-	<item id="958" name="Crystal Scroll: Enchant D-grade Armor" type="EtcItem">
+	<item id="958" name="Кристальный Свиток: Модифицировать Доспех Ранга D" type="EtcItem">
 		<!-- Scroll of enchantment that empowers a D-grade armor. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -897,7 +897,7 @@
 		<set name="commissionItemType" val="SCROLL_ENCHANT_ARMOR" />
 		<set name="handler" val="EnchantScrolls" />
 	</item>
-	<item id="959" name="Scroll: Enchant S-grade Weapon" type="EtcItem">
+	<item id="959" name="Свиток: Модифицировать Оружие Ранга S" type="EtcItem">
 		<!-- For S-grade weapons. P. Atk. +5 for one-handed swords/ blunts/ staffs, daggers, spears. P. Atk. +6 for two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +10 for bows. M. Atk. +4 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. Cannot be used with weapons enchanted to +30 and higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i05" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -915,7 +915,7 @@
 			<skill id="2021" level="1" /> <!-- Scroll: Enchant Weapon (S-grade) -->
 		</skills>
 	</item>
-	<item id="960" name="Scroll: Enchant S-grade Armor" type="EtcItem">
+	<item id="960" name="Свиток: Модифицировать Доспех Ранга S" type="EtcItem">
 		<!-- For S-grade armor and accessories. P. Def. +1. Starting from +4, P. Def. +3, HP is increased with each enchant value. The enchanting is safe up to +3 for common armor and to +4 for one-piece armor. Cannot be used for equipment enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i05" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -933,7 +933,7 @@
 			<skill id="2022" level="1" /> <!-- Scroll: Enchant Armor (S-grade) -->
 		</skills>
 	</item>
-	<item id="961" name="Crystal Scroll: Enchant S-grade Weapon" type="EtcItem">
+	<item id="961" name="Кристальный Свиток: Модифицировать Оружие Ранга S" type="EtcItem">
 		<!-- A scroll for enchanting S-grade weapons. -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -945,7 +945,7 @@
 		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON" />
 		<set name="handler" val="EnchantScrolls" />
 	</item>
-	<item id="962" name="Crystal Scroll: Enchant S-grade Armor" type="EtcItem">
+	<item id="962" name="Кристальный Свиток: Модифицировать Доспех Ранга S" type="EtcItem">
 		<!-- Scroll of enchantment that empowers an S-grade armor -->
 		<set name="icon" val="icon.etc_scroll_of_enchant_armor_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -981,7 +981,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="965" name="Evergreen Amulet" type="EtcItem">
+	<item id="965" name="Вечнозеленый Амулет" type="EtcItem">
 		<!-- Necklace set with a green Elemental stone. You must possess this to slay the dryad and obtain the dryad's tears. -->
 		<set name="icon" val="icon.accessary_near_forest_necklace_i00" />
 		<set name="immediate_effect" val="true" />
@@ -993,7 +993,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="966" name="Dryad's Tears" type="EtcItem">
+	<item id="966" name="Слезы Дриады" type="EtcItem">
 		<!-- Jewel that contains the essence of a dryad's soul. Gather 10 of these and take them to Master Cobendell. -->
 		<set name="icon" val="icon.etc_crystal_ball_green_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1005,7 +1005,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="967" name="Cobendell's Medicine" type="EtcItem">
+	<item id="967" name="Лекарство Кобенделла" type="EtcItem">
 		<!-- Cobendell's medicine -->
 		<set name="icon" val="icon.item_canuse24" />
 		<set name="immediate_effect" val="true" />
@@ -1017,7 +1017,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="968" name="Karrod's Letter" type="EtcItem">
+	<item id="968" name="Письмо Кэррода" type="EtcItem">
 		<!-- Letter written by Blacksmith Karrod. Take this to the Abyssal Celebrant Cecktinon in the Shillien Temple. -->
 		<set name="icon" val="icon.etc_scroll_gray_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1029,7 +1029,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="969" name="Cecktinon's First Voucher" type="EtcItem">
+	<item id="969" name="Поручение Кектинона" type="EtcItem">
 		<!-- Introduction letter from the Abyssal Celebrant Cecktinon. Take this and seek Magister Harne in the village. -->
 		<set name="icon" val="icon.etc_letter_red_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1041,7 +1041,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="970" name="Cecktinon's First Voucher" type="EtcItem">
+	<item id="970" name="Поручение Кектинона" type="EtcItem">
 		<!-- Introduction letter from the Abyssal Celebrant Cecktinon. Go to the School of Dark Arts, hunt skeletons, and gather 10 bone fragments. -->
 		<set name="icon" val="icon.etc_letter_red_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1053,7 +1053,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="971" name="Soul Catcher" type="EtcItem">
+	<item id="971" name="Ловец Душ" type="EtcItem">
 		<!-- Item used during the exorcism ritual to call upon a spirit of the dead. Take this to the Abyssal Celebrant Cecktinon. -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1065,7 +1065,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="972" name="Preserving Oil" type="EtcItem">
+	<item id="972" name="Консервирующее Масло" type="EtcItem">
 		<!-- Oil that prevents the rotting of corpses. Take this and go hunt zombies in the Marshlands. -->
 		<set name="icon" val="icon.etc_potion_clear_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1077,7 +1077,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="973" name="Zombie Head" type="EtcItem">
+	<item id="973" name="Голова Зомби" type="EtcItem">
 		<!-- The head of tree Elf zombies that have been cut after they are defeated. Take this to the abyssal celebrant Cecktinon. -->
 		<set name="icon" val="icon.etc_skull_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1089,7 +1089,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="974" name="Steelbender Head" type="EtcItem">
+	<item id="974" name="Голова Роберто" type="EtcItem">
 		<!-- Please, I beg of you! Don't take me to that nasty-tempered blacksmith! -->
 		<set name="icon" val="icon.etc_skull_red_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1101,7 +1101,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="975" name="Blood Saber" type="Weapon">
+	<item id="975" name="Кровавая Сабля" type="Weapon">
 		<!-- An Oriharukon sword crafted in the Abella style of the east. -->
 		<set name="icon" val="icon.weapon_broad_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1125,7 +1125,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="976" name="1st Badge of Sentinel" type="EtcItem">
+	<item id="976" name="Метка Часового" type="EtcItem">
 		<!-- A badge that certifies that its bearer is an Elven Sentinel. Destroy Tanuki Skullcrusher and report to Sentinel Kendell. -->
 		<set name="icon" val="icon.item_system03" />
 		<set name="immediate_effect" val="true" />
@@ -1137,7 +1137,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="977" name="1st Badge of Sentinel" type="EtcItem">
+	<item id="977" name="Метка Часового" type="EtcItem">
 		<!-- A badge that certifies that its bearer is an Elven Sentinel. Destroy Bhato Bloodspear and report to Sentinel Kendell. -->
 		<set name="icon" val="icon.item_system03" />
 		<set name="immediate_effect" val="true" />
@@ -1149,7 +1149,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="978" name="Skullcrusher Amulet" type="EtcItem">
+	<item id="978" name="Амулет Крушителя Черепов" type="EtcItem">
 		<!-- The amulet that represents the Skullcrusher Orc tribe. Take this to Sentinel Kendell. -->
 		<set name="icon" val="icon.item_normal145" />
 		<set name="immediate_effect" val="true" />
@@ -1161,7 +1161,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="979" name="Bloodspear Amulet" type="EtcItem">
+	<item id="979" name="Амулет Кровавого Копья" type="EtcItem">
 		<!-- The amulet that represents the Bloodspear Orc tribe. Take this to Sentinel Kendell. -->
 		<set name="icon" val="icon.item_normal89" />
 		<set name="immediate_effect" val="true" />
@@ -1185,7 +1185,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="981" name="Red Sunset Sword" type="Weapon">
+	<item id="981" name="Меч Багрового Заката" type="Weapon">
 		<!-- Sword used by warriors belonging to the Red Sunset clan. -->
 		<set name="icon" val="icon.weapon_brandish_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1209,7 +1209,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="982" name="Esrandell's Letter" type="EtcItem">
+	<item id="982" name="Письмо Эшранделла" type="EtcItem">
 		<!-- Esrandell's introduction -->
 		<set name="icon" val="icon.item_normal20" />
 		<set name="immediate_effect" val="true" />
@@ -1221,7 +1221,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="983" name="Kendell's Letter" type="EtcItem">
+	<item id="983" name="Письмо Кенделла" type="EtcItem">
 		<!-- Kendell's letter -->
 		<set name="icon" val="icon.item_normal20" />
 		<set name="immediate_effect" val="true" />
@@ -1233,7 +1233,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="984" name="1st Onyx Talisman" type="EtcItem">
+	<item id="984" name="Ониксовый Талисман" type="EtcItem">
 		<!-- A necklace crafted of onyx. Take it to Abyssal Celebrant Kartia. -->
 		<set name="icon" val="icon.accessary_sages_necklace_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1245,7 +1245,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="985" name="1st Onyx Talisman" type="EtcItem">
+	<item id="985" name="Ониксовый Талисман" type="EtcItem">
 		<!-- A necklace crafted of onyx. Recover the scrolls from the Tumran Orcs and bring them to Abyssal Celebrant Kartia. -->
 		<set name="icon" val="icon.accessary_sages_necklace_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1257,7 +1257,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="986" name="Ancient Scroll" type="EtcItem">
+	<item id="986" name="Древний Свиток" type="EtcItem">
 		<!-- An ancient scroll called the Kaysha's Revelations. Take it along with Clay Tablet to Abyssal Celebrant Kartia. -->
 		<set name="icon" val="icon.etc_scroll_gray_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1269,7 +1269,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="987" name="Ancient Clay Tablet" type="EtcItem">
+	<item id="987" name="Древняя Глиняная Табличка" type="EtcItem">
 		<!-- An ancient clay tablet engraved with text. Take it along with Ancient Scroll to Abyssal Celebrant Kartia. -->
 		<set name="icon" val="icon.etc_plate_glay_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1281,7 +1281,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="988" name="Kartia's Translation" type="EtcItem">
+	<item id="988" name="Перевод Картии" type="EtcItem">
 		<!-- Kartia's translation of Kaysha's Revelations. Take it to Great Hierarch Thifiell. -->
 		<set name="icon" val="icon.etc_piece_of_paper_gray_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1293,7 +1293,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="989" name="Eldritch Dagger" type="Weapon">
+	<item id="989" name="Пугающий Кинжал" type="Weapon">
 		<!-- Steel dagger engraved with the runes of Shillien and Gran Kain. -->
 		<set name="icon" val="icon.weapon_knife_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1318,7 +1318,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="990" name="Fist000" type="Armor">
+	<item id="990" name="Перчатки-000" type="Armor">
 		<set name="icon" val="icon.item_canuse27" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1332,7 +1332,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="991" name="Fist001" type="Armor">
+	<item id="991" name="Перчатки-001" type="Armor">
 		<set name="icon" val="icon.item_normal26" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1346,7 +1346,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="992" name="Fist002" type="Armor">
+	<item id="992" name="Перчатки-002" type="Armor">
 		<set name="icon" val="icon.armor_head15" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1360,7 +1360,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="993" name="Fist003" type="Armor">
+	<item id="993" name="Перчатки-003" type="Armor">
 		<set name="icon" val="icon.armor_head15" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1374,7 +1374,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="994" name="Fist004" type="Armor">
+	<item id="994" name="Перчатки-004" type="Armor">
 		<set name="icon" val="icon.item_normal46" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1388,7 +1388,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="995" name="Fist005" type="Armor">
+	<item id="995" name="Перчатки-005" type="Armor">
 		<set name="icon" val="icon.item_normal20" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1402,7 +1402,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="996" name="Fist006" type="Armor">
+	<item id="996" name="Перчатки-006" type="Armor">
 		<set name="icon" val="icon.weapon_ss08" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1416,7 +1416,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="997" name="Fist007" type="Armor">
+	<item id="997" name="Перчатки-007" type="Armor">
 		<set name="icon" val="icon.item_normal50" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1430,7 +1430,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="998" name="Fist008" type="Armor">
+	<item id="998" name="Перчатки-008" type="Armor">
 		<set name="icon" val="icon.item_normal07" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -1444,7 +1444,7 @@
 			<stat type="pDef">9</stat>
 		</stats>
 	</item>
-	<item id="999" name="Fist009" type="Armor">
+	<item id="999" name="Перчатки-009" type="Armor">
 		<set name="icon" val="icon.item_normal07" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />

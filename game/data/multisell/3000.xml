@@ -11,204 +11,204 @@
 		<npc>32887</npc> <!-- Metar -->
 		<npc>32878</npc> <!-- Sparky -->
 	</npcs>
-	<item>
-		<ingredient id="57" count="500" /> <!-- Adena -->
-		<production id="1786" count="1" /> <!-- Recipe: Broadsword -->
+	<!--<item>
+		<ingredient id="57" count="500" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1786" count="1" /> &lt;!&ndash; Recipe: Broadsword &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="500" /> <!-- Adena -->
-		<production id="1787" count="1" /> <!-- Recipe: Willow Staff -->
+		<ingredient id="57" count="500" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1787" count="1" /> &lt;!&ndash; Recipe: Willow Staff &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="500" /> <!-- Adena -->
-		<production id="1788" count="1" /> <!-- Recipe: Bow -->
+		<ingredient id="57" count="500" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1788" count="1" /> &lt;!&ndash; Recipe: Bow &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="2164" /> <!-- Adena -->
-		<production id="1789" count="1" /> <!-- Recipe: Cedar Staff -->
+		<ingredient id="57" count="2164" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1789" count="1" /> &lt;!&ndash; Recipe: Cedar Staff &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="2164" /> <!-- Adena -->
-		<production id="1790" count="1" /> <!-- Recipe: Dirk -->
+		<ingredient id="57" count="2164" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1790" count="1" /> &lt;!&ndash; Recipe: Dirk &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="2164" /> <!-- Adena -->
-		<production id="1791" count="1" /> <!-- Recipe: Brandish -->
+		<ingredient id="57" count="2164" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1791" count="1" /> &lt;!&ndash; Recipe: Brandish &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="5440" /> <!-- Adena -->
-		<production id="1792" count="1" /> <!-- Recipe: Short Spear -->
+		<ingredient id="57" count="5440" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1792" count="1" /> &lt;!&ndash; Recipe: Short Spear &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="5440" /> <!-- Adena -->
-		<production id="1793" count="1" /> <!-- Recipe: Sword of Reflection -->
+		<ingredient id="57" count="5440" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1793" count="1" /> &lt;!&ndash; Recipe: Sword of Reflection &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="5440" /> <!-- Adena -->
-		<production id="1794" count="1" /> <!-- Recipe: Forest Bow -->
+		<ingredient id="57" count="5440" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1794" count="1" /> &lt;!&ndash; Recipe: Forest Bow &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="106" /> <!-- Adena -->
-		<production id="1795" count="1" /> <!-- Recipe: Leather Shoes -->
+		<ingredient id="57" count="106" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1795" count="1" /> &lt;!&ndash; Recipe: Leather Shoes &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="318" /> <!-- Adena -->
-		<production id="1796" count="1" /> <!-- Recipe: Leather Tunic -->
+		<ingredient id="57" count="318" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1796" count="1" /> &lt;!&ndash; Recipe: Leather Tunic &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="198" /> <!-- Adena -->
-		<production id="1797" count="1" /> <!-- Recipe: Leather Stockings -->
+		<ingredient id="57" count="198" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1797" count="1" /> &lt;!&ndash; Recipe: Leather Stockings &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="408" /> <!-- Adena -->
-		<production id="1798" count="1" /> <!-- Recipe: Leather Helmet -->
+		<ingredient id="57" count="408" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1798" count="1" /> &lt;!&ndash; Recipe: Leather Helmet &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="270" /> <!-- Adena -->
-		<production id="1799" count="1" /> <!-- Recipe: Leather Gloves -->
+		<ingredient id="57" count="270" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1799" count="1" /> &lt;!&ndash; Recipe: Leather Gloves &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="1272" /> <!-- Adena -->
-		<production id="1800" count="1" /> <!-- Recipe: Piece Bone Breastplate -->
+		<ingredient id="57" count="1272" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1800" count="1" /> &lt;!&ndash; Recipe: Piece Bone Breastplate &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="796" /> <!-- Adena -->
-		<production id="1801" count="1" /> <!-- Recipe: Piece Bone Gaiters -->
+		<ingredient id="57" count="796" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1801" count="1" /> &lt;!&ndash; Recipe: Piece Bone Gaiters &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="186" /> <!-- Adena -->
-		<production id="1802" count="1" /> <!-- Recipe: Necklace of Anguish -->
+		<ingredient id="57" count="186" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1802" count="1" /> &lt;!&ndash; Recipe: Necklace of Anguish &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="476" /> <!-- Adena -->
-		<production id="1803" count="1" /> <!-- Recipe: Necklace of Wisdom -->
+		<ingredient id="57" count="476" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1803" count="1" /> &lt;!&ndash; Recipe: Necklace of Wisdom &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="852" /> <!-- Adena -->
-		<production id="2150" count="1" /> <!-- Recipe: Blue Diamond Necklace -->
+		<ingredient id="57" count="852" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2150" count="1" /> &lt;!&ndash; Recipe: Blue Diamond Necklace &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="1476" /> <!-- Adena -->
-		<production id="2173" count="1" /> <!-- Recipe: Durable Leather Shirt -->
+		<ingredient id="57" count="1476" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2173" count="1" /> &lt;!&ndash; Recipe: Durable Leather Shirt &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="920" /> <!-- Adena -->
-		<production id="2174" count="1" /> <!-- Recipe: Durable Leather Gaiters -->
+		<ingredient id="57" count="920" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2174" count="1" /> &lt;!&ndash; Recipe: Durable Leather Gaiters &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="492" /> <!-- Adena -->
-		<production id="2175" count="1" /> <!-- Recipe: Boots -->
+		<ingredient id="57" count="492" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2175" count="1" /> &lt;!&ndash; Recipe: Boots &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="9760" /> <!-- Adena -->
-		<production id="2252" count="1" /> <!-- Recipe: Iron Hammer -->
+		<ingredient id="57" count="9760" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2252" count="1" /> &lt;!&ndash; Recipe: Iron Hammer &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="9760" /> <!-- Adena -->
-		<production id="2253" count="1" /> <!-- Recipe: Sword Breaker -->
+		<ingredient id="57" count="9760" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2253" count="1" /> &lt;!&ndash; Recipe: Sword Breaker &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="9760" /> <!-- Adena -->
-		<production id="2254" count="1" /> <!-- Recipe: Compound Bow -->
+		<ingredient id="57" count="9760" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2254" count="1" /> &lt;!&ndash; Recipe: Compound Bow &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="2800" /> <!-- Adena -->
-		<production id="2005" count="1" /> <!-- Broadsword Blade -->
+		<ingredient id="57" count="2800" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2005" count="1" /> &lt;!&ndash; Broadsword Blade &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="2800" /> <!-- Adena -->
-		<production id="2006" count="1" /> <!-- Willow Staff Head -->
+		<ingredient id="57" count="2800" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2006" count="1" /> &lt;!&ndash; Willow Staff Head &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="2800" /> <!-- Adena -->
-		<production id="2007" count="1" /> <!-- Bow Shaft -->
+		<ingredient id="57" count="2800" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2007" count="1" /> &lt;!&ndash; Bow Shaft &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="5140" /> <!-- Adena -->
-		<production id="2008" count="1" /> <!-- Cedar Staff Head -->
+		<ingredient id="57" count="5140" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2008" count="1" /> &lt;!&ndash; Cedar Staff Head &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="5640" /> <!-- Adena -->
-		<production id="2009" count="1" /> <!-- Dirk Blade -->
+		<ingredient id="57" count="5640" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2009" count="1" /> &lt;!&ndash; Dirk Blade &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="5140" /> <!-- Adena -->
-		<production id="2010" count="1" /> <!-- Brandish Blade -->
+		<ingredient id="57" count="5140" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2010" count="1" /> &lt;!&ndash; Brandish Blade &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="8767" /> <!-- Adena -->
-		<production id="2011" count="1" /> <!-- Short Spear Edge -->
+		<ingredient id="57" count="8767" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2011" count="1" /> &lt;!&ndash; Short Spear Edge &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="9600" /> <!-- Adena -->
-		<production id="2012" count="1" /> <!-- Sword of Reflection Blade -->
+		<ingredient id="57" count="9600" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2012" count="1" /> &lt;!&ndash; Sword of Reflection Blade &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="9267" /> <!-- Adena -->
-		<production id="2013" count="1" /> <!-- Forest Bow Shaft -->
+		<ingredient id="57" count="9267" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2013" count="1" /> &lt;!&ndash; Forest Bow Shaft &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="310" /> <!-- Adena -->
-		<production id="1921" count="1" /> <!-- Leather Shoe Texture -->
+		<ingredient id="57" count="310" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1921" count="1" /> &lt;!&ndash; Leather Shoe Texture &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="784" /> <!-- Adena -->
-		<production id="1922" count="1" /> <!-- Leather Tunic Pattern -->
+		<ingredient id="57" count="784" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1922" count="1" /> &lt;!&ndash; Leather Tunic Pattern &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="488" /> <!-- Adena -->
-		<production id="1923" count="1" /> <!-- Leather Stocking Pattern -->
+		<ingredient id="57" count="488" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1923" count="1" /> &lt;!&ndash; Leather Stocking Pattern &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="620" /> <!-- Adena -->
-		<production id="1924" count="1" /> <!-- Leather Helmet Design -->
+		<ingredient id="57" count="620" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1924" count="1" /> &lt;!&ndash; Leather Helmet Design &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="305" /> <!-- Adena -->
-		<production id="1925" count="1" /> <!-- Leather Glove Lining -->
+		<ingredient id="57" count="305" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1925" count="1" /> &lt;!&ndash; Leather Glove Lining &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="1980" /> <!-- Adena -->
-		<production id="1926" count="1" /> <!-- Piece Bone Breastplate Fragment -->
+		<ingredient id="57" count="1980" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1926" count="1" /> &lt;!&ndash; Piece Bone Breastplate Fragment &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="1373" /> <!-- Adena -->
-		<production id="1928" count="1" /> <!-- Piece Bone Gaiter Fragment -->
+		<ingredient id="57" count="1373" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1928" count="1" /> &lt;!&ndash; Piece Bone Gaiter Fragment &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="472" /> <!-- Adena -->
-		<production id="1896" count="1" /> <!-- Necklace of Anguish Chain -->
+		<ingredient id="57" count="472" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1896" count="1" /> &lt;!&ndash; Necklace of Anguish Chain &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="840" /> <!-- Adena -->
-		<production id="1897" count="1" /> <!-- Necklace of Wisdom Chain -->
+		<ingredient id="57" count="840" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1897" count="1" /> &lt;!&ndash; Necklace of Wisdom Chain &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="1947" /> <!-- Adena -->
-		<production id="1898" count="1" /> <!-- Blue Diamond Necklace Gem -->
+		<ingredient id="57" count="1947" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1898" count="1" /> &lt;!&ndash; Blue Diamond Necklace Gem &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="2507" /> <!-- Adena -->
-		<production id="1927" count="1" /> <!-- Durable Leather Shirt Pattern -->
+		<ingredient id="57" count="2507" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1927" count="1" /> &lt;!&ndash; Durable Leather Shirt Pattern &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="1550" /> <!-- Adena -->
-		<production id="1929" count="1" /> <!-- Durable Leather Gaiter Material -->
+		<ingredient id="57" count="1550" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1929" count="1" /> &lt;!&ndash; Durable Leather Gaiter Material &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="780" /> <!-- Adena -->
-		<production id="1930" count="1" /> <!-- Boot Lining -->
+		<ingredient id="57" count="780" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="1930" count="1" /> &lt;!&ndash; Boot Lining &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="17400" /> <!-- Adena -->
-		<production id="2014" count="1" /> <!-- Iron Hammer Head -->
+		<ingredient id="57" count="17400" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2014" count="1" /> &lt;!&ndash; Iron Hammer Head &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="16400" /> <!-- Adena -->
-		<production id="2015" count="1" /> <!-- Sword Breaker Edge -->
+		<ingredient id="57" count="16400" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2015" count="1" /> &lt;!&ndash; Sword Breaker Edge &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="57" count="17067" /> <!-- Adena -->
-		<production id="2016" count="1" /> <!-- Compound Bow Shaft -->
-	</item>
+		<ingredient id="57" count="17067" /> &lt;!&ndash; Adena &ndash;&gt;
+		<production id="2016" count="1" /> &lt;!&ndash; Compound Bow Shaft &ndash;&gt;
+	</item>-->
 </list>

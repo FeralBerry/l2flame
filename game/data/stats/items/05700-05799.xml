@@ -1457,7 +1457,7 @@
 			<stat type="pDef">49</stat>
 		</stats>
 	</item>
-	<item id="5789" name="No-grade Soulshot (Novice)" type="EtcItem">
+	<item id="5789" name="Заряд Души: Без Ранга для Новичков" type="EtcItem">
 		<!-- A No-grade Soulshot for new players. -->
 		<set name="icon" val="icon.etc_soulshot_none_for_rookie_i00" />
 		<set name="default_action" val="SOULSHOT" />
@@ -1475,7 +1475,7 @@
 			<skill id="2039" level="1" /> <!-- Soulshot (No-grade) -->
 		</skills>
 	</item>
-	<item id="5790" name="No-grade Spiritshot(Novice)" type="EtcItem">
+	<item id="5790" name="Заряд Духа: Без Ранга для Новичков" type="EtcItem">
 		<!-- A No-grade Spiritshot for new players. -->
 		<set name="icon" val="icon.etc_spiritshot_none_for_rookie_i00" />
 		<set name="default_action" val="SPIRITSHOT" />

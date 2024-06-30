@@ -348,7 +348,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="3429" name="Spellbook: Greater Heal" type="EtcItem">
+	<item id="3429" name="Книга Заклинаний - Великое Лечение" type="EtcItem">
 		<!-- A spellbook for learning the Greater Heal skill. Used by Bishops, Elven Elders and Shillien Elders. Required level: Bishop - 40, Elven Elder/ Shillien Elder - 48. -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -358,7 +358,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3430" name="Spellbook: Greater Battle Heal" type="EtcItem">
+	<item id="3430" name="Книга Заклинаний - Великое Боевое Лечение" type="EtcItem">
 		<!-- Amulet required for the Greater Battle Heal spell. Used by Bishops. Required level: 40 -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -368,7 +368,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3431" name="Spellbook: Greater Group Heal" type="EtcItem">
+	<item id="3431" name="Книга Заклинаний - Великое Групповое Лечение" type="EtcItem">
 		<!-- A spellbook for learning the Greater Group Heal skill. Used by Bishops, Shillien Elders and Elven Elders. Required level: Bishop - 40, Shillien Elder/ Elven Elder - 48. -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -378,7 +378,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3432" name="Spellbook: Remedy" type="EtcItem">
+	<item id="3432" name="Книга Заклинаний - Лекарство" type="EtcItem">
 		<!-- Amulet required for the Remedy spell. Used by Paladins. Required level: 40 -->
 		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -444,7 +444,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="price" val="20000" />
 	</item>
-	<item id="3439" name="Shining Canine" type="Weapon">
+	<item id="3439" name="Сверкающие Клыки" type="Weapon">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_arms_i00" />
 		<set name="default_action" val="EQUIP" />

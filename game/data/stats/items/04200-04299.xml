@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="4200" name="Spellbook: Restore Life" type="EtcItem">
+	<item id="4200" name="Книга Заклинаний - Пробудить Жизнь" type="EtcItem">
 		<!-- A spellbook for learning the Restore Life skill. Used by Bishops. Required level: 44. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -10,7 +10,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4201" name="Spellbook: Shock Resistance" type="EtcItem">
+	<item id="4201" name="Книга Заклинаний - Сопротивление Шоку" type="EtcItem">
 		<!-- A spellbook for learning the Shock Resistance skill. Used by Elven Elders. Required level: 40. -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -20,7 +20,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4202" name="Chrono Cithara" type="Weapon">
+	<item id="4202" name="Сувенирная Кифара" type="Weapon">
 		<!-- Chronicle I Souvenir! -->
 		<set name="icon" val="icon.weapon_chrono_cithara_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -41,7 +41,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="4203" name="Spellbook: Life Leech" type="EtcItem">
+	<item id="4203" name="Книга Заклинаний - Кровопийца" type="EtcItem">
 		<!-- A spellbook for learning the Life Leech skill. Used by Shillien Knights. Required level: 40. -->
 		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -51,7 +51,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4204" name="Amulet: Pa'agrio's Tact" type="EtcItem">
+	<item id="4204" name="Амулет: Ритм Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Tact skill. Used by Overlords. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -61,7 +61,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4205" name="Amulet: Pa'agrio's Rage" type="EtcItem">
+	<item id="4205" name="Амулет: Гнев Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Rage skill. Used by Overlords. Required level: 44. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -71,7 +71,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4206" name="Spellbook: Transfer Pain" type="EtcItem">
+	<item id="4206" name="Книга Заклинаний - Поделиться Болью" type="EtcItem">
 		<!-- A spellbook for learning the Transfer Pain skill. Used by Necromancers, Warlocks, Elemental Summoners and Phantom Summoners. Required level: 40. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -81,7 +81,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4207" name="Spellbook: Mana Regeneration" type="EtcItem">
+	<item id="4207" name="Книга Заклинаний - Регенерация Маны" type="EtcItem">
 		<!-- A spellbook for learning the Mana Regeneration skill. Used by Spellsingers. Required level: 40. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -91,7 +91,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4208" name="Spellbook: Curse Gloom" type="EtcItem">
+	<item id="4208" name="Книга Заклинаний - Проклятие Мрака" type="EtcItem">
 		<!-- A spellbook for learning the Curse Gloom skill. Used by Necromancers. Required level: 44. -->
 		<set name="icon" val="icon.etc_spell_books_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -101,7 +101,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4209" name="Change of Heart - Piece 1" type="EtcItem">
+	<item id="4209" name="Часть Сердца 1" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i01" />
 		<set name="immediate_effect" val="true" />
@@ -109,7 +109,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4210" name="Change of Heart - Piece 2" type="EtcItem">
+	<item id="4210" name="Часть Сердца 2" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i02" />
 		<set name="immediate_effect" val="true" />
@@ -117,7 +117,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4211" name="Change of Heart - Piece 3" type="EtcItem">
+	<item id="4211" name="Часть Сердца 3" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i03" />
 		<set name="immediate_effect" val="true" />
@@ -125,7 +125,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4212" name="Change of Heart - Piece 4" type="EtcItem">
+	<item id="4212" name="Часть Сердца 4" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i04" />
 		<set name="immediate_effect" val="true" />
@@ -133,7 +133,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4213" name="Change of Heart - Piece 5" type="EtcItem">
+	<item id="4213" name="Часть Сердца 5" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i05" />
 		<set name="immediate_effect" val="true" />
@@ -141,7 +141,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4214" name="Change of Heart - Piece 6" type="EtcItem">
+	<item id="4214" name="Часть Сердца 6" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i06" />
 		<set name="immediate_effect" val="true" />
@@ -149,7 +149,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4215" name="Change of Heart - Piece 7" type="EtcItem">
+	<item id="4215" name="Часть Сердца 7" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i07" />
 		<set name="immediate_effect" val="true" />
@@ -157,7 +157,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4216" name="Change of Heart - Piece 8" type="EtcItem">
+	<item id="4216" name="Часть Сердца 8" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i08" />
 		<set name="immediate_effect" val="true" />
@@ -165,7 +165,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4217" name="Change of Heart - Piece 9" type="EtcItem">
+	<item id="4217" name="Часть Сердца 9" type="EtcItem">
 		<!-- Used only during the Change of Heart event. Complete a heart and take it to Puss the Cat to claim your prize. -->
 		<set name="icon" val="icon.etc_heart_i09" />
 		<set name="immediate_effect" val="true" />
@@ -173,7 +173,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="4218" name="L2 Day - Scroll: Mana Regeneration" type="EtcItem">
+	<item id="4218" name="День L2 - Свиток Маны" type="EtcItem">
 		<!-- Instantly recovers MP. -->
 		<set name="icon" val="icon.etc_scroll_white_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -189,7 +189,7 @@
 			<skill id="2064" level="1" /> <!-- Scroll: Mana Regeneration -->
 		</skills>
 	</item>
-	<item id="4219" name="Dream Sword" type="Weapon">
+	<item id="4219" name="Меч Мечты" type="Weapon">
 		<set name="icon" val="icon.weapon_knights_sword_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="SWORD" />
@@ -215,7 +215,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="4220" name="Dream Knife" type="Weapon">
+	<item id="4220" name="Нож Мечты" type="Weapon">
 		<set name="icon" val="icon.weapon_assassin_knife_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="DAGGER" />
@@ -242,7 +242,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="4221" name="Ubiquitous Axe" type="Weapon">
+	<item id="4221" name="Уникальный Топор" type="Weapon">
 		<set name="icon" val="icon.weapon_tomahawk_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BLUNT" />
@@ -269,7 +269,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="4222" name="Dream Shield" type="Armor">
+	<item id="4222" name="Щит Мечты" type="Armor">
 		<set name="icon" val="icon.shield_hoplon_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -288,7 +288,7 @@
 			<stat type="sDef">90</stat>
 		</stats>
 	</item>
-	<item id="4223" name="Ubiquitous Shield" type="Armor">
+	<item id="4223" name="Уникальный Щит" type="Armor">
 		<set name="icon" val="icon.shield_dwarven_chain_shield_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
@@ -307,7 +307,7 @@
 			<stat type="sDef">90</stat>
 		</stats>
 	</item>
-	<item id="4224" name="Dream Armor" type="Armor">
+	<item id="4224" name="Доспех Мечты" type="Armor">
 		<set name="icon" val="icon.armor_blast_plate_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -325,7 +325,7 @@
 			<stat type="pDef">68</stat>
 		</stats>
 	</item>
-	<item id="4225" name="Dream Stockings" type="Armor">
+	<item id="4225" name="Штаны Мечты" type="Armor">
 		<set name="icon" val="icon.armor_mithril_gaiters_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -343,7 +343,7 @@
 			<stat type="pDef">43</stat>
 		</stats>
 	</item>
-	<item id="4226" name="Dream Gloves" type="Armor">
+	<item id="4226" name="Перчатки Мечты" type="Armor">
 		<set name="icon" val="icon.armor_gauntlet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -360,7 +360,7 @@
 			<stat type="pDef">17</stat>
 		</stats>
 	</item>
-	<item id="4227" name="Dream Boots" type="Armor">
+	<item id="4227" name="Сапоги Мечты" type="Armor">
 		<set name="icon" val="icon.armor_chain_boots_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -377,7 +377,7 @@
 			<stat type="pDef">17</stat>
 		</stats>
 	</item>
-	<item id="4228" name="Ubiquitous Armor" type="Armor">
+	<item id="4228" name="Уникальный Доспех" type="Armor">
 		<set name="icon" val="icon.armor_compound_scale_mail_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -395,7 +395,7 @@
 			<stat type="pDef">68</stat>
 		</stats>
 	</item>
-	<item id="4229" name="Ubiquitous Stockings" type="Armor">
+	<item id="4229" name="Уникальные Штаны" type="Armor">
 		<set name="icon" val="icon.armor_compound_scale_gaiters_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="HEAVY" />
@@ -413,7 +413,7 @@
 			<stat type="pDef">43</stat>
 		</stats>
 	</item>
-	<item id="4230" name="Ubiquitous Gloves" type="Armor">
+	<item id="4230" name="Уникальные Перчатки" type="Armor">
 		<set name="icon" val="icon.armor_manticor_skin_gloves_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="gloves" />
@@ -430,7 +430,7 @@
 			<stat type="pDef">17</stat>
 		</stats>
 	</item>
-	<item id="4231" name="Ubiquitous Boots" type="Armor">
+	<item id="4231" name="Уникальные Сапоги" type="Armor">
 		<set name="icon" val="icon.armor_iron_boots_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="feet" />
@@ -447,7 +447,7 @@
 			<stat type="pDef">17</stat>
 		</stats>
 	</item>
-	<item id="4232" name="Dice" type="EtcItem">
+	<item id="4232" name="Кости" type="EtcItem">
 		<!-- Simple game of chance! Roll 'em!! -->
 		<set name="icon" val="icon.etc_dice_a_i00" />
 		<set name="default_action" val="DICE" />
@@ -459,7 +459,7 @@
 		<set name="handler" val="RollingDice" />
 		<set name="is_destroyable" val="false" />
 	</item>
-	<item id="4233" name="Knuckle Duster" type="Weapon">
+	<item id="4233" name="Кастет" type="Weapon">
 		<!-- 1 common soul crystal and 1 special soul crystal can be inserted. -->
 		<set name="icon" val="icon.weapon_knuckle_dust_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -489,7 +489,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="4234" name="Hatchling's Lv. 65 Armor" type="Armor">
+	<item id="4234" name="Доспех Дракончика (Ур. 65)" type="Armor">
 		<!-- Can be put on by Double-clicking. Exclusively used by a Hatchling. -->
 		<set name="icon" val="icon.etc_pet_armor_i06" />
 		<set name="default_action" val="EQUIP" />
@@ -510,7 +510,7 @@
 			<stat type="pDef">50</stat>
 		</stats>
 	</item>
-	<item id="4235" name="Hatchling's Lv. 75 Armor" type="Armor">
+	<item id="4235" name="Доспех Дракончика (Ур. 75)" type="Armor">
 		<!-- Can be put on by Double-clicking. Exclusively used by a Hatchling. -->
 		<set name="icon" val="icon.etc_pet_armor_i07" />
 		<set name="default_action" val="EQUIP" />
@@ -531,7 +531,7 @@
 			<stat type="pDef">58</stat>
 		</stats>
 	</item>
-	<item id="4236" name="Gara Item" type="Armor">
+	<item id="4236" name="Седло Гара" type="Armor">
 		<set name="icon" val="icon.etc_pet_armor_i07" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -551,7 +551,7 @@
 			<stat type="pDef">58</stat>
 		</stats>
 	</item>
-	<item id="4237" name="Hatchling's Lv. 65 Weapon" type="Weapon">
+	<item id="4237" name="Оружие Дракончика (Ур. 65)" type="Weapon">
 		<!-- Can be put on by Double-clicking. Exclusively used by a Hatchling. -->
 		<set name="icon" val="icon.etc_pet_arms_i04" />
 		<set name="default_action" val="EQUIP" />
@@ -577,7 +577,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="4238" name="Hatchling's Lv. 75 Weapon" type="Weapon">
+	<item id="4238" name="Оружие Дракончика (Ур. 75)" type="Weapon">
 		<!-- Can be put on by Double-clicking. Exclusively used by a Hatchling. -->
 		<set name="icon" val="icon.etc_pet_arms_i04" />
 		<set name="default_action" val="EQUIP" />

@@ -2,484 +2,119 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_01" minZ="-3797" maxZ="-3497">
-				<node x="-16696" y="145308" />
-				<node x="-16171" y="145311" />
-				<node x="-16168" y="145859" />
-				<node x="-16697" y="145857" />
+			<territory shape="Cylinder" minZ="-3848" maxZ="-3880" rad="300">
+				<node x="-18822" y="138935"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+		<npc id="20198" count="2" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_02" minZ="-3765" maxZ="-3465">
-				<node x="-14541" y="145059" />
-				<node x="-14016" y="145061" />
-				<node x="-14013" y="145610" />
-				<node x="-14542" y="145607" />
+			<territory shape="Cylinder" minZ="-3832" maxZ="-3896" rad="500">
+				<node x="-19866" y="139121"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+		<npc id="20198" count="4" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_03" minZ="-3733" maxZ="-3433">
-				<node x="-13721" y="144547" />
-				<node x="-13196" y="144550" />
-				<node x="-13194" y="145098" />
-				<node x="-13723" y="145096" />
+			<territory shape="Cylinder" minZ="-3832" maxZ="-3896" rad="400">
+				<node x="-18911" y="139839"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+		<npc id="20198" count="3" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="3" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="3" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_04" minZ="-3729" maxZ="-3429">
-				<node x="-13602" y="143522" />
-				<node x="-13077" y="143524" />
-				<node x="-13075" y="144073" />
-				<node x="-13604" y="144070" />
+			<territory shape="Cylinder" minZ="-3816" maxZ="-3880" rad="300">
+				<node x="-18254" y="138603"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+		<npc id="20198" count="2" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_05" minZ="-3731" maxZ="-3431">
-				<node x="-14572" y="143201" />
-				<node x="-14047" y="143203" />
-				<node x="-14045" y="143752" />
-				<node x="-14574" y="143750" />
+			<territory shape="NPoly" minZ="-3800" maxZ="-3880">
+				<node x="-20248" y="139708"/>
+				<node x="-19430" y="141924"/>
+				<node x="-21340" y="141979"/>
+				<node x="-21589" y="140811"/>
+				<node x="-20740" y="139555"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+		<npc id="20615" count="8" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="8" respawnTime="25sec" chaseRange="550" /><!-- Скелет Налетчик 30 -->
+		<npc id="21169" count="8" respawnTime="25sec" chaseRange="550" /><!-- Страж Лит 30 -->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_06" minZ="-3764" maxZ="-3464">
-				<node x="-15433" y="143732" />
-				<node x="-14908" y="143735" />
-				<node x="-14906" y="144283" />
-				<node x="-15435" y="144281" />
+			<territory shape="NPoly" minZ="-3872" maxZ="-3800">
+				<node x="-17718" y="139219"/>
+				<node x="-17842" y="140177"/>
+				<node x="-17028" y="141516"/>
+				<node x="-15617" y="141256"/>
+				<node x="-15674" y="139415"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+		<npc id="21142" count="10" respawnTime="25sec" chaseRange="550" /><!-- Скелет Хранитель Могил 29 -->
+		<npc id="22006" count="10" respawnTime="25sec" chaseRange="550" /><!-- Стражник Грабителей Могил 29 -->
+		<npc id="20200" count="10" respawnTime="25sec" chaseRange="550" /><!-- Раб 31 -->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_07" minZ="-3732" maxZ="-3432">
-				<node x="-15325" y="144617" />
-				<node x="-14801" y="144619" />
-				<node x="-14798" y="145168" />
-				<node x="-15327" y="145165" />
+			<territory minZ="-3864" maxZ="-3888">
+				<node x="-19072" y="140584"/>
+				<node x="-18097" y="140446"/>
+				<node x="-17888" y="142059"/>
+				<node x="-18902" y="142086"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
+		<npc id="20615" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Налетчик 30 -->
+		<npc id="21169" count="2" respawnTime="25sec" chaseRange="550" /><!-- Страж Лит 30 -->
+		<npc id="21142" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Хранитель Могил 29 -->
+		<npc id="22006" count="2" respawnTime="25sec" chaseRange="550" /><!-- Стражник Грабителей Могил 29 -->
+		<npc id="20200" count="2" respawnTime="25sec" chaseRange="550" /><!-- Раб 31 -->
+	</spawn>
+	<spawn>
+		<npc id="18268" x="-19583" y="139458" z="-3848" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-20964" y="140233" z="-3832" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-20186" y="141642" z="-3832" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-18453" y="141189" z="-3880" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-17526" y="139615" z="-3848" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-15871" y="139633" z="-3808" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-15840" y="141050" z="-3824" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
 	</spawn>
 	<spawn>
 		<territories>
-			<territory name="gludio02_1922_08" minZ="-3923" maxZ="-3623">
-				<node x="-18484" y="144081" />
-				<node x="-17959" y="144084" />
-				<node x="-17957" y="144632" />
-				<node x="-18486" y="144630" />
+			<territory shape="Cylinder" minZ="-3832" maxZ="-3840" rad="500">
+				<node x="-22311" y="142104"/>
 			</territory>
 		</territories>
-		<npc id="24380" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="10" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_09" minZ="-3891" maxZ="-3591">
-				<node x="-19359" y="145039" />
-				<node x="-18834" y="145041" />
-				<node x="-18832" y="145590" />
-				<node x="-19361" y="145588" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_10" minZ="-3880" maxZ="-3580">
-				<node x="-19872" y="143824" />
-				<node x="-19348" y="143827" />
-				<node x="-19345" y="144375" />
-				<node x="-19874" y="144373" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_11" minZ="-3886" maxZ="-3586">
-				<node x="-20749" y="143861" />
-				<node x="-20224" y="143864" />
-				<node x="-20221" y="144412" />
-				<node x="-20750" y="144410" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_12" minZ="-3854" maxZ="-3554">
-				<node x="-20460" y="145171" />
-				<node x="-19935" y="145174" />
-				<node x="-19933" y="145722" />
-				<node x="-20462" y="145720" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_13" minZ="-3822" maxZ="-3522">
-				<node x="-21461" y="145594" />
-				<node x="-20936" y="145596" />
-				<node x="-20933" y="146145" />
-				<node x="-21462" y="146142" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_14" minZ="-3886" maxZ="-3586">
-				<node x="-22153" y="144114" />
-				<node x="-21629" y="144117" />
-				<node x="-21626" y="144665" />
-				<node x="-22155" y="144663" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_21" minZ="-3881" maxZ="-3581">
-				<node x="-17988" y="145290" />
-				<node x="-17716" y="145285" />
-				<node x="-17721" y="145760" />
-				<node x="-17993" y="145761" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_22" minZ="-3994" maxZ="-3694">
-				<node x="-17028" y="144487" />
-				<node x="-16756" y="144483" />
-				<node x="-16760" y="144957" />
-				<node x="-17033" y="144958" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_23" minZ="-3994" maxZ="-3694">
-				<node x="-17570" y="143905" />
-				<node x="-17298" y="143901" />
-				<node x="-17303" y="144375" />
-				<node x="-17576" y="144376" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_24" minZ="-3994" maxZ="-3694">
-				<node x="-18480" y="143327" />
-				<node x="-18208" y="143323" />
-				<node x="-18213" y="143798" />
-				<node x="-18485" y="143799" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_25" minZ="-3994" maxZ="-3694">
-				<node x="-17620" y="142727" />
-				<node x="-17348" y="142722" />
-				<node x="-17352" y="143197" />
-				<node x="-17625" y="143198" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_26" minZ="-3994" maxZ="-3694">
-				<node x="-18592" y="142629" />
-				<node x="-18320" y="142625" />
-				<node x="-18325" y="143100" />
-				<node x="-18597" y="143101" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_27" minZ="-3994" maxZ="-3694">
-				<node x="-20810" y="143062" />
-				<node x="-20538" y="143057" />
-				<node x="-20543" y="143532" />
-				<node x="-20816" y="143533" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_28" minZ="-3994" maxZ="-3694">
-				<node x="-22357" y="143365" />
-				<node x="-22085" y="143360" />
-				<node x="-22090" y="143835" />
-				<node x="-22363" y="143836" />
-			</territory>
-		</territories>
-		<npc id="24380" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Eye -->
-		<npc id="24381" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Buggle -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_51" minZ="-3846" maxZ="-3546">
-				<node x="-14289" y="140110" />
-				<node x="-13765" y="140113" />
-				<node x="-13762" y="140661" />
-				<node x="-14291" y="140659" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_52" minZ="-3922" maxZ="-3622">
-				<node x="-15873" y="139930" />
-				<node x="-15348" y="139932" />
-				<node x="-15346" y="140481" />
-				<node x="-15875" y="140479" />
-			</territory>
-		</territories>
-		<npc id="24382" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_53" minZ="-3921" maxZ="-3621">
-				<node x="-16592" y="139275" />
-				<node x="-16067" y="139277" />
-				<node x="-16065" y="139826" />
-				<node x="-16594" y="139824" />
-			</territory>
-		</territories>
-		<npc id="24382" count="10" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_54" minZ="-3929" maxZ="-3629">
-				<node x="-17454" y="139243" />
-				<node x="-16929" y="139245" />
-				<node x="-16927" y="139794" />
-				<node x="-17456" y="139792" />
-			</territory>
-		</territories>
-		<npc id="24382" count="10" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_55" minZ="-3961" maxZ="-3661">
-				<node x="-17538" y="140132" />
-				<node x="-17013" y="140134" />
-				<node x="-17011" y="140683" />
-				<node x="-17540" y="140680" />
-			</territory>
-		</territories>
-		<npc id="24382" count="10" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_56" minZ="-3929" maxZ="-3629">
-				<node x="-16737" y="140531" />
-				<node x="-16213" y="140534" />
-				<node x="-16210" y="141083" />
-				<node x="-16739" y="141080" />
-			</territory>
-		</territories>
-		<npc id="24382" count="10" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_57" minZ="-3943" maxZ="-3643">
-				<node x="-18753" y="138379" />
-				<node x="-18228" y="138382" />
-				<node x="-18226" y="138930" />
-				<node x="-18755" y="138928" />
-			</territory>
-		</territories>
-		<npc id="24382" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_58" minZ="-3911" maxZ="-3611">
-				<node x="-20288" y="138664" />
-				<node x="-19763" y="138666" />
-				<node x="-19761" y="139215" />
-				<node x="-20290" y="139212" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_59" minZ="-3905" maxZ="-3605">
-				<node x="-20667" y="139652" />
-				<node x="-20142" y="139655" />
-				<node x="-20140" y="140203" />
-				<node x="-20669" y="140201" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_60" minZ="-3910" maxZ="-3610">
-				<node x="-20118" y="140611" />
-				<node x="-19594" y="140614" />
-				<node x="-19591" y="141162" />
-				<node x="-20120" y="141160" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_61" minZ="-3901" maxZ="-3601">
-				<node x="-20745" y="141422" />
-				<node x="-20221" y="141424" />
-				<node x="-20218" y="141973" />
-				<node x="-20747" y="141970" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_62" minZ="-3927" maxZ="-3627">
-				<node x="-21120" y="140388" />
-				<node x="-20596" y="140390" />
-				<node x="-20593" y="140939" />
-				<node x="-21122" y="140936" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_71" minZ="-3998" maxZ="-3698">
-				<node x="-18395" y="141064" />
-				<node x="-18108" y="141070" />
-				<node x="-18118" y="141551" />
-				<node x="-18399" y="141546" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_72" minZ="-3998" maxZ="-3698">
-				<node x="-18472" y="140328" />
-				<node x="-18185" y="140335" />
-				<node x="-18195" y="140816" />
-				<node x="-18476" y="140810" />
-			</territory>
-		</territories>
-		<npc id="24382" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_73" minZ="-3998" maxZ="-3698">
-				<node x="-18769" y="139355" />
-				<node x="-18482" y="139362" />
-				<node x="-18492" y="139842" />
-				<node x="-18774" y="139837" />
-			</territory>
-		</territories>
-		<npc id="24382" count="6" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_74" minZ="-3998" maxZ="-3698">
-				<node x="-19699" y="139357" />
-				<node x="-19412" y="139364" />
-				<node x="-19423" y="139845" />
-				<node x="-19704" y="139840" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
-	</spawn>
-	<spawn>
-		<territories>
-			<territory name="gludio02_1922_75" minZ="-3998" maxZ="-3698">
-				<node x="-14739" y="139257" />
-				<node x="-14452" y="139263" />
-				<node x="-14462" y="139744" />
-				<node x="-14743" y="139739" />
-			</territory>
-		</territories>
-		<npc id="24382" count="4" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie -->
-		<npc id="24383" count="2" respawnTime="3sec" chaseRange="550" /> <!-- Nasty Zombie Lord -->
+		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Skeleton Knight 32 -->
 	</spawn>
 	<!--
-	<npc id="21142" level="29" type="Monster" name="Grave Keeper Spartoi">
-	<npc id="22006" level="29" type="Monster" name="Grave Robber Guard">
-	<npc id="18268" level="30" type="Chest" name="Treasure Chest">
-	<npc id="20200" level="31" type="Monster" name="Strain">
-	<npc id="22009" level="31" type="Monster" name="Ghost of a Loyal Vassal">
+
+	<npc id="18268" level="30" type="Chest" name="">
+
+
+	<npc id="22009" level="31" type="Monster" name="Призрак Верного Вассала">
 	<npc id="20513" level="32" type="Monster" name="Skeleton Knight">
+
 	<npc id="20749" level="32" type="Monster" name="Death Fire">
 	<npc id="22010" level="32" type="Monster" name="Ghost of a General">
 	<npc id="21213" level="32" type="Monster" name="Hallowed Monk">
-	 <npc id="20201" level="32" type="Monster" name="Ghoul">
-	 <npc id="21237" level="32" type="Monster" name="Barrow Monk">
+	<npc id="20201" level="32" type="Monster" name="Ghoul">
+	<npc id="21237" level="32" type="Monster" name="Barrow Monk">
 	<npc id="24389" level="33" type="Monster" name="Spartoi Soldier">
     <npc id="24390" level="33" type="Monster" name="Raging Spartoi">
 	<npc id="21106" level="34" type="Monster" name="Cursed Seer">
@@ -492,13 +127,23 @@
 	<npc id="22015" level="33" type="Monster" name="Ghost of a Turka Chief">
 	<npc id="22016" level="33" type="Monster" name="Ghost of a Turka Chief">
 	<npc id="21170" level="33" type="Monster" name="Lith Medium">
- 	<npc id="18269" level="33" type="Chest" name="Treasure Chest">
+ 	<npc id="18269" level="33" type="Chest" name="Сундук с Сокровищами">
  	<npc id="20788" level="35" type="Monster" name="Rakul">
  	<npc id="21171" level="36" type="Monster" name="Lith Overlord">
+ 	<npc id="24389" count="2" respawnTime="3sec" chaseRange="550" /> Spartoi Soldier 33 переделать
+	<npc id="24390" count="2" respawnTime="3sec" chaseRange="550" /> Raging Spartoi 33 переделать
 
- 	<npc id="25383" level="34" type="RaidBoss" name="Revenant of Sir Calibus" title="Raid Boss">
- 	<npc id="25223" level="35" type="RaidBoss" name="Soul Collector Acheron" title="Raid Boss">
- 	<npc id="25354" level="35" type="RaidBoss" name="Gargoyle Lord Sirocco" title="Raid Boss">
- 	<npc id="25385" level="36" type="RaidBoss" name="Evil Spirit Tempest" title="Raid Boss">
 	-->
+	<spawn>
+		<npc id="25383" x="-17443" y="143085" z="-3888" heading="16723" dbSave="true" dbName="Призрак Сэра Калибуса (34)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Призрак Сэра Калибуса (34) -->
+	</spawn>
+	<spawn>
+		<npc id="25223" x="-5017" y="144596" z="-3592" heading="16723" dbSave="true" dbName="Собиратель Душ Ашерон (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Собиратель Душ Ашерон (35) -->
+	</spawn>
+	<spawn>
+		<npc id="25354" x="-15125" y="147289" z="-3544" heading="16723" dbSave="true" dbName="Повелитель Горгулий Сирокко (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Повелитель Горгулий Сирокко (35) -->
+	</spawn>
+	<spawn>
+		<npc id="25385" x="-21758" y="152075" z="-3032" heading="16723" dbSave="true" dbName="Беспокойный Злой Дух (36)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Беспокойный Злой Дух (36) -->
+	</spawn>
 </list>

@@ -503,7 +503,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4322" toLevel="1" name="Adventurer's Wind Walk">
+	<skill id="4322" toLevel="1" name="Легкая Походка Путешественника">
 		<!-- Increases Speed by 33 for 60 min. -->
 		<icon>icon.skill1204</icon>
 		<abnormalLevel>3</abnormalLevel>
@@ -526,7 +526,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4323" toLevel="1" name="Adventurer's Shield">
+	<skill id="4323" toLevel="1" name="Щит Путешественника">
 		<!-- For 60 min., P. Def. +15%. -->
 		<icon>icon.skill1040</icon>
 		<abnormalLevel>4</abnormalLevel>
@@ -549,7 +549,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4324" toLevel="1" name="Adventurer's Blessed Body">
+	<skill id="4324" toLevel="1" name="Благословение Тела Путешественника">
 		<!-- For 60 min., Max HP +35%. -->
 		<icon>icon.skill1045</icon>
 		<abnormalLevel>7</abnormalLevel>
@@ -572,7 +572,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4325" toLevel="1" name="Adventurer's Vampiric Rage">
+	<skill id="4325" toLevel="1" name="Гнев Вампира Путешественника">
 		<!-- For 60 min., absorbs 9% of the inflicted melee damage as HP with a certain chance. -->
 		<icon>icon.skill1268</icon>
 		<abnormalLevel>5</abnormalLevel>
@@ -595,7 +595,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4326" toLevel="1" name="Adventurer's Regeneration">
+	<skill id="4326" toLevel="1" name="Регенерация Путешественника">
 		<!-- For 60 min., HP Recovery Rate +20%. -->
 		<icon>icon.skill1044</icon>
 		<abnormalLevel>4</abnormalLevel>
@@ -618,7 +618,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4327" toLevel="1" name="Adventurer's Haste">
+	<skill id="4327" toLevel="1" name="Ускорение Путешественника">
 		<!-- For 60 min., Atk. Spd. +15%. -->
 		<icon>icon.skill1086</icon>
 		<abnormalLevel>2</abnormalLevel>
@@ -641,7 +641,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4328" toLevel="1" name="Adventurer's Blessed Soul">
+	<skill id="4328" toLevel="1" name="Благословение Души Путешественника">
 		<!-- For 60 min., Max HP +35%. -->
 		<icon>icon.skill1048</icon>
 		<abnormalLevel>7</abnormalLevel>
@@ -664,7 +664,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4329" toLevel="1" name="Adventurer's Acumen">
+	<skill id="4329" toLevel="1" name="Проницательность Путешественника">
 		<!-- For 60 min., Casting Spd. +30%. -->
 		<icon>icon.skill1085</icon>
 		<abnormalLevel>4</abnormalLevel>
@@ -687,7 +687,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4330" toLevel="1" name="Adventurer's Concentration">
+	<skill id="4330" toLevel="1" name="Концентрация Путешественника">
 		<!-- Buff Cancel Rate -18 for 60 min. -->
 		<icon>icon.skill1078</icon>
 		<abnormalLevel>2</abnormalLevel>
@@ -710,7 +710,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4331" toLevel="1" name="Adventurer's Empower">
+	<skill id="4331" toLevel="1" name="Воодушевление Путешественника">
 		<!-- For 60 min., M. Atk. +55%. -->
 		<icon>icon.skill1059</icon>
 		<abnormalLevel>2</abnormalLevel>
@@ -733,7 +733,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4332" toLevel="1" name="Mental Aegis">
+	<skill id="4332" toLevel="1" name="Ментальная Защита">
 		<!-- Provides powerful Hold/ Sleep/ Fear/ Silence Resistance. -->
 		<icon>icon.skill1035</icon>
 		<magicLevel>1</magicLevel>

@@ -717,7 +717,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_depositable" val="false" />
 	</item>
-	<item id="1660" name="Cursed Maingauche" type="Weapon">
+	<item id="1660" name="Проклятая Дага" type="Weapon">
 		<!-- Cursed Maingauche. Although its P. Atk. is weak, it gives Bleeding effect with a certain rate after a Critical Attacks. -->
 		<set name="icon" val="icon.weapon_maingauche_i01" />
 		<set name="default_action" val="EQUIP" />
@@ -748,7 +748,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1661" name="Thief Key" type="EtcItem">
+	<item id="1661" name="Отмычка" type="EtcItem">
 		<set name="icon" val="icon.etc_key_i00" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
@@ -777,7 +777,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1664" name="Steel Powder" type="EtcItem">
+	<item id="1664" name="Стальная Пыль" type="EtcItem">
 		<!-- Material used by Dwarves for crafting items. Can be sold in any shop. -->
 		<set name="icon" val="icon.etc_powder_gray_i00" />
 		<set name="immediate_effect" val="true" />
@@ -796,7 +796,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="handler" val="Maps" />
 	</item>
-	<item id="1666" name="Recipe: Wooden Arrow (100%)" type="EtcItem">
+	<item id="1666" name="Рецепт: Деревянная Стрела (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for Wooden Arrow. Requires Create Item Lv. 1. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_white_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -810,7 +810,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1667" name="Spellbook: Summon Shadow" type="EtcItem">
+	<item id="1667" name="Книга Заклинаний - Призвать Тень" type="EtcItem">
 		<!-- A spellbook for learning the Summon Shadow skill. Used by Dark Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -820,7 +820,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1668" name="Spellbook: Summon Mew the Cat" type="EtcItem">
+	<item id="1668" name="Книга Заклинаний - Призвать Мяу" type="EtcItem">
 		<!-- A spellbook for learning the Summon Mew the Cat skill. Used by Human Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -830,7 +830,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1669" name="Spellbook: Summon Boxer the Unicorn" type="EtcItem">
+	<item id="1669" name="Книга Заклинаний - Призвать Бекара" type="EtcItem">
 		<!-- A spellbook for learning the Summon Boxer the Unicorn skill. Used by Elven Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -840,7 +840,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1670" name="Spellbook: Summon Mirage the Unicorn" type="EtcItem">
+	<item id="1670" name="Книга Заклинаний - Призвать Миража" type="EtcItem">
 		<!-- A spellbook for learning the Summon Mirage the Unicorn skill. Used by Elven Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -850,7 +850,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1671" name="Spellbook: Summon Silhouette" type="EtcItem">
+	<item id="1671" name="Книга Заклинаний - Призвать Гекату" type="EtcItem">
 		<!-- A spellbook for learning the Summon Silhouette skill. Used by Dark Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />

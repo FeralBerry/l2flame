@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="1400" name="Spellbook: Surrender to Fire" type="EtcItem">
+	<item id="1400" name="Книга Заклинаний - Предать Огню" type="EtcItem">
 		<!-- A spellbook for learning the Surrender to Fire skill. Used by Human Wizards. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_element_i00" />
 		<set name="immediate_effect" val="true" />
@@ -10,7 +10,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1401" name="Spellbook: Acumen" type="EtcItem">
+	<item id="1401" name="Книга Заклинаний - Проницательность" type="EtcItem">
 		<!-- A spellbook for learning the Acumen skill. Used by Clerics. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -20,7 +20,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1402" name="Spellbook: Agility" type="EtcItem">
+	<item id="1402" name="Книга Заклинаний - Проворство" type="EtcItem">
 		<!-- A spellbook for learning the Agility skill. Used by Elven Oracles. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -30,7 +30,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1403" name="Spellbook: Summon Kat the Cat" type="EtcItem">
+	<item id="1403" name="Книга Заклинаний - Призвать Кэта" type="EtcItem">
 		<!-- A spellbook for learning the Summon Kat the Cat skill. Used by Human Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -40,7 +40,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1404" name="Spellbook: Servitor Recharge" type="EtcItem">
+	<item id="1404" name="Книга Заклинаний - Восстановление Слуги" type="EtcItem">
 		<!-- A spellbook for learning the Servitor Recharge skill. Used by Wizards, Elven Wizards and Dark Wizards. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -50,7 +50,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1405" name="Spellbook: Servitor Heal" type="EtcItem">
+	<item id="1405" name="Книга Заклинаний - Лечение Слуги" type="EtcItem">
 		<!-- A spellbook for learning the Servitor Heal skill. Used by Wizards, Elven Wizards and Dark Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -60,7 +60,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1406" name="Spellbook: Servitor Wind Walk" type="EtcItem">
+	<item id="1406" name="Книга Заклинаний - Легкая Походка Слуги" type="EtcItem">
 		<!-- A spellbook for learning the Servitor Wind Walk skill. Used by Human Wizards. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -70,7 +70,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1407" name="Spellbook: Servitor Magic Boost" type="EtcItem">
+	<item id="1407" name="Книга Заклинаний - Способный Слуга" type="EtcItem">
 		<!-- A spellbook for learning the Servitor Magic Boost skill. Used by Elven Wizards. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -80,7 +80,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1408" name="Spellbook: Mighty Servitor" type="EtcItem">
+	<item id="1408" name="Книга Заклинаний - Могучий Слуга" type="EtcItem">
 		<!-- A spellbook for learning the Mighty Servitor skill. Used by Dark Wizards. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_summon_i00" />
 		<set name="immediate_effect" val="true" />
@@ -90,7 +90,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1409" name="Spellbook: Slow" type="EtcItem">
+	<item id="1409" name="Книга Заклинаний - Замедление" type="EtcItem">
 		<!-- A spellbook for learning the Slow skill. Used by Human Wizards and Dark Wizards. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -100,7 +100,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1410" name="Spellbook: Poisonous Cloud" type="EtcItem">
+	<item id="1410" name="Книга Заклинаний - Ядовитое Облако" type="EtcItem">
 		<!-- A spellbook for learning the Poisonous Cloud skill. Used by Human Wizards and Dark Wizards. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -110,7 +110,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1411" name="Spellbook: Aura Burn" type="EtcItem">
+	<item id="1411" name="Книга Заклинаний - Сжигающая Аура" type="EtcItem">
 		<!-- A spellbook for learning the Aura Burn skill. Used by Wizards, Elven Wizards and Dark Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_element_i00" />
 		<set name="immediate_effect" val="true" />
@@ -120,7 +120,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1412" name="Spellbook: Water Resistance" type="EtcItem">
+	<item id="1412" name="Книга Заклинаний - Сопротивление Воде" type="EtcItem">
 		<!-- A spellbook for learning the Water Resistance skill. Used by Elven Wizards and Prophets. Required level: Elven Wizard - 20, Prophet - 58. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -130,7 +130,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1413" name="Spellbook: Wind Resistance" type="EtcItem">
+	<item id="1413" name="Книга Заклинаний - Сопротивление Ветру" type="EtcItem">
 		<!-- A spellbook for learning the Wind Resistance skill. Used by Shillien Oracles and Prophets. Required level: Shillien Oracle - 35, Prophet - 58. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -140,7 +140,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1414" name="Spellbook: Fire Resistance" type="EtcItem">
+	<item id="1414" name="Книга Заклинаний - Сопротивление Огню" type="EtcItem">
 		<!-- A spellbook for learning the Fire Resistance skill. Used by Clerics. Required level: 30. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -150,7 +150,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1415" name="Spellbook: Dryad Root" type="EtcItem">
+	<item id="1415" name="Книга Заклинаний - Корень Дриады" type="EtcItem">
 		<!-- A spellbook for learning the Dryad Root skill. Used by Clerics, Oracles and Shillien Oracles. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -160,7 +160,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1416" name="Spellbook: Curse Chaos" type="EtcItem">
+	<item id="1416" name="Книга Заклинаний - Проклятие Хаоса" type="EtcItem">
 		<!-- A spellbook for learning the Curse Chaos skill. Used by Human Wizards and Dark Wizards. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -170,7 +170,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1417" name="Spellbook: Surrender to Earth" type="EtcItem">
+	<item id="1417" name="Книга Заклинаний - Предать Земле" type="EtcItem">
 		<!-- A spellbook for learning the Surrender to Earth skill. Used by Elven Wizards. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_element_i00" />
 		<set name="immediate_effect" val="true" />
@@ -180,7 +180,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1418" name="Spellbook: Surrender to Poison" type="EtcItem">
+	<item id="1418" name="Книга Заклинаний - Предать Яду" type="EtcItem">
 		<!-- A spellbook for learning the Surrender to Poison skill. Used by Dark Wizards. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -190,7 +190,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1419" name="Proof of Blood" type="EtcItem">
+	<item id="1419" name="Знак Крови" type="EtcItem">
 		<!-- Item needed to upgrade a clan to level 3. Only the Clan Leader may use it. -->
 		<set name="icon" val="icon.etc_broken_crystal_red_i00" />
 		<set name="immediate_effect" val="true" />
@@ -654,7 +654,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="1458" name="D-grade Crystal" type="EtcItem">
+	<item id="1458" name="Кристалл: Ранг D" type="EtcItem">
 		<!-- Crystal of D-grade. -->
 		<set name="icon" val="icon.etc_crystal_blue_i00" />
 		<set name="immediate_effect" val="true" />
@@ -664,7 +664,7 @@
 		<set name="crystal_type" val="D" />
 		<set name="commissionItemType" val="CRYSTAL" />
 	</item>
-	<item id="1459" name="C-grade Crystal" type="EtcItem">
+	<item id="1459" name="Кристалл: Ранг C" type="EtcItem">
 		<!-- A crystal of C-grade. -->
 		<set name="icon" val="icon.etc_crystal_green_i00" />
 		<set name="immediate_effect" val="true" />
@@ -674,7 +674,7 @@
 		<set name="crystal_type" val="C" />
 		<set name="commissionItemType" val="CRYSTAL" />
 	</item>
-	<item id="1460" name="B-grade Crystal" type="EtcItem">
+	<item id="1460" name="Кристалл: Ранг B" type="EtcItem">
 		<!-- A crystal of B-grade. -->
 		<set name="icon" val="icon.etc_crystal_red_i00" />
 		<set name="immediate_effect" val="true" />
@@ -684,7 +684,7 @@
 		<set name="crystal_type" val="B" />
 		<set name="commissionItemType" val="CRYSTAL" />
 	</item>
-	<item id="1461" name="A-grade Crystal" type="EtcItem">
+	<item id="1461" name="Кристалл: Ранг A" type="EtcItem">
 		<!-- Crystal of A-grade. -->
 		<set name="icon" val="icon.etc_crystal_silver_i00" />
 		<set name="immediate_effect" val="true" />
@@ -694,7 +694,7 @@
 		<set name="crystal_type" val="A" />
 		<set name="commissionItemType" val="CRYSTAL" />
 	</item>
-	<item id="1462" name="S-grade Crystal" type="EtcItem">
+	<item id="1462" name="Кристалл: Ранг S" type="EtcItem">
 		<!-- Crystal of S-grade. -->
 		<set name="icon" val="icon.etc_crystal_gold_i00" />
 		<set name="immediate_effect" val="true" />
@@ -704,7 +704,7 @@
 		<set name="crystal_type" val="S" />
 		<set name="commissionItemType" val="CRYSTAL" />
 	</item>
-	<item id="1463" name="D-grade Soulshot" type="EtcItem">
+	<item id="1463" name="Заряд Души: Ранг D" type="EtcItem">
 		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with a D-grade weapon. -->
 		<set name="icon" val="icon.etc_spirit_bullet_blue_i00" />
 		<set name="default_action" val="SOULSHOT" />
@@ -721,7 +721,7 @@
 			<skill id="2150" level="1" /> <!-- Soulshot (D-grade) -->
 		</skills>
 	</item>
-	<item id="1464" name="C-grade Soulshot" type="EtcItem">
+	<item id="1464" name="Заряд Души: Ранг C" type="EtcItem">
 		<!-- Increases a weapon's physical power. Used with C-grade weapons. -->
 		<set name="icon" val="icon.etc_spirit_bullet_green_i00" />
 		<set name="default_action" val="SOULSHOT" />
@@ -738,7 +738,7 @@
 			<skill id="2151" level="1" /> <!-- Soulshot (C-grade) -->
 		</skills>
 	</item>
-	<item id="1465" name="B-grade Soulshot" type="EtcItem">
+	<item id="1465" name="Заряд Души: Ранг B" type="EtcItem">
 		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with a B-grade weapon. -->
 		<set name="icon" val="icon.etc_spirit_bullet_red_i00" />
 		<set name="default_action" val="SOULSHOT" />
@@ -755,7 +755,7 @@
 			<skill id="2152" level="1" /> <!-- Soulshot (B-grade) -->
 		</skills>
 	</item>
-	<item id="1466" name="A-grade Soulshot" type="EtcItem">
+	<item id="1466" name="Заряд Души: Ранг A" type="EtcItem">
 		<!-- Increases a weapon's physical power. Used with A-grade weapons. -->
 		<set name="icon" val="icon.etc_spirit_bullet_silver_i00" />
 		<set name="default_action" val="SOULSHOT" />
@@ -772,7 +772,7 @@
 			<skill id="2153" level="1" /> <!-- Soulshot (A-grade) -->
 		</skills>
 	</item>
-	<item id="1467" name="S-grade Soulshot" type="EtcItem">
+	<item id="1467" name="Заряд Души: Ранг S" type="EtcItem">
 		<!-- Increases a weapon's physical power. Used with S-grade weapons. -->
 		<set name="icon" val="icon.etc_spirit_bullet_gold_i00" />
 		<set name="default_action" val="SOULSHOT" />
@@ -819,7 +819,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1471" name="Monsters Only (Silenos Blowgun)" type="Weapon">
+	<item id="1471" name="Только для Монстров (Фавн)" type="Weapon">
 		<set name="icon" val="icon.weapon_monster_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="DAGGER" />
@@ -846,7 +846,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1472" name="Dreadbane" type="Weapon">
+	<item id="1472" name="Только для Монстров (Рыцарь Смерти)" type="Weapon">
 		<set name="icon" val="icon.weapon_monster_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="POLE" />

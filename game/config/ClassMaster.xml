@@ -4,11 +4,14 @@
 			<appliesTo>
 				<category>FIRST_CLASS_GROUP</category>
 			</appliesTo>
+			<rewards>
+				<item id="38766" count="1" /><!-- брошь -->
+			</rewards>
 			<conditions>
-				<item id="1655" count="1" />
+				<item id="1655" count="1" /><!-- Банка мёда -->
 			</conditions>
 		</classChangeOption>
-		<classChangeOption name="Free">
+		<classChangeOption name="Item Pay">
 			<appliesTo>
 				<category>SECOND_CLASS_GROUP</category>
 			</appliesTo>
@@ -16,7 +19,7 @@
 				<item id="57" count="3000000" />
 			</conditions>
 		</classChangeOption>
-		<classChangeOption name="Free">
+		<!--<classChangeOption name="Free">
 			<appliesTo>
 				<category>THIRD_CLASS_GROUP</category>
 			</appliesTo>
@@ -26,8 +29,8 @@
 				<category>TANKER_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32264" count="1" /> <!-- Abelius' Power - Sigel Knight -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32264" count="1" /> &lt;!&ndash; Abelius' Power - Sigel Knight &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -35,8 +38,8 @@
 				<category>WARRIOR_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32265" count="1" /> <!-- Sapyros' Power - Tyrr Warrior -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32265" count="1" /> &lt;!&ndash; Sapyros' Power - Tyrr Warrior &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -44,8 +47,8 @@
 				<category>ROGUE_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32266" count="1" /> <!-- Ashagen's Power - Othell Rogue -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32266" count="1" /> &lt;!&ndash; Ashagen's Power - Othell Rogue &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -53,8 +56,8 @@
 				<category>ARCHER_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32267" count="1" /> <!-- Cranigg's Power - Yul Archer -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32267" count="1" /> &lt;!&ndash; Cranigg's Power - Yul Archer &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -62,8 +65,8 @@
 				<category>WIZARD_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32268" count="1" /> <!-- Soltkreig's Power - Feoh Wizard -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32268" count="1" /> &lt;!&ndash; Soltkreig's Power - Feoh Wizard &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -71,8 +74,8 @@
 				<category>SUMMONER_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32269" count="1" /> <!-- Naviarope's Power - Wynn Summoner -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32269" count="1" /> &lt;!&ndash; Naviarope's Power - Wynn Summoner &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -80,8 +83,8 @@
 				<category>ENCHANTER_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32270" count="1" /> <!-- Leister's Power - Iss Enchanter -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32270" count="1" /> &lt;!&ndash; Leister's Power - Iss Enchanter &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -89,8 +92,8 @@
 				<category>HEALER_CATEGORY</category>
 			</appliesTo>
 			<rewards>
-				<item id="32271" count="1" /> <!-- Lakcis' Power - Aeore Healer -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="32271" count="1" /> &lt;!&ndash; Lakcis' Power - Aeore Healer &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -98,8 +101,8 @@
 				<category>ERTHEIA_THIRD_FIGHTER_GROUP</category>
 			</appliesTo>
 			<rewards>
-				<item id="40268" count="1" /> <!-- Sayha's Box - Eviscerator -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="40268" count="1" /> &lt;!&ndash; Sayha's Box - Eviscerator &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
 		</classChangeOption>
 		<classChangeOption name="Free">
@@ -107,10 +110,10 @@
 				<category>ERTHEIA_THIRD_WIZARD_GROUP</category>
 			</appliesTo>
 			<rewards>
-				<item id="40269" count="1" /> <!-- Sayha's Box - Sayha's Seer -->
-				<item id="37374" count="2" /> <!-- Chaos Pomander -->
+				<item id="40269" count="1" /> &lt;!&ndash; Sayha's Box - Sayha's Seer &ndash;&gt;
+				<item id="37374" count="2" /> &lt;!&ndash; Chaos Pomander &ndash;&gt;
 			</rewards>
-		</classChangeOption>
+		</classChangeOption>-->
 		<!-- Example:
 		<classChangeOption name="Pay Adena and Ancient Adena">
 			<appliesTo>

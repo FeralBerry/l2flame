@@ -72,7 +72,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_depositable" val="false" />
 	</item>
-	<item id="1506" name="Necklace of Courage" type="Armor">
+	<item id="1506" name="Ожерелье Бесстрашия" type="Armor">
 		<!-- Necklace that is given to young Orcs who have proven their courage. -->
 		<set name="icon" val="icon.accessary_necklace_of_courage_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -86,7 +86,7 @@
 			<stat type="mDef">15</stat>
 		</stats>
 	</item>
-	<item id="1507" name="Necklace of Valor" type="Armor">
+	<item id="1507" name="Ожерелье Доблести" type="Armor">
 		<!-- Necklace that is given to young Orcs who have proven their valor. -->
 		<set name="icon" val="icon.accessary_necklace_of_valor_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -100,7 +100,7 @@
 			<stat type="mDef">21</stat>
 		</stats>
 	</item>
-	<item id="1508" name="Ring of Raccoon" type="Armor">
+	<item id="1508" name="Кольцо Енота" type="Armor">
 		<!-- Ring given to apprentices of the Bronze Key Guild. -->
 		<set name="icon" val="icon.accessary_ring_of_raccoon_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -114,7 +114,7 @@
 			<stat type="mDef">11</stat>
 		</stats>
 	</item>
-	<item id="1509" name="Ring of Firefly" type="Armor">
+	<item id="1509" name="Кольцо Светлячка" type="Armor">
 		<!-- Ring given to apprentices of the Black Anvil Guild. -->
 		<set name="icon" val="icon.accessary_ring_of_firefly_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -128,7 +128,7 @@
 			<stat type="mDef">11</stat>
 		</stats>
 	</item>
-	<item id="1510" name="Butcher's Sword" type="Weapon">
+	<item id="1510" name="Меч Мясника" type="Weapon">
 		<!-- Sword granted to young Orc Fighters who distinguished themselves at war. -->
 		<set name="icon" val="icon.weapon_orcish_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -152,7 +152,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1511" name="Silversmith Hammer" type="Weapon">
+	<item id="1511" name="Молот Кузнеца" type="Weapon">
 		<!-- A hammer once used by Elmoreden's blacksmiths. -->
 		<set name="icon" val="icon.weapon_iron_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -177,7 +177,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1512" name="Spellbook: Confusion" type="EtcItem">
+	<item id="1512" name="Книга Заклинаний - Замешательство" type="EtcItem">
 		<!-- A spellbook for learning the Confusion skill. Used by Dark Knights and Dark Slayers. Required level: 24. -->
 		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -187,7 +187,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1513" name="Spellbook: Charm" type="EtcItem">
+	<item id="1513" name="Книга Заклинаний - Очарование" type="EtcItem">
 		<!-- A spellbook for learning the Charm skill. Used by Elven Knights and Elven Scouts. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -197,7 +197,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1514" name="Spellbook: Resurrection" type="EtcItem">
+	<item id="1514" name="Книга Заклинаний - Воскрешение" type="EtcItem">
 		<!-- A spellbook for learning the Resurrection skill. Used by Clerics, Elven Oracles and Shillien Oracles. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -207,7 +207,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1515" name="Spellbook: Eva's Kiss" type="EtcItem">
+	<item id="1515" name="Книга Заклинаний - Поцелуй Евы" type="EtcItem">
 		<!-- A spellbook for learning the Eva's Kiss skill. Used by Clerics, Elven Oracles and Shillien Oracles. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -217,7 +217,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1516" name="Spellbook: Corpse Life Drain" type="EtcItem">
+	<item id="1516" name="Книга Заклинаний - Подпитка от Трупа" type="EtcItem">
 		<!-- A spellbook for learning the Corpse Life Drain skill. Used by Human Wizards and Dark Wizards. Required level: 30. -->
 		<set name="icon" val="icon.etc_spell_books_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -227,7 +227,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1517" name="Spellbook: Body to Mind" type="EtcItem">
+	<item id="1517" name="Книга Заклинаний - Самобичевание" type="EtcItem">
 		<!-- A spellbook for learning the Body to Mind skill. Used by Human Wizards and Dark Wizards. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_black_i00" />
 		<set name="immediate_effect" val="true" />
@@ -237,7 +237,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1518" name="Amulet: Chant of Flame" type="EtcItem">
+	<item id="1518" name="Амулет: Напев Пламени" type="EtcItem">
 		<!-- An amulet for learning the Chant of Flame skill. Used by Orc Shamans. Required level: 30. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -247,7 +247,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1519" name="Amulet: Pa'agrio's Gift" type="EtcItem">
+	<item id="1519" name="Амулет: Дар Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Gift skill. Used by Orc Shamans. Required level: 30. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -257,7 +257,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1520" name="Amulet: Pa'agrio's Blessing" type="EtcItem">
+	<item id="1520" name="Амулет: Благословение Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Blessing skill. Used by Orc Shamans. Required level: 35. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -267,7 +267,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1521" name="Amulet: Chant of Fire" type="EtcItem">
+	<item id="1521" name="Амулет: Напев Огня" type="EtcItem">
 		<!-- An amulet for learning the Chant of Fire skill. Used by Orc Shamans. Required level: 20. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -277,7 +277,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1522" name="Amulet: Chant of Battle" type="EtcItem">
+	<item id="1522" name="Амулет: Напев Битвы" type="EtcItem">
 		<!-- An amulet for learning the Chant of Battle skill. Used by Orc Mystics. Required level: 14. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -287,7 +287,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1523" name="Amulet: Chant of Shielding" type="EtcItem">
+	<item id="1523" name="Амулет: Напев Защиты" type="EtcItem">
 		<!-- An amulet for learning the Chant of Shielding skill. Used by Orc Shamans. Required level: 20. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -297,7 +297,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1524" name="Amulet: Soul Shield" type="EtcItem">
+	<item id="1524" name="Амулет: Щит Души" type="EtcItem">
 		<!-- An amulet for learning the Soul Shield skill. Used by Orc Mystics. Required level: 7. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -307,7 +307,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1525" name="Amulet: Life Drain" type="EtcItem">
+	<item id="1525" name="Амулет: Кража Жизни" type="EtcItem">
 		<!-- An amulet for learning the Life Drain skill. Used by Orc Mystics. Required level: 7. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -317,7 +317,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1526" name="Amulet: Fear" type="EtcItem">
+	<item id="1526" name="Амулет: Страх" type="EtcItem">
 		<!-- An amulet for learning the Fear skill. Used by Orc Mystics. Required level: 14. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -327,7 +327,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1527" name="Amulet: Venom" type="EtcItem">
+	<item id="1527" name="Амулет: Отрава" type="EtcItem">
 		<!-- An amulet for learning the Venom skill. Used by Orc Mystics. Required level: 7. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -337,7 +337,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1528" name="Amulet: Seal of Chaos" type="EtcItem">
+	<item id="1528" name="Амулет: Печать Хаоса" type="EtcItem">
 		<!-- An amulet for learning the Seal of Chaos skill. Used by Orc Shamans. Required level: 30. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -347,7 +347,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1529" name="Amulet: Dreaming Spirit" type="EtcItem">
+	<item id="1529" name="Амулет: Сонный Дух" type="EtcItem">
 		<!-- An amulet for learning the Dreaming Spirit skill. Used by Orc Mystics. Required level: 7. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -357,7 +357,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1530" name="Amulet: Seal of Slow" type="EtcItem">
+	<item id="1530" name="Амулет: Печать Замедления" type="EtcItem">
 		<!-- An amulet for learning the Seal of Slow skill. Used by Orc Shamans. Required level: 35. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -367,7 +367,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1531" name="Amulet: Chill Flame" type="EtcItem">
+	<item id="1531" name="Амулет: Остужающее Пламя" type="EtcItem">
 		<!-- An amulet for learning the Chill Flame skill. Used by Orc Mystics. Required level: 7. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -377,7 +377,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1532" name="Amulet: Blaze Quake" type="EtcItem">
+	<item id="1532" name="Амулет: Дрожь Огня" type="EtcItem">
 		<!-- An amulet for learning the Blaze Quake skill. Used by Orc Shamans. Required level: 25. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -387,7 +387,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1533" name="Amulet: Aura Sink" type="EtcItem">
+	<item id="1533" name="Амулет: Ослабление Ауры" type="EtcItem">
 		<!-- An amulet for learning the Aura Sink skill. Used by Orc Shamans. Required level: 25. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -397,7 +397,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1534" name="Amulet: Madness" type="EtcItem">
+	<item id="1534" name="Амулет: Сумасшествие" type="EtcItem">
 		<!-- An amulet for learning the Madness skill. Used by Orc Shamans. Required level: 20. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -407,7 +407,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1535" name="Amulet: Frost Flame" type="EtcItem">
+	<item id="1535" name="Амулет: Морозное Пламя" type="EtcItem">
 		<!-- An amulet for learning the Frost Flame skill. Used by Orc Shamans. Required level: 20. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -417,7 +417,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1536" name="Amulet: Seal of Binding" type="EtcItem">
+	<item id="1536" name="Амулет: Печать Оков" type="EtcItem">
 		<!-- An amulet for learning the Seal of Binding skill. Used by Orc Shamans. Required level: 25. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -427,7 +427,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1537" name="Amulet: Seal of Poison" type="EtcItem">
+	<item id="1537" name="Амулет: Печать Яда" type="EtcItem">
 		<!-- An amulet for learning the Seal of Poison skill. Used by Orc Shamans. Required level: 20. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -437,7 +437,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1538" name="Blessed Scroll of Escape" type="EtcItem">
+	<item id="1538" name="Свиток Благ. Телепорта" type="EtcItem">
 		<!-- A magic scroll for teleporting to the nearest village. -->
 		<set name="icon" val="icon.etc_scroll_of_return_i01" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -455,7 +455,7 @@
 			<skill id="2036" level="1" /> <!-- Blessed Scroll of Escape -->
 		</skills>
 	</item>
-	<item id="1539" name="Major HP Replenishing Potion" type="EtcItem">
+	<item id="1539" name="Сильнодействующее Зелье Восполнения HP" type="EtcItem">
 		<!-- Magical potion that quickly restores HP. Its effect lasts for 15 sec. -->
 		<set name="icon" val="icon.etc_reagent_white_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -478,7 +478,7 @@
 			<skill id="2037" level="1" /> <!-- Major Healing Potion -->
 		</skills>
 	</item>
-	<item id="1540" name="Quick HP Replenishing Potion" type="EtcItem">
+	<item id="1540" name="Быстродействующее Зелье Восполнения HP" type="EtcItem">
 		<!-- A magic potion that instantly recovers HP. No cooldown. Cannot be used when HP is full. -->
 		<set name="icon" val="icon.etc_potion_gold_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />

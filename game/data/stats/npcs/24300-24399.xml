@@ -2099,10 +2099,10 @@
 	<npc id="24382" level="20" type="Monster" name="Отвратительный Зомби">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="320" sp="33" />
+		<acquire exp="240" sp="24" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="630.38548" hpRegen="2.5" mp="240.88" mpRegen="1.2" />
+			<vitals hp="430.38548" hpRegen="2.5" mp="240.88" mpRegen="1.2" />
 			<attack physical="87.24646" magical="68.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="151.08179" magical="102.01457" />
 			<speed>
@@ -2153,10 +2153,10 @@
 	<npc id="24383" level="20" type="Monster" name="Отвратительный Лорд Зомби">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="360" sp="36" />
+		<acquire exp="260" sp="26" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="730.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
+			<vitals hp="530.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
 			<attack physical="87.24646" magical="68.6058" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="151.08179" magical="102.01457" />
 			<speed>
@@ -2182,7 +2182,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="137" max="239" chance="100" /> <!-- Adena -->
+					<item id="57" min="137" max="219" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2923">
 					<item id="1101" min="1" max="1" chance="38.5101" /> <!-- Tunic of Devotion -->
@@ -2242,10 +2242,10 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="24384" level="20" type="Monster" name="Krakos Bat">
+	<npc id="24384" level="20" type="Monster" name="Кракос Летучая Мышь">
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="308" sp="27"/>
+		<acquire exp="278" sp="27"/>
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="342.5127" hpRegen="2.5" mp="192" mpRegen="1.2" />
@@ -2259,6 +2259,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
+		<ai isAggressive="true" />
 		<collision>
 			<radius normal="10" />
 			<height normal="33.5" />
@@ -2276,11 +2277,61 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="6" max="13" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="137" max="209" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.4624">
+					<item id="845" min="1" max="1" chance="8.7774" /> <!-- Cat's Eye Earring -->
+					<item id="908" min="1" max="1" chance="6.5831" /> <!-- Necklace of Wisdom -->
+					<item id="1897" min="1" max="1" chance="71.4734" /> <!-- Necklace of Wisdom Chain -->
+					<item id="877" min="1" max="1" chance="13.1661" /> <!-- Ring of Wisdom -->
+				</group>
+				<group chance="18.4949">
+					<item id="1864" min="1" max="1" chance="47.472" /> <!-- Stem -->
+					<item id="1869" min="1" max="1" chance="23.736" /> <!-- Iron Ore -->
+					<item id="1878" min="1" max="1" chance="9.4944" /> <!-- Braided Hemp -->
+					<item id="2175" min="1" max="1" chance="19.2976" /> <!-- Recipe: Boots -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="734" min="1" max="1" chance="4.9539" /> <!-- Haste Potion -->
+				<item id="2011" min="1" max="1" chance="0.6781" /> <!-- Short Spear Edge -->
+				<item id="1864" min="1" max="1" chance="59.4474" /> <!-- Stem -->
+			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="24385" level="20" type="Monster" name="Vampire">
+	<npc id="24385" level="20" type="Monster" name="Вампир">
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
 		<acquire exp="308" sp="27"/>
@@ -2298,6 +2349,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
+		<ai isAggressive="true" />
 		<collision>
 			<radius normal="6" />
 			<height normal="21.5" />
@@ -2315,14 +2367,63 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="6" max="13" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="125" max="217" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0304">
+					<item id="217" min="1" max="1" chance="50" /> <!-- Shining Knife -->
+					<item id="218" min="1" max="1" chance="50" /> <!-- Throwing Knife -->
+				</group>
+				<group chance="11.6214">
+					<item id="1864" min="1" max="1" chance="54.9451" /> <!-- Stem -->
+					<item id="1869" min="1" max="1" chance="27.4725" /> <!-- Iron Ore -->
+					<item id="1878" min="1" max="1" chance="10.989" /> <!-- Braided Hemp -->
+					<item id="1817" min="1" max="1" chance="5.4945" /> <!-- Recipe: Cord -->
+					<item id="5273" min="1" max="1" chance="1.0989" /> <!-- Recipe: Greater Spiritshot (D) Compressed Package(100%) -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="734" min="1" max="1" chance="4.5036" /> <!-- Haste Potion -->
+				<item id="1800" min="1" max="1" chance="8.4973" /> <!-- Recipe: Piece Bone Breastplate -->
+				<item id="1869" min="1" max="1" chance="27.0215" /> <!-- Iron Ore -->
+			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="24386" level="27" type="Monster" name="Skeleton Scout">
+	<npc id="24386" level="27" type="Monster" name="Скелетон Разведчик">
 		<race>UNDEAD</race>
 		<sex>FEMALE</sex>
-		<acquire exp="499" sp="36"/>
+		<acquire exp="405" sp="41"/>
 		<equipment rhand="15302" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2337,6 +2438,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
+		<ai isAggressive="true"/>
 		<collision>
 			<radius normal="7" />
 			<height normal="22" />
@@ -2354,14 +2456,31 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="8" max="18" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="270" max="324" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0281">
+					<item id="220" min="1" max="1" chance="100" /> <!-- Crafted Dagger -->
+				</group>
+				<group chance="27.693">
+					<item id="1869" min="1" max="1" chance="31.9605" /> <!-- Iron Ore -->
+					<item id="1864" min="1" max="1" chance="63.921" /> <!-- Stem -->
+					<item id="1880" min="1" max="1" chance="3.1961" /> <!-- Steel -->
+					<item id="5550" min="1" max="1" chance="0.4261" /> <!-- Durable Metal Plate -->
+					<item id="2262" min="1" max="1" chance="0.4963" /> <!-- Recipe: Elven Bow -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="2260" min="1" max="1" chance="1.2244" /> <!-- Recipe: Mace of Judgment -->
+				<item id="1932" min="1" max="1" chance="12.5162" /> <!-- Bone Helmet Design -->
+				<item id="2152" min="1" max="1" chance="13.8824" /> <!-- Recipe: Enchanted Necklace -->
+			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="24387" level="27" type="Monster" name="Skeleton Archer">
+	<npc id="24387" level="27" type="Monster" name="Скелетон Лучник">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="499" sp="36"/>
+		<acquire exp="405" sp="41"/>
 		<equipment rhand="14" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2376,6 +2495,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
+		<ai isAggressive="true"/>
 		<collision>
 			<radius normal="11" />
 			<height normal="27" />
@@ -2393,14 +2513,33 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="8" max="18" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="270" max="324" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0318">
+					<item id="274" min="1" max="1" chance="100" /> <!-- Strengthened Bow -->
+				</group>
+				<group chance="12.2513">
+					<item id="1876" min="1" max="1" chance="11.6885" /> <!-- Mithril Ore -->
+					<item id="1880" min="1" max="1" chance="5.8443" /> <!-- Steel -->
+					<item id="1877" min="1" max="1" chance="2.3377" /> <!-- Adamantite Nugget -->
+					<item id="1881" min="1" max="1" chance="7.7923" /> <!-- Coarse Bone Powder -->
+					<item id="1882" min="1" max="1" chance="12.9872" /> <!-- Leather -->
+					<item id="2260" min="1" max="1" chance="0.9075" /> <!-- Recipe: Mace of Judgment -->
+					<item id="6666" min="1" max="1" chance="58.4425" /> <!-- Deluxe Chest Key - Grade 2 -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1885" min="1" max="1" chance="7.442" /> <!-- High Grade Suede -->
+				<item id="465" min="1" max="1" chance="0.5934" /> <!-- Cursed Stockings -->
+				<item id="2152" min="1" max="1" chance="15.7224" /> <!-- Recipe: Enchanted Necklace -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="24388" level="27" type="Monster" name="Skeleton Warrior">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="499" sp="36"/>
+		<acquire exp="405" sp="41"/>
 		<equipment rhand="86" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2415,6 +2554,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
+		<ai isAggressive="true"/>
 		<collision>
 			<radius normal="11" />
 			<height normal="25" />
@@ -2432,8 +2572,62 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="8" max="18" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="270" max="324" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.2032">
+					<item id="847" min="1" max="1" chance="5.1488" /> <!-- Red Crescent Earring -->
+					<item id="910" min="1" max="1" chance="3.8616" /> <!-- Necklace of Devotion -->
+					<item id="1899" min="1" max="1" chance="83.2663" /> <!-- Necklace of Devotion Chain -->
+					<item id="890" min="1" max="1" chance="7.7233" /> <!-- Ring of Devotion -->
+				</group>
+				<group chance="13.5082">
+					<item id="1876" min="1" max="1" chance="4.7468" /> <!-- Mithril Ore -->
+					<item id="1880" min="1" max="1" chance="2.3734" /> <!-- Steel -->
+					<item id="1877" min="1" max="1" chance="0.9494" /> <!-- Adamantite Nugget -->
+					<item id="1881" min="1" max="1" chance="3.1646" /> <!-- Coarse Bone Powder -->
+					<item id="1882" min="1" max="1" chance="5.2743" /> <!-- Leather -->
+					<item id="2178" min="1" max="1" chance="3.7975" /> <!-- Recipe: Dark Stockings -->
+					<item id="8294" min="1" max="1" chance="0.5803" /> <!-- Recipe: Steel Sword (100%) -->
+					<item id="1341" min="10" max="30" chance="79.1137" /> <!-- Bone Arrow -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="26" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="65" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="9" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="2259" min="1" max="1" chance="0.7096" /> <!-- Recipe: Spinebone Sword -->
+				<item id="2020" min="1" max="1" chance="0.8" /> <!-- Temptation of Abyss Piece -->
+				<item id="1876" min="1" max="1" chance="9.14" /> <!-- Mithril Ore -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="24389" level="33" type="Monster" name="Spartoi Soldier">

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="1300" name="Apprentice's Rod" type="Weapon">
+	<item id="1300" name="Жезл Ученика" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_apprentices_rod_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -26,7 +26,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1301" name="Big Hammer" type="Weapon">
+	<item id="1301" name="Большой Молот" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_big_hammer_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -52,7 +52,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1302" name="Bec de Corbin" type="Weapon">
+	<item id="1302" name="Бердыш" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_bech_de_corbin_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -81,7 +81,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="1303" name="Lance" type="Weapon">
+	<item id="1303" name="Пика" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_lancia_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -110,7 +110,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="1304" name="Conjuror's Staff" type="Weapon">
+	<item id="1304" name="Посох Заклинателя" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_apprentices_staff_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -136,7 +136,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1305" name="Knife" type="Weapon">
+	<item id="1305" name="Нож" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_knife_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -162,7 +162,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1306" name="Crafted Dagger" type="Weapon">
+	<item id="1306" name="Кованый Кинжал" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_knife_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -188,7 +188,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1307" name="Bow" type="Weapon">
+	<item id="1307" name="Лук" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_bow_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -216,7 +216,7 @@
 			<stat type="pAtkRange">5000</stat>
 		</stats>
 	</item>
-	<item id="1308" name="Compound Scale Mail" type="Armor">
+	<item id="1308" name="Составная Чешуйчатая Броня" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -233,7 +233,7 @@
 			<stat type="pDef">51</stat>
 		</stats>
 	</item>
-	<item id="1309" name="Mithril Breastplate" type="Armor">
+	<item id="1309" name="Мифриловая Кираса" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -250,7 +250,7 @@
 			<stat type="pDef">51</stat>
 		</stats>
 	</item>
-	<item id="1310" name="Tunic of Magic" type="Armor">
+	<item id="1310" name="Туника Магии" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -268,7 +268,7 @@
 			<stat type="maxMp">96</stat>
 		</stats>
 	</item>
-	<item id="1311" name="Puma Skin Shirt" type="Armor">
+	<item id="1311" name="Рубаха из Шкуры Пумы" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -285,7 +285,7 @@
 			<stat type="pDef">51</stat>
 		</stats>
 	</item>
-	<item id="1312" name="White Tunic" type="Armor">
+	<item id="1312" name="Белая Туника" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -303,7 +303,7 @@
 			<stat type="maxMp">142</stat>
 		</stats>
 	</item>
-	<item id="1313" name="Compound Scale Gaiters" type="Armor">
+	<item id="1313" name="Составные Чешуйчатые Набедренники" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -320,7 +320,7 @@
 			<stat type="pDef">32</stat>
 		</stats>
 	</item>
-	<item id="1314" name="Mithril Gaiters" type="Armor">
+	<item id="1314" name="Мифриловые Набедренники" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -337,7 +337,7 @@
 			<stat type="pDef">32</stat>
 		</stats>
 	</item>
-	<item id="1315" name="Stockings of Magic" type="Armor">
+	<item id="1315" name="Штаны Магии" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -355,7 +355,7 @@
 			<stat type="maxMp">60</stat>
 		</stats>
 	</item>
-	<item id="1316" name="Puma Skin Gaiters" type="Armor">
+	<item id="1316" name="Набедренники из Шкуры Пумы" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -372,7 +372,7 @@
 			<stat type="pDef">32</stat>
 		</stats>
 	</item>
-	<item id="1317" name="Dark Stockings" type="Armor">
+	<item id="1317" name="Темные Штаны" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -390,7 +390,7 @@
 			<stat type="maxMp">79</stat>
 		</stats>
 	</item>
-	<item id="1318" name="Gloves" type="Armor">
+	<item id="1318" name="Перчатки" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_gauntlet_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -406,7 +406,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1319" name="Leather Gloves" type="Armor">
+	<item id="1319" name="Кожаные Перчатки" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_gauntlet_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -422,7 +422,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1320" name="Quality Leather Gloves" type="Armor">
+	<item id="1320" name="Перчатки из Выделанной Кожи" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_gauntlet_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -438,7 +438,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1321" name="Rip Gauntlets" type="Armor">
+	<item id="1321" name="Рваные Рукавицы" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_gauntlet_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -454,7 +454,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1322" name="Bracer" type="Armor">
+	<item id="1322" name="Наручи" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_gauntlet_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -470,7 +470,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1323" name="Leather Shoes" type="Armor">
+	<item id="1323" name="Кожаные Ботинки" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_iron_boots_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -486,7 +486,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1324" name="Low Boots" type="Armor">
+	<item id="1324" name="Простые Сапоги" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_iron_boots_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -502,7 +502,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1325" name="Leather Boots" type="Armor">
+	<item id="1325" name="Кожаные Сапоги" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_iron_boots_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -518,7 +518,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1326" name="Iron Boots" type="Armor">
+	<item id="1326" name="Железные Сапоги" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_iron_boots_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -534,7 +534,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1327" name="Boots" type="Armor">
+	<item id="1327" name="Сапоги" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.armor_iron_boots_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -550,7 +550,7 @@
 			<stat type="pDef">14</stat>
 		</stats>
 	</item>
-	<item id="1328" name="Shield of Grace" type="Armor">
+	<item id="1328" name="Щит Грации" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.shield_leather_shield_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -568,7 +568,7 @@
 			<stat type="sDef">71</stat>
 		</stats>
 	</item>
-	<item id="1329" name="Shield of Victory" type="Armor">
+	<item id="1329" name="Щит Победы" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.shield_small_shield_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -586,7 +586,7 @@
 			<stat type="sDef">71</stat>
 		</stats>
 	</item>
-	<item id="1330" name="Zubei's Shield" type="Armor">
+	<item id="1330" name="Щит Зубея" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.shield_buckler_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -604,7 +604,7 @@
 			<stat type="sDef">71</stat>
 		</stats>
 	</item>
-	<item id="1331" name="Otherworldly Shield" type="Armor">
+	<item id="1331" name="Потусторонний Щит" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.shield_round_shield_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -622,7 +622,7 @@
 			<stat type="sDef">71</stat>
 		</stats>
 	</item>
-	<item id="1332" name="Knight's Shield" type="Armor">
+	<item id="1332" name="Щит Рыцаря" type="Armor">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.shield_tower_shield_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -640,7 +640,7 @@
 			<stat type="sDef">71</stat>
 		</stats>
 	</item>
-	<item id="1333" name="Brandish" type="Weapon">
+	<item id="1333" name="Тренировочный Двуручный Меч" type="Weapon">
 		<!-- Two-handed sword for beginners. -->
 		<set name="icon" val="icon.weapon_brandish_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -746,7 +746,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_depositable" val="false" />
 	</item>
-	<item id="1341" name="Bone Arrow" type="EtcItem">
+	<item id="1341" name="Костяная Стрела" type="EtcItem">
 		<!-- Arrow made from a piece of sharpened bone. It is used as an arrow for a D-grade bow. -->
 		<set name="icon" val="icon.etc_bone_quiver_i00" />
 		<set name="default_action" val="NONE" />
@@ -759,7 +759,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1342" name="Steel Arrow" type="EtcItem">
+	<item id="1342" name="Стальная Стрела" type="EtcItem">
 		<!-- Powerful arrow made of steel. It is used as an arrow for a C-grade bow. -->
 		<set name="icon" val="icon.etc_fine_steel_quiver_i00" />
 		<set name="default_action" val="NONE" />
@@ -772,7 +772,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1343" name="Silver Arrow" type="EtcItem">
+	<item id="1343" name="Серебряная Стрела" type="EtcItem">
 		<!-- Steel arrow plated with silver. -->
 		<set name="icon" val="icon.etc_silver_quiver_i00" />
 		<set name="default_action" val="NONE" />
@@ -785,7 +785,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1344" name="Mithril Arrow" type="EtcItem">
+	<item id="1344" name="Мифриловая Стрела" type="EtcItem">
 		<!-- Steel Arrow coated by mithril. For A-grade bows. -->
 		<set name="icon" val="icon.etc_mithril_quiver_i00" />
 		<set name="default_action" val="NONE" />
@@ -798,7 +798,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1345" name="Arrow of Light" type="EtcItem">
+	<item id="1345" name="Сверкающая Стрела" type="EtcItem">
 		<!-- Very hard arrow made of unknown material. For S-grade bows. -->
 		<set name="icon" val="icon.etc_shining_quiver_i00" />
 		<set name="default_action" val="NONE" />
@@ -1099,7 +1099,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="1370" name="Spellbook: Aqua Swirl" type="EtcItem">
+	<item id="1370" name="Книга Заклинаний - Водоворот" type="EtcItem">
 		<!-- A spellbook for learning the Aqua Swirl skill. Used by Elven Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_element_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1109,7 +1109,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1371" name="Spellbook: Twister" type="EtcItem">
+	<item id="1371" name="Книга Заклинаний - Смерч" type="EtcItem">
 		<!-- A spellbook for learning the Twister skill. Used by Dark Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_element_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1119,7 +1119,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1372" name="Spellbook: Blaze" type="EtcItem">
+	<item id="1372" name="Книга Заклинаний - Вспышка" type="EtcItem">
 		<!-- A spellbook for learning the Blaze skill. Used by Human Wizards. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_element_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1129,7 +1129,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1373" name="Magic Gem" type="EtcItem">
+	<item id="1373" name="Магический Камень" type="EtcItem">
 		<!-- Ingredient needed for certain magic. -->
 		<set name="icon" val="icon.etc_crystal_ball_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1139,7 +1139,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1374" name="Greater Wind Walk Potion" type="EtcItem">
+	<item id="1374" name="Большое Зелье Ускорения" type="EtcItem">
 		<!-- A magical potion that increases Speed. -->
 		<set name="icon" val="icon.etc_lesser_potion_green_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -1161,7 +1161,7 @@
 			<skill id="2034" level="1" /> <!-- Greater Wind Walk Potion -->
 		</skills>
 	</item>
-	<item id="1375" name="Greater Haste Potion" type="EtcItem">
+	<item id="1375" name="Большое Зелье Скор. Атк." type="EtcItem">
 		<!-- Magical potion that increases Atk. Spd. dramatically -->
 		<set name="icon" val="icon.etc_lesser_potion_purple_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -1183,7 +1183,7 @@
 			<skill id="2035" level="1" /> <!-- Greater Haste Potion -->
 		</skills>
 	</item>
-	<item id="1376" name="Royal Guard Spear" type="Weapon">
+	<item id="1376" name="Копье Гвардейца" type="Weapon">
 		<!-- A spear used by Royal Guards. -->
 		<set name="icon" val="icon.weapon_guard_spear_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1214,7 +1214,7 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="1377" name="Spellbook: Poison Recovery" type="EtcItem">
+	<item id="1377" name="Книга Заклинаний - Вывести Яд" type="EtcItem">
 		<!-- A spellbook for learning the Poison Recovery skill. Used by Elven Knights and Elven Scouts. Required level: Elven Knight - 20, Elven Scout - 24. -->
 		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1224,7 +1224,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1378" name="Spellbook: Divine Heal" type="EtcItem">
+	<item id="1378" name="Книга Заклинаний - Святое Лечение" type="EtcItem">
 		<!-- A spellbook for learning the Divine Heal skill. Used by Human Knights. Required level: 28. -->
 		<set name="icon" val="icon.etc_spell_books_hfighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1234,7 +1234,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1379" name="Spellbook: Cure Bleeding" type="EtcItem">
+	<item id="1379" name="Книга Заклинаний - Остановка Кровотечения" type="EtcItem">
 		<!-- A spellbook for learning the Cure Bleeding skill. Used by Elven Knights and Elven Scouts. Required level: 24. -->
 		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1244,7 +1244,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1380" name="Spellbook: Entangle" type="EtcItem">
+	<item id="1380" name="Книга Заклинаний - Опутать" type="EtcItem">
 		<!-- A spellbook for learning the Entangle skill. Used by Elven Knights and Elven Scouts. Required level: 36. -->
 		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1254,7 +1254,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1381" name="Spellbook: Freezing Strike" type="EtcItem">
+	<item id="1381" name="Книга Заклинаний - Замораживающий Удар" type="EtcItem">
 		<!-- A spellbook for learning the Freezing Strike skill. Used by Dark Knights and Dark Slayers. Required level: 36. -->
 		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1264,7 +1264,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1382" name="Spellbook: Power Break" type="EtcItem">
+	<item id="1382" name="Книга Заклинаний - Слом Мощи" type="EtcItem">
 		<!-- A spellbook for learning the Power Break skill. Used by Dark Knights and Dark Slayers. Required level: 32. -->
 		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1274,7 +1274,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1383" name="Spellbook: Poison" type="EtcItem">
+	<item id="1383" name="Книга Заклинаний - Отравление" type="EtcItem">
 		<!-- A spellbook for learning the Poison skill. Used by Dark Knights and Dark Slayers. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_defighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1284,7 +1284,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1384" name="Spellbook: Sprint" type="EtcItem">
+	<item id="1384" name="Книга Заклинаний - Спринт" type="EtcItem">
 		<!-- A spellbook for learning the Sprint skill. Used by Elven Knights and Elven Scouts. Required level: 32. -->
 		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1294,7 +1294,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1385" name="Spellbook: Recharge" type="EtcItem">
+	<item id="1385" name="Книга Заклинаний - Восстановление" type="EtcItem">
 		<!-- A spellbook for learning the Recharge skill. Used by Elven Oracles and Shillien Oracles. Required level: 30. -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1304,7 +1304,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1386" name="Spellbook: Disrupt Undead" type="EtcItem">
+	<item id="1386" name="Книга Заклинаний - Разрушить Нежить" type="EtcItem">
 		<!-- A spellbook for learning the Disrupt Undead skill. Used by Clerics, Elven Oracles and Shillien Oracles. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1314,7 +1314,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1387" name="Spellbook: Poison Resistance" type="EtcItem">
+	<item id="1387" name="Книга Заклинаний - Сопротивление Яду" type="EtcItem">
 		<!-- A spellbook for learning the Poison Resistance skill. Used by Elven Oracles and Prophets. Required level: Elven Oracle - 35, Prophet - 60. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1324,7 +1324,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1388" name="Spellbook: Mental Shield" type="EtcItem">
+	<item id="1388" name="Книга Заклинаний - Ментальный Щит" type="EtcItem">
 		<!-- A spellbook for learning the Mental Shield skill. Used by Clerics, Elven Oracles and Shillien Oracles. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1334,7 +1334,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1389" name="Spellbook: Holy Weapon" type="EtcItem">
+	<item id="1389" name="Книга Заклинаний - Святое Оружие" type="EtcItem">
 		<!-- A spellbook for learning the Holy Weapon skill. Used by Clerics and Elven Oracles. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_white_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1344,7 +1344,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1390" name="Spellbook: Regeneration" type="EtcItem">
+	<item id="1390" name="Книга Заклинаний - Регенерация" type="EtcItem">
 		<!-- A spellbook for learning the Regeneration skill. Used by Clerics and Elven Oracles. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1354,7 +1354,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1391" name="Spellbook: Empower" type="EtcItem">
+	<item id="1391" name="Книга Заклинаний - Воодушевление" type="EtcItem">
 		<!-- A spellbook for learning the Empower skill. Used by Shillien Oracles. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1364,7 +1364,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1392" name="Spellbook: Berserker Spirit" type="EtcItem">
+	<item id="1392" name="Книга Заклинаний - Дух Берсерка" type="EtcItem">
 		<!-- A spellbook for learning the Berserker Spirit skill. Used by Clerics. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1374,7 +1374,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1393" name="Spellbook: Quickness" type="EtcItem">
+	<item id="1393" name="Книга Заклинаний - Скорость" type="EtcItem">
 		<!-- A spellbook for learning the Quickness skill. -->
 		<set name="icon" val="icon.etc_spell_books_blue_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1384,7 +1384,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1394" name="Spellbook: Sleep" type="EtcItem">
+	<item id="1394" name="Книга Заклинаний - Сон" type="EtcItem">
 		<!-- A spellbook for learning the Sleep skill. Used by Human Wizards, Clerics, Elven Wizards, Elven Oracles, Dark Wizards and Shillien Oracles. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1394,7 +1394,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1395" name="Spellbook: Surrender to Water" type="EtcItem">
+	<item id="1395" name="Книга Заклинаний - Предать Воде" type="EtcItem">
 		<!-- A spellbook for learning the Surrender to Water skill. -->
 		<set name="icon" val="icon.etc_spell_books_blue_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1403,7 +1403,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="price" val="1250" />
 	</item>
-	<item id="1396" name="Spellbook: Surrender to Wind" type="EtcItem">
+	<item id="1396" name="Книга Заклинаний - Предать Ветру" type="EtcItem">
 		<!-- A spellbook for learning the Surrender to Wind skill. -->
 		<set name="icon" val="icon.etc_spell_books_blue_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1412,7 +1412,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="price" val="1250" />
 	</item>
-	<item id="1397" name="Spellbook: Peace" type="EtcItem">
+	<item id="1397" name="Книга Заклинаний - Примирение" type="EtcItem">
 		<!-- A spellbook for learning the Peace skill. Used by Clerics. Required level: 35. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1422,7 +1422,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1398" name="Spellbook: Focus" type="EtcItem">
+	<item id="1398" name="Книга Заклинаний - Фокусировка" type="EtcItem">
 		<!-- A spellbook for learning the Focus skill. Used by Clerics and Shillien Oracles. Required level: 25. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1432,7 +1432,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1399" name="Spellbook: Concentration" type="EtcItem">
+	<item id="1399" name="Книга Заклинаний - Концентрация" type="EtcItem">
 		<!-- A spellbook for learning the Concentration skill. Used by Human Wizards, Clerics, Elven Wizards, Elven Oracles, Dark Wizards and Shillien Oracles. Required level: 20. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />

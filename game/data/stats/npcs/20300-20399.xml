@@ -2067,7 +2067,7 @@
 			<height normal="16.5" />
 		</collision>
 	</npc>
-	<npc id="20329" level="21" type="Monster" name="Ghost Guardian">
+	<npc id="20329" level="21" type="Monster" name="Призрак Страж">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2080,7 +2080,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="771" sp="36" />
+		<acquire exp="252" sp="26" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="364.30351" hpRegen="3.5" mp="205.2" mpRegen="1.5" />
 			<attack physical="47.91924" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2109,11 +2109,11 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" />
+		<ai aggroRange="3600" clanHelpRange="300" isAggressive="true"/>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="131" max="234" chance="100" /> <!-- Adena -->
+					<item id="57" min="168" max="210" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0181">
 					<item id="16" min="1" max="1" chance="100" /> <!-- Great Spear -->

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="400" name="Theca Leather Armor" type="Armor">
+	<item id="400" name="Кожаный Доспех Тека" type="Armor">
 		<set name="icon" val="icon.armor_t63_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -18,7 +18,7 @@
 			<stat type="pDef">106</stat>
 		</stats>
 	</item>
-	<item id="401" name="Drake Leather Armor" type="Armor">
+	<item id="401" name="Кожаный Доспех Дрейка" type="Armor">
 		<!-- One-piece armor. -->
 		<set name="icon" val="icon.armor_t21_ul_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -37,7 +37,7 @@
 			<stat type="pDef">179</stat>
 		</stats>
 	</item>
-	<item id="402" name="Chain Mail of Silence" type="Armor">
+	<item id="402" name="Кольчуга Безмолвия" type="Armor">
 		<set name="icon" val="icon.armor_composite_armor_i02" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -55,7 +55,7 @@
 			<stat type="pDef">213</stat>
 		</stats>
 	</item>
-	<item id="403" name="Gust Chain Mail" type="Armor">
+	<item id="403" name="Кольчуга Ливня" type="Armor">
 		<set name="icon" val="icon.armor_composite_armor_i02" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -73,7 +73,7 @@
 			<stat type="pDef">225</stat>
 		</stats>
 	</item>
-	<item id="404" name="Prairie Leather Armor" type="Armor">
+	<item id="404" name="Кожаный Доспех Степей" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_mail_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -91,7 +91,7 @@
 			<stat type="pDef">131</stat>
 		</stats>
 	</item>
-	<item id="405" name="Leather Armor of Underworld" type="Armor">
+	<item id="405" name="Кожаный Доспех Преисподней" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_mail_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -109,7 +109,7 @@
 			<stat type="pDef">139</stat>
 		</stats>
 	</item>
-	<item id="406" name="Leather Armor of Concentration" type="Armor">
+	<item id="406" name="Кожаный Доспех Концентрации" type="Armor">
 		<set name="icon" val="icon.armor_composite_armor_i02" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -127,7 +127,7 @@
 			<stat type="pDef">213</stat>
 		</stats>
 	</item>
-	<item id="407" name="Ace's Leather Armor" type="Armor">
+	<item id="407" name="Кожаный Доспех Аса" type="Armor">
 		<set name="icon" val="icon.armor_composite_armor_i02" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -145,7 +145,7 @@
 			<stat type="pDef">225</stat>
 		</stats>
 	</item>
-	<item id="408" name="Guardian's Leather Armor" type="Armor">
+	<item id="408" name="Кожаный Доспех Стражника" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_mail_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -163,7 +163,7 @@
 			<stat type="pDef">131</stat>
 		</stats>
 	</item>
-	<item id="409" name="Marksman's Leather Armor" type="Armor">
+	<item id="409" name="Кожаный Доспех Стрелка" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_mail_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -181,7 +181,7 @@
 			<stat type="pDef">139</stat>
 		</stats>
 	</item>
-	<item id="410" name="Unicorn Leather Armor" type="Armor">
+	<item id="410" name="Кожаный Доспех Единорога" type="Armor">
 		<set name="icon" val="icon.armor_composite_armor_i02" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -199,7 +199,7 @@
 			<stat type="pDef">238</stat>
 		</stats>
 	</item>
-	<item id="411" name="Dragon Leather Armor" type="Armor">
+	<item id="411" name="Кожаный Доспех Дракона" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_t45_ul_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -221,7 +221,7 @@
 			<stat type="pDef">237</stat>
 		</stats>
 	</item>
-	<item id="412" name="Cotton Pants" type="Armor">
+	<item id="412" name="Хлопковые Бриджи" type="Armor">
 		<set name="icon" val="icon.armor_t07_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -236,7 +236,7 @@
 			<stat type="pDef">32</stat>
 		</stats>
 	</item>
-	<item id="413" name="Puma Skin Gaiters" type="Armor">
+	<item id="413" name="Набедренники из Шкуры Пумы" type="Armor">
 		<set name="icon" val="icon.armor_t09_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -254,7 +254,7 @@
 			<stat type="pDef">36</stat>
 		</stats>
 	</item>
-	<item id="414" name="Lion Skin Gaiters" type="Armor">
+	<item id="414" name="Набедренники из Шкуры Льва" type="Armor">
 		<set name="icon" val="icon.armor_t18_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -272,7 +272,7 @@
 			<stat type="pDef">41</stat>
 		</stats>
 	</item>
-	<item id="415" name="Mithril Banded Gaiters" type="Armor">
+	<item id="415" name="Усиленные Мифрилом Набедренники" type="Armor">
 		<set name="icon" val="icon.armor_t10_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -290,7 +290,7 @@
 			<stat type="pDef">46</stat>
 		</stats>
 	</item>
-	<item id="416" name="Reinforced Leather Gaiters" type="Armor">
+	<item id="416" name="Укрепленные Кожаные Набедренники" type="Armor">
 		<set name="icon" val="icon.armor_t13_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -308,7 +308,7 @@
 			<stat type="pDef">46</stat>
 		</stats>
 	</item>
-	<item id="417" name="Manticore Skin Gaiters" type="Armor">
+	<item id="417" name="Набедренники из Шкуры Мантикоры" type="Armor">
 		<set name="icon" val="icon.armor_t42_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -326,7 +326,7 @@
 			<stat type="pDef">48</stat>
 		</stats>
 	</item>
-	<item id="418" name="Plated Leather Gaiters" type="Armor">
+	<item id="418" name="Латные Кожаные Набедренники" type="Armor">
 		<set name="icon" val="icon.armor_t47_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -344,7 +344,7 @@
 			<stat type="pDef">59</stat>
 		</stats>
 	</item>
-	<item id="419" name="Rind Leather Gaiters" type="Armor">
+	<item id="419" name="Набедренники из Грубой Кожи" type="Armor">
 		<set name="icon" val="icon.armor_t49_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -362,7 +362,7 @@
 			<stat type="pDef">60</stat>
 		</stats>
 	</item>
-	<item id="420" name="Theca Leather Gaiters" type="Armor">
+	<item id="420" name="Кожаные Набедренники Тека" type="Armor">
 		<set name="icon" val="icon.armor_t63_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -380,7 +380,7 @@
 			<stat type="pDef">66</stat>
 		</stats>
 	</item>
-	<item id="421" name="Prairie Leather Gaiters" type="Armor">
+	<item id="421" name="Кожаные Набедренники Степей" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_gaiters_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -398,7 +398,7 @@
 			<stat type="pDef">82</stat>
 		</stats>
 	</item>
-	<item id="422" name="Gaiters of Underworld" type="Armor">
+	<item id="422" name="Набедренники Преисподней" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_gaiters_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -416,7 +416,7 @@
 			<stat type="pDef">87</stat>
 		</stats>
 	</item>
-	<item id="423" name="Guardian's Leather Gaiters" type="Armor">
+	<item id="423" name="Кожаные Набедренники Стражника" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_gaiters_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -434,7 +434,7 @@
 			<stat type="pDef">82</stat>
 		</stats>
 	</item>
-	<item id="424" name="Marksman's Leather Gaiters" type="Armor">
+	<item id="424" name="Кожаные Набедренники Стрелка" type="Armor">
 		<set name="icon" val="icon.armor_mithril_banded_gaiters_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -452,7 +452,7 @@
 			<stat type="pDef">87</stat>
 		</stats>
 	</item>
-	<item id="425" name="Apprentice's Tunic" type="Armor">
+	<item id="425" name="Туника Ученика" type="Armor">
 		<set name="icon" val="icon.armor_t01_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -469,7 +469,7 @@
 			<stat type="maxMp">19</stat>
 		</stats>
 	</item>
-	<item id="426" name="Tunic" type="Armor">
+	<item id="426" name="Туника" type="Armor">
 		<set name="icon" val="icon.armor_t03_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -485,7 +485,7 @@
 			<stat type="maxMp">24</stat>
 		</stats>
 	</item>
-	<item id="427" name="Cotton Robe" type="Armor">
+	<item id="427" name="Хлопковая Мантия" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -502,7 +502,7 @@
 			<stat type="maxMp">61</stat>
 		</stats>
 	</item>
-	<item id="428" name="Feriotic Tunic" type="Armor">
+	<item id="428" name="Ферритовая Туника" type="Armor">
 		<set name="icon" val="icon.armor_t52_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -518,7 +518,7 @@
 			<stat type="maxMp">38</stat>
 		</stats>
 	</item>
-	<item id="429" name="Leather Tunic" type="Armor">
+	<item id="429" name="Кожаная Туника" type="Armor">
 		<set name="icon" val="icon.armor_t05_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -534,7 +534,7 @@
 			<stat type="maxMp">52</stat>
 		</stats>
 	</item>
-	<item id="430" name="Robe of Devotion" type="Armor">
+	<item id="430" name="Мантия Преданности" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -551,7 +551,7 @@
 			<stat type="maxMp">109</stat>
 		</stats>
 	</item>
-	<item id="431" name="Robe of Magic" type="Armor">
+	<item id="431" name="Мантия Магии" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -568,7 +568,7 @@
 			<stat type="maxMp">140</stat>
 		</stats>
 	</item>
-	<item id="432" name="Cursed Tunic" type="Armor">
+	<item id="432" name="Проклятая Туника" type="Armor">
 		<set name="icon" val="icon.armor_t14_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -587,7 +587,7 @@
 			<stat type="maxMp">106</stat>
 		</stats>
 	</item>
-	<item id="433" name="Elven Tunic" type="Armor">
+	<item id="433" name="Туника Эльфов" type="Armor">
 		<set name="icon" val="icon.armor_t11_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -606,7 +606,7 @@
 			<stat type="maxMp">126</stat>
 		</stats>
 	</item>
-	<item id="434" name="White Tunic" type="Armor">
+	<item id="434" name="Белая Туника" type="Armor">
 		<set name="icon" val="icon.armor_t16_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -625,7 +625,7 @@
 			<stat type="maxMp">126</stat>
 		</stats>
 	</item>
-	<item id="435" name="Wizard Tunic" type="Armor">
+	<item id="435" name="Туника Мистика" type="Armor">
 		<set name="icon" val="icon.armor_t17_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -644,7 +644,7 @@
 			<stat type="maxMp">126</stat>
 		</stats>
 	</item>
-	<item id="436" name="Tunic of Knowledge" type="Armor">
+	<item id="436" name="Туника Знаний" type="Armor">
 		<set name="icon" val="icon.armor_t41_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -663,7 +663,7 @@
 			<stat type="maxMp">147</stat>
 		</stats>
 	</item>
-	<item id="437" name="Mithril Tunic" type="Armor">
+	<item id="437" name="Мифриловая Туника" type="Armor">
 		<set name="icon" val="icon.armor_t51_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -682,7 +682,7 @@
 			<stat type="maxMp">169</stat>
 		</stats>
 	</item>
-	<item id="438" name="Sage's Rags" type="Armor">
+	<item id="438" name="Накидка Мудреца" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_t44_ul_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -702,7 +702,7 @@
 			<stat type="maxMp">320</stat>
 		</stats>
 	</item>
-	<item id="439" name="Karmian Tunic" type="Armor">
+	<item id="439" name="Туника Кармиана" type="Armor">
 		<set name="icon" val="icon.armor_t53_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -721,7 +721,7 @@
 			<stat type="maxMp">225</stat>
 		</stats>
 	</item>
-	<item id="440" name="Robe of Seal" type="Armor">
+	<item id="440" name="Мантия Печати" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_t44_ul_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -741,7 +741,7 @@
 			<stat type="maxMp">413</stat>
 		</stats>
 	</item>
-	<item id="441" name="Demon's Tunic" type="Armor">
+	<item id="441" name="Туника Демона" type="Armor">
 		<set name="icon" val="icon.armor_t54_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -760,7 +760,7 @@
 			<stat type="maxMp">284</stat>
 		</stats>
 	</item>
-	<item id="442" name="Divine Tunic" type="Armor">
+	<item id="442" name="Туника Святости" type="Armor">
 		<set name="icon" val="icon.armor_t57_u_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -779,7 +779,7 @@
 			<stat type="maxMp">314</stat>
 		</stats>
 	</item>
-	<item id="443" name="Tunic of Mana" type="Armor">
+	<item id="443" name="Туника Маны" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -798,7 +798,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="444" name="Sage's Robe" type="Armor">
+	<item id="444" name="Мантия Мудреца" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -818,7 +818,7 @@
 			<stat type="maxMp">665</stat>
 		</stats>
 	</item>
-	<item id="445" name="Paradia Tunic" type="Armor">
+	<item id="445" name="Туника Парадии" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -837,7 +837,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="446" name="Inferno Tunic" type="Armor">
+	<item id="446" name="Туника Инферно" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -856,7 +856,7 @@
 			<stat type="maxMp">409</stat>
 		</stats>
 	</item>
-	<item id="447" name="Tunic of Solar Eclipse" type="Armor">
+	<item id="447" name="Туника Солнечного Затмения" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -875,7 +875,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="448" name="Black Ore Robe" type="Armor">
+	<item id="448" name="Черная Мантия" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -895,7 +895,7 @@
 			<stat type="maxMp">665</stat>
 		</stats>
 	</item>
-	<item id="449" name="Summoning Tunic" type="Armor">
+	<item id="449" name="Туника Призыва" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -914,7 +914,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="450" name="Otherworldly Robe" type="Armor">
+	<item id="450" name="Потусторонняя Мантия" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -934,7 +934,7 @@
 			<stat type="maxMp">665</stat>
 		</stats>
 	</item>
-	<item id="451" name="Elemental Tunic" type="Armor">
+	<item id="451" name="Стихийная Туника" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -953,7 +953,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="452" name="Tunic of Phantom" type="Armor">
+	<item id="452" name="Туника Фантома" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -972,7 +972,7 @@
 			<stat type="maxMp">409</stat>
 		</stats>
 	</item>
-	<item id="453" name="Tunic of Grace" type="Armor">
+	<item id="453" name="Туника Изящества" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -991,7 +991,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="454" name="Robe of Holy Spirit" type="Armor">
+	<item id="454" name="Мантия Святого Духа" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -1011,7 +1011,7 @@
 			<stat type="maxMp">665</stat>
 		</stats>
 	</item>
-	<item id="455" name="Phoenix Tunic" type="Armor">
+	<item id="455" name="Туника Феникса" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1030,7 +1030,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="456" name="Cerberus Tunic" type="Armor">
+	<item id="456" name="Туника Цербера" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1049,7 +1049,7 @@
 			<stat type="maxMp">409</stat>
 		</stats>
 	</item>
-	<item id="457" name="Tunic of Aid" type="Armor">
+	<item id="457" name="Туника Помощи" type="Armor">
 		<set name="icon" val="icon.armor_tunic_of_knowledge_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1068,7 +1068,7 @@
 			<stat type="maxMp">377</stat>
 		</stats>
 	</item>
-	<item id="458" name="Robe of Blessing" type="Armor">
+	<item id="458" name="Мантия Благословения" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -1088,7 +1088,7 @@
 			<stat type="maxMp">665</stat>
 		</stats>
 	</item>
-	<item id="459" name="Dasparion's Robe" type="Armor">
+	<item id="459" name="Мантия Даспариона" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_cotton_robe_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -1108,7 +1108,7 @@
 			<stat type="maxMp">718</stat>
 		</stats>
 	</item>
-	<item id="460" name="The Robe" type="Armor">
+	<item id="460" name="Мантия" type="Armor">
 		<!-- One-piece upper and lower body armor. Additional lower body armor cannot be worn while wearing this. -->
 		<set name="icon" val="icon.armor_t44_ul_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1131,7 +1131,7 @@
 			<stat type="maxMp">773</stat>
 		</stats>
 	</item>
-	<item id="461" name="Apprentice's Stockings" type="Armor">
+	<item id="461" name="Штаны Ученика" type="Armor">
 		<set name="icon" val="icon.armor_t01_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1148,7 +1148,7 @@
 			<stat type="maxMp">10</stat>
 		</stats>
 	</item>
-	<item id="462" name="Stockings" type="Armor">
+	<item id="462" name="Штаны" type="Armor">
 		<set name="icon" val="icon.armor_t03_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1164,7 +1164,7 @@
 			<stat type="maxMp">15</stat>
 		</stats>
 	</item>
-	<item id="463" name="Feriotic Stockings" type="Armor">
+	<item id="463" name="Ферритовые Штаны" type="Armor">
 		<set name="icon" val="icon.armor_t52_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1180,7 +1180,7 @@
 			<stat type="maxMp">23</stat>
 		</stats>
 	</item>
-	<item id="464" name="Leather Stockings" type="Armor">
+	<item id="464" name="Кожаные Штаны" type="Armor">
 		<set name="icon" val="icon.armor_t05_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1196,7 +1196,7 @@
 			<stat type="maxMp">33</stat>
 		</stats>
 	</item>
-	<item id="465" name="Cursed Stockings" type="Armor">
+	<item id="465" name="Проклятые Штаны" type="Armor">
 		<set name="icon" val="icon.armor_t14_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1215,7 +1215,7 @@
 			<stat type="maxMp">66</stat>
 		</stats>
 	</item>
-	<item id="466" name="Elven Stockings" type="Armor">
+	<item id="466" name="Штаны Эльфов" type="Armor">
 		<set name="icon" val="icon.armor_t11_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1234,7 +1234,7 @@
 			<stat type="maxMp">79</stat>
 		</stats>
 	</item>
-	<item id="467" name="Dark Stockings" type="Armor">
+	<item id="467" name="Темные Штаны" type="Armor">
 		<set name="icon" val="icon.armor_t16_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1253,7 +1253,7 @@
 			<stat type="maxMp">79</stat>
 		</stats>
 	</item>
-	<item id="468" name="Wizard Stockings" type="Armor">
+	<item id="468" name="Штаны Мистика" type="Armor">
 		<set name="icon" val="icon.armor_t17_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1272,7 +1272,7 @@
 			<stat type="maxMp">79</stat>
 		</stats>
 	</item>
-	<item id="469" name="Stockings of Knowledge" type="Armor">
+	<item id="469" name="Штаны Знаний" type="Armor">
 		<set name="icon" val="icon.armor_t41_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1291,7 +1291,7 @@
 			<stat type="maxMp">92</stat>
 		</stats>
 	</item>
-	<item id="470" name="Mithril Stockings" type="Armor">
+	<item id="470" name="Мифриловые Штаны" type="Armor">
 		<set name="icon" val="icon.armor_t51_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1310,7 +1310,7 @@
 			<stat type="maxMp">105</stat>
 		</stats>
 	</item>
-	<item id="471" name="Karmian Stockings" type="Armor">
+	<item id="471" name="Штаны Кармиана" type="Armor">
 		<set name="icon" val="icon.armor_t53_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1329,7 +1329,7 @@
 			<stat type="maxMp">141</stat>
 		</stats>
 	</item>
-	<item id="472" name="Demon's Stockings" type="Armor">
+	<item id="472" name="Штаны Демона" type="Armor">
 		<set name="icon" val="icon.armor_t54_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1348,7 +1348,7 @@
 			<stat type="maxMp">177</stat>
 		</stats>
 	</item>
-	<item id="473" name="Divine Stockings" type="Armor">
+	<item id="473" name="Штаны Святости" type="Armor">
 		<set name="icon" val="icon.armor_t57_l_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1367,7 +1367,7 @@
 			<stat type="maxMp">196</stat>
 		</stats>
 	</item>
-	<item id="474" name="Stockings of Mana" type="Armor">
+	<item id="474" name="Штаны Маны" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1386,7 +1386,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="475" name="Paradia Stockings" type="Armor">
+	<item id="475" name="Штаны Парадии" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1405,7 +1405,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="476" name="Inferno Stockings" type="Armor">
+	<item id="476" name="Штаны Инферно" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1424,7 +1424,7 @@
 			<stat type="maxMp">256</stat>
 		</stats>
 	</item>
-	<item id="477" name="Stockings of Solar Eclipse" type="Armor">
+	<item id="477" name="Штаны Солнечного Затмения" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1443,7 +1443,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="478" name="Summoning Stockings" type="Armor">
+	<item id="478" name="Штаны Призыва" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1462,7 +1462,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="479" name="Elemental Stockings" type="Armor">
+	<item id="479" name="Штаны Стихии" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1481,7 +1481,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="480" name="Stockings of Phantom" type="Armor">
+	<item id="480" name="Штаны Фантома" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1500,7 +1500,7 @@
 			<stat type="maxMp">256</stat>
 		</stats>
 	</item>
-	<item id="481" name="Stockings of Grace" type="Armor">
+	<item id="481" name="Штаны Грации" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1519,7 +1519,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="482" name="Phoenix Stockings" type="Armor">
+	<item id="482" name="Штаны Феникса" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1538,7 +1538,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="483" name="Cerberus Stockings" type="Armor">
+	<item id="483" name="Штаны Цербера" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1557,7 +1557,7 @@
 			<stat type="maxMp">256</stat>
 		</stats>
 	</item>
-	<item id="484" name="Stockings of Aid" type="Armor">
+	<item id="484" name="Штаны Помощи" type="Armor">
 		<set name="icon" val="icon.armor_leather_hose_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="MAGIC" />
@@ -1576,7 +1576,7 @@
 			<stat type="maxMp">236</stat>
 		</stats>
 	</item>
-	<item id="485" name="Tattoo of Power" type="Armor">
+	<item id="485" name="Татуировка Силы" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1591,7 +1591,7 @@
 			<stat type="pDef">53</stat>
 		</stats>
 	</item>
-	<item id="486" name="Tattoo of Fire" type="Armor">
+	<item id="486" name="Татуировка Огня" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1609,7 +1609,7 @@
 			<stat type="pDef">73</stat>
 		</stats>
 	</item>
-	<item id="487" name="Tattoo of Resolve" type="Armor">
+	<item id="487" name="Татуировка Распада" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1627,7 +1627,7 @@
 			<stat type="pDef">73</stat>
 		</stats>
 	</item>
-	<item id="488" name="Tattoo of Flame" type="Armor">
+	<item id="488" name="Татуировка Пламени" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1645,7 +1645,7 @@
 			<stat type="pDef">139</stat>
 		</stats>
 	</item>
-	<item id="489" name="Tattoo of Bravery" type="Armor">
+	<item id="489" name="Татуировка Храбрости" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1663,7 +1663,7 @@
 			<stat type="pDef">110</stat>
 		</stats>
 	</item>
-	<item id="490" name="Tattoo of Blood" type="Armor">
+	<item id="490" name="Татуировка Крови" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1681,7 +1681,7 @@
 			<stat type="pDef">132</stat>
 		</stats>
 	</item>
-	<item id="491" name="Tattoo of Absolute" type="Armor">
+	<item id="491" name="Татуировка Совершенства" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1699,7 +1699,7 @@
 			<stat type="pDef">146</stat>
 		</stats>
 	</item>
-	<item id="492" name="Tattoo of Soul" type="Armor">
+	<item id="492" name="Татуировка Души" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1717,7 +1717,7 @@
 			<stat type="pDef">65</stat>
 		</stats>
 	</item>
-	<item id="493" name="Tattoo of Avadon" type="Armor">
+	<item id="493" name="Татуировка Авадона" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1735,7 +1735,7 @@
 			<stat type="pDef">117</stat>
 		</stats>
 	</item>
-	<item id="494" name="Tattoo of Doom" type="Armor">
+	<item id="494" name="Татуировка Рока" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1753,7 +1753,7 @@
 			<stat type="pDef">125</stat>
 		</stats>
 	</item>
-	<item id="495" name="Tattoo of Pledge" type="Armor">
+	<item id="495" name="Узор Обязательства" type="Armor">
 		<set name="icon" val="icon.item_normal03" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1771,7 +1771,7 @@
 			<stat type="pDef">124</stat>
 		</stats>
 	</item>
-	<item id="496" name="Tattoo of Divine" type="Armor">
+	<item id="496" name="Татуировка Божества" type="Armor">
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="armor_type" val="LIGHT" />
@@ -1789,7 +1789,7 @@
 			<stat type="pDef">131</stat>
 		</stats>
 	</item>
-	<item id="497" name="Chain Helmet" type="Armor">
+	<item id="497" name="Кольчужный Шлем" type="Armor">
 		<set name="icon" val="icon.armor_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -1805,7 +1805,7 @@
 			<stat type="pDef">45</stat>
 		</stats>
 	</item>
-	<item id="498" name="Steel Plate Helmet" type="Armor">
+	<item id="498" name="Стальной Шлем" type="Armor">
 		<set name="icon" val="icon.armor_helmet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />
@@ -1821,7 +1821,7 @@
 			<stat type="pDef">49</stat>
 		</stats>
 	</item>
-	<item id="499" name="Mithril Helmet" type="Armor">
+	<item id="499" name="Мифриловый Шлем" type="Armor">
 		<set name="icon" val="icon.armor_circlet_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="head" />

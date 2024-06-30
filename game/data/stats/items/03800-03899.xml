@@ -884,7 +884,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="3875" name="Letter A" additionalName="Event" type="EtcItem">
+	<item id="3875" name="Буква A" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_a_i00" />
 		<set name="immediate_effect" val="true" />
@@ -892,7 +892,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3876" name="Letter C" additionalName="Event" type="EtcItem">
+	<item id="3876" name="Буква C" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_c_i00" />
 		<set name="immediate_effect" val="true" />
@@ -900,7 +900,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3877" name="Letter E" additionalName="Event" type="EtcItem">
+	<item id="3877" name="Буква E" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_e_i00" />
 		<set name="immediate_effect" val="true" />
@@ -908,7 +908,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3878" name="Letter F" additionalName="Event" type="EtcItem">
+	<item id="3878" name="Буква F" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_f_i00" />
 		<set name="immediate_effect" val="true" />
@@ -916,7 +916,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3879" name="Letter G" additionalName="Event" type="EtcItem">
+	<item id="3879" name="Буква G" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_g_i00" />
 		<set name="immediate_effect" val="true" />
@@ -924,7 +924,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3880" name="Letter H" additionalName="Event" type="EtcItem">
+	<item id="3880" name="Буква H" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_h_i00" />
 		<set name="immediate_effect" val="true" />
@@ -932,7 +932,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3881" name="Letter I" additionalName="Event" type="EtcItem">
+	<item id="3881" name="Буква I" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_i_i00" />
 		<set name="immediate_effect" val="true" />
@@ -940,7 +940,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3882" name="Letter L" additionalName="Event" type="EtcItem">
+	<item id="3882" name="Буква L" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_l_i00" />
 		<set name="immediate_effect" val="true" />
@@ -948,7 +948,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3883" name="Letter N" additionalName="Event" type="EtcItem">
+	<item id="3883" name="Буква N" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_n_i00" />
 		<set name="immediate_effect" val="true" />
@@ -956,7 +956,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3884" name="Letter O" additionalName="Event" type="EtcItem">
+	<item id="3884" name="Буква O" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_o_i00" />
 		<set name="immediate_effect" val="true" />
@@ -964,7 +964,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3885" name="Letter R" additionalName="Event" type="EtcItem">
+	<item id="3885" name="Буква R" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_r_i00" />
 		<set name="immediate_effect" val="true" />
@@ -972,7 +972,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3886" name="Letter S" additionalName="Event" type="EtcItem">
+	<item id="3886" name="Буква S" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_s_i00" />
 		<set name="immediate_effect" val="true" />
@@ -980,7 +980,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3887" name="Letter T" additionalName="Event" type="EtcItem">
+	<item id="3887" name="Буква T" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_t_i00" />
 		<set name="immediate_effect" val="true" />
@@ -988,7 +988,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3888" name="Number II" additionalName="Event" type="EtcItem">
+	<item id="3888" name="Цифра II" additionalName="Event" type="EtcItem">
 		<!-- Combine with other letters to create a special word and get a reward! -->
 		<set name="icon" val="icon.etc_alphabet_ii_i00" />
 		<set name="immediate_effect" val="true" />
@@ -996,7 +996,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3889" name="Antidote" type="EtcItem">
+	<item id="3889" name="Противоядие" type="EtcItem">
 		<!-- Remedy that can neutralize the Poison of Witch Kalis. If the clan leader uses this, the Poisoning is healed. -->
 		<set name="icon" val="icon.etc_herb_green_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -1026,7 +1026,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="3891" name="Wolf's Hide Armor" type="Armor">
+	<item id="3891" name="Скрытый Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1047,7 +1047,7 @@
 			<stat type="pDef">13</stat>
 		</stats>
 	</item>
-	<item id="3892" name="Wolf's Durable Leather Armor" type="Armor">
+	<item id="3892" name="Толстый Кожаный Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1068,7 +1068,7 @@
 			<stat type="pDef">16</stat>
 		</stats>
 	</item>
-	<item id="3893" name="Wolf's Wooden Armor" type="Armor">
+	<item id="3893" name="Деревянный Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i01" />
 		<set name="default_action" val="EQUIP" />
@@ -1089,7 +1089,7 @@
 			<stat type="pDef">19</stat>
 		</stats>
 	</item>
-	<item id="3894" name="Wolf's Ring Mail" type="Armor">
+	<item id="3894" name="Кольчужный Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i01" />
 		<set name="default_action" val="EQUIP" />
@@ -1110,7 +1110,7 @@
 			<stat type="pDef">22</stat>
 		</stats>
 	</item>
-	<item id="3895" name="Wolf's Bone Armor" type="Armor">
+	<item id="3895" name="Костяной Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i01" />
 		<set name="default_action" val="EQUIP" />
@@ -1131,7 +1131,7 @@
 			<stat type="pDef">26</stat>
 		</stats>
 	</item>
-	<item id="3896" name="Wolf's Scale Mail" type="Armor">
+	<item id="3896" name="Чешуйчатый Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i01" />
 		<set name="default_action" val="EQUIP" />
@@ -1152,7 +1152,7 @@
 			<stat type="pDef">30</stat>
 		</stats>
 	</item>
-	<item id="3897" name="Wolf's Bronze Armor" type="Armor">
+	<item id="3897" name="Бронзовый Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i01" />
 		<set name="default_action" val="EQUIP" />
@@ -1173,7 +1173,7 @@
 			<stat type="pDef">33</stat>
 		</stats>
 	</item>
-	<item id="3898" name="Wolf's Plate Mail" type="Armor">
+	<item id="3898" name="Латный Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i02" />
 		<set name="default_action" val="EQUIP" />
@@ -1194,7 +1194,7 @@
 			<stat type="pDef">37</stat>
 		</stats>
 	</item>
-	<item id="3899" name="Wolf's Steel Armor" type="Armor">
+	<item id="3899" name="Стальной Доспех Волка" type="Armor">
 		<!-- Double-click to wear. Only for wolves, great wolves, and fenrir. -->
 		<set name="icon" val="icon.etc_pet_armor_i02" />
 		<set name="default_action" val="EQUIP" />

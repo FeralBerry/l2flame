@@ -1400,7 +1400,7 @@
 			<height normal="22" grown="27" />
 		</collision>
 	</npc>
-	<npc id="20615" level="29" type="Monster" name="Ritmal Swordsman">
+	<npc id="20615" level="29" type="Monster" name="Призрачный Мечник">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1415,7 +1415,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="73" /> <!-- rhand: Shamshir -->
-		<acquire exp="2625" sp="140" />
+		<acquire exp="870" sp="87" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="573.42917" hpRegen="3.5" mp="315.12" mpRegen="1.5" />
 			<attack physical="86.42002" magical="59.01367" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1447,7 +1447,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="400">
+		<ai aggroRange="300" clanHelpRange="400" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
 			</clanList>
@@ -1455,7 +1455,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="379" max="750" chance="100" /> <!-- Adena -->
+					<item id="57" min="580" max="696" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3087">
 					<item id="627" min="1" max="1" chance="58.8055" /> <!-- Aspis -->

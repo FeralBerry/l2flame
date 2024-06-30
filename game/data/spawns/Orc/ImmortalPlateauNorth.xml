@@ -24,7 +24,7 @@
 		<npc id="20050" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Ядовитый Арахнид 20 лвл -->
 	</spawn>
 	<spawn>
-		<npc id="25373" x="442" y="-141758" z="-2072" heading="16723" dbSave="true" dbName="Dagoniel's Herald Malex (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Дагониэля Малекс (21) -->
+		<npc id="25373" x="442" y="-141758" z="-2072" heading="16723" dbSave="true" dbName="Посланник Дагониэля Малекс (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Дагониэля Малекс (21) -->
 	</spawn>
 	<spawn>
 		<!-- NPC Квест и другие -->

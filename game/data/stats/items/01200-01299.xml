@@ -156,7 +156,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="1213" name="Guard's Bow" type="Weapon">
+	<item id="1213" name="Лук Стража" type="Weapon">
 		<!-- Bow given to you by Guard Moretti. Perhaps it can be used for something important. -->
 		<set name="icon" val="icon.weapon_bow_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1145,7 +1145,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="1294" name="Spellbook: Defense Aura" type="EtcItem">
+	<item id="1294" name="Книга Заклинаний - Аура Защиты" type="EtcItem">
 		<!-- A spellbook for learning the Defense Aura skill. Used by Elven Fighters and Dark Fighters. Required level: 5. -->
 		<set name="icon" val="icon.etc_spell_books_efighter_i00" />
 		<set name="immediate_effect" val="true" />
@@ -1155,7 +1155,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1295" name="Long Sword" type="Weapon">
+	<item id="1295" name="Длинный Меч" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_long_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1180,7 +1180,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1296" name="Gladius" type="Weapon">
+	<item id="1296" name="Гладиус" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_gladius_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1205,7 +1205,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1297" name="Bastard Sword" type="Weapon">
+	<item id="1297" name="Полуторный Меч" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_bastard_sword_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1230,7 +1230,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1298" name="Caliburs" type="Weapon">
+	<item id="1298" name="Экскалибур" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_caliburs_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1255,7 +1255,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="1299" name="Dual Swords" type="Weapon">
+	<item id="1299" name="Парные Мечи" type="Weapon">
 		<!-- Temporary item for Kamex -->
 		<set name="icon" val="icon.weapon_2hs03" />
 		<set name="default_action" val="EQUIP" />

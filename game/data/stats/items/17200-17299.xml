@@ -748,7 +748,7 @@
 			<skill id="9178" level="1" /> <!-- Theodric's Box -->
 		</skills>
 	</item>
-	<item id="17255" name="Blessed Scroll: Enchant A-grade Weapon" additionalName="Event" type="EtcItem">
+	<item id="17255" name="Благословенный Свиток: Модифицировать Оружие Ранга A" additionalName="Event" type="EtcItem">
 		<!-- For A-grade weapons. P. Atk. +4 for one-handed swords/ blunts/ staffs, daggers, spears. P. Atk. +5 for two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +8 for bows. M. Atk. +3 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. In case of failure the item is not crystallized, but its enchant value is reset to 0. Cannot be used on weapons enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_a_i04" />
 		<set name="material" val="PAPER" />
@@ -764,7 +764,7 @@
 			<skill id="2027" level="1" /> <!-- Blessed Scroll: Enchant Weapon (A-grade) -->
 		</skills>
 	</item>
-	<item id="17256" name="Blessed Scroll: Enchant A-grade Armor" additionalName="Event" type="EtcItem">
+	<item id="17256" name="Благословенный Свиток: Модифицировать Доспех Ранга A" additionalName="Event" type="EtcItem">
 		<!-- P. Def. +1 for A-grade armor and accessories. Increases by 3 when enchanted to +4 or higher. It can be safely enchanted up to +3. For one-piece armor, it can be safely enchanted up to +4. If enchanting fails, the item is not crystallized but the enchant value is reset to 0. HP is gradually increased with each enchant value when enchanted to +4 or higher. Cannot be used on armor or accessories enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_a_i04" />
 		<set name="material" val="PAPER" />
@@ -780,7 +780,7 @@
 			<skill id="2209" level="1" /> <!-- Blessed Scroll: Enchant Armor (A-grade) -->
 		</skills>
 	</item>
-	<item id="17257" name="Blessed Scroll: Enchant B-grade Weapon" additionalName="Event" type="EtcItem">
+	<item id="17257" name="Благословенный Свиток: Модифицировать Оружие Ранга B" additionalName="Event" type="EtcItem">
 		<!-- For B-grade weapons. P. Atk. +3 for one-handed swords/ blunts/ staffs, daggers, spears. P. Atk. +4 for two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +6 for bows. M. Atk. +3 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. In case of failure the item is not crystallized, but its enchant value is reset to 0. Cannot be used with weapons enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_b_i03" />
 		<set name="material" val="PAPER" />
@@ -796,7 +796,7 @@
 			<skill id="2028" level="1" /> <!-- Blessed Scroll: Enchant Weapon (B-grade) -->
 		</skills>
 	</item>
-	<item id="17258" name="Blessed Scroll: Enchant B-grade Armor" additionalName="Event" type="EtcItem">
+	<item id="17258" name="Благословенный Свиток: Модифицировать Доспех Ранга B" additionalName="Event" type="EtcItem">
 		<!-- P. Def. +1 for B-grade armor and accessories. When enchanted to +4 or higher, P. Def. +3. Can be safely enchanted up to +3. For one-piece armor, it can be safely enchanted up to +4. If enchanting fails, the item is not crystallized but the enchant value is reset to 0. HP is gradually increased with each enchant value when enchanted to +4 or higher. Cannot be used on armor or accessories enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_b_i03" />
 		<set name="material" val="PAPER" />
@@ -812,7 +812,7 @@
 			<skill id="2210" level="1" /> <!-- Blessed Scroll: Enchant Armor (B-grade) -->
 		</skills>
 	</item>
-	<item id="17259" name="Blessed Scroll: Enchant C-grade Weapon" additionalName="Event" type="EtcItem">
+	<item id="17259" name="Благословенный Свиток: Модифицировать Оружие Ранга C" additionalName="Event" type="EtcItem">
 		<!-- For C-grade weapons. P. Atk. +3 for one-handed swords/ blunts/ staffs, daggers, spears. P. Atk. +4 for two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +6 for bows. M. Atk. +3 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. In case of failure the item is not crystallized, but its enchant value is reset to 0. Cannot be used with weapons enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_c_i02" />
 		<set name="material" val="PAPER" />
@@ -828,7 +828,7 @@
 			<skill id="2029" level="1" /> <!-- Blessed Scroll: Enchant Weapon (C-grade) -->
 		</skills>
 	</item>
-	<item id="17260" name="Blessed Scroll: Enchant C-grade Armor" additionalName="Event" type="EtcItem">
+	<item id="17260" name="Благословенный Свиток: Модифицировать Доспех Ранга C" additionalName="Event" type="EtcItem">
 		<!-- P. Def. +1 for C-grade armor and accessories. Increases by 3 when enchanted to +4 or higher. It can be safely enchanted up to +3. For one-piece armor, it can be safely enchanted up to +4. HP is gradually increased with each enchant value when enchanted to +4 or higher. If enchanting fails, the item is not crystallized but the enchant value is reset to 0. Cannot be used on armor or accessories enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_c_i02" />
 		<set name="material" val="PAPER" />
@@ -844,7 +844,7 @@
 			<skill id="2211" level="1" /> <!-- Blessed Scroll: Enchant Armor (C-grade) -->
 		</skills>
 	</item>
-	<item id="17261" name="Blessed Scroll: Enchant D-grade Weapon" additionalName="Event" type="EtcItem">
+	<item id="17261" name="Благословенный Свиток: Модифицировать Оружие Ранга D" additionalName="Event" type="EtcItem">
 		<!-- For D-grade weapons. P. Atk. +2 for one-handed swords/ blunts/ staffs, daggers, spears, two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +4 for bows. M. Atk. +2 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. In case of failure the item is not crystallized, but its enchant value resets to 0. Cannot be used with weapons enchanted to +30 and higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_d_i01" />
 		<set name="material" val="PAPER" />
@@ -860,7 +860,7 @@
 			<skill id="2030" level="1" /> <!-- Blessed Scroll: Enchant Weapon (D-grade) -->
 		</skills>
 	</item>
-	<item id="17262" name="Blessed Scroll: Enchant D-grade Armor" additionalName="Event" type="EtcItem">
+	<item id="17262" name="Благословенный Свиток: Модифицировать Доспех Ранга D" additionalName="Event" type="EtcItem">
 		<!-- P. Def. +1 for D-grade armor and accessories. Increases by 3 when enchanted to +4 or higher. It can be safely enchanted up to +3. For one-piece armor, it can be safely enchanted up to +4. HP is gradually increased with each enchant value when enchanted to +4 or higher. If enchanting fails, the item is not crystallized but the enchant value is reset to 0. Cannot be used on armor or accessories enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_d_i01" />
 		<set name="material" val="PAPER" />
@@ -876,7 +876,7 @@
 			<skill id="2212" level="1" /> <!-- Blessed Scroll: Enchant Armor (D-grade) -->
 		</skills>
 	</item>
-	<item id="17263" name="Blessed Scroll: Enchant S-grade Weapon" additionalName="Event" type="EtcItem">
+	<item id="17263" name="Благословенный Свиток: Модифицировать Оружие Ранга S" additionalName="Event" type="EtcItem">
 		<!-- For S-grade weapons. P. Atk. +5 for one-handed swords/ blunts/ staffs, daggers, spears. P. Atk. +6 for two-handed swords/ blunts/ staffs, dual daggers, dual swords, fists. P. Atk. +10 for bows. M. Atk. +4 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. In case of failure the item is not crystallized, but its enchant value is reset to 0. Cannot be used with weapons enchanted to +30 and higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_s_i05" />
 		<set name="material" val="PAPER" />
@@ -892,7 +892,7 @@
 			<skill id="2026" level="1" /> <!-- Blessed Scroll: Enchant Weapon (S-grade) -->
 		</skills>
 	</item>
-	<item id="17264" name="Blessed Scroll: Enchant S-grade Armor" additionalName="Event" type="EtcItem">
+	<item id="17264" name="Благословенный Свиток: Модифицировать Доспех Ранга S" additionalName="Event" type="EtcItem">
 		<!-- For S-grade armor and accessories. P. Def. +1. Starting from +4, P. Def. +3, HP is increased with each enchant value. The enchanting is safe up to +3 for common armor and +4 for one-piece armor. In case of failure the item is not crystallized, but its enchant value is reset to 0. Cannot be used for weapons enchanted to +30 or higher. -->
 		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_s_i05" />
 		<set name="material" val="PAPER" />
