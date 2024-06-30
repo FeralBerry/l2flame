@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="3500" name="Dragonflute of Wind" type="EtcItem">
+	<item id="3500" name="Флейта Ветра" type="EtcItem">
 		<!-- Flute used to call up a Hatchling of the Wind. Takes a part of the XP gained by the Pet master. -->
 		<set name="icon" val="icon.etc_flute_i00" />
 		<set name="default_action" val="SKILL_MAINTAIN" />
@@ -19,7 +19,7 @@
 			<skill id="2046" level="1" /> <!-- Summon Pet -->
 		</skills>
 	</item>
-	<item id="3501" name="Star Dragon Flute" type="EtcItem">
+	<item id="3501" name="Флейта Звезд" type="EtcItem">
 		<!-- Flute used to call up a Hatchling of Star. Takes a part of the XP gained by the Pet master. -->
 		<set name="icon" val="icon.etc_flute_i00" />
 		<set name="default_action" val="SKILL_MAINTAIN" />
@@ -38,7 +38,7 @@
 			<skill id="2046" level="1" /> <!-- Summon Pet -->
 		</skills>
 	</item>
-	<item id="3502" name="Dragonflute of Twilight" type="EtcItem">
+	<item id="3502" name="Флейта Сумерек" type="EtcItem">
 		<!-- Flute used to call up a Hatchling of Twilight. Takes a part of the XP gained by the Pet master. -->
 		<set name="icon" val="icon.etc_flute_i00" />
 		<set name="default_action" val="SKILL_MAINTAIN" />

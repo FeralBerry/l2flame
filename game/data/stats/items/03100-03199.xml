@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="3100" name="Spellbook: Guidance" type="EtcItem">
+	<item id="3100" name="Книга Заклинаний - Наведение" type="EtcItem">
 		<!-- A spellbook for learning the Guidance skill. Used by Prophets and Shillien Elders. Required level: 40. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -10,7 +10,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3101" name="Spellbook: Death Whisper" type="EtcItem">
+	<item id="3101" name="Книга Заклинаний - Шепот Смерти" type="EtcItem">
 		<!-- A spellbook for learning the Death Whisper skill. Used by Prophets and Shillien Elders. Required level: 40. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -20,7 +20,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3102" name="Spellbook: Blessed Shield" type="EtcItem">
+	<item id="3102" name="Книга Заклинаний - Благословение Щита" type="EtcItem">
 		<!-- A spellbook for learning the Blessed Shield skill. Used by Prophets and Elven Elders. Required level: 40. -->
 		<set name="icon" val="icon.etc_spell_books_assistance_i00" />
 		<set name="immediate_effect" val="true" />
@@ -30,7 +30,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3103" name="Amulet: Pa'agrio's Wisdom" type="EtcItem">
+	<item id="3103" name="Амулет: Мудрость Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Wisdom skill. Used by Overlords. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -40,7 +40,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3104" name="Amulet: Pa'agrio's Glory" type="EtcItem">
+	<item id="3104" name="Амулет: Слава Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Glory skill. Used by Overlords. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -50,7 +50,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3105" name="Amulet: Seal of Winter" type="EtcItem">
+	<item id="3105" name="Амулет: Печать Зимы" type="EtcItem">
 		<!-- An amulet for learning the Seal of Winter skill. Used by Overlords. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -60,7 +60,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3106" name="Amulet: Seal of Flame" type="EtcItem">
+	<item id="3106" name="Амулет: Печать Пламени" type="EtcItem">
 		<!-- An amulet for learning the Seal of Flame skill. Used by Overlords. Required level: 48. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -70,7 +70,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3107" name="Amulet: Seal of Gloom" type="EtcItem">
+	<item id="3107" name="Амулет: Печать Мрака" type="EtcItem">
 		<!-- An amulet for learning the Seal of Gloom skill. Used by Overlords. Required level: 44. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -80,7 +80,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3108" name="Amulet: Seal of Mirage" type="EtcItem">
+	<item id="3108" name="Амулет: Печать Миражей" type="EtcItem">
 		<!-- An amulet for learning the Seal of Mirage skill. Used by Overlords. Required level: 44. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -90,7 +90,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3109" name="Amulet: Seal of Silence" type="EtcItem">
+	<item id="3109" name="Амулет: Печать Безмолвия" type="EtcItem">
 		<!-- An amulet for learning the Seal of Silence skill. Used by Overlords. Required level: 48. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -100,7 +100,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3110" name="Amulet: Seal of Scourge" type="EtcItem">
+	<item id="3110" name="Амулет: Печать Наказания" type="EtcItem">
 		<!-- An amulet for learning the Seal of Scourge skill. Used by Overlords. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -110,7 +110,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3111" name="Amulet: Seal of Suspension" type="EtcItem">
+	<item id="3111" name="Амулет: Печать Отставания" type="EtcItem">
 		<!-- An amulet for learning the Seal of Suspension skill. Used by Overlords. Required level: 48. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -120,7 +120,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3112" name="Amulet: Pa'agrio's Vision" type="EtcItem">
+	<item id="3112" name="Амулет: Взгляд Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Vision skill. Used by Overlords. Required level: 44. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -130,7 +130,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3113" name="Amulet: Pa'agrio's Protection" type="EtcItem">
+	<item id="3113" name="Амулет: Защита Паагрио" type="EtcItem">
 		<!-- An amulet for learning the Pa'agrio's Protection skill. Used by Overlords. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -140,7 +140,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3114" name="Amulet: Steal Essence" type="EtcItem">
+	<item id="3114" name="Амулет: Кража Сущности" type="EtcItem">
 		<!-- An amulet for learning the Steal Essence skill. Used by Warcryers and Overlords. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -150,7 +150,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3115" name="Amulet: Freezing Flame" type="EtcItem">
+	<item id="3115" name="Амулет: Замораживающее Пламя" type="EtcItem">
 		<!-- An amulet for learning the Freezing Flame skill. Used by Warcryers. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -160,7 +160,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3116" name="Amulet: Chant of Fury" type="EtcItem">
+	<item id="3116" name="Амулет: Напев Ярости" type="EtcItem">
 		<!-- An amulet for learning the Chant of Fury skill. Used by Warcryers. Required level: 48. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -170,7 +170,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3117" name="Amulet: Chant of Evasion" type="EtcItem">
+	<item id="3117" name="Амулет: Напев Уклонения" type="EtcItem">
 		<!-- An amulet for learning the Chant of Evasion skill. Used by Warcryers. Required level: 40. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -180,7 +180,7 @@
 		<set name="commissionItemType" val="SPELLBOOK" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="3118" name="Amulet: Chant of Rage" type="EtcItem">
+	<item id="3118" name="Амулет: Напев Гнева" type="EtcItem">
 		<!-- An amulet for learning the Chant of Rage skill. Used by Warcryers. Required level: 44. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />

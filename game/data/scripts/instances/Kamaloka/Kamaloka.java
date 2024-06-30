@@ -89,8 +89,8 @@ public class Kamaloka extends AbstractInstance
 	// Teleport points into instances x, y, z
 	private static final Location[] TELEPORTS =
 	{
-		new Location(-88429, -220629, -7903),// 43 камалока
-		new Location(-82464, -219532, -7899),
+		new Location(-88429, -220629, -7903),// 43
+		new Location(-82464, -219532, -7899), // 46
 		new Location(-10700, -174882, -10936), // -76280, -185540, -10936
 		new Location(-89683, -213573, -8106),
 		new Location(-81413, -213568, -8104),

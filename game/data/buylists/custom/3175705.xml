@@ -3,146 +3,147 @@
 	<npcs>
 		<npc>31757</npc> <!-- Miss Queen -->
 	</npcs>
-	<item id="6688" price="185058" /> <!-- Forgotten Blade Edge -->
-	<item id="6689" price="188612" /> <!-- Basalt Battlehammer Head -->
-	<item id="6690" price="184706" /> <!-- Imperial Staff Head -->
-	<item id="6691" price="185058" /> <!-- Angel Slayer Blade -->
-	<item id="6693" price="181764" /> <!-- Dragon Hunter Axe Blade -->
-	<item id="6694" price="181764" /> <!-- Saint Spear Blade -->
-	<item id="6695" price="188612" /> <!-- Demon Splinter Blade -->
-	<item id="6696" price="182164" /> <!-- Heavens Divider Edge -->
-	<item id="6697" price="188612" /> <!-- Arcana Mace Head -->
-	<item id="7579" price="182942" /> <!-- Draconic Bow Shaft -->
-	<item id="6698" price="20364" /> <!-- Sealed Tateossian Earring Part -->
-	<item id="6699" price="18352" /> <!-- Sealed Tateossian Ring Gem -->
-	<item id="6700" price="33412" /> <!-- Sealed Tateossian Necklace Chain -->
-	<item id="6701" price="75130" /> <!-- Sealed Imperial Crusader Breastplate Part -->
-	<item id="6702" price="58364" /> <!-- Sealed Imperial Crusader Gaiters Pattern -->
-	<item id="6703" price="28094" /> <!-- Sealed Imperial Crusader Gauntlets Design -->
-	<item id="6704" price="28094" /> <!-- Sealed Imperial Crusader Boots Design -->
-	<item id="6705" price="28682" /> <!-- Sealed Imperial Crusader Shield Part -->
-	<item id="6706" price="24658" /> <!-- Sealed Imperial Crusader Helmet Pattern -->
-	<item id="6707" price="80730" /> <!-- Sealed Draconic Leather Armor Part -->
-	<item id="6708" price="28094" /> <!-- Sealed Draconic Leather Gloves Fabric -->
-	<item id="6709" price="28094" /> <!-- Sealed Draconic Leather Boots Design -->
-	<item id="6710" price="24658" /> <!-- Sealed Draconic Leather Helmet Pattern -->
-	<item id="6711" price="80730" /> <!-- Sealed Major Arcana Robe Part -->
-	<item id="6712" price="28094" /> <!-- Sealed Major Arcana Gloves fabric -->
-	<item id="6713" price="28094" /> <!-- Sealed Major Arcana Boots Design -->
-	<item id="6714" price="24658" /> <!-- Sealed Major Arcana Circlet Pattern -->
-	<item id="6904" price="10000" /> <!-- Party Mask Fabric -->
-	<item id="6905" price="10000" /> <!-- Hair Pin Piece -->
-	<item id="6906" price="10000" /> <!-- Pirate's Eye Patch Material -->
-	<item id="6907" price="10000" /> <!-- Monocle Piece -->
-	<item id="7684" price="10000" /> <!-- Raccoon Ears Fabric -->
-	<item id="7685" price="10000" /> <!-- Outlaw's Eyepatch Strap -->
-	<item id="7686" price="10000" /> <!-- Maiden's Hairpin Piece -->
-	<item id="7687" price="10000" /> <!-- Rabbit Ears Fabric -->
-	<item id="7688" price="10000" /> <!-- Cat Ears Fabric -->
-	<item id="7697" price="10000" /> <!-- Piece of Forget-me-not Hairpin -->
-	<item id="7698" price="10000" /> <!-- Piece of Daisy Hairpin -->
-	<item id="9530" price="183102" /> <!-- Sealed Dynasty Breast Plate Piece -->
-	<item id="9531" price="61902" /> <!-- Sealed Dynasty Gaiters Piece -->
-	<item id="9532" price="74162" /> <!-- Sealed Dynasty Helmet Piece -->
-	<item id="9533" price="55740" /> <!-- Sealed Dynasty Gauntlet Piece -->
-	<item id="9534" price="55740" /> <!-- Sealed Dynasty Boot Piece -->
-	<item id="9535" price="149058" /> <!-- Sealed Dynasty Leather Armor Piece -->
-	<item id="9536" price="101404" /> <!-- Sealed Dynasty Leather Leggings Piece -->
-	<item id="9537" price="74162" /> <!-- Sealed Dynasty Leather Helmet Piece -->
-	<item id="9538" price="55740" /> <!-- Sealed Dynasty Leather Glove Piece -->
-	<item id="9539" price="55740" /> <!-- Sealed Dynasty Leather Boots Piece -->
-	<item id="9540" price="149058" /> <!-- Sealed Dynasty Tunic Piece -->
-	<item id="9541" price="101404" /> <!-- Sealed Dynasty Stocking Piece -->
-	<item id="9542" price="74162" /> <!-- Sealed Dynasty Circlet Piece -->
-	<item id="9543" price="55740" /> <!-- Sealed Dynasty Glove Piece -->
-	<item id="9544" price="55740" /> <!-- Sealed Dynasty Shoes Piece -->
-	<item id="9545" price="62218" /> <!-- Sealed Dynasty Shield Piece -->
-	<item id="9991" price="113732" /> <!-- Sealed Dynasty Earring Gemstone -->
-	<item id="9992" price="148190" /> <!-- Sealed Dynasty Necklace Gemstone -->
-	<item id="9993" price="80928" /> <!-- Sealed Dynasty Ring Gemstone -->
-	<item id="9616" price="479600" /> <!-- Dynasty Sword Piece -->
-	<item id="9617" price="479600" /> <!-- Dynasty Blade Piece -->
-	<item id="9618" price="479600" /> <!-- Dynasty Phantom Piece -->
-	<item id="9619" price="476400" /> <!-- Dynasty Bow Piece -->
-	<item id="9620" price="480000" /> <!-- Dynasty Knife Piece -->
-	<item id="9621" price="477400" /> <!-- Dynasty Halberd Piece -->
-	<item id="9622" price="495400" /> <!-- Dynasty Cudgel Piece -->
-	<item id="9623" price="495400" /> <!-- Dynasty Mace Piece -->
-	<item id="9624" price="495400" /> <!-- Dynasty Bagh-Nakh Piece -->
-	<item id="10546" price="478000" /> <!-- Dynasty Staff Fragment -->
-	<item id="10547" price="478000" /> <!-- Dynasty Crusher Fragment -->
-	<item id="10397" price="622000" /> <!-- Icarus Sawsword Piece -->
-	<item id="10398" price="622000" /> <!-- Icarus Disperser Piece -->
-	<item id="10399" price="622000" /> <!-- Icarus Spirit Piece -->
-	<item id="10400" price="624000" /> <!-- Icarus Heavy Arms Piece -->
-	<item id="10401" price="624000" /> <!-- Icarus Trident Piece -->
-	<item id="10402" price="624000" /> <!-- Icarus Hammer Piece -->
-	<item id="10403" price="624000" /> <!-- Icarus Hand Piece -->
-	<item id="10404" price="624000" /> <!-- Icarus Hall Piece -->
-	<item id="10405" price="624000" /> <!-- Icarus Spitter Piece -->
-	<item id="10114" price="107554" /> <!-- Sealed Dynasty Sigil Piece -->
-	<item id="13099" price="28682" /> <!-- Sealed Arcana Sigil Piece -->
-	<item id="15634" price="673400" /> <!-- Vesper Cutter Piece -->
-	<item id="15635" price="674600" /> <!-- Vesper Slasher Piece -->
-	<item id="15636" price="673400" /> <!-- Vesper Buster Piece -->
-	<item id="15637" price="673400" /> <!-- Vesper Shaper Piece -->
-	<item id="15638" price="679200" /> <!-- Vesper Fighter Piece -->
-	<item id="15639" price="671400" /> <!-- Vesper Stormer Piece -->
-	<item id="15640" price="679200" /> <!-- Vesper Avenger Piece -->
-	<item id="15641" price="671400" /> <!-- Vesper Retributer Piece -->
-	<item id="15642" price="679200" /> <!-- Vesper Caster Piece -->
-	<item id="15643" price="677400" /> <!-- Vesper Singer Piece -->
-	<item id="15644" price="670600" /> <!-- Vesper Thrower Piece -->
-	<item id="15645" price="67400" /> <!-- Sealed Moirai Helmet Piece -->
-	<item id="15646" price="67400" /> <!-- Sealed Moirai Leather Helmet Piece -->
-	<item id="15647" price="67400" /> <!-- Sealed Moirai Circlet Piece -->
-	<item id="15648" price="168600" /> <!-- Sealed Moirai Breastplate Piece -->
-	<item id="15649" price="124600" /> <!-- Sealed Moirai Leather Breastplate Piece -->
-	<item id="15650" price="124600" /> <!-- Sealed Moirai Tunic Piece -->
-	<item id="15651" price="100600" /> <!-- Sealed Moirai Gaiter Piece -->
-	<item id="15652" price="76800" /> <!-- Sealed Moirai Leather Legging Piece -->
-	<item id="15653" price="76800" /> <!-- Sealed Moirai Stockings Piece -->
-	<item id="15654" price="44800" /> <!-- Sealed Moirai Gauntlet Piece -->
-	<item id="15655" price="44800" /> <!-- Sealed Moirai Leather Gloves Piece -->
-	<item id="15656" price="44800" /> <!-- Sealed Moirai Gloves Piece -->
-	<item id="15657" price="44800" /> <!-- Sealed Moirai Boots Piece -->
-	<item id="15658" price="44800" /> <!-- Sealed Moirai Leather Boots Piece -->
-	<item id="15659" price="44800" /> <!-- Sealed Moirai Shoes Piece -->
-	<item id="15660" price="87200" /> <!-- Sealed Vesper Helmet Piece -->
-	<item id="15661" price="87200" /> <!-- Sealed Vesper Leather Helmet Piece -->
-	<item id="15662" price="87200" /> <!-- Sealed Vesper Circlet Piece -->
-	<item id="15663" price="221000" /> <!-- Sealed Vesper Breastplate Piece -->
-	<item id="15664" price="168600" /> <!-- Sealed Vesper Leather Breastplate Piece -->
-	<item id="15665" price="168600" /> <!-- Sealed Vesper Tunic Piece -->
-	<item id="15666" price="137200" /> <!-- Sealed Vesper Gaiter Piece -->
-	<item id="15667" price="52200" /> <!-- Sealed Vesper Gauntlet Piece -->
-	<item id="15668" price="52200" /> <!-- Sealed Vesper Boots Piece -->
-	<item id="15669" price="59000" /> <!-- Sealed Vesper Verteidiger Piece -->
-	<item id="15670" price="109400" /> <!-- Sealed Vesper Leather Legging Piece -->
-	<item id="15671" price="52200" /> <!-- Sealed Vesper Leather Gloves Piece -->
-	<item id="15672" price="52200" /> <!-- Sealed Vesper Leather Boots Piece -->
-	<item id="15673" price="109400" /> <!-- Sealed Vesper Stockings Piece -->
-	<item id="15674" price="52200" /> <!-- Sealed Vesper Gloves Piece -->
-	<item id="15675" price="52200" /> <!-- Sealed Vesper Shoes Piece -->
-	<item id="15691" price="59000" /> <!-- Sealed Vesper Sigil Piece -->
-	<item id="15692" price="37600" /> <!-- Sealed Moirai Sigil Piece -->
-	<item id="15693" price="37600" /> <!-- Sealed Moirai Shield Piece -->
-	<item id="15769" price="38200" /> <!-- Sealed Vesper Ring Gem -->
-	<item id="15770" price="63600" /> <!-- Sealed Vesper Earring Gem -->
-	<item id="15771" price="88400" /> <!-- Sealed Vesper Necklace Gem -->
-	<item id="15772" price="29000" /> <!-- Sealed Moirai Ring Gem -->
-	<item id="15773" price="51600" /> <!-- Sealed Moirai Earring Gem -->
-	<item id="15774" price="59800" /> <!-- Sealed Moirai Necklace Gem -->
-	<item id="16122" price="46000" /> <!-- Refined Black Skeleton Circlet Piece -->
-	<item id="16123" price="46000" /> <!-- Refined Orange Skeleton Circlet Piece -->
-	<item id="16124" price="46000" /> <!-- Refined Green Skeleton Circlet Piece -->
-	<item id="16125" price="46000" /> <!-- Refined Brown Skeleton Circlet Piece -->
-	<item id="16126" price="46000" /> <!-- Fabric of Refined Shark Hat -->
-	<item id="16127" price="46000" /> <!-- Fabric of Chic Gold Horn Cap -->
-	<item id="16128" price="46000" /> <!-- Fabric of Chic Silver Horn Cap -->
-	<item id="16129" price="46000" /> <!-- Fabric of Refined Penguin Hat -->
-	<item id="16130" price="46000" /> <!-- Fabric of Refined Brown Turban -->
-	<item id="16131" price="46000" /> <!-- Fabric of Refined Yellow Turban -->
-	<item id="16132" price="46000" /> <!-- Fabric of Refined Turtle Hat -->
-	<item id="16133" price="46000" /> <!-- Fabric of Refined Cow Hat -->
+	<item id="57" price="1"/>
+	<!--<item id="6688" price="185058" /> &lt;!&ndash; Forgotten Blade Edge &ndash;&gt;
+	<item id="6689" price="188612" /> &lt;!&ndash; Basalt Battlehammer Head &ndash;&gt;
+	<item id="6690" price="184706" /> &lt;!&ndash; Imperial Staff Head &ndash;&gt;
+	<item id="6691" price="185058" /> &lt;!&ndash; Angel Slayer Blade &ndash;&gt;
+	<item id="6693" price="181764" /> &lt;!&ndash; Dragon Hunter Axe Blade &ndash;&gt;
+	<item id="6694" price="181764" /> &lt;!&ndash; Saint Spear Blade &ndash;&gt;
+	<item id="6695" price="188612" /> &lt;!&ndash; Demon Splinter Blade &ndash;&gt;
+	<item id="6696" price="182164" /> &lt;!&ndash; Heavens Divider Edge &ndash;&gt;
+	<item id="6697" price="188612" /> &lt;!&ndash; Arcana Mace Head &ndash;&gt;
+	<item id="7579" price="182942" /> &lt;!&ndash; Draconic Bow Shaft &ndash;&gt;
+	<item id="6698" price="20364" /> &lt;!&ndash; Sealed Tateossian Earring Part &ndash;&gt;
+	<item id="6699" price="18352" /> &lt;!&ndash; Sealed Tateossian Ring Gem &ndash;&gt;
+	<item id="6700" price="33412" /> &lt;!&ndash; Sealed Tateossian Necklace Chain &ndash;&gt;
+	<item id="6701" price="75130" /> &lt;!&ndash; Sealed Imperial Crusader Breastplate Part &ndash;&gt;
+	<item id="6702" price="58364" /> &lt;!&ndash; Sealed Imperial Crusader Gaiters Pattern &ndash;&gt;
+	<item id="6703" price="28094" /> &lt;!&ndash; Sealed Imperial Crusader Gauntlets Design &ndash;&gt;
+	<item id="6704" price="28094" /> &lt;!&ndash; Sealed Imperial Crusader Boots Design &ndash;&gt;
+	<item id="6705" price="28682" /> &lt;!&ndash; Sealed Imperial Crusader Shield Part &ndash;&gt;
+	<item id="6706" price="24658" /> &lt;!&ndash; Sealed Imperial Crusader Helmet Pattern &ndash;&gt;
+	<item id="6707" price="80730" /> &lt;!&ndash; Sealed Draconic Leather Armor Part &ndash;&gt;
+	<item id="6708" price="28094" /> &lt;!&ndash; Sealed Draconic Leather Gloves Fabric &ndash;&gt;
+	<item id="6709" price="28094" /> &lt;!&ndash; Sealed Draconic Leather Boots Design &ndash;&gt;
+	<item id="6710" price="24658" /> &lt;!&ndash; Sealed Draconic Leather Helmet Pattern &ndash;&gt;
+	<item id="6711" price="80730" /> &lt;!&ndash; Sealed Major Arcana Robe Part &ndash;&gt;
+	<item id="6712" price="28094" /> &lt;!&ndash; Sealed Major Arcana Gloves fabric &ndash;&gt;
+	<item id="6713" price="28094" /> &lt;!&ndash; Sealed Major Arcana Boots Design &ndash;&gt;
+	<item id="6714" price="24658" /> &lt;!&ndash; Sealed Major Arcana Circlet Pattern &ndash;&gt;
+	<item id="6904" price="10000" /> &lt;!&ndash; Party Mask Fabric &ndash;&gt;
+	<item id="6905" price="10000" /> &lt;!&ndash; Hair Pin Piece &ndash;&gt;
+	<item id="6906" price="10000" /> &lt;!&ndash; Pirate's Eye Patch Material &ndash;&gt;
+	<item id="6907" price="10000" /> &lt;!&ndash; Monocle Piece &ndash;&gt;
+	<item id="7684" price="10000" /> &lt;!&ndash; Raccoon Ears Fabric &ndash;&gt;
+	<item id="7685" price="10000" /> &lt;!&ndash; Outlaw's Eyepatch Strap &ndash;&gt;
+	<item id="7686" price="10000" /> &lt;!&ndash; Maiden's Hairpin Piece &ndash;&gt;
+	<item id="7687" price="10000" /> &lt;!&ndash; Rabbit Ears Fabric &ndash;&gt;
+	<item id="7688" price="10000" /> &lt;!&ndash; Cat Ears Fabric &ndash;&gt;
+	<item id="7697" price="10000" /> &lt;!&ndash; Piece of Forget-me-not Hairpin &ndash;&gt;
+	<item id="7698" price="10000" /> &lt;!&ndash; Piece of Daisy Hairpin &ndash;&gt;
+	<item id="9530" price="183102" /> &lt;!&ndash; Sealed Dynasty Breast Plate Piece &ndash;&gt;
+	<item id="9531" price="61902" /> &lt;!&ndash; Sealed Dynasty Gaiters Piece &ndash;&gt;
+	<item id="9532" price="74162" /> &lt;!&ndash; Sealed Dynasty Helmet Piece &ndash;&gt;
+	<item id="9533" price="55740" /> &lt;!&ndash; Sealed Dynasty Gauntlet Piece &ndash;&gt;
+	<item id="9534" price="55740" /> &lt;!&ndash; Sealed Dynasty Boot Piece &ndash;&gt;
+	<item id="9535" price="149058" /> &lt;!&ndash; Sealed Dynasty Leather Armor Piece &ndash;&gt;
+	<item id="9536" price="101404" /> &lt;!&ndash; Sealed Dynasty Leather Leggings Piece &ndash;&gt;
+	<item id="9537" price="74162" /> &lt;!&ndash; Sealed Dynasty Leather Helmet Piece &ndash;&gt;
+	<item id="9538" price="55740" /> &lt;!&ndash; Sealed Dynasty Leather Glove Piece &ndash;&gt;
+	<item id="9539" price="55740" /> &lt;!&ndash; Sealed Dynasty Leather Boots Piece &ndash;&gt;
+	<item id="9540" price="149058" /> &lt;!&ndash; Sealed Dynasty Tunic Piece &ndash;&gt;
+	<item id="9541" price="101404" /> &lt;!&ndash; Sealed Dynasty Stocking Piece &ndash;&gt;
+	<item id="9542" price="74162" /> &lt;!&ndash; Sealed Dynasty Circlet Piece &ndash;&gt;
+	<item id="9543" price="55740" /> &lt;!&ndash; Sealed Dynasty Glove Piece &ndash;&gt;
+	<item id="9544" price="55740" /> &lt;!&ndash; Sealed Dynasty Shoes Piece &ndash;&gt;
+	<item id="9545" price="62218" /> &lt;!&ndash; Sealed Dynasty Shield Piece &ndash;&gt;
+	<item id="9991" price="113732" /> &lt;!&ndash; Sealed Dynasty Earring Gemstone &ndash;&gt;
+	<item id="9992" price="148190" /> &lt;!&ndash; Sealed Dynasty Necklace Gemstone &ndash;&gt;
+	<item id="9993" price="80928" /> &lt;!&ndash; Sealed Dynasty Ring Gemstone &ndash;&gt;
+	<item id="9616" price="479600" /> &lt;!&ndash; Dynasty Sword Piece &ndash;&gt;
+	<item id="9617" price="479600" /> &lt;!&ndash; Dynasty Blade Piece &ndash;&gt;
+	<item id="9618" price="479600" /> &lt;!&ndash; Dynasty Phantom Piece &ndash;&gt;
+	<item id="9619" price="476400" /> &lt;!&ndash; Dynasty Bow Piece &ndash;&gt;
+	<item id="9620" price="480000" /> &lt;!&ndash; Dynasty Knife Piece &ndash;&gt;
+	<item id="9621" price="477400" /> &lt;!&ndash; Dynasty Halberd Piece &ndash;&gt;
+	<item id="9622" price="495400" /> &lt;!&ndash; Dynasty Cudgel Piece &ndash;&gt;
+	<item id="9623" price="495400" /> &lt;!&ndash; Dynasty Mace Piece &ndash;&gt;
+	<item id="9624" price="495400" /> &lt;!&ndash; Dynasty Bagh-Nakh Piece &ndash;&gt;
+	<item id="10546" price="478000" /> &lt;!&ndash; Dynasty Staff Fragment &ndash;&gt;
+	<item id="10547" price="478000" /> &lt;!&ndash; Dynasty Crusher Fragment &ndash;&gt;
+	<item id="10397" price="622000" /> &lt;!&ndash; Icarus Sawsword Piece &ndash;&gt;
+	<item id="10398" price="622000" /> &lt;!&ndash; Icarus Disperser Piece &ndash;&gt;
+	<item id="10399" price="622000" /> &lt;!&ndash; Icarus Spirit Piece &ndash;&gt;
+	<item id="10400" price="624000" /> &lt;!&ndash; Icarus Heavy Arms Piece &ndash;&gt;
+	<item id="10401" price="624000" /> &lt;!&ndash; Icarus Trident Piece &ndash;&gt;
+	<item id="10402" price="624000" /> &lt;!&ndash; Icarus Hammer Piece &ndash;&gt;
+	<item id="10403" price="624000" /> &lt;!&ndash; Icarus Hand Piece &ndash;&gt;
+	<item id="10404" price="624000" /> &lt;!&ndash; Icarus Hall Piece &ndash;&gt;
+	<item id="10405" price="624000" /> &lt;!&ndash; Icarus Spitter Piece &ndash;&gt;
+	<item id="10114" price="107554" /> &lt;!&ndash; Sealed Dynasty Sigil Piece &ndash;&gt;
+	<item id="13099" price="28682" /> &lt;!&ndash; Sealed Arcana Sigil Piece &ndash;&gt;
+	<item id="15634" price="673400" /> &lt;!&ndash; Vesper Cutter Piece &ndash;&gt;
+	<item id="15635" price="674600" /> &lt;!&ndash; Vesper Slasher Piece &ndash;&gt;
+	<item id="15636" price="673400" /> &lt;!&ndash; Vesper Buster Piece &ndash;&gt;
+	<item id="15637" price="673400" /> &lt;!&ndash; Vesper Shaper Piece &ndash;&gt;
+	<item id="15638" price="679200" /> &lt;!&ndash; Vesper Fighter Piece &ndash;&gt;
+	<item id="15639" price="671400" /> &lt;!&ndash; Vesper Stormer Piece &ndash;&gt;
+	<item id="15640" price="679200" /> &lt;!&ndash; Vesper Avenger Piece &ndash;&gt;
+	<item id="15641" price="671400" /> &lt;!&ndash; Vesper Retributer Piece &ndash;&gt;
+	<item id="15642" price="679200" /> &lt;!&ndash; Vesper Caster Piece &ndash;&gt;
+	<item id="15643" price="677400" /> &lt;!&ndash; Vesper Singer Piece &ndash;&gt;
+	<item id="15644" price="670600" /> &lt;!&ndash; Vesper Thrower Piece &ndash;&gt;
+	<item id="15645" price="67400" /> &lt;!&ndash; Sealed Moirai Helmet Piece &ndash;&gt;
+	<item id="15646" price="67400" /> &lt;!&ndash; Sealed Moirai Leather Helmet Piece &ndash;&gt;
+	<item id="15647" price="67400" /> &lt;!&ndash; Sealed Moirai Circlet Piece &ndash;&gt;
+	<item id="15648" price="168600" /> &lt;!&ndash; Sealed Moirai Breastplate Piece &ndash;&gt;
+	<item id="15649" price="124600" /> &lt;!&ndash; Sealed Moirai Leather Breastplate Piece &ndash;&gt;
+	<item id="15650" price="124600" /> &lt;!&ndash; Sealed Moirai Tunic Piece &ndash;&gt;
+	<item id="15651" price="100600" /> &lt;!&ndash; Sealed Moirai Gaiter Piece &ndash;&gt;
+	<item id="15652" price="76800" /> &lt;!&ndash; Sealed Moirai Leather Legging Piece &ndash;&gt;
+	<item id="15653" price="76800" /> &lt;!&ndash; Sealed Moirai Stockings Piece &ndash;&gt;
+	<item id="15654" price="44800" /> &lt;!&ndash; Sealed Moirai Gauntlet Piece &ndash;&gt;
+	<item id="15655" price="44800" /> &lt;!&ndash; Sealed Moirai Leather Gloves Piece &ndash;&gt;
+	<item id="15656" price="44800" /> &lt;!&ndash; Sealed Moirai Gloves Piece &ndash;&gt;
+	<item id="15657" price="44800" /> &lt;!&ndash; Sealed Moirai Boots Piece &ndash;&gt;
+	<item id="15658" price="44800" /> &lt;!&ndash; Sealed Moirai Leather Boots Piece &ndash;&gt;
+	<item id="15659" price="44800" /> &lt;!&ndash; Sealed Moirai Shoes Piece &ndash;&gt;
+	<item id="15660" price="87200" /> &lt;!&ndash; Sealed Vesper Helmet Piece &ndash;&gt;
+	<item id="15661" price="87200" /> &lt;!&ndash; Sealed Vesper Leather Helmet Piece &ndash;&gt;
+	<item id="15662" price="87200" /> &lt;!&ndash; Sealed Vesper Circlet Piece &ndash;&gt;
+	<item id="15663" price="221000" /> &lt;!&ndash; Sealed Vesper Breastplate Piece &ndash;&gt;
+	<item id="15664" price="168600" /> &lt;!&ndash; Sealed Vesper Leather Breastplate Piece &ndash;&gt;
+	<item id="15665" price="168600" /> &lt;!&ndash; Sealed Vesper Tunic Piece &ndash;&gt;
+	<item id="15666" price="137200" /> &lt;!&ndash; Sealed Vesper Gaiter Piece &ndash;&gt;
+	<item id="15667" price="52200" /> &lt;!&ndash; Sealed Vesper Gauntlet Piece &ndash;&gt;
+	<item id="15668" price="52200" /> &lt;!&ndash; Sealed Vesper Boots Piece &ndash;&gt;
+	<item id="15669" price="59000" /> &lt;!&ndash; Sealed Vesper Verteidiger Piece &ndash;&gt;
+	<item id="15670" price="109400" /> &lt;!&ndash; Sealed Vesper Leather Legging Piece &ndash;&gt;
+	<item id="15671" price="52200" /> &lt;!&ndash; Sealed Vesper Leather Gloves Piece &ndash;&gt;
+	<item id="15672" price="52200" /> &lt;!&ndash; Sealed Vesper Leather Boots Piece &ndash;&gt;
+	<item id="15673" price="109400" /> &lt;!&ndash; Sealed Vesper Stockings Piece &ndash;&gt;
+	<item id="15674" price="52200" /> &lt;!&ndash; Sealed Vesper Gloves Piece &ndash;&gt;
+	<item id="15675" price="52200" /> &lt;!&ndash; Sealed Vesper Shoes Piece &ndash;&gt;
+	<item id="15691" price="59000" /> &lt;!&ndash; Sealed Vesper Sigil Piece &ndash;&gt;
+	<item id="15692" price="37600" /> &lt;!&ndash; Sealed Moirai Sigil Piece &ndash;&gt;
+	<item id="15693" price="37600" /> &lt;!&ndash; Sealed Moirai Shield Piece &ndash;&gt;
+	<item id="15769" price="38200" /> &lt;!&ndash; Sealed Vesper Ring Gem &ndash;&gt;
+	<item id="15770" price="63600" /> &lt;!&ndash; Sealed Vesper Earring Gem &ndash;&gt;
+	<item id="15771" price="88400" /> &lt;!&ndash; Sealed Vesper Necklace Gem &ndash;&gt;
+	<item id="15772" price="29000" /> &lt;!&ndash; Sealed Moirai Ring Gem &ndash;&gt;
+	<item id="15773" price="51600" /> &lt;!&ndash; Sealed Moirai Earring Gem &ndash;&gt;
+	<item id="15774" price="59800" /> &lt;!&ndash; Sealed Moirai Necklace Gem &ndash;&gt;
+	<item id="16122" price="46000" /> &lt;!&ndash; Refined Black Skeleton Circlet Piece &ndash;&gt;
+	<item id="16123" price="46000" /> &lt;!&ndash; Refined Orange Skeleton Circlet Piece &ndash;&gt;
+	<item id="16124" price="46000" /> &lt;!&ndash; Refined Green Skeleton Circlet Piece &ndash;&gt;
+	<item id="16125" price="46000" /> &lt;!&ndash; Refined Brown Skeleton Circlet Piece &ndash;&gt;
+	<item id="16126" price="46000" /> &lt;!&ndash; Fabric of Refined Shark Hat &ndash;&gt;
+	<item id="16127" price="46000" /> &lt;!&ndash; Fabric of Chic Gold Horn Cap &ndash;&gt;
+	<item id="16128" price="46000" /> &lt;!&ndash; Fabric of Chic Silver Horn Cap &ndash;&gt;
+	<item id="16129" price="46000" /> &lt;!&ndash; Fabric of Refined Penguin Hat &ndash;&gt;
+	<item id="16130" price="46000" /> &lt;!&ndash; Fabric of Refined Brown Turban &ndash;&gt;
+	<item id="16131" price="46000" /> &lt;!&ndash; Fabric of Refined Yellow Turban &ndash;&gt;
+	<item id="16132" price="46000" /> &lt;!&ndash; Fabric of Refined Turtle Hat &ndash;&gt;
+	<item id="16133" price="46000" /> &lt;!&ndash; Fabric of Refined Cow Hat &ndash;&gt;-->
 </list>

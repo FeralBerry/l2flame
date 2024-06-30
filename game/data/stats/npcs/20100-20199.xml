@@ -4932,7 +4932,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" aggroRange="450" clanHelpRange="300" isAggressive="true">
+		<ai type="ARCHER" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>UNDEAD</clan>
 			</clanList>
@@ -5591,8 +5591,8 @@
 			</drop>
 			<spoil>
 				<item id="1832" min="1" max="1" chance="57.5495" /> <!-- Greater Antidote -->
-				<item id="1832" min="1" max="1" chance="57.5495" /> <!-- Greater Antidote -->
-				<item id="1832" min="1" max="1" chance="57.5495" /> <!-- Greater Antidote -->
+				<item id="1867" min="1" max="3" chance="41.3793" /> <!-- Animal Skin -->
+				<item id="1872" min="1" max="3" chance="41.3793" /> <!-- Animal Bone -->
 			</spoil>
 		</dropLists>
 		<collision>

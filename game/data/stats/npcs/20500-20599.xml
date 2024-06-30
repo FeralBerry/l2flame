@@ -1071,7 +1071,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="20513" level="32" type="Monster" name="Skeleton Knight">
+	<npc id="20513" level="32" type="Monster" name="Скелет Воин">
 		<parameters>
 			<param name="MoveAroundSocial" value="215" />
 			<param name="MoveAroundSocial1" value="215" />
@@ -1086,7 +1086,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="150" /> <!-- rhand: Elemental Sword -->
-		<acquire exp="1519" sp="85" />
+		<acquire exp="480" sp="48" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="668.47132" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1121,6 +1121,63 @@
 				<clan>SKELETON</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="320" max="384" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="1.0649">
+					<item id="848" min="1" max="1" chance="4.7174" /> <!-- Enchanted Earring -->
+					<item id="911" min="1" max="1" chance="3.5407" /> <!-- Enchanted Necklace -->
+					<item id="1900" min="1" max="1" chance="84.6442" /> <!-- Enchanted Necklace Chain -->
+					<item id="879" min="1" max="1" chance="7.0977" /> <!-- Enchanted Ring -->
+				</group>
+				<group chance="14.1935">
+					<item id="1868" min="1" max="1" chance="77.3949" /> <!-- Thread -->
+					<item id="1873" min="1" max="1" chance="15.479" /> <!-- Silver Nugget -->
+					<item id="5549" min="1" max="1" chance="3.8697" /> <!-- Metallic Thread -->
+					<item id="1889" min="1" max="1" chance="2.5798" /> <!-- Compound Braid -->
+					<item id="2268" min="1" max="1" chance="0.4002" /> <!-- Recipe: Tome of Blood -->
+					<item id="2276" min="1" max="1" chance="0.2764" /> <!-- Recipe: Maingauche -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2183" min="1" max="1" chance="3.9675" /> <!-- Recipe: Mithril Banded Mail -->
+				<item id="2268" min="1" max="1" chance="0.6236" /> <!-- Recipe: Tome of Blood -->
+				<item id="2153" min="1" max="1" chance="9.3789" /> <!-- Recipe: Tiger's Eye Earring -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="10" />
 			<height normal="25" />

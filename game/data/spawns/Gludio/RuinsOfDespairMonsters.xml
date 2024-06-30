@@ -1,23 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn>
-
+		<territories>
+			<territory shape="Cylinder" minZ="-3848" maxZ="-3880" rad="300">
+				<node x="-18822" y="138935"/>
+			</territory>
+		</territories>
+		<npc id="20198" count="2" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3832" maxZ="-3896" rad="500">
+				<node x="-19866" y="139121"/>
+			</territory>
+		</territories>
+		<npc id="20198" count="4" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3832" maxZ="-3896" rad="400">
+				<node x="-18911" y="139839"/>
+			</territory>
+		</territories>
+		<npc id="20198" count="3" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="3" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="3" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3816" maxZ="-3880" rad="300">
+				<node x="-18254" y="138603"/>
+			</territory>
+		</territories>
+		<npc id="20198" count="2" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="NPoly" minZ="-3800" maxZ="-3880">
+				<node x="-20248" y="139708"/>
+				<node x="-19430" y="141924"/>
+				<node x="-21340" y="141979"/>
+				<node x="-21589" y="140811"/>
+				<node x="-20740" y="139555"/>
+			</territory>
+		</territories>
+		<npc id="20615" count="8" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="8" respawnTime="25sec" chaseRange="550" /><!-- Скелет Налетчик 30 -->
+		<npc id="21169" count="8" respawnTime="25sec" chaseRange="550" /><!-- Страж Лит 30 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="NPoly" minZ="-3872" maxZ="-3800">
+				<node x="-17718" y="139219"/>
+				<node x="-17842" y="140177"/>
+				<node x="-17028" y="141516"/>
+				<node x="-15617" y="141256"/>
+				<node x="-15674" y="139415"/>
+			</territory>
+		</territories>
+		<npc id="21142" count="10" respawnTime="25sec" chaseRange="550" /><!-- Скелет Хранитель Могил 29 -->
+		<npc id="22006" count="10" respawnTime="25sec" chaseRange="550" /><!-- Стражник Грабителей Могил 29 -->
+		<npc id="20200" count="10" respawnTime="25sec" chaseRange="550" /><!-- Раб 31 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3864" maxZ="-3888">
+				<node x="-19072" y="140584"/>
+				<node x="-18097" y="140446"/>
+				<node x="-17888" y="142059"/>
+				<node x="-18902" y="142086"/>
+			</territory>
+		</territories>
+		<npc id="20615" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Налетчик 30 -->
+		<npc id="21169" count="2" respawnTime="25sec" chaseRange="550" /><!-- Страж Лит 30 -->
+		<npc id="21142" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Хранитель Могил 29 -->
+		<npc id="22006" count="2" respawnTime="25sec" chaseRange="550" /><!-- Стражник Грабителей Могил 29 -->
+		<npc id="20200" count="2" respawnTime="25sec" chaseRange="550" /><!-- Раб 31 -->
+	</spawn>
+	<spawn>
+		<npc id="18268" x="-19583" y="139458" z="-3848" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-20964" y="140233" z="-3832" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-20186" y="141642" z="-3832" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-18453" y="141189" z="-3880" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-17526" y="139615" z="-3848" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-15871" y="139633" z="-3808" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+		<npc id="18268" x="-15840" y="141050" z="-3824" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3832" maxZ="-3840" rad="500">
+				<node x="-22311" y="142104"/>
+			</territory>
+		</territories>
+		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Skeleton Knight 32 -->
 	</spawn>
 	<!--
-	<npc id="20198" level="29" type="Monster" name="Вурдалак Берсерк">
-	<npc id="20190" level="29" type="Monster" name="Скелет Мародер">
-	<npc id="22007" level="29" type="Monster" name="Призрак Солдата">
-	<npc id="20615" level="29" type="Monster" name="Призрачный Мечник">
-	<npc id="20191" level="30" type="Monster" name="Скелет Налетчик">
-	<npc id="21169" level="30" type="Monster" name="Страж Лит">
-	<npc id="21142" level="29" type="Monster" name="Скелет Хранитель Могил">
-	<npc id="22006" level="29" type="Monster" name="Стражник Грабителей Могил">
-	<npc id="18268" level="30" type="Chest" name="Сундук с Сокровищами">
-	<npc id="20200" level="31" type="Monster" name="Раб">
+
+	<npc id="18268" level="30" type="Chest" name="">
+
 
 	<npc id="22009" level="31" type="Monster" name="Призрак Верного Вассала">
-
 	<npc id="20513" level="32" type="Monster" name="Skeleton Knight">
+
 	<npc id="20749" level="32" type="Monster" name="Death Fire">
 	<npc id="22010" level="32" type="Monster" name="Ghost of a General">
 	<npc id="21213" level="32" type="Monster" name="Hallowed Monk">

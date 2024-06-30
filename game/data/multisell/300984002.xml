@@ -103,64 +103,64 @@
 		<ingredient id="1460" count="450" /> <!-- Crystal (B-grade) -->
 		<production id="5582" count="1" /> <!-- Blue Soul Crystal - Stage 12 -->
 	</item>
-	<item>
-		<ingredient id="1461" count="310" /> <!-- Crystal (A-grade) -->
-		<ingredient id="1460" count="930" /> <!-- Crystal (B-grade) -->
-		<production id="5908" count="1" /> <!-- Red Soul Crystal: Stage 13 -->
+	<!--<item>
+		<ingredient id="1461" count="310" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<ingredient id="1460" count="930" /> &lt;!&ndash; Crystal (B-grade) &ndash;&gt;
+		<production id="5908" count="1" /> &lt;!&ndash; Red Soul Crystal: Stage 13 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1461" count="310" /> <!-- Crystal (A-grade) -->
-		<ingredient id="1460" count="930" /> <!-- Crystal (B-grade) -->
-		<production id="5911" count="1" /> <!-- Green Soul Crystal - Stage 13 -->
+		<ingredient id="1461" count="310" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<ingredient id="1460" count="930" /> &lt;!&ndash; Crystal (B-grade) &ndash;&gt;
+		<production id="5911" count="1" /> &lt;!&ndash; Green Soul Crystal - Stage 13 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1461" count="310" /> <!-- Crystal (A-grade) -->
-		<ingredient id="1460" count="930" /> <!-- Crystal (B-grade) -->
-		<production id="5914" count="1" /> <!-- Blue Soul Crystal: Stage 13 -->
+		<ingredient id="1461" count="310" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<ingredient id="1460" count="930" /> &lt;!&ndash; Crystal (B-grade) &ndash;&gt;
+		<production id="5914" count="1" /> &lt;!&ndash; Blue Soul Crystal: Stage 13 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="630" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="1050" /> <!-- Crystal (A-grade) -->
-		<production id="9570" count="1" /> <!-- Red Soul Crystal - Stage 14 -->
+		<ingredient id="1462" count="630" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="1050" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="9570" count="1" /> &lt;!&ndash; Red Soul Crystal - Stage 14 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="630" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="1050" /> <!-- Crystal (A-grade) -->
-		<production id="9572" count="1" /> <!-- Green Soul Crystal - Stage 14 -->
+		<ingredient id="1462" count="630" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="1050" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="9572" count="1" /> &lt;!&ndash; Green Soul Crystal - Stage 14 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="630" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="1050" /> <!-- Crystal (A-grade) -->
-		<production id="9571" count="1" /> <!-- Blue Soul Crystal - Stage 14 -->
+		<ingredient id="1462" count="630" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="1050" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="9571" count="1" /> &lt;!&ndash; Blue Soul Crystal - Stage 14 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="870" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="1450" /> <!-- Crystal (A-grade) -->
-		<production id="10480" count="1" /> <!-- Red Soul Crystal - Stage 15 -->
+		<ingredient id="1462" count="870" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="1450" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="10480" count="1" /> &lt;!&ndash; Red Soul Crystal - Stage 15 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="870" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="1450" /> <!-- Crystal (A-grade) -->
-		<production id="10482" count="1" /> <!-- Green Soul Crystal - Stage 15 -->
+		<ingredient id="1462" count="870" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="1450" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="10482" count="1" /> &lt;!&ndash; Green Soul Crystal - Stage 15 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="870" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="1450" /> <!-- Crystal (A-grade) -->
-		<production id="10481" count="1" /> <!-- Blue Soul Crystal - Stage 15 -->
+		<ingredient id="1462" count="870" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="1450" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="10481" count="1" /> &lt;!&ndash; Blue Soul Crystal - Stage 15 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="1205" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="2005" /> <!-- Crystal (A-grade) -->
-		<production id="13071" count="1" /> <!-- Red Soul Crystal - Stage 16 -->
+		<ingredient id="1462" count="1205" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="2005" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="13071" count="1" /> &lt;!&ndash; Red Soul Crystal - Stage 16 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="1205" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="2005" /> <!-- Crystal (A-grade) -->
-		<production id="13073" count="1" /> <!-- Green Soul Crystal - Stage 16 -->
+		<ingredient id="1462" count="1205" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="2005" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="13073" count="1" /> &lt;!&ndash; Green Soul Crystal - Stage 16 &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="1462" count="1205" /> <!-- Crystal (S-grade) -->
-		<ingredient id="1461" count="2005" /> <!-- Crystal (A-grade) -->
-		<production id="13072" count="1" /> <!-- Blue Soul Crystal - Stage 16 -->
-	</item>
+		<ingredient id="1462" count="1205" /> &lt;!&ndash; Crystal (S-grade) &ndash;&gt;
+		<ingredient id="1461" count="2005" /> &lt;!&ndash; Crystal (A-grade) &ndash;&gt;
+		<production id="13072" count="1" /> &lt;!&ndash; Blue Soul Crystal - Stage 16 &ndash;&gt;
+	</item>-->
 </list>

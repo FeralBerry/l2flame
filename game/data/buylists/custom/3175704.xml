@@ -3,72 +3,73 @@
 	<npcs>
 		<npc>31757</npc> <!-- Miss Queen -->
 	</npcs>
-	<item id="8331" price="117230" /> <!-- Infernal Master Blade -->
-	<item id="8341" price="118768" /> <!-- Spiritual Eye Piece -->
-	<item id="8342" price="145828" /> <!-- Flaming Dragon Skull Piece -->
-	<item id="8346" price="118616" /> <!-- Hammer Piece of Destroyer -->
-	<item id="8349" price="145858" /> <!-- Doom Crusher Head -->
-	<item id="5539" price="118616" /> <!-- Blood Tornado Edge -->
-	<item id="5536" price="117570" /> <!-- Bloody Orchid Head -->
-	<item id="5535" price="117230" /> <!-- Carnage Bow Stave -->
-	<item id="5543" price="117508" /> <!-- Dasparion's Staff Head -->
-	<item id="5547" price="117570" /> <!-- Elemental Sword Edge -->
-	<item id="5542" price="118616" /> <!-- Halberd Edge -->
-	<item id="5532" price="118616" /> <!-- Meteor Shower Head -->
-	<item id="5496" price="17060" /> <!-- Sealed Dark Crystal Boots Lining -->
-	<item id="5520" price="62030" /> <!-- Sealed Dark Crystal Breastplate Pattern -->
-	<item id="5524" price="40584" /> <!-- Sealed Dark Crystal Gaiters Pattern -->
-	<item id="5508" price="17060" /> <!-- Sealed Dark Crystal Gloves Design -->
-	<item id="5525" price="25876" /> <!-- Sealed Dark Crystal Helmet Design -->
-	<item id="5478" price="47568" /> <!-- Sealed Dark Crystal Leather Armor Pattern -->
-	<item id="5486" price="67600" /> <!-- Sealed Dark Crystal Robe Fabric -->
-	<item id="5494" price="19046" /> <!-- Sealed Dark Crystal Shield Fragment -->
-	<item id="5482" price="30306" /> <!-- Sealed Dark Crystal Leggings Design -->
-	<item id="6341" price="14462" /> <!-- Sealed Phoenix Earring Gemstone -->
-	<item id="6343" price="18708" /> <!-- Sealed Phoenix Necklace Beads -->
-	<item id="6345" price="10456" /> <!-- Sealed Phoenix Ring Gemstone -->
-	<item id="5526" price="25876" /> <!-- Sealed Tallum Helm Design -->
-	<item id="5497" price="17060" /> <!-- Sealed Tallum Boots Lining -->
-	<item id="5509" price="17060" /> <!-- Sealed Tallum Gloves Design -->
-	<item id="5489" price="30306" /> <!-- Sealed Tallum Stockings Fabric -->
-	<item id="5479" price="67600" /> <!-- Sealed Tallum Leather Armor Pattern -->
-	<item id="5521" price="87906" /> <!-- Sealed Tallum Plate Armor Pattern -->
-	<item id="5485" price="47568" /> <!-- Sealed Tallum Tunic Texture -->
-	<item id="5548" price="117570" /> <!-- Tallum Blade Edge -->
-	<item id="5545" price="145800" /> <!-- Dark Legion's Edge Blade -->
-	<item id="5538" price="145828" /> <!-- Dragon Grinder Edge -->
-	<item id="5529" price="145800" /> <!-- Dragon Slayer Edge -->
-	<item id="5533" price="145828" /> <!-- Elysian Head -->
-	<item id="5522" price="117456" /> <!-- Sealed Armor of Nightmare Pattern -->
-	<item id="5502" price="23684" /> <!-- Sealed Boots of Nightmare Lining -->
-	<item id="5514" price="23684" /> <!-- Sealed Gauntlets of Nightmare Design -->
-	<item id="5527" price="33456" /> <!-- Sealed Helm of Nightmare Design -->
-	<item id="5480" price="89142" /> <!-- Sealed Leather Armor of Nightmare Fabric -->
-	<item id="5503" price="23684" /> <!-- Sealed Majestic Boots Lining -->
-	<item id="5528" price="33456" /> <!-- Sealed Majestic Circlet Design -->
-	<item id="5515" price="23684" /> <!-- Sealed Majestic Gauntlets Design -->
-	<item id="6342" price="17658" /> <!-- Sealed Majestic Earring Gemstone -->
-	<item id="5481" price="89142" /> <!-- Sealed Majestic Leather Armor Fabric -->
-	<item id="6344" price="27286" /> <!-- Sealed Majestic Necklace Beads -->
-	<item id="5523" price="117456" /> <!-- Sealed Majestic Plate Armor Pattern -->
-	<item id="6346" price="12286" /> <!-- Sealed Majestic Ring Gemstone -->
-	<item id="5488" price="88828" /> <!-- Sealed Majestic Robe Fabric -->
-	<item id="5487" price="88828" /> <!-- Sealed Robe of Nightmare Fabric -->
-	<item id="5495" price="26342" /> <!-- Sealed Shield of Nightmare Fragment -->
-	<item id="5534" price="145700" /> <!-- Soul Bow Stave -->
-	<item id="5537" price="145800" /> <!-- Soul Separator Head -->
-	<item id="5546" price="132738" /> <!-- Sword of Miracles Edge -->
-	<item id="5541" price="145858" /> <!-- Tallum Glaive Edge -->
-	<item id="5544" price="145972" /> <!-- Branch of the Mother Tree Head -->
-	<item id="8712" price="164800" /> <!-- Sirra's Blade Edge -->
-	<item id="8713" price="164800" /> <!-- Sword of Ipos Blade -->
-	<item id="8714" price="164800" /> <!-- Barakiel's Axe Piece -->
-	<item id="8715" price="164800" /> <!-- Behemoth's Tuning Fork Piece -->
-	<item id="8716" price="164800" /> <!-- Naga Storm Piece -->
-	<item id="8717" price="164800" /> <!-- Tiphon's Spear Edge -->
-	<item id="8718" price="164800" /> <!-- Shyeed's Bow Shaft -->
-	<item id="8719" price="164800" /> <!-- Sobekk's Hurricane Edge -->
-	<item id="8720" price="164800" /> <!-- Themis' Tongue Piece -->
-	<item id="8721" price="164800" /> <!-- Cabrio's Hand Head -->
-	<item id="8722" price="164800" /> <!-- Daimon Crystal Fragment -->
+	<item id="57" price="1"/>
+	<!--<item id="8331" price="117230" /> &lt;!&ndash; Infernal Master Blade &ndash;&gt;
+	<item id="8341" price="118768" /> &lt;!&ndash; Spiritual Eye Piece &ndash;&gt;
+	<item id="8342" price="145828" /> &lt;!&ndash; Flaming Dragon Skull Piece &ndash;&gt;
+	<item id="8346" price="118616" /> &lt;!&ndash; Hammer Piece of Destroyer &ndash;&gt;
+	<item id="8349" price="145858" /> &lt;!&ndash; Doom Crusher Head &ndash;&gt;
+	<item id="5539" price="118616" /> &lt;!&ndash; Blood Tornado Edge &ndash;&gt;
+	<item id="5536" price="117570" /> &lt;!&ndash; Bloody Orchid Head &ndash;&gt;
+	<item id="5535" price="117230" /> &lt;!&ndash; Carnage Bow Stave &ndash;&gt;
+	<item id="5543" price="117508" /> &lt;!&ndash; Dasparion's Staff Head &ndash;&gt;
+	<item id="5547" price="117570" /> &lt;!&ndash; Elemental Sword Edge &ndash;&gt;
+	<item id="5542" price="118616" /> &lt;!&ndash; Halberd Edge &ndash;&gt;
+	<item id="5532" price="118616" /> &lt;!&ndash; Meteor Shower Head &ndash;&gt;
+	<item id="5496" price="17060" /> &lt;!&ndash; Sealed Dark Crystal Boots Lining &ndash;&gt;
+	<item id="5520" price="62030" /> &lt;!&ndash; Sealed Dark Crystal Breastplate Pattern &ndash;&gt;
+	<item id="5524" price="40584" /> &lt;!&ndash; Sealed Dark Crystal Gaiters Pattern &ndash;&gt;
+	<item id="5508" price="17060" /> &lt;!&ndash; Sealed Dark Crystal Gloves Design &ndash;&gt;
+	<item id="5525" price="25876" /> &lt;!&ndash; Sealed Dark Crystal Helmet Design &ndash;&gt;
+	<item id="5478" price="47568" /> &lt;!&ndash; Sealed Dark Crystal Leather Armor Pattern &ndash;&gt;
+	<item id="5486" price="67600" /> &lt;!&ndash; Sealed Dark Crystal Robe Fabric &ndash;&gt;
+	<item id="5494" price="19046" /> &lt;!&ndash; Sealed Dark Crystal Shield Fragment &ndash;&gt;
+	<item id="5482" price="30306" /> &lt;!&ndash; Sealed Dark Crystal Leggings Design &ndash;&gt;
+	<item id="6341" price="14462" /> &lt;!&ndash; Sealed Phoenix Earring Gemstone &ndash;&gt;
+	<item id="6343" price="18708" /> &lt;!&ndash; Sealed Phoenix Necklace Beads &ndash;&gt;
+	<item id="6345" price="10456" /> &lt;!&ndash; Sealed Phoenix Ring Gemstone &ndash;&gt;
+	<item id="5526" price="25876" /> &lt;!&ndash; Sealed Tallum Helm Design &ndash;&gt;
+	<item id="5497" price="17060" /> &lt;!&ndash; Sealed Tallum Boots Lining &ndash;&gt;
+	<item id="5509" price="17060" /> &lt;!&ndash; Sealed Tallum Gloves Design &ndash;&gt;
+	<item id="5489" price="30306" /> &lt;!&ndash; Sealed Tallum Stockings Fabric &ndash;&gt;
+	<item id="5479" price="67600" /> &lt;!&ndash; Sealed Tallum Leather Armor Pattern &ndash;&gt;
+	<item id="5521" price="87906" /> &lt;!&ndash; Sealed Tallum Plate Armor Pattern &ndash;&gt;
+	<item id="5485" price="47568" /> &lt;!&ndash; Sealed Tallum Tunic Texture &ndash;&gt;
+	<item id="5548" price="117570" /> &lt;!&ndash; Tallum Blade Edge &ndash;&gt;
+	<item id="5545" price="145800" /> &lt;!&ndash; Dark Legion's Edge Blade &ndash;&gt;
+	<item id="5538" price="145828" /> &lt;!&ndash; Dragon Grinder Edge &ndash;&gt;
+	<item id="5529" price="145800" /> &lt;!&ndash; Dragon Slayer Edge &ndash;&gt;
+	<item id="5533" price="145828" /> &lt;!&ndash; Elysian Head &ndash;&gt;
+	<item id="5522" price="117456" /> &lt;!&ndash; Sealed Armor of Nightmare Pattern &ndash;&gt;
+	<item id="5502" price="23684" /> &lt;!&ndash; Sealed Boots of Nightmare Lining &ndash;&gt;
+	<item id="5514" price="23684" /> &lt;!&ndash; Sealed Gauntlets of Nightmare Design &ndash;&gt;
+	<item id="5527" price="33456" /> &lt;!&ndash; Sealed Helm of Nightmare Design &ndash;&gt;
+	<item id="5480" price="89142" /> &lt;!&ndash; Sealed Leather Armor of Nightmare Fabric &ndash;&gt;
+	<item id="5503" price="23684" /> &lt;!&ndash; Sealed Majestic Boots Lining &ndash;&gt;
+	<item id="5528" price="33456" /> &lt;!&ndash; Sealed Majestic Circlet Design &ndash;&gt;
+	<item id="5515" price="23684" /> &lt;!&ndash; Sealed Majestic Gauntlets Design &ndash;&gt;
+	<item id="6342" price="17658" /> &lt;!&ndash; Sealed Majestic Earring Gemstone &ndash;&gt;
+	<item id="5481" price="89142" /> &lt;!&ndash; Sealed Majestic Leather Armor Fabric &ndash;&gt;
+	<item id="6344" price="27286" /> &lt;!&ndash; Sealed Majestic Necklace Beads &ndash;&gt;
+	<item id="5523" price="117456" /> &lt;!&ndash; Sealed Majestic Plate Armor Pattern &ndash;&gt;
+	<item id="6346" price="12286" /> &lt;!&ndash; Sealed Majestic Ring Gemstone &ndash;&gt;
+	<item id="5488" price="88828" /> &lt;!&ndash; Sealed Majestic Robe Fabric &ndash;&gt;
+	<item id="5487" price="88828" /> &lt;!&ndash; Sealed Robe of Nightmare Fabric &ndash;&gt;
+	<item id="5495" price="26342" /> &lt;!&ndash; Sealed Shield of Nightmare Fragment &ndash;&gt;
+	<item id="5534" price="145700" /> &lt;!&ndash; Soul Bow Stave &ndash;&gt;
+	<item id="5537" price="145800" /> &lt;!&ndash; Soul Separator Head &ndash;&gt;
+	<item id="5546" price="132738" /> &lt;!&ndash; Sword of Miracles Edge &ndash;&gt;
+	<item id="5541" price="145858" /> &lt;!&ndash; Tallum Glaive Edge &ndash;&gt;
+	<item id="5544" price="145972" /> &lt;!&ndash; Branch of the Mother Tree Head &ndash;&gt;
+	<item id="8712" price="164800" /> &lt;!&ndash; Sirra's Blade Edge &ndash;&gt;
+	<item id="8713" price="164800" /> &lt;!&ndash; Sword of Ipos Blade &ndash;&gt;
+	<item id="8714" price="164800" /> &lt;!&ndash; Barakiel's Axe Piece &ndash;&gt;
+	<item id="8715" price="164800" /> &lt;!&ndash; Behemoth's Tuning Fork Piece &ndash;&gt;
+	<item id="8716" price="164800" /> &lt;!&ndash; Naga Storm Piece &ndash;&gt;
+	<item id="8717" price="164800" /> &lt;!&ndash; Tiphon's Spear Edge &ndash;&gt;
+	<item id="8718" price="164800" /> &lt;!&ndash; Shyeed's Bow Shaft &ndash;&gt;
+	<item id="8719" price="164800" /> &lt;!&ndash; Sobekk's Hurricane Edge &ndash;&gt;
+	<item id="8720" price="164800" /> &lt;!&ndash; Themis' Tongue Piece &ndash;&gt;
+	<item id="8721" price="164800" /> &lt;!&ndash; Cabrio's Hand Head &ndash;&gt;
+	<item id="8722" price="164800" /> &lt;!&ndash; Daimon Crystal Fragment &ndash;&gt;-->
 </list>

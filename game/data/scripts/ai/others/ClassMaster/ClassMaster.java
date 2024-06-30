@@ -59,6 +59,7 @@ import org.l2jmobius.gameserver.network.serverpackets.TutorialShowQuestionMark;
 
 import ai.AbstractNpcAI;
 
+
 /**
  * Class Master AI.
  * @author Nik

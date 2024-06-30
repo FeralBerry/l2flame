@@ -3,183 +3,184 @@
 	<npcs>
 		<npc>31757</npc> <!-- Miss Queen -->
 	</npcs>
-	<item id="4916" price="1600" /> <!-- Spellbook: Energy Bolt -->
-	<item id="4917" price="6400" /> <!-- Spellbook: Aura Bolt -->
-	<item id="4918" price="6400" /> <!-- Spellbook: Summon Kai the Cat -->
-	<item id="4919" price="6400" /> <!-- Spellbook: Summon Merrow the Unicorn -->
-	<item id="4920" price="6400" /> <!-- Spellbook: Summon Soulless -->
-	<item id="4921" price="13500" /> <!-- Blueprint: Summon Big Boom -->
-	<item id="4922" price="6400" /> <!-- Spellbook: Summon Binding Cubic -->
-	<item id="4923" price="6400" /> <!-- Spellbook: Summon Aqua Cubic -->
-	<item id="4924" price="6400" /> <!-- Spellbook: Summon Spark Cubic -->
-	<item id="4925" price="13500" /> <!-- Amulet: Pa'agrio's Haste -->
-	<item id="4926" price="7700" /> <!-- Amulet: Soul Guard -->
-	<item id="4927" price="15400" /> <!-- Amulet: Chant of Revenge -->
-	<item id="4928" price="14400" /> <!-- Spellbook: Seed of Fire -->
-	<item id="4929" price="14400" /> <!-- Spellbook: Seed of Water -->
-	<item id="4930" price="14400" /> <!-- Spellbook: Seed of Wind -->
-	<item id="4931" price="14400" /> <!-- Spellbook: Aura Symphony -->
-	<item id="4932" price="14400" /> <!-- Spellbook: Inferno -->
-	<item id="4933" price="14400" /> <!-- Spellbook: Blizzard -->
-	<item id="4934" price="14400" /> <!-- Spellbook: Demon Wind -->
-	<item id="5013" price="14400" /> <!-- Spellbook: Elemental Assault -->
-	<item id="5014" price="14400" /> <!-- Spellbook: Elemental Symphony -->
-	<item id="5015" price="14400" /> <!-- Spellbook: Elemental Storm -->
-	<item id="5809" price="13500" /> <!-- Spellbook: Aqua Splash -->
-	<item id="5810" price="13500" /> <!-- Spellbook: Rain of Fire -->
-	<item id="5811" price="15400" /> <!-- Spellbook: Mass Slow -->
-	<item id="5812" price="10800" /> <!-- Spellbook: Servitor Empowerment -->
-	<item id="5813" price="6400" /> <!-- Spellbook: Servitor Cure -->
-	<item id="5814" price="15400" /> <!-- Spellbook: Servitor Blessing -->
-	<item id="5815" price="15400" /> <!-- Spellbook: Wild Magic -->
-	<item id="5816" price="13500" /> <!-- Spellbook: Advanced Block -->
-	<item id="6350" price="17400" /> <!-- Amulet: Pa'agrio's Honor -->
-	<item id="6351" price="16400" /> <!-- Amulet: Ritual of Life -->
-	<item id="6352" price="17400" /> <!-- Spellbook: Prayer -->
-	<item id="6395" price="9200" /> <!-- Amulet: Chant of Predator -->
-	<item id="6396" price="9200" /> <!-- Amulet: Chant of Eagle -->
-	<item id="6397" price="7700" /> <!-- Amulet: Chant of Vampire -->
-	<item id="6398" price="9200" /> <!-- Spellbook: Body of Avatar -->
-	<item id="7638" price="6400" /> <!-- Spellbook - Mass Summon Storm Cubic -->
-	<item id="7639" price="6400" /> <!-- Spellbook - Mass Summon Aqua Cubic -->
-	<item id="7640" price="6400" /> <!-- Spellbook - Mass Summon Phantom Cubic -->
-	<item id="7641" price="6400" /> <!-- Spellbook - Summon Feline Queen -->
-	<item id="7642" price="6400" /> <!-- Spellbook - Summon Unicorn Seraphim -->
-	<item id="7643" price="6400" /> <!-- Spellbook - Summon Nightshade -->
-	<item id="7644" price="6400" /> <!-- Spellbook - Summon Cursed Man -->
-	<item id="7645" price="23200" /> <!-- Spellbook - Balance Life -->
-	<item id="7646" price="23200" /> <!-- Spellbook - Curse of Doom -->
-	<item id="7647" price="23200" /> <!-- Spellbook - Curse of Abyss -->
-	<item id="7648" price="23200" /> <!-- Spellbook - Arcane Chaos -->
-	<item id="7649" price="23200" /> <!-- Spellbook - Fire Vortex -->
-	<item id="7650" price="23200" /> <!-- Spellbook - Ice Vortex -->
-	<item id="7651" price="23200" /> <!-- Spellbook - Wind Vortex -->
-	<item id="7652" price="23200" /> <!-- Spellbook - Light Vortex -->
-	<item id="7653" price="23200" /> <!-- Spellbook - Dark Vortex -->
-	<item id="7654" price="23200" /> <!-- Spellbook - Mass Warrior Bane -->
-	<item id="7655" price="23200" /> <!-- Spellbook - Mass Mage Bane -->
-	<item id="7656" price="23200" /> <!-- Spellbook - Warrior Servitor -->
-	<item id="7657" price="23200" /> <!-- Spellbook - Wizard Servitor -->
-	<item id="7658" price="23200" /> <!-- Spellbook - Assassin Servitor -->
-	<item id="7659" price="23200" /> <!-- Spellbook - Final Servitor -->
-	<item id="7660" price="23200" /> <!-- Spellbook - Warrior Bane -->
-	<item id="7661" price="23200" /> <!-- Spellbook - Mage Bane -->
-	<item id="7662" price="23200" /> <!-- Spellbook - Elemental Protection -->
-	<item id="7663" price="23200" /> <!-- Spellbook - Divine Protection -->
-	<item id="7664" price="23200" /> <!-- Spellbook - Arcane Protection -->
-	<item id="7665" price="23200" /> <!-- Spellbook - Prophecy of Water -->
-	<item id="7666" price="23200" /> <!-- Spellbook - Prophecy of Fire -->
-	<item id="7667" price="23200" /> <!-- Spellbook - Prophecy of Wind -->
-	<item id="7668" price="23200" /> <!-- Spellbook - Block Shield -->
-	<item id="7669" price="23200" /> <!-- Spellbook - Block Wind Walk -->
-	<item id="7670" price="23200" /> <!-- Spellbook - Mass Block Shield -->
-	<item id="7671" price="23200" /> <!-- Spellbook - Mass Block Wind Walk -->
-	<item id="7672" price="23200" /> <!-- Amulet - Chant of Spirit -->
-	<item id="7673" price="23200" /> <!-- Amulet - Chant of Victory -->
-	<item id="7674" price="23200" /> <!-- Amulet - Pa'agrio's Eye -->
-	<item id="7675" price="23200" /> <!-- Amulet - Pa'agrio's Soul -->
-	<item id="7676" price="23200" /> <!-- Amulet - Seal of Despair -->
-	<item id="8380" price="12500" /> <!-- Spellbook: Betray -->
-	<item id="8381" price="13500" /> <!-- Spellbook: Mass Curse Fear -->
-	<item id="8382" price="13500" /> <!-- Spellbook: Mass Curse Gloom -->
-	<item id="8383" price="13500" /> <!-- Spellbook: Mass Surrender to Fire -->
-	<item id="8384" price="13500" /> <!-- Spellbook: Mass Surrender to Water -->
-	<item id="8385" price="13500" /> <!-- Spellbook: Mass Surrender to Wind -->
-	<item id="8386" price="12500" /> <!-- Spellbook - Arcane Disruption -->
-	<item id="8387" price="14400" /> <!-- Spellbook - Summon Cursed Bones -->
-	<item id="8388" price="13500" /> <!-- Spellbook: Greater Might -->
-	<item id="8389" price="13500" /> <!-- Spellbook: Greater Shield -->
-	<item id="8390" price="13500" /> <!-- Amulet: War Chant -->
-	<item id="8391" price="13500" /> <!-- Amulet: Earth Chant -->
-	<item id="8392" price="13500" /> <!-- Spellbook: Holy Resistance -->
-	<item id="8393" price="13500" /> <!-- Spellbook: Unholy Resistance -->
-	<item id="8394" price="12500" /> <!-- Spellbook: Trance -->
-	<item id="8395" price="12500" /> <!-- Spellbook: Erase -->
-	<item id="8396" price="12500" /> <!-- Spellbook: Magical Backfire -->
-	<item id="8397" price="13500" /> <!-- Spellbook: Clarity -->
-	<item id="8398" price="12500" /> <!-- Spellbook: Mana Burn -->
-	<item id="8399" price="13500" /> <!-- Spellbook: Mana Storm -->
-	<item id="8400" price="12500" /> <!-- Spellbook: Turn Undead -->
-	<item id="8401" price="12500" /> <!-- Spellbook: Major Heal -->
-	<item id="8402" price="13500" /> <!-- Spellbook: Major Group Heal -->
-	<item id="8877" price="60000" /> <!-- Spellbook: Soul of the Phoenix -->
-	<item id="8878" price="60000" /> <!-- Spellbook: Summon Feline King -->
-	<item id="8879" price="60000" /> <!-- Spellbook: Summon Magnus the Unicorn -->
-	<item id="8880" price="60000" /> <!-- Spellbook: Summon Spectral Knight -->
-	<item id="8881" price="60000" /> <!-- Spellbook: Cleanse -->
-	<item id="8882" price="60000" /> <!-- Spellbook: Salvation -->
-	<item id="8883" price="60000" /> <!-- Spellbook: Mystic Immunity -->
-	<item id="8884" price="60000" /> <!-- Spellbook: Spell Turning -->
-	<item id="8885" price="60000" /> <!-- Amulet: Magnus' Chant -->
-	<item id="8886" price="60000" /> <!-- Amulet: Victories of Pa'agrio -->
-	<item id="8887" price="60000" /> <!-- Amulet: Pa'agrio's Emblem -->
-	<item id="8888" price="60000" /> <!-- Amulet: Pa'agrio's Fist -->
-	<item id="8889" price="60000" /> <!-- Amulet: Gate Chant -->
-	<item id="8890" price="15400" /> <!-- Spellbook: Summon Attractive Cubic -->
-	<item id="8891" price="13500" /> <!-- Spellbook: Aura Flash -->
-	<item id="8892" price="80000" /> <!-- Ancient Tactical Manual: Symbol of Defense -->
-	<item id="8893" price="80000" /> <!-- Ancient Tactical Manual: Symbol of Noise -->
-	<item id="8894" price="80000" /> <!-- Ancient Tactical Manual: Symbol of Resistance -->
-	<item id="8895" price="80000" /> <!-- Ancient Tactical Manual: Symbol of Honor -->
-	<item id="8896" price="80000" /> <!-- Ancient Tactical Manual: Symbol of Energy -->
-	<item id="8897" price="80000" /> <!-- Ancient Tactical Manual: Symbol of the Sniper -->
-	<item id="8898" price="80000" /> <!-- Ancient Tactical Manual: Symbol of the Assassin -->
-	<item id="8899" price="80000" /> <!-- Ancient Spellbook: Volcano -->
-	<item id="8900" price="80000" /> <!-- Ancient Spellbook: Cyclone -->
-	<item id="8901" price="80000" /> <!-- Ancient Spellbook: Raging Waves -->
-	<item id="8902" price="80000" /> <!-- Ancient Spellbook: Day of Doom -->
-	<item id="8903" price="80000" /> <!-- Ancient Spellbook: Gehenna -->
-	<item id="8904" price="80000" /> <!-- Ancient Spellbook: Anti-Summoning Field -->
-	<item id="8905" price="80000" /> <!-- Ancient Spellbook: Purification Field -->
-	<item id="8906" price="80000" /> <!-- Ancient Spellbook: Miracle -->
-	<item id="8907" price="80000" /> <!-- Ancient Spellbook: Flames of Invincibility -->
-	<item id="8908" price="80000" /> <!-- Ancient Spellbook: Mass Recharge -->
-	<item id="8909" price="19200" /> <!-- Blueprint: Summon Swoop Cannon -->
-	<item id="8945" price="16200" /> <!-- Spellbook: Celestial Shield -->
-	<item id="8946" price="12500" /> <!-- Spellbook: Invocation -->
-	<item id="8616" price="12500" /> <!-- Spellbook: Summon Friend -->
-	<item id="10099" price="60000" /> <!-- Spellbook - Count of Fire -->
-	<item id="10100" price="60000" /> <!-- Spellbook - Diamond Dust -->
-	<item id="10101" price="60000" /> <!-- Spellbook - Throne of Ice -->
-	<item id="10102" price="60000" /> <!-- Spellbook - Throne of Wind -->
-	<item id="10103" price="60000" /> <!-- Spellbook - Divine Power -->
-	<item id="10104" price="60000" /> <!-- Spellbook - Mana Gain -->
-	<item id="10105" price="60000" /> <!-- Amulet - Chant of Protection -->
-	<item id="10106" price="60000" /> <!-- Amulet - Seal of Blockade -->
-	<item id="10107" price="60000" /> <!-- Spellbook - Fire Vortex Buster -->
-	<item id="10108" price="60000" /> <!-- Spellbook - Ice Vortex Crusher -->
-	<item id="10109" price="60000" /> <!-- Spellbook - Wind Vortex Slug -->
-	<item id="10068" price="60000" /> <!-- Battle Manual - Enuma Elish -->
-	<item id="10069" price="60000" /> <!-- Battle Manual - Leopold -->
-	<item id="10090" price="60000" /> <!-- Battle Manual - Prahnah -->
-	<item id="10091" price="80000" /> <!-- Battle Manual - Final Form -->
-	<item id="10203" price="80000" /> <!-- Spellbook - Empowering Echo -->
-	<item id="10557" price="23200" /> <!-- Forgotten Scroll - Song of Windstorm -->
-	<item id="10558" price="23200" /> <!-- Forgotten Scroll - Dance of Blade Storm -->
-	<item id="10579" price="18600" /> <!-- Forgotten Scroll - Improve Combat -->
-	<item id="10580" price="20000" /> <!-- Forgotten Scroll - Improve Magic -->
-	<item id="10581" price="19300" /> <!-- Forgotten Scroll - Improve Condition -->
-	<item id="10582" price="20000" /> <!-- Forgotten Scroll - Improve Critical Attack -->
-	<item id="10583" price="18600" /> <!-- Forgotten Scroll - Improve Shield Defense -->
-	<item id="10584" price="19300" /> <!-- Forgotten Scroll - Improve Movement -->
-	<item id="10590" price="80000" /> <!-- Spellbook - Summon Smart Cubic -->
-	<item id="10596" price="17400" /> <!-- Battle Manual - Soul Cleanse -->
-	<item id="10597" price="14400" /> <!-- Battle Manual - Curse of Life Flow -->
-	<item id="10598" price="23200" /> <!-- Battle Manual - Soul Vortex -->
-	<item id="10599" price="60000" /> <!-- Battle Manual - Soul Vortex Extinction -->
-	<item id="10600" price="13500" /> <!-- Battle Manual - Soul Barrier -->
-	<item id="10601" price="80000" /> <!-- Battle Manual - Lightning Barrier -->
-	<item id="10602" price="23200" /> <!-- Battle Manual - Soul Strike -->
-	<item id="10603" price="60000" /> <!-- Battle Manual - Betrayal Mark -->
-	<item id="10604" price="60000" /> <!-- Battle Manual - Rush Impact -->
-	<item id="10605" price="60000" /> <!-- Battle Manual - Mass Disarm -->
-	<item id="10302" price="0" /> <!-- Transformation Sealbook: Heretic -->
-	<item id="10303" price="0" /> <!-- Transformation Sealbook: Veil Master -->
-	<item id="10304" price="0" /> <!-- Transformation Sealbook: Saber Tooth Tiger -->
-	<item id="10305" price="0" /> <!-- Transformation Sealbook: Oel Mahum -->
-	<item id="10306" price="0" /> <!-- Transformation Sealbook: Doll Blader -->
-	<item id="10608" price="18600" /> <!-- Forgotten Scroll - Chant of Combat -->
-	<item id="10609" price="19300" /> <!-- Forgotten Scroll - Chant of Critical -->
-	<item id="10610" price="20000" /> <!-- Forgotten Scroll - Chant of Blood Awakening -->
-	<item id="7835" price="23200" /> <!-- Amulet: Seal of Disease -->
+	<item id="57" price="1"/>
+	<!--<item id="4916" price="1600" /> &lt;!&ndash; Spellbook: Energy Bolt &ndash;&gt;
+	<item id="4917" price="6400" /> &lt;!&ndash; Spellbook: Aura Bolt &ndash;&gt;
+	<item id="4918" price="6400" /> &lt;!&ndash; Spellbook: Summon Kai the Cat &ndash;&gt;
+	<item id="4919" price="6400" /> &lt;!&ndash; Spellbook: Summon Merrow the Unicorn &ndash;&gt;
+	<item id="4920" price="6400" /> &lt;!&ndash; Spellbook: Summon Soulless &ndash;&gt;
+	<item id="4921" price="13500" /> &lt;!&ndash; Blueprint: Summon Big Boom &ndash;&gt;
+	<item id="4922" price="6400" /> &lt;!&ndash; Spellbook: Summon Binding Cubic &ndash;&gt;
+	<item id="4923" price="6400" /> &lt;!&ndash; Spellbook: Summon Aqua Cubic &ndash;&gt;
+	<item id="4924" price="6400" /> &lt;!&ndash; Spellbook: Summon Spark Cubic &ndash;&gt;
+	<item id="4925" price="13500" /> &lt;!&ndash; Amulet: Pa'agrio's Haste &ndash;&gt;
+	<item id="4926" price="7700" /> &lt;!&ndash; Amulet: Soul Guard &ndash;&gt;
+	<item id="4927" price="15400" /> &lt;!&ndash; Amulet: Chant of Revenge &ndash;&gt;
+	<item id="4928" price="14400" /> &lt;!&ndash; Spellbook: Seed of Fire &ndash;&gt;
+	<item id="4929" price="14400" /> &lt;!&ndash; Spellbook: Seed of Water &ndash;&gt;
+	<item id="4930" price="14400" /> &lt;!&ndash; Spellbook: Seed of Wind &ndash;&gt;
+	<item id="4931" price="14400" /> &lt;!&ndash; Spellbook: Aura Symphony &ndash;&gt;
+	<item id="4932" price="14400" /> &lt;!&ndash; Spellbook: Inferno &ndash;&gt;
+	<item id="4933" price="14400" /> &lt;!&ndash; Spellbook: Blizzard &ndash;&gt;
+	<item id="4934" price="14400" /> &lt;!&ndash; Spellbook: Demon Wind &ndash;&gt;
+	<item id="5013" price="14400" /> &lt;!&ndash; Spellbook: Elemental Assault &ndash;&gt;
+	<item id="5014" price="14400" /> &lt;!&ndash; Spellbook: Elemental Symphony &ndash;&gt;
+	<item id="5015" price="14400" /> &lt;!&ndash; Spellbook: Elemental Storm &ndash;&gt;
+	<item id="5809" price="13500" /> &lt;!&ndash; Spellbook: Aqua Splash &ndash;&gt;
+	<item id="5810" price="13500" /> &lt;!&ndash; Spellbook: Rain of Fire &ndash;&gt;
+	<item id="5811" price="15400" /> &lt;!&ndash; Spellbook: Mass Slow &ndash;&gt;
+	<item id="5812" price="10800" /> &lt;!&ndash; Spellbook: Servitor Empowerment &ndash;&gt;
+	<item id="5813" price="6400" /> &lt;!&ndash; Spellbook: Servitor Cure &ndash;&gt;
+	<item id="5814" price="15400" /> &lt;!&ndash; Spellbook: Servitor Blessing &ndash;&gt;
+	<item id="5815" price="15400" /> &lt;!&ndash; Spellbook: Wild Magic &ndash;&gt;
+	<item id="5816" price="13500" /> &lt;!&ndash; Spellbook: Advanced Block &ndash;&gt;
+	<item id="6350" price="17400" /> &lt;!&ndash; Amulet: Pa'agrio's Honor &ndash;&gt;
+	<item id="6351" price="16400" /> &lt;!&ndash; Amulet: Ritual of Life &ndash;&gt;
+	<item id="6352" price="17400" /> &lt;!&ndash; Spellbook: Prayer &ndash;&gt;
+	<item id="6395" price="9200" /> &lt;!&ndash; Amulet: Chant of Predator &ndash;&gt;
+	<item id="6396" price="9200" /> &lt;!&ndash; Amulet: Chant of Eagle &ndash;&gt;
+	<item id="6397" price="7700" /> &lt;!&ndash; Amulet: Chant of Vampire &ndash;&gt;
+	<item id="6398" price="9200" /> &lt;!&ndash; Spellbook: Body of Avatar &ndash;&gt;
+	<item id="7638" price="6400" /> &lt;!&ndash; Spellbook - Mass Summon Storm Cubic &ndash;&gt;
+	<item id="7639" price="6400" /> &lt;!&ndash; Spellbook - Mass Summon Aqua Cubic &ndash;&gt;
+	<item id="7640" price="6400" /> &lt;!&ndash; Spellbook - Mass Summon Phantom Cubic &ndash;&gt;
+	<item id="7641" price="6400" /> &lt;!&ndash; Spellbook - Summon Feline Queen &ndash;&gt;
+	<item id="7642" price="6400" /> &lt;!&ndash; Spellbook - Summon Unicorn Seraphim &ndash;&gt;
+	<item id="7643" price="6400" /> &lt;!&ndash; Spellbook - Summon Nightshade &ndash;&gt;
+	<item id="7644" price="6400" /> &lt;!&ndash; Spellbook - Summon Cursed Man &ndash;&gt;
+	<item id="7645" price="23200" /> &lt;!&ndash; Spellbook - Balance Life &ndash;&gt;
+	<item id="7646" price="23200" /> &lt;!&ndash; Spellbook - Curse of Doom &ndash;&gt;
+	<item id="7647" price="23200" /> &lt;!&ndash; Spellbook - Curse of Abyss &ndash;&gt;
+	<item id="7648" price="23200" /> &lt;!&ndash; Spellbook - Arcane Chaos &ndash;&gt;
+	<item id="7649" price="23200" /> &lt;!&ndash; Spellbook - Fire Vortex &ndash;&gt;
+	<item id="7650" price="23200" /> &lt;!&ndash; Spellbook - Ice Vortex &ndash;&gt;
+	<item id="7651" price="23200" /> &lt;!&ndash; Spellbook - Wind Vortex &ndash;&gt;
+	<item id="7652" price="23200" /> &lt;!&ndash; Spellbook - Light Vortex &ndash;&gt;
+	<item id="7653" price="23200" /> &lt;!&ndash; Spellbook - Dark Vortex &ndash;&gt;
+	<item id="7654" price="23200" /> &lt;!&ndash; Spellbook - Mass Warrior Bane &ndash;&gt;
+	<item id="7655" price="23200" /> &lt;!&ndash; Spellbook - Mass Mage Bane &ndash;&gt;
+	<item id="7656" price="23200" /> &lt;!&ndash; Spellbook - Warrior Servitor &ndash;&gt;
+	<item id="7657" price="23200" /> &lt;!&ndash; Spellbook - Wizard Servitor &ndash;&gt;
+	<item id="7658" price="23200" /> &lt;!&ndash; Spellbook - Assassin Servitor &ndash;&gt;
+	<item id="7659" price="23200" /> &lt;!&ndash; Spellbook - Final Servitor &ndash;&gt;
+	<item id="7660" price="23200" /> &lt;!&ndash; Spellbook - Warrior Bane &ndash;&gt;
+	<item id="7661" price="23200" /> &lt;!&ndash; Spellbook - Mage Bane &ndash;&gt;
+	<item id="7662" price="23200" /> &lt;!&ndash; Spellbook - Elemental Protection &ndash;&gt;
+	<item id="7663" price="23200" /> &lt;!&ndash; Spellbook - Divine Protection &ndash;&gt;
+	<item id="7664" price="23200" /> &lt;!&ndash; Spellbook - Arcane Protection &ndash;&gt;
+	<item id="7665" price="23200" /> &lt;!&ndash; Spellbook - Prophecy of Water &ndash;&gt;
+	<item id="7666" price="23200" /> &lt;!&ndash; Spellbook - Prophecy of Fire &ndash;&gt;
+	<item id="7667" price="23200" /> &lt;!&ndash; Spellbook - Prophecy of Wind &ndash;&gt;
+	<item id="7668" price="23200" /> &lt;!&ndash; Spellbook - Block Shield &ndash;&gt;
+	<item id="7669" price="23200" /> &lt;!&ndash; Spellbook - Block Wind Walk &ndash;&gt;
+	<item id="7670" price="23200" /> &lt;!&ndash; Spellbook - Mass Block Shield &ndash;&gt;
+	<item id="7671" price="23200" /> &lt;!&ndash; Spellbook - Mass Block Wind Walk &ndash;&gt;
+	<item id="7672" price="23200" /> &lt;!&ndash; Amulet - Chant of Spirit &ndash;&gt;
+	<item id="7673" price="23200" /> &lt;!&ndash; Amulet - Chant of Victory &ndash;&gt;
+	<item id="7674" price="23200" /> &lt;!&ndash; Amulet - Pa'agrio's Eye &ndash;&gt;
+	<item id="7675" price="23200" /> &lt;!&ndash; Amulet - Pa'agrio's Soul &ndash;&gt;
+	<item id="7676" price="23200" /> &lt;!&ndash; Amulet - Seal of Despair &ndash;&gt;
+	<item id="8380" price="12500" /> &lt;!&ndash; Spellbook: Betray &ndash;&gt;
+	<item id="8381" price="13500" /> &lt;!&ndash; Spellbook: Mass Curse Fear &ndash;&gt;
+	<item id="8382" price="13500" /> &lt;!&ndash; Spellbook: Mass Curse Gloom &ndash;&gt;
+	<item id="8383" price="13500" /> &lt;!&ndash; Spellbook: Mass Surrender to Fire &ndash;&gt;
+	<item id="8384" price="13500" /> &lt;!&ndash; Spellbook: Mass Surrender to Water &ndash;&gt;
+	<item id="8385" price="13500" /> &lt;!&ndash; Spellbook: Mass Surrender to Wind &ndash;&gt;
+	<item id="8386" price="12500" /> &lt;!&ndash; Spellbook - Arcane Disruption &ndash;&gt;
+	<item id="8387" price="14400" /> &lt;!&ndash; Spellbook - Summon Cursed Bones &ndash;&gt;
+	<item id="8388" price="13500" /> &lt;!&ndash; Spellbook: Greater Might &ndash;&gt;
+	<item id="8389" price="13500" /> &lt;!&ndash; Spellbook: Greater Shield &ndash;&gt;
+	<item id="8390" price="13500" /> &lt;!&ndash; Amulet: War Chant &ndash;&gt;
+	<item id="8391" price="13500" /> &lt;!&ndash; Amulet: Earth Chant &ndash;&gt;
+	<item id="8392" price="13500" /> &lt;!&ndash; Spellbook: Holy Resistance &ndash;&gt;
+	<item id="8393" price="13500" /> &lt;!&ndash; Spellbook: Unholy Resistance &ndash;&gt;
+	<item id="8394" price="12500" /> &lt;!&ndash; Spellbook: Trance &ndash;&gt;
+	<item id="8395" price="12500" /> &lt;!&ndash; Spellbook: Erase &ndash;&gt;
+	<item id="8396" price="12500" /> &lt;!&ndash; Spellbook: Magical Backfire &ndash;&gt;
+	<item id="8397" price="13500" /> &lt;!&ndash; Spellbook: Clarity &ndash;&gt;
+	<item id="8398" price="12500" /> &lt;!&ndash; Spellbook: Mana Burn &ndash;&gt;
+	<item id="8399" price="13500" /> &lt;!&ndash; Spellbook: Mana Storm &ndash;&gt;
+	<item id="8400" price="12500" /> &lt;!&ndash; Spellbook: Turn Undead &ndash;&gt;
+	<item id="8401" price="12500" /> &lt;!&ndash; Spellbook: Major Heal &ndash;&gt;
+	<item id="8402" price="13500" /> &lt;!&ndash; Spellbook: Major Group Heal &ndash;&gt;
+	<item id="8877" price="60000" /> &lt;!&ndash; Spellbook: Soul of the Phoenix &ndash;&gt;
+	<item id="8878" price="60000" /> &lt;!&ndash; Spellbook: Summon Feline King &ndash;&gt;
+	<item id="8879" price="60000" /> &lt;!&ndash; Spellbook: Summon Magnus the Unicorn &ndash;&gt;
+	<item id="8880" price="60000" /> &lt;!&ndash; Spellbook: Summon Spectral Knight &ndash;&gt;
+	<item id="8881" price="60000" /> &lt;!&ndash; Spellbook: Cleanse &ndash;&gt;
+	<item id="8882" price="60000" /> &lt;!&ndash; Spellbook: Salvation &ndash;&gt;
+	<item id="8883" price="60000" /> &lt;!&ndash; Spellbook: Mystic Immunity &ndash;&gt;
+	<item id="8884" price="60000" /> &lt;!&ndash; Spellbook: Spell Turning &ndash;&gt;
+	<item id="8885" price="60000" /> &lt;!&ndash; Amulet: Magnus' Chant &ndash;&gt;
+	<item id="8886" price="60000" /> &lt;!&ndash; Amulet: Victories of Pa'agrio &ndash;&gt;
+	<item id="8887" price="60000" /> &lt;!&ndash; Amulet: Pa'agrio's Emblem &ndash;&gt;
+	<item id="8888" price="60000" /> &lt;!&ndash; Amulet: Pa'agrio's Fist &ndash;&gt;
+	<item id="8889" price="60000" /> &lt;!&ndash; Amulet: Gate Chant &ndash;&gt;
+	<item id="8890" price="15400" /> &lt;!&ndash; Spellbook: Summon Attractive Cubic &ndash;&gt;
+	<item id="8891" price="13500" /> &lt;!&ndash; Spellbook: Aura Flash &ndash;&gt;
+	<item id="8892" price="80000" /> &lt;!&ndash; Ancient Tactical Manual: Symbol of Defense &ndash;&gt;
+	<item id="8893" price="80000" /> &lt;!&ndash; Ancient Tactical Manual: Symbol of Noise &ndash;&gt;
+	<item id="8894" price="80000" /> &lt;!&ndash; Ancient Tactical Manual: Symbol of Resistance &ndash;&gt;
+	<item id="8895" price="80000" /> &lt;!&ndash; Ancient Tactical Manual: Symbol of Honor &ndash;&gt;
+	<item id="8896" price="80000" /> &lt;!&ndash; Ancient Tactical Manual: Symbol of Energy &ndash;&gt;
+	<item id="8897" price="80000" /> &lt;!&ndash; Ancient Tactical Manual: Symbol of the Sniper &ndash;&gt;
+	<item id="8898" price="80000" /> &lt;!&ndash; Ancient Tactical Manual: Symbol of the Assassin &ndash;&gt;
+	<item id="8899" price="80000" /> &lt;!&ndash; Ancient Spellbook: Volcano &ndash;&gt;
+	<item id="8900" price="80000" /> &lt;!&ndash; Ancient Spellbook: Cyclone &ndash;&gt;
+	<item id="8901" price="80000" /> &lt;!&ndash; Ancient Spellbook: Raging Waves &ndash;&gt;
+	<item id="8902" price="80000" /> &lt;!&ndash; Ancient Spellbook: Day of Doom &ndash;&gt;
+	<item id="8903" price="80000" /> &lt;!&ndash; Ancient Spellbook: Gehenna &ndash;&gt;
+	<item id="8904" price="80000" /> &lt;!&ndash; Ancient Spellbook: Anti-Summoning Field &ndash;&gt;
+	<item id="8905" price="80000" /> &lt;!&ndash; Ancient Spellbook: Purification Field &ndash;&gt;
+	<item id="8906" price="80000" /> &lt;!&ndash; Ancient Spellbook: Miracle &ndash;&gt;
+	<item id="8907" price="80000" /> &lt;!&ndash; Ancient Spellbook: Flames of Invincibility &ndash;&gt;
+	<item id="8908" price="80000" /> &lt;!&ndash; Ancient Spellbook: Mass Recharge &ndash;&gt;
+	<item id="8909" price="19200" /> &lt;!&ndash; Blueprint: Summon Swoop Cannon &ndash;&gt;
+	<item id="8945" price="16200" /> &lt;!&ndash; Spellbook: Celestial Shield &ndash;&gt;
+	<item id="8946" price="12500" /> &lt;!&ndash; Spellbook: Invocation &ndash;&gt;
+	<item id="8616" price="12500" /> &lt;!&ndash; Spellbook: Summon Friend &ndash;&gt;
+	<item id="10099" price="60000" /> &lt;!&ndash; Spellbook - Count of Fire &ndash;&gt;
+	<item id="10100" price="60000" /> &lt;!&ndash; Spellbook - Diamond Dust &ndash;&gt;
+	<item id="10101" price="60000" /> &lt;!&ndash; Spellbook - Throne of Ice &ndash;&gt;
+	<item id="10102" price="60000" /> &lt;!&ndash; Spellbook - Throne of Wind &ndash;&gt;
+	<item id="10103" price="60000" /> &lt;!&ndash; Spellbook - Divine Power &ndash;&gt;
+	<item id="10104" price="60000" /> &lt;!&ndash; Spellbook - Mana Gain &ndash;&gt;
+	<item id="10105" price="60000" /> &lt;!&ndash; Amulet - Chant of Protection &ndash;&gt;
+	<item id="10106" price="60000" /> &lt;!&ndash; Amulet - Seal of Blockade &ndash;&gt;
+	<item id="10107" price="60000" /> &lt;!&ndash; Spellbook - Fire Vortex Buster &ndash;&gt;
+	<item id="10108" price="60000" /> &lt;!&ndash; Spellbook - Ice Vortex Crusher &ndash;&gt;
+	<item id="10109" price="60000" /> &lt;!&ndash; Spellbook - Wind Vortex Slug &ndash;&gt;
+	<item id="10068" price="60000" /> &lt;!&ndash; Battle Manual - Enuma Elish &ndash;&gt;
+	<item id="10069" price="60000" /> &lt;!&ndash; Battle Manual - Leopold &ndash;&gt;
+	<item id="10090" price="60000" /> &lt;!&ndash; Battle Manual - Prahnah &ndash;&gt;
+	<item id="10091" price="80000" /> &lt;!&ndash; Battle Manual - Final Form &ndash;&gt;
+	<item id="10203" price="80000" /> &lt;!&ndash; Spellbook - Empowering Echo &ndash;&gt;
+	<item id="10557" price="23200" /> &lt;!&ndash; Forgotten Scroll - Song of Windstorm &ndash;&gt;
+	<item id="10558" price="23200" /> &lt;!&ndash; Forgotten Scroll - Dance of Blade Storm &ndash;&gt;
+	<item id="10579" price="18600" /> &lt;!&ndash; Forgotten Scroll - Improve Combat &ndash;&gt;
+	<item id="10580" price="20000" /> &lt;!&ndash; Forgotten Scroll - Improve Magic &ndash;&gt;
+	<item id="10581" price="19300" /> &lt;!&ndash; Forgotten Scroll - Improve Condition &ndash;&gt;
+	<item id="10582" price="20000" /> &lt;!&ndash; Forgotten Scroll - Improve Critical Attack &ndash;&gt;
+	<item id="10583" price="18600" /> &lt;!&ndash; Forgotten Scroll - Improve Shield Defense &ndash;&gt;
+	<item id="10584" price="19300" /> &lt;!&ndash; Forgotten Scroll - Improve Movement &ndash;&gt;
+	<item id="10590" price="80000" /> &lt;!&ndash; Spellbook - Summon Smart Cubic &ndash;&gt;
+	<item id="10596" price="17400" /> &lt;!&ndash; Battle Manual - Soul Cleanse &ndash;&gt;
+	<item id="10597" price="14400" /> &lt;!&ndash; Battle Manual - Curse of Life Flow &ndash;&gt;
+	<item id="10598" price="23200" /> &lt;!&ndash; Battle Manual - Soul Vortex &ndash;&gt;
+	<item id="10599" price="60000" /> &lt;!&ndash; Battle Manual - Soul Vortex Extinction &ndash;&gt;
+	<item id="10600" price="13500" /> &lt;!&ndash; Battle Manual - Soul Barrier &ndash;&gt;
+	<item id="10601" price="80000" /> &lt;!&ndash; Battle Manual - Lightning Barrier &ndash;&gt;
+	<item id="10602" price="23200" /> &lt;!&ndash; Battle Manual - Soul Strike &ndash;&gt;
+	<item id="10603" price="60000" /> &lt;!&ndash; Battle Manual - Betrayal Mark &ndash;&gt;
+	<item id="10604" price="60000" /> &lt;!&ndash; Battle Manual - Rush Impact &ndash;&gt;
+	<item id="10605" price="60000" /> &lt;!&ndash; Battle Manual - Mass Disarm &ndash;&gt;
+	<item id="10302" price="0" /> &lt;!&ndash; Transformation Sealbook: Heretic &ndash;&gt;
+	<item id="10303" price="0" /> &lt;!&ndash; Transformation Sealbook: Veil Master &ndash;&gt;
+	<item id="10304" price="0" /> &lt;!&ndash; Transformation Sealbook: Saber Tooth Tiger &ndash;&gt;
+	<item id="10305" price="0" /> &lt;!&ndash; Transformation Sealbook: Oel Mahum &ndash;&gt;
+	<item id="10306" price="0" /> &lt;!&ndash; Transformation Sealbook: Doll Blader &ndash;&gt;
+	<item id="10608" price="18600" /> &lt;!&ndash; Forgotten Scroll - Chant of Combat &ndash;&gt;
+	<item id="10609" price="19300" /> &lt;!&ndash; Forgotten Scroll - Chant of Critical &ndash;&gt;
+	<item id="10610" price="20000" /> &lt;!&ndash; Forgotten Scroll - Chant of Blood Awakening &ndash;&gt;
+	<item id="7835" price="23200" /> &lt;!&ndash; Amulet: Seal of Disease &ndash;&gt;-->
 </list>

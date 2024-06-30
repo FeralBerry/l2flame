@@ -590,13 +590,12 @@
 			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="5" /> <!-- Blunt Weapons -->
-			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4417" level="26" /> <!-- Humanoids -->
+			<skill id="4416" level="1" /> <!-- Undead -->
 			<skill id="4458" level="3" /> <!-- Spear Weapon Weak Point -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>THIEF</clan>
 			</clanList>
@@ -863,7 +862,7 @@
 			<height normal="17.5" />
 		</collision>
 	</npc>
-	<npc id="22009" level="31" type="Monster" name="Ghost of a Loyal Vassal">
+	<npc id="22009" level="31" type="Monster" name="Призрак Верного Вассала">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -881,7 +880,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="8532" /> <!-- rhand: For Monsters Only (Spinebone Sword) -->
-		<acquire exp="1909" sp="106" />
+		<acquire exp="465" sp="47" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="635.76437" hpRegen="4.5" mp="343.8" mpRegen="1.8" />
 			<attack physical="99.21986" magical="67.7543" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -916,7 +915,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>GRUDGE</clan>
 			</clanList>
@@ -924,7 +923,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="272" max="542" chance="100" /> <!-- Adena -->
+					<item id="57" min="310" max="372" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1341">
 					<item id="848" min="1" max="1" chance="4.7174" /> <!-- Enchanted Earring -->

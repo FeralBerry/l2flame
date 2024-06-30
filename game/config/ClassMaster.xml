@@ -4,11 +4,14 @@
 			<appliesTo>
 				<category>FIRST_CLASS_GROUP</category>
 			</appliesTo>
+			<rewards>
+				<item id="38766" count="1" /><!-- брошь -->
+			</rewards>
 			<conditions>
-				<item id="1655" count="1" />
+				<item id="1655" count="1" /><!-- Банка мёда -->
 			</conditions>
 		</classChangeOption>
-		<classChangeOption name="Free">
+		<classChangeOption name="Item Pay">
 			<appliesTo>
 				<category>SECOND_CLASS_GROUP</category>
 			</appliesTo>

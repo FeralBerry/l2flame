@@ -3,68 +3,69 @@
 	<npcs>
 		<npc>31757</npc> <!-- Miss Queen -->
 	</npcs>
-	<item id="8330" price="91538" /> <!-- Guardian Sword Blade -->
-	<item id="8336" price="91384" /> <!-- Blade of the Wizard's Tear -->
-	<item id="8339" price="69900" /> <!-- Spell Breaker Head -->
-	<item id="8340" price="91538" /> <!-- Bones Head of Kaim Vanul -->
-	<item id="8347" price="77734" /> <!-- Ice Storm Hammer Head -->
-	<item id="8348" price="91692" /> <!-- Star Buster Head -->
-	<item id="4049" price="7626" /> <!-- Adamantite Earring Gemstone -->
-	<item id="4051" price="10314" /> <!-- Adamantite Necklace Chain -->
-	<item id="4050" price="6456" /> <!-- Adamantite Ring Wire -->
-	<item id="4111" price="69900" /> <!-- Arthro Nail Blade -->
-	<item id="4098" price="7686" /> <!-- Sealed Avadon Boots Design -->
-	<item id="4064" price="22100" /> <!-- Avadon Breastplate Part -->
-	<item id="4072" price="8906" /> <!-- Avadon Circlet Pattern -->
-	<item id="4065" price="14300" /> <!-- Avadon Gaiters Material -->
-	<item id="4073" price="7686" /> <!-- Sealed Avadon Gloves Part -->
-	<item id="4068" price="22084" /> <!-- Avadon Leather Armor Lining -->
-	<item id="4071" price="22084" /> <!-- Avadon Robe Fabric -->
-	<item id="4439" price="5800" /> <!-- Avadon Shield Fragment -->
-	<item id="4112" price="70650" /> <!-- Dark Elven Longbow Shaft -->
-	<item id="4113" price="77734" /> <!-- Great Axe Head -->
-	<item id="4104" price="69900" /> <!-- Great Sword Blade -->
-	<item id="4105" price="69900" /> <!-- Heavy War Axe Head -->
-	<item id="4110" price="71000" /> <!-- Hell Knife Edge -->
-	<item id="4070" price="11174" /> <!-- Stockings of Zubei Fabric -->
-	<item id="4109" price="71000" /> <!-- Kris Edge -->
-	<item id="4107" price="71000" /> <!-- Keshanberk Blade -->
-	<item id="4097" price="7686" /> <!-- Sealed Zubei's Boots Design -->
-	<item id="4056" price="22100" /> <!-- Zubei's Breastplate Part -->
-	<item id="4057" price="14300" /> <!-- Zubei's Gaiter Material -->
-	<item id="4100" price="7686" /> <!-- Sealed Zubei's Gauntlets Part -->
-	<item id="4102" price="8906" /> <!-- Zubei's Helmet Design -->
-	<item id="4067" price="11174" /> <!-- Zubei's Leather Gaiter Texture -->
-	<item id="4066" price="16966" /> <!-- Zubei's Leather Shirt Fabric -->
-	<item id="4101" price="6900" /> <!-- Zubei's Shield Fragment -->
-	<item id="4106" price="71066" /> <!-- Sprite's Staff Head -->
-	<item id="4108" price="71000" /> <!-- Sword of Valhalla Blade -->
-	<item id="4069" price="16966" /> <!-- Tunic of Zubei Fabric -->
-	<item id="4117" price="91538" /> <!-- Art of Battle Axe Blade -->
-	<item id="4120" price="91538" /> <!-- Bellion Cestus Edge -->
-	<item id="4090" price="8910" /> <!-- Sealed Blue Wolf Boots Design -->
-	<item id="4078" price="27384" /> <!-- Blue Wolf Breastplate Part -->
-	<item id="4080" price="19446" /> <!-- Blue Wolf Gaiters Material -->
-	<item id="4096" price="8910" /> <!-- Sealed Blue Wolf Gloves Fabric -->
-	<item id="4088" price="10584" /> <!-- Blue Wolf Helmet Design -->
-	<item id="4086" price="17046" /> <!-- Blue Wolf Stockings Pattern -->
-	<item id="4082" price="35400" /> <!-- Blue Wolf Leather Armor Texture -->
-	<item id="4084" price="23016" /> <!-- Blue Wolf Tunic Fabric -->
-	<item id="4116" price="91538" /> <!-- Deadman's Glory Stone -->
-	<item id="4119" price="91384" /> <!-- Demon's Dagger Edge -->
-	<item id="4099" price="8910" /> <!-- Sealed Doom Boots Part -->
-	<item id="4091" price="8910" /> <!-- Sealed Doom Gloves Part -->
-	<item id="4089" price="10584" /> <!-- Doom Helmet Pattern -->
-	<item id="4081" price="40584" /> <!-- Doom Plate Armor Temper -->
-	<item id="4077" price="8892" /> <!-- Doom Shield Fragment -->
-	<item id="4052" price="11298" /> <!-- Earring of Black Ore Piece -->
-	<item id="4121" price="91846" /> <!-- Bow of Peril Shaft -->
-	<item id="4087" price="17046" /> <!-- Stockings of Doom Pattern -->
-	<item id="4115" price="91692" /> <!-- Lance Blade -->
-	<item id="4083" price="35400" /> <!-- Leather Armor of Doom Design -->
-	<item id="4054" price="20308" /> <!-- Necklace of Black Ore Beads -->
-	<item id="4053" price="9332" /> <!-- Ring of Black Ore Gemstone -->
-	<item id="4118" price="96616" /> <!-- Evil Spirit Head -->
-	<item id="4114" price="91384" /> <!-- Sword of Damascus Blade -->
-	<item id="4085" price="23016" /> <!-- Tunic of Doom Pattern -->
+	<item id="57" price="1"/>
+	<!--<item id="8330" price="91538" /> &lt;!&ndash; Guardian Sword Blade &ndash;&gt;
+	<item id="8336" price="91384" /> &lt;!&ndash; Blade of the Wizard's Tear &ndash;&gt;
+	<item id="8339" price="69900" /> &lt;!&ndash; Spell Breaker Head &ndash;&gt;
+	<item id="8340" price="91538" /> &lt;!&ndash; Bones Head of Kaim Vanul &ndash;&gt;
+	<item id="8347" price="77734" /> &lt;!&ndash; Ice Storm Hammer Head &ndash;&gt;
+	<item id="8348" price="91692" /> &lt;!&ndash; Star Buster Head &ndash;&gt;
+	<item id="4049" price="7626" /> &lt;!&ndash; Adamantite Earring Gemstone &ndash;&gt;
+	<item id="4051" price="10314" /> &lt;!&ndash; Adamantite Necklace Chain &ndash;&gt;
+	<item id="4050" price="6456" /> &lt;!&ndash; Adamantite Ring Wire &ndash;&gt;
+	<item id="4111" price="69900" /> &lt;!&ndash; Arthro Nail Blade &ndash;&gt;
+	<item id="4098" price="7686" /> &lt;!&ndash; Sealed Avadon Boots Design &ndash;&gt;
+	<item id="4064" price="22100" /> &lt;!&ndash; Avadon Breastplate Part &ndash;&gt;
+	<item id="4072" price="8906" /> &lt;!&ndash; Avadon Circlet Pattern &ndash;&gt;
+	<item id="4065" price="14300" /> &lt;!&ndash; Avadon Gaiters Material &ndash;&gt;
+	<item id="4073" price="7686" /> &lt;!&ndash; Sealed Avadon Gloves Part &ndash;&gt;
+	<item id="4068" price="22084" /> &lt;!&ndash; Avadon Leather Armor Lining &ndash;&gt;
+	<item id="4071" price="22084" /> &lt;!&ndash; Avadon Robe Fabric &ndash;&gt;
+	<item id="4439" price="5800" /> &lt;!&ndash; Avadon Shield Fragment &ndash;&gt;
+	<item id="4112" price="70650" /> &lt;!&ndash; Dark Elven Longbow Shaft &ndash;&gt;
+	<item id="4113" price="77734" /> &lt;!&ndash; Great Axe Head &ndash;&gt;
+	<item id="4104" price="69900" /> &lt;!&ndash; Great Sword Blade &ndash;&gt;
+	<item id="4105" price="69900" /> &lt;!&ndash; Heavy War Axe Head &ndash;&gt;
+	<item id="4110" price="71000" /> &lt;!&ndash; Hell Knife Edge &ndash;&gt;
+	<item id="4070" price="11174" /> &lt;!&ndash; Stockings of Zubei Fabric &ndash;&gt;
+	<item id="4109" price="71000" /> &lt;!&ndash; Kris Edge &ndash;&gt;
+	<item id="4107" price="71000" /> &lt;!&ndash; Keshanberk Blade &ndash;&gt;
+	<item id="4097" price="7686" /> &lt;!&ndash; Sealed Zubei's Boots Design &ndash;&gt;
+	<item id="4056" price="22100" /> &lt;!&ndash; Zubei's Breastplate Part &ndash;&gt;
+	<item id="4057" price="14300" /> &lt;!&ndash; Zubei's Gaiter Material &ndash;&gt;
+	<item id="4100" price="7686" /> &lt;!&ndash; Sealed Zubei's Gauntlets Part &ndash;&gt;
+	<item id="4102" price="8906" /> &lt;!&ndash; Zubei's Helmet Design &ndash;&gt;
+	<item id="4067" price="11174" /> &lt;!&ndash; Zubei's Leather Gaiter Texture &ndash;&gt;
+	<item id="4066" price="16966" /> &lt;!&ndash; Zubei's Leather Shirt Fabric &ndash;&gt;
+	<item id="4101" price="6900" /> &lt;!&ndash; Zubei's Shield Fragment &ndash;&gt;
+	<item id="4106" price="71066" /> &lt;!&ndash; Sprite's Staff Head &ndash;&gt;
+	<item id="4108" price="71000" /> &lt;!&ndash; Sword of Valhalla Blade &ndash;&gt;
+	<item id="4069" price="16966" /> &lt;!&ndash; Tunic of Zubei Fabric &ndash;&gt;
+	<item id="4117" price="91538" /> &lt;!&ndash; Art of Battle Axe Blade &ndash;&gt;
+	<item id="4120" price="91538" /> &lt;!&ndash; Bellion Cestus Edge &ndash;&gt;
+	<item id="4090" price="8910" /> &lt;!&ndash; Sealed Blue Wolf Boots Design &ndash;&gt;
+	<item id="4078" price="27384" /> &lt;!&ndash; Blue Wolf Breastplate Part &ndash;&gt;
+	<item id="4080" price="19446" /> &lt;!&ndash; Blue Wolf Gaiters Material &ndash;&gt;
+	<item id="4096" price="8910" /> &lt;!&ndash; Sealed Blue Wolf Gloves Fabric &ndash;&gt;
+	<item id="4088" price="10584" /> &lt;!&ndash; Blue Wolf Helmet Design &ndash;&gt;
+	<item id="4086" price="17046" /> &lt;!&ndash; Blue Wolf Stockings Pattern &ndash;&gt;
+	<item id="4082" price="35400" /> &lt;!&ndash; Blue Wolf Leather Armor Texture &ndash;&gt;
+	<item id="4084" price="23016" /> &lt;!&ndash; Blue Wolf Tunic Fabric &ndash;&gt;
+	<item id="4116" price="91538" /> &lt;!&ndash; Deadman's Glory Stone &ndash;&gt;
+	<item id="4119" price="91384" /> &lt;!&ndash; Demon's Dagger Edge &ndash;&gt;
+	<item id="4099" price="8910" /> &lt;!&ndash; Sealed Doom Boots Part &ndash;&gt;
+	<item id="4091" price="8910" /> &lt;!&ndash; Sealed Doom Gloves Part &ndash;&gt;
+	<item id="4089" price="10584" /> &lt;!&ndash; Doom Helmet Pattern &ndash;&gt;
+	<item id="4081" price="40584" /> &lt;!&ndash; Doom Plate Armor Temper &ndash;&gt;
+	<item id="4077" price="8892" /> &lt;!&ndash; Doom Shield Fragment &ndash;&gt;
+	<item id="4052" price="11298" /> &lt;!&ndash; Earring of Black Ore Piece &ndash;&gt;
+	<item id="4121" price="91846" /> &lt;!&ndash; Bow of Peril Shaft &ndash;&gt;
+	<item id="4087" price="17046" /> &lt;!&ndash; Stockings of Doom Pattern &ndash;&gt;
+	<item id="4115" price="91692" /> &lt;!&ndash; Lance Blade &ndash;&gt;
+	<item id="4083" price="35400" /> &lt;!&ndash; Leather Armor of Doom Design &ndash;&gt;
+	<item id="4054" price="20308" /> &lt;!&ndash; Necklace of Black Ore Beads &ndash;&gt;
+	<item id="4053" price="9332" /> &lt;!&ndash; Ring of Black Ore Gemstone &ndash;&gt;
+	<item id="4118" price="96616" /> &lt;!&ndash; Evil Spirit Head &ndash;&gt;
+	<item id="4114" price="91384" /> &lt;!&ndash; Sword of Damascus Blade &ndash;&gt;
+	<item id="4085" price="23016" /> &lt;!&ndash; Tunic of Doom Pattern &ndash;&gt;-->
 </list>

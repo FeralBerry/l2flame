@@ -3,125 +3,126 @@
 	<npcs>
 		<npc>31757</npc> <!-- Miss Queen -->
 	</npcs>
-	<item id="8327" price="23824" /> <!-- Steel Sword Blade -->
-	<item id="8328" price="41900" /> <!-- Titan Sword Blade -->
-	<item id="8332" price="24074" /> <!-- Priest Sword Blade -->
-	<item id="8333" price="40600" /> <!-- Sword of Magic Fog Blade -->
-	<item id="8337" price="39514" /> <!-- Priest Mace Head -->
-	<item id="8343" price="39514" /> <!-- Titan Hammer Piece -->
-	<item id="2007" price="5600" /> <!-- Bow Shaft -->
-	<item id="2005" price="5600" /> <!-- Broadsword Blade -->
-	<item id="2006" price="5600" /> <!-- Willow Staff Head -->
-	<item id="2010" price="10280" /> <!-- Brandish Blade -->
-	<item id="2008" price="10280" /> <!-- Cedar Staff Head -->
-	<item id="2009" price="11280" /> <!-- Dirk Blade -->
-	<item id="1923" price="976" /> <!-- Leather Stockings Pattern -->
-	<item id="1921" price="620" /> <!-- Leather Shoes Texture -->
-	<item id="1922" price="1568" /> <!-- Leather Tunic Pattern -->
-	<item id="1896" price="944" /> <!-- Necklace of Anguish Chain -->
-	<item id="2013" price="18534" /> <!-- Forest Bow Shaft -->
-	<item id="1925" price="610" /> <!-- Leather Gloves Lining -->
-	<item id="1924" price="1240" /> <!-- Leather Helmet Design -->
-	<item id="1897" price="1680" /> <!-- Necklace of Wisdom Chain -->
-	<item id="2011" price="17534" /> <!-- Short Spear Edge -->
-	<item id="2012" price="19200" /> <!-- Sword of Reflection Blade -->
-	<item id="1926" price="3960" /> <!-- Piece Bone Breastplate Fragment -->
-	<item id="1928" price="2746" /> <!-- Piece Bone Gaiters Fragment -->
-	<item id="1898" price="3894" /> <!-- Blue Diamond Necklace Gem -->
-	<item id="1930" price="1560" /> <!-- Boot Lining -->
-	<item id="2016" price="34134" /> <!-- Composite Bow Shaft -->
-	<item id="1929" price="3100" /> <!-- Hard Leather Gaiters Material -->
-	<item id="1927" price="5014" /> <!-- Hard Leather Shirt Pattern -->
-	<item id="2014" price="34800" /> <!-- Iron Hammer Head -->
-	<item id="2015" price="32800" /> <!-- Sword Breaker Edge -->
-	<item id="2018" price="30100" /> <!-- Assassin Knife Edge -->
-	<item id="1932" price="2520" /> <!-- Bone Helmet Design -->
-	<item id="1934" price="3060" /> <!-- Crafted Leather Gloves Lining -->
-	<item id="5531" price="23824" /> <!-- Heavy Sword Edge -->
-	<item id="1931" price="3060" /> <!-- Leather Boots Lining -->
-	<item id="1899" price="2560" /> <!-- Necklace of Devotion Chain -->
-	<item id="2017" price="30100" /> <!-- Saber Blade -->
-	<item id="2020" price="22850" /> <!-- Temptation of Abyss Piece -->
-	<item id="2019" price="18600" /> <!-- Trident Edge -->
-	<item id="2023" price="32280" /> <!-- Conjuror's Staff Head -->
-	<item id="1933" price="3400" /> <!-- Dark Stockings Fabric -->
-	<item id="2025" price="28880" /> <!-- Dwarven Trident Edge -->
-	<item id="2024" price="28080" /> <!-- Elven Bow Shaft -->
-	<item id="1900" price="3656" /> <!-- Enchanted Necklace Chain -->
-	<item id="2022" price="25680" /> <!-- Mace of Judgment Head -->
-	<item id="1937" price="4656" /> <!-- Scale Gaiters Fragment -->
-	<item id="1935" price="7160" /> <!-- Scale Mail Fragment -->
-	<item id="2021" price="31680" /> <!-- Spinebone Sword Blade -->
-	<item id="1936" price="4888" /> <!-- White Tunic Pattern -->
-	<item id="2029" price="33534" /> <!-- Gastraphetes Shaft -->
-	<item id="1940" price="2680" /> <!-- Iron Boots Design -->
-	<item id="2028" price="33666" /> <!-- Shilen Knife Edge -->
-	<item id="1939" price="4554" /> <!-- Mithril Banded Gaiters Material -->
-	<item id="1938" price="5950" /> <!-- Mithril Banded Mail Material -->
-	<item id="2027" price="30534" /> <!-- Spiked Club Head -->
-	<item id="1901" price="2896" /> <!-- Tiger's Eye Earring Stone -->
-	<item id="2030" price="34200" /> <!-- Tome of Blood Page -->
-	<item id="2026" price="33234" /> <!-- Two-Handed Sword Edge -->
-	<item id="2039" price="39514" /> <!-- Bich'Hwa Edge -->
-	<item id="1948" price="2960" /> <!-- Boots of Power Pattern -->
-	<item id="2924" price="2960" /> <!-- Brigandine Boots Design -->
-	<item id="2919" price="6742" /> <!-- Brigandine Gaiters Material -->
-	<item id="2927" price="2960" /> <!-- Brigandine Gauntlets Pattern -->
-	<item id="2922" price="10386" /> <!-- Brigandine Helmet Design -->
-	<item id="2929" price="2778" /> <!-- Brigandine Shield Fragment -->
-	<item id="1941" price="10058" /> <!-- Brigandine Temper -->
-	<item id="2042" price="43286" /> <!-- Crucifix of Blood Piece -->
-	<item id="2044" price="37858" /> <!-- Cursed Maingauche Edge -->
-	<item id="1902" price="3948" /> <!-- Elven Earring Beads -->
-	<item id="2925" price="2960" /> <!-- Elven Mithril Boots Design -->
-	<item id="2928" price="2960" /> <!-- Mithril Gloves Design -->
-	<item id="1904" price="4286" /> <!-- Elven Necklace Beads -->
-	<item id="1903" price="2398" /> <!-- Elven Ring Piece -->
-	<item id="1946" price="2960" /> <!-- Rip Gauntlets Pattern -->
-	<item id="2032" price="43286" /> <!-- Goat Head Staff Head -->
-	<item id="2041" price="35858" /> <!-- War Pick Head -->
-	<item id="2037" price="39514" /> <!-- Heavy Bone Club Head -->
-	<item id="1947" price="2778" /> <!-- Kite Shield Fragment -->
-	<item id="2038" price="37858" /> <!-- Maingauche Edge -->
-	<item id="2923" price="2960" /> <!-- Manticore Skin Boot Lining -->
-	<item id="1943" price="5036" /> <!-- Manticore Skin Gaiters Pattern -->
-	<item id="2926" price="2960" /> <!-- Manticore Skin Gloves Lining -->
-	<item id="1942" price="7842" /> <!-- Manticore Skin Shirt Texture -->
-	<item id="1945" price="5036" /> <!-- Mithril Stocking Design -->
-	<item id="2918" price="6742" /> <!-- Mithril Scale Gaiters Material -->
-	<item id="1944" price="7842" /> <!-- Mithril Tunic Fabric -->
-	<item id="2031" price="39514" /> <!-- Morning Star Head -->
-	<item id="2036" price="39514" /> <!-- Skull Breaker Head -->
-	<item id="2040" price="34572" /> <!-- Reinforced Long Bow Shaft -->
-	<item id="2034" price="37858" /> <!-- Sword of Revolution Blade -->
-	<item id="2035" price="39514" /> <!-- Tarbar Head -->
-	<item id="2033" price="35858" /> <!-- Winged Spear Blade -->
-	<item id="1957" price="3584" /> <!-- Assault Boots Part -->
-	<item id="2049" price="48376" /> <!-- Atuba Hammer Head -->
-	<item id="2058" price="48376" /> <!-- Atuba Mace Head -->
-	<item id="2048" price="48376" /> <!-- Bonebreaker Head -->
-	<item id="2047" price="45500" /> <!-- Claymore Blade -->
-	<item id="2054" price="47000" /> <!-- Light Crossbow Shaft -->
-	<item id="2967" price="46124" /> <!-- Elven Long Sword Blade -->
-	<item id="2050" price="45624" /> <!-- Ghost Staff Head -->
-	<item id="2055" price="48376" /> <!-- Glaive Edge -->
-	<item id="1950" price="12324" /> <!-- Half Plate Temper -->
-	<item id="2051" price="45624" /> <!-- Staff of Life Shaft -->
-	<item id="2052" price="46124" /> <!-- Mithril Dagger Blade -->
-	<item id="1949" price="3584" /> <!-- Mithril Gloves Design -->
-	<item id="1906" price="2910" /> <!-- Mithril Ring Wire -->
-	<item id="1907" price="5750" /> <!-- Necklace of Darkness Gem -->
-	<item id="1963" price="3584" /> <!-- Ogre Power Gauntlets Part -->
-	<item id="1905" price="4112" /> <!-- Omen Beast's Eye Earring Gemstone -->
-	<item id="2932" price="3584" /> <!-- Plate Boots Design -->
-	<item id="1951" price="7924" /> <!-- Plate Gaiters Part -->
-	<item id="2930" price="4962" /> <!-- Plate Helmet Design -->
-	<item id="2934" price="3524" /> <!-- Plate Shield Fragment -->
-	<item id="1953" price="12488" /> <!-- Sage's Rag Lining -->
-	<item id="2933" price="3584" /> <!-- Sage's Worn Gloves Lining -->
-	<item id="2053" price="48376" /> <!-- Scallop Jamadhr Edge -->
-	<item id="2931" price="3584" /> <!-- Salamander Skin Boot Lining -->
-	<item id="1952" price="12488" /> <!-- Salamander Skin Mail Texture -->
-	<item id="1956" price="3524" /> <!-- Square Shield Fragment -->
-	<item id="8073" price="0" /> <!-- Frintezza's Magic Force Field Removal Scroll -->
+	<item id="57" price="1"/>
+	<!--<item id="8327" price="23824" /> &lt;!&ndash; Steel Sword Blade &ndash;&gt;
+	<item id="8328" price="41900" /> &lt;!&ndash; Titan Sword Blade &ndash;&gt;
+	<item id="8332" price="24074" /> &lt;!&ndash; Priest Sword Blade &ndash;&gt;
+	<item id="8333" price="40600" /> &lt;!&ndash; Sword of Magic Fog Blade &ndash;&gt;
+	<item id="8337" price="39514" /> &lt;!&ndash; Priest Mace Head &ndash;&gt;
+	<item id="8343" price="39514" /> &lt;!&ndash; Titan Hammer Piece &ndash;&gt;
+	<item id="2007" price="5600" /> &lt;!&ndash; Bow Shaft &ndash;&gt;
+	<item id="2005" price="5600" /> &lt;!&ndash; Broadsword Blade &ndash;&gt;
+	<item id="2006" price="5600" /> &lt;!&ndash; Willow Staff Head &ndash;&gt;
+	<item id="2010" price="10280" /> &lt;!&ndash; Brandish Blade &ndash;&gt;
+	<item id="2008" price="10280" /> &lt;!&ndash; Cedar Staff Head &ndash;&gt;
+	<item id="2009" price="11280" /> &lt;!&ndash; Dirk Blade &ndash;&gt;
+	<item id="1923" price="976" /> &lt;!&ndash; Leather Stockings Pattern &ndash;&gt;
+	<item id="1921" price="620" /> &lt;!&ndash; Leather Shoes Texture &ndash;&gt;
+	<item id="1922" price="1568" /> &lt;!&ndash; Leather Tunic Pattern &ndash;&gt;
+	<item id="1896" price="944" /> &lt;!&ndash; Necklace of Anguish Chain &ndash;&gt;
+	<item id="2013" price="18534" /> &lt;!&ndash; Forest Bow Shaft &ndash;&gt;
+	<item id="1925" price="610" /> &lt;!&ndash; Leather Gloves Lining &ndash;&gt;
+	<item id="1924" price="1240" /> &lt;!&ndash; Leather Helmet Design &ndash;&gt;
+	<item id="1897" price="1680" /> &lt;!&ndash; Necklace of Wisdom Chain &ndash;&gt;
+	<item id="2011" price="17534" /> &lt;!&ndash; Short Spear Edge &ndash;&gt;
+	<item id="2012" price="19200" /> &lt;!&ndash; Sword of Reflection Blade &ndash;&gt;
+	<item id="1926" price="3960" /> &lt;!&ndash; Piece Bone Breastplate Fragment &ndash;&gt;
+	<item id="1928" price="2746" /> &lt;!&ndash; Piece Bone Gaiters Fragment &ndash;&gt;
+	<item id="1898" price="3894" /> &lt;!&ndash; Blue Diamond Necklace Gem &ndash;&gt;
+	<item id="1930" price="1560" /> &lt;!&ndash; Boot Lining &ndash;&gt;
+	<item id="2016" price="34134" /> &lt;!&ndash; Composite Bow Shaft &ndash;&gt;
+	<item id="1929" price="3100" /> &lt;!&ndash; Hard Leather Gaiters Material &ndash;&gt;
+	<item id="1927" price="5014" /> &lt;!&ndash; Hard Leather Shirt Pattern &ndash;&gt;
+	<item id="2014" price="34800" /> &lt;!&ndash; Iron Hammer Head &ndash;&gt;
+	<item id="2015" price="32800" /> &lt;!&ndash; Sword Breaker Edge &ndash;&gt;
+	<item id="2018" price="30100" /> &lt;!&ndash; Assassin Knife Edge &ndash;&gt;
+	<item id="1932" price="2520" /> &lt;!&ndash; Bone Helmet Design &ndash;&gt;
+	<item id="1934" price="3060" /> &lt;!&ndash; Crafted Leather Gloves Lining &ndash;&gt;
+	<item id="5531" price="23824" /> &lt;!&ndash; Heavy Sword Edge &ndash;&gt;
+	<item id="1931" price="3060" /> &lt;!&ndash; Leather Boots Lining &ndash;&gt;
+	<item id="1899" price="2560" /> &lt;!&ndash; Necklace of Devotion Chain &ndash;&gt;
+	<item id="2017" price="30100" /> &lt;!&ndash; Saber Blade &ndash;&gt;
+	<item id="2020" price="22850" /> &lt;!&ndash; Temptation of Abyss Piece &ndash;&gt;
+	<item id="2019" price="18600" /> &lt;!&ndash; Trident Edge &ndash;&gt;
+	<item id="2023" price="32280" /> &lt;!&ndash; Conjuror's Staff Head &ndash;&gt;
+	<item id="1933" price="3400" /> &lt;!&ndash; Dark Stockings Fabric &ndash;&gt;
+	<item id="2025" price="28880" /> &lt;!&ndash; Dwarven Trident Edge &ndash;&gt;
+	<item id="2024" price="28080" /> &lt;!&ndash; Elven Bow Shaft &ndash;&gt;
+	<item id="1900" price="3656" /> &lt;!&ndash; Enchanted Necklace Chain &ndash;&gt;
+	<item id="2022" price="25680" /> &lt;!&ndash; Mace of Judgment Head &ndash;&gt;
+	<item id="1937" price="4656" /> &lt;!&ndash; Scale Gaiters Fragment &ndash;&gt;
+	<item id="1935" price="7160" /> &lt;!&ndash; Scale Mail Fragment &ndash;&gt;
+	<item id="2021" price="31680" /> &lt;!&ndash; Spinebone Sword Blade &ndash;&gt;
+	<item id="1936" price="4888" /> &lt;!&ndash; White Tunic Pattern &ndash;&gt;
+	<item id="2029" price="33534" /> &lt;!&ndash; Gastraphetes Shaft &ndash;&gt;
+	<item id="1940" price="2680" /> &lt;!&ndash; Iron Boots Design &ndash;&gt;
+	<item id="2028" price="33666" /> &lt;!&ndash; Shilen Knife Edge &ndash;&gt;
+	<item id="1939" price="4554" /> &lt;!&ndash; Mithril Banded Gaiters Material &ndash;&gt;
+	<item id="1938" price="5950" /> &lt;!&ndash; Mithril Banded Mail Material &ndash;&gt;
+	<item id="2027" price="30534" /> &lt;!&ndash; Spiked Club Head &ndash;&gt;
+	<item id="1901" price="2896" /> &lt;!&ndash; Tiger's Eye Earring Stone &ndash;&gt;
+	<item id="2030" price="34200" /> &lt;!&ndash; Tome of Blood Page &ndash;&gt;
+	<item id="2026" price="33234" /> &lt;!&ndash; Two-Handed Sword Edge &ndash;&gt;
+	<item id="2039" price="39514" /> &lt;!&ndash; Bich'Hwa Edge &ndash;&gt;
+	<item id="1948" price="2960" /> &lt;!&ndash; Boots of Power Pattern &ndash;&gt;
+	<item id="2924" price="2960" /> &lt;!&ndash; Brigandine Boots Design &ndash;&gt;
+	<item id="2919" price="6742" /> &lt;!&ndash; Brigandine Gaiters Material &ndash;&gt;
+	<item id="2927" price="2960" /> &lt;!&ndash; Brigandine Gauntlets Pattern &ndash;&gt;
+	<item id="2922" price="10386" /> &lt;!&ndash; Brigandine Helmet Design &ndash;&gt;
+	<item id="2929" price="2778" /> &lt;!&ndash; Brigandine Shield Fragment &ndash;&gt;
+	<item id="1941" price="10058" /> &lt;!&ndash; Brigandine Temper &ndash;&gt;
+	<item id="2042" price="43286" /> &lt;!&ndash; Crucifix of Blood Piece &ndash;&gt;
+	<item id="2044" price="37858" /> &lt;!&ndash; Cursed Maingauche Edge &ndash;&gt;
+	<item id="1902" price="3948" /> &lt;!&ndash; Elven Earring Beads &ndash;&gt;
+	<item id="2925" price="2960" /> &lt;!&ndash; Elven Mithril Boots Design &ndash;&gt;
+	<item id="2928" price="2960" /> &lt;!&ndash; Mithril Gloves Design &ndash;&gt;
+	<item id="1904" price="4286" /> &lt;!&ndash; Elven Necklace Beads &ndash;&gt;
+	<item id="1903" price="2398" /> &lt;!&ndash; Elven Ring Piece &ndash;&gt;
+	<item id="1946" price="2960" /> &lt;!&ndash; Rip Gauntlets Pattern &ndash;&gt;
+	<item id="2032" price="43286" /> &lt;!&ndash; Goat Head Staff Head &ndash;&gt;
+	<item id="2041" price="35858" /> &lt;!&ndash; War Pick Head &ndash;&gt;
+	<item id="2037" price="39514" /> &lt;!&ndash; Heavy Bone Club Head &ndash;&gt;
+	<item id="1947" price="2778" /> &lt;!&ndash; Kite Shield Fragment &ndash;&gt;
+	<item id="2038" price="37858" /> &lt;!&ndash; Maingauche Edge &ndash;&gt;
+	<item id="2923" price="2960" /> &lt;!&ndash; Manticore Skin Boot Lining &ndash;&gt;
+	<item id="1943" price="5036" /> &lt;!&ndash; Manticore Skin Gaiters Pattern &ndash;&gt;
+	<item id="2926" price="2960" /> &lt;!&ndash; Manticore Skin Gloves Lining &ndash;&gt;
+	<item id="1942" price="7842" /> &lt;!&ndash; Manticore Skin Shirt Texture &ndash;&gt;
+	<item id="1945" price="5036" /> &lt;!&ndash; Mithril Stocking Design &ndash;&gt;
+	<item id="2918" price="6742" /> &lt;!&ndash; Mithril Scale Gaiters Material &ndash;&gt;
+	<item id="1944" price="7842" /> &lt;!&ndash; Mithril Tunic Fabric &ndash;&gt;
+	<item id="2031" price="39514" /> &lt;!&ndash; Morning Star Head &ndash;&gt;
+	<item id="2036" price="39514" /> &lt;!&ndash; Skull Breaker Head &ndash;&gt;
+	<item id="2040" price="34572" /> &lt;!&ndash; Reinforced Long Bow Shaft &ndash;&gt;
+	<item id="2034" price="37858" /> &lt;!&ndash; Sword of Revolution Blade &ndash;&gt;
+	<item id="2035" price="39514" /> &lt;!&ndash; Tarbar Head &ndash;&gt;
+	<item id="2033" price="35858" /> &lt;!&ndash; Winged Spear Blade &ndash;&gt;
+	<item id="1957" price="3584" /> &lt;!&ndash; Assault Boots Part &ndash;&gt;
+	<item id="2049" price="48376" /> &lt;!&ndash; Atuba Hammer Head &ndash;&gt;
+	<item id="2058" price="48376" /> &lt;!&ndash; Atuba Mace Head &ndash;&gt;
+	<item id="2048" price="48376" /> &lt;!&ndash; Bonebreaker Head &ndash;&gt;
+	<item id="2047" price="45500" /> &lt;!&ndash; Claymore Blade &ndash;&gt;
+	<item id="2054" price="47000" /> &lt;!&ndash; Light Crossbow Shaft &ndash;&gt;
+	<item id="2967" price="46124" /> &lt;!&ndash; Elven Long Sword Blade &ndash;&gt;
+	<item id="2050" price="45624" /> &lt;!&ndash; Ghost Staff Head &ndash;&gt;
+	<item id="2055" price="48376" /> &lt;!&ndash; Glaive Edge &ndash;&gt;
+	<item id="1950" price="12324" /> &lt;!&ndash; Half Plate Temper &ndash;&gt;
+	<item id="2051" price="45624" /> &lt;!&ndash; Staff of Life Shaft &ndash;&gt;
+	<item id="2052" price="46124" /> &lt;!&ndash; Mithril Dagger Blade &ndash;&gt;
+	<item id="1949" price="3584" /> &lt;!&ndash; Mithril Gloves Design &ndash;&gt;
+	<item id="1906" price="2910" /> &lt;!&ndash; Mithril Ring Wire &ndash;&gt;
+	<item id="1907" price="5750" /> &lt;!&ndash; Necklace of Darkness Gem &ndash;&gt;
+	<item id="1963" price="3584" /> &lt;!&ndash; Ogre Power Gauntlets Part &ndash;&gt;
+	<item id="1905" price="4112" /> &lt;!&ndash; Omen Beast's Eye Earring Gemstone &ndash;&gt;
+	<item id="2932" price="3584" /> &lt;!&ndash; Plate Boots Design &ndash;&gt;
+	<item id="1951" price="7924" /> &lt;!&ndash; Plate Gaiters Part &ndash;&gt;
+	<item id="2930" price="4962" /> &lt;!&ndash; Plate Helmet Design &ndash;&gt;
+	<item id="2934" price="3524" /> &lt;!&ndash; Plate Shield Fragment &ndash;&gt;
+	<item id="1953" price="12488" /> &lt;!&ndash; Sage's Rag Lining &ndash;&gt;
+	<item id="2933" price="3584" /> &lt;!&ndash; Sage's Worn Gloves Lining &ndash;&gt;
+	<item id="2053" price="48376" /> &lt;!&ndash; Scallop Jamadhr Edge &ndash;&gt;
+	<item id="2931" price="3584" /> &lt;!&ndash; Salamander Skin Boot Lining &ndash;&gt;
+	<item id="1952" price="12488" /> &lt;!&ndash; Salamander Skin Mail Texture &ndash;&gt;
+	<item id="1956" price="3524" /> &lt;!&ndash; Square Shield Fragment &ndash;&gt;
+	<item id="8073" price="0" /> &lt;!&ndash; Frintezza's Magic Force Field Removal Scroll &ndash;&gt;-->
 </list>

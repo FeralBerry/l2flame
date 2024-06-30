@@ -5,4 +5,10 @@
 		<node X="-98304" Y="0" />
 		<node X="-65537" Y="32767" />
 	</zone>
+	<zone maxZ="-240" minZ="-170" shape="NPoly" type="NoPvPZone">
+		<node X="-47513" Y="-110531"/>
+		<node X="-51443" Y="-111331"/>
+		<node X="-51189" Y="-115529"/>
+		<node X="-47620" Y="-115592"/>
+	</zone>
 </list>

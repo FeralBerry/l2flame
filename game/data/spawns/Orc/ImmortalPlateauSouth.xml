@@ -158,10 +158,10 @@
 		<npc id="20291" count="20" respawnTime="35sec" chaseRange="1500" /><!-- Герой Орков Энку 21 лвл -->
 	</spawn>
 	<spawn>
-		<npc id="25357" x="2026" y="-93733" z="-3144" heading="16723" dbSave="true" dbName="Sukar Ratman Chief (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Трусливых Крысолюдов (21) -->
+		<npc id="25357" x="2026" y="-93733" z="-3144" heading="16723" dbSave="true" dbName="Вождь Трусливых Крысолюдов (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Вождь Трусливых Крысолюдов (21) -->
 	</spawn>
 	<spawn>
-		<npc id="25380" x="-24191" y="-84645" z="-3736" heading="16723" dbSave="true" dbName="Icarus' Herald Kaysha (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Икара Кайша (21) -->
+		<npc id="25380" x="-24191" y="-84645" z="-3736" heading="16723" dbSave="true" dbName="Посланник Икара Кайша (21)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Посланник Икара Кайша (21) -->
 	</spawn>
 	<spawn>
 		<!-- NPC Квест и другие -->

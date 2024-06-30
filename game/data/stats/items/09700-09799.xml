@@ -280,7 +280,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_depositable" val="false" />
 	</item>
-	<item id="9720" name="Warrior's Sword" type="Weapon">
+	<item id="9720" name="Меч Воителя" type="Weapon">
 		<!-- This sword identifies its wielder as a Warrior of Kamael. -->
 		<set name="icon" val="icon.weapon_sealed_rapier_i00" />
 		<set name="default_action" val="EQUIP" />

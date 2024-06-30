@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
-	<item id="1800" name="Recipe: Piece Bone Breastplate" type="EtcItem">
+	<item id="1800" name="Рецепт: Составная Костяная Кираса (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for Piece Bone Breastplate. Requires Create Item Lv. 1. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_white_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -14,7 +14,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1801" name="Recipe: Piece Bone Gaiters" type="EtcItem">
+	<item id="1801" name="Рецепт: Составные Костяные Набедренники (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for Piece Bone Gaiters. Requires Create Item Lv. 1. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_white_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -28,7 +28,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1802" name="Recipe: Necklace of Anguish (100%)" type="EtcItem">
+	<item id="1802" name="Рецепт: Ожерелье Мучений (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for Necklace of Anguish. Requires Create Item Lv. 1. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_white_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -42,7 +42,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1803" name="Recipe: Necklace of Wisdom" type="EtcItem">
+	<item id="1803" name="Рецепт: Ожерелье Мудрости (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for Necklace of Wisdom. Requires Create Item Lv. 1. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_white_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -56,7 +56,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1804" name="Recipe: D-grade Soulshot (100%)" type="EtcItem">
+	<item id="1804" name="Рецепт: Заряд Души: Ранг D (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for D-grade Soulshot. Requires Create Item Lv. 2. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_blue_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -70,7 +70,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1805" name="Recipe: C-grade Soulshot (100%)" type="EtcItem">
+	<item id="1805" name="Рецепт: Заряд Души: Ранг C (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for C-grade Soulshot. Requires Create Item Lv. 4. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_yellow_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -84,7 +84,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1806" name="Recipe: B-grade Soulshot (100%)" type="EtcItem">
+	<item id="1806" name="Рецепт: Заряд Души: Ранг B (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for B-grade Soulshot. Requires Create Item Lv. 6. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_red_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -98,7 +98,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="handler" val="Recipes" />
 	</item>
-	<item id="1807" name="Recipe: A-grade Soulshot (100%)" type="EtcItem">
+	<item id="1807" name="Рецепт: Заряд Души: Ранг A (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for A-grade Soulshot. Requires Create Item Lv. 7. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_violet_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -112,7 +112,7 @@
 		<set name="handler" val="Recipes" />
 		<set name="commissionItemType" val="RECIPE" />
 	</item>
-	<item id="1808" name="Recipe: S-grade Soulshot (100%)" type="EtcItem">
+	<item id="1808" name="Рецепт: Заряд Души: Ранг S (100%)" type="EtcItem">
 		<!-- For Dwarves only. A recipe for S-grade Soulshot. Requires Create Item Lv. 8. The success rate is 100%. -->
 		<set name="icon" val="icon.etc_recipe_black_i00" />
 		<set name="default_action" val="RECIPE" />
@@ -372,7 +372,7 @@
 		<set name="commissionItemType" val="RECIPE" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1829" name="Scroll of Escape: Clan Hall" type="EtcItem">
+	<item id="1829" name="Свиток Телепорта: Обитель Клана" type="EtcItem">
 		<!-- A magic scroll for teleporting to a clan hall. If your clan don't own a clan hall, you will be relocated to the nearest village. -->
 		<set name="icon" val="icon.etc_scroll_of_return_agit_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -391,7 +391,7 @@
 			<skill id="2040" level="1" /> <!-- Scroll of Escape: Clan Hall -->
 		</skills>
 	</item>
-	<item id="1830" name="Scroll of Escape: Castle" type="EtcItem">
+	<item id="1830" name="Свиток Телепорта: Замок" type="EtcItem">
 		<!-- A magic scroll for teleporting to a castle. If your clan don't own a castle, you will be relocated to the nearest village. -->
 		<set name="icon" val="icon.etc_scroll_of_return_castle_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -410,7 +410,7 @@
 			<skill id="2041" level="1" /> <!-- Scroll of Escape: Castle -->
 		</skills>
 	</item>
-	<item id="1831" name="Antidote" type="EtcItem">
+	<item id="1831" name="Противоядие" type="EtcItem">
 		<!-- A reagent that neutralizes poison. -->
 		<set name="icon" val="icon.etc_herb_green_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -429,7 +429,7 @@
 			<skill id="2042" level="1" /> <!-- Antidote -->
 		</skills>
 	</item>
-	<item id="1832" name="Greater Antidote" type="EtcItem">
+	<item id="1832" name="Сильное Противоядие" type="EtcItem">
 		<!-- A high-quality reagent that neutralizes powerful poison. -->
 		<set name="icon" val="icon.etc_reagent_green_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -448,7 +448,7 @@
 			<skill id="2043" level="1" /> <!-- Greater Antidote -->
 		</skills>
 	</item>
-	<item id="1833" name="Bandage" type="EtcItem">
+	<item id="1833" name="Бинт" type="EtcItem">
 		<!-- Medical bandage that stops Bleeding when injured. -->
 		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -467,7 +467,7 @@
 			<skill id="2044" level="1" /> <!-- Bandage -->
 		</skills>
 	</item>
-	<item id="1834" name="Emergency Dressing" type="EtcItem">
+	<item id="1834" name="Большой Бинт" type="EtcItem">
 		<!-- Medical bandage that stops Bleeding fast when severely injured. -->
 		<set name="icon" val="icon.etc_piece_of_cloth_white_i00" />
 		<set name="default_action" val="SKILL_REDUCE" />
@@ -486,7 +486,7 @@
 			<skill id="2045" level="1" /> <!-- Emergency Dressing -->
 		</skills>
 	</item>
-	<item id="1835" name="No-grade Soulshot" type="EtcItem">
+	<item id="1835" name="Заряд Души: Без Ранга" type="EtcItem">
 		<!-- The power of a higher-level spirit is bestowed upon a weapon, temporarily increasing power of attack. Used with a No-grade weapon. -->
 		<set name="icon" val="icon.etc_spirit_bullet_white_i00" />
 		<set name="default_action" val="SOULSHOT" />
@@ -743,7 +743,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_depositable" val="false" />
 	</item>
-	<item id="1856" name="Amulet: Chant of Life" type="EtcItem">
+	<item id="1856" name="Амулет: Напев Жизни" type="EtcItem">
 		<!-- An amulet for learning the Chant of Life skill. Used by Orc Shamans. Required level: 20. -->
 		<set name="icon" val="icon.etc_orcish_talisman_i00" />
 		<set name="immediate_effect" val="true" />
@@ -834,7 +834,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="handler" val="Maps" />
 	</item>
-	<item id="1864" name="Corroded Stem" type="EtcItem">
+	<item id="1864" name="Стебель" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_branch_gold_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -845,7 +845,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1865" name="Corroded Varnish" type="EtcItem">
+	<item id="1865" name="Лак" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_pouch_yellow_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -856,7 +856,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1866" name="Corroded Suede" type="EtcItem">
+	<item id="1866" name="Замша" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_suede_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -867,7 +867,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1867" name="Corroded Animal Skin" type="EtcItem">
+	<item id="1867" name="Шкура животного" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_leather_brown_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -878,7 +878,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1868" name="Corroded Thread" type="EtcItem">
+	<item id="1868" name="Нитки" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_skein_white_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -889,7 +889,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1869" name="Corroded Iron Ore" type="EtcItem">
+	<item id="1869" name="Железная руда" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_lump_gray_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -900,7 +900,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1870" name="Corroded Coal" type="EtcItem">
+	<item id="1870" name="Уголь" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_coal_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -911,7 +911,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1871" name="Corroded Charcoal" type="EtcItem">
+	<item id="1871" name="Древесный уголь" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_charcoal_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -922,7 +922,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1872" name="Corroded Animal Bone Fragment" type="EtcItem">
+	<item id="1872" name="Кость животного" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_piece_bone_white_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -933,7 +933,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1873" name="Corroded Silver Nugget" type="EtcItem">
+	<item id="1873" name="Серебряный слиток" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_silver_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -944,7 +944,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1874" name="Corroded Oriharukon Ore" type="EtcItem">
+	<item id="1874" name="Орихаруконовая Руда" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_oriharukon_ore_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -955,7 +955,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1875" name="Corroded Stone of Purity" type="EtcItem">
+	<item id="1875" name="Камень Чистоты" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_crystal_ball_white_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -966,7 +966,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1876" name="Corroded Mithril Ore" type="EtcItem">
+	<item id="1876" name="Мифриловая Руда" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_mithril_ore_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -977,7 +977,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1877" name="Corroded Adamantite Nugget" type="EtcItem">
+	<item id="1877" name="Адамантитовый Слиток" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_adamantite_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -988,7 +988,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1878" name="Corroded Durable Braid" type="EtcItem">
+	<item id="1878" name="Прочная Веревка" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_braided_hemp_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -999,7 +999,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1879" name="Corroded Cokes" type="EtcItem">
+	<item id="1879" name="Кокс" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_oil_pot_black_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1010,7 +1010,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1880" name="Corroded Steel" type="EtcItem">
+	<item id="1880" name="Сталь" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_lump_black_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1021,7 +1021,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1881" name="Corroded Coarse Bone Powder" type="EtcItem">
+	<item id="1881" name="Грубый Костный Порошок" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_powder_white_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1032,7 +1032,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1882" name="Corroded Leather" type="EtcItem">
+	<item id="1882" name="Кожа" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_leather_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1043,7 +1043,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1883" name="Corroded Steel Mold" type="EtcItem">
+	<item id="1883" name="Стальная Заготовка" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_mold_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1054,7 +1054,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1884" name="Corroded Cord" type="EtcItem">
+	<item id="1884" name="Веревка" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_skein_gray_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1065,7 +1065,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1885" name="Corroded High-grade Suede" type="EtcItem">
+	<item id="1885" name="Качественная Замша" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_pouch_yellow_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1076,7 +1076,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1886" name="Corroded Silver Mold" type="EtcItem">
+	<item id="1886" name="Серебряная Заготовка" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_silver_mold_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1087,7 +1087,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1887" name="Corroded Varnish of Purity" type="EtcItem">
+	<item id="1887" name="Очищенный Лак" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_potion_clear_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1098,7 +1098,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1888" name="Corroded Synthetic Cokes" type="EtcItem">
+	<item id="1888" name="Синтетический Кокс" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_synthetic_cokes_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1109,7 +1109,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1889" name="Corroded Synthetic Braid" type="EtcItem">
+	<item id="1889" name="Прочный Шнурок" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_compound_braid_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1120,7 +1120,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1890" name="Corroded Mithril Alloy" type="EtcItem">
+	<item id="1890" name="Мифриловый Сплав" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_lump_white_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1131,7 +1131,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1891" name="Corroded Artisan's Frame" type="EtcItem">
+	<item id="1891" name="Заготовка Ремесленника" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_artisans_frame_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1142,7 +1142,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1892" name="Corroded Blacksmith's Frame" type="EtcItem">
+	<item id="1892" name="Заготовка Кузнеца" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_blacksmiths_frame_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1153,7 +1153,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1893" name="Corroded Oriharukon" type="EtcItem">
+	<item id="1893" name="Орихарукон" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_oriharukon_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1164,7 +1164,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1894" name="Corroded Quality Leather" type="EtcItem">
+	<item id="1894" name="Выделанная Кожа" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_crafted_leather_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1175,7 +1175,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1895" name="Corroded Metallic Fiber" type="EtcItem">
+	<item id="1895" name="Металлическое Волокно" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_metallic_fiber_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1186,7 +1186,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1896" name="Necklace of Anguish Chain" type="EtcItem">
+	<item id="1896" name="Цепочка Ожерелья Мучений" type="EtcItem">
 		<!-- Key material for Dwarves to make Necklace of Anguish. Can be sold in any shop. -->
 		<set name="icon" val="icon.etc_jewel_box_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1197,7 +1197,7 @@
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1897" name="Necklace of Wisdom Chain" type="EtcItem">
+	<item id="1897" name="Цепочка Ожерелья Мудрости" type="EtcItem">
 		<!-- Key material for Dwarves to make Necklace of Wisdom. Can be sold in any shop. -->
 		<set name="icon" val="icon.etc_jewel_box_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1208,7 +1208,7 @@
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1898" name="Blue Diamond Necklace Gem" type="EtcItem">
+	<item id="1898" name="Камень Ожерелья с Синим Алмазом" type="EtcItem">
 		<!-- Key material for Dwarves to make Blue Diamond Necklace. Can be sold in any shop. -->
 		<set name="icon" val="icon.etc_gem_blue_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
@@ -1219,7 +1219,7 @@
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="1899" name="Necklace of Devotion Chain" type="EtcItem">
+	<item id="1899" name="Цепочка Ожерелья Преданности" type="EtcItem">
 		<!-- Key material for Dwarves to make Necklace of Devotion. Can be sold in any shop. -->
 		<set name="icon" val="icon.etc_jewel_box_i00" />
 		<set name="etcitem_type" val="MATERIAL" />
