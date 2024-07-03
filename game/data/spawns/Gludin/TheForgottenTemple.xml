@@ -412,10 +412,10 @@
         <npc id="18616" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Bloom 36 -->
     </spawn>
     <spawn>
-        <npc id="25038" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Тирак (28)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Тирак (28) -->
+        <npc id="25038" x="-61007" y="179625" z="-4808" heading="16723" dbSave="true" dbName="Тирак (28)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Тирак (28) -->
     </spawn>
     <spawn>
-        <npc id="25429" x="-60682" y="191630" z="-3648" heading="16723" dbSave="true" dbName="Коллекционер Маммона Талос (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Коллекционер Маммона Талос (25) -->
+        <npc id="25429" x="-54355" y="188273" z="-4512" heading="16723" dbSave="true" dbName="Коллекционер Маммона Талос (25)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Коллекционер Маммона Талос (25) -->
     </spawn>
     <spawn>
         <npc id="25112" x="-62389" y="184134" z="-4816" heading="16723" dbSave="true" dbName="Агент Белефа Мина (32)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Агент Белефа Мина (32) -->
