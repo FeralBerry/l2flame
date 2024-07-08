@@ -3105,7 +3105,7 @@
 			<skill id="4416" level="1" /> <!-- Undead -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>SKELETON</clan>
 			</clanList>
@@ -4681,7 +4681,7 @@
 			<skill id="4416" level="4" /> <!-- Animals -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true"/>
+		<ai aggroRange="400" clanHelpRange="300" isAggressive="true"/>
 		<dropLists>
 			<drop>
 				<group chance="70">

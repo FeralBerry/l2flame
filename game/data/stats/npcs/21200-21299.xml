@@ -1181,7 +1181,7 @@
 			<height normal="31" />
 		</collision>
 	</npc>
-	<npc id="21213" level="32" type="Monster" name="Hallowed Monk">
+	<npc id="21213" level="32" type="Monster" name="Посвященный Монах">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -1195,7 +1195,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="4443" sp="250" />
+		<acquire exp="1920" sp="192" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="668.47132" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1233,7 +1233,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="626" max="1255" chance="100" /> <!-- Adena -->
+					<item id="57" min="1280" max="1536" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.4071">
 					<item id="275" min="1" max="1" chance="2.6815" /> <!-- Long Bow -->
@@ -3096,7 +3096,7 @@
 			<height normal="31" />
 		</collision>
 	</npc>
-	<npc id="21237" level="32" type="Monster" name="Barrow Monk">
+	<npc id="21237" level="32" type="Monster" name="Монах Кургана">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -3110,7 +3110,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="4443" sp="250" />
+		<acquire exp="1920" sp="192" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="668.47132" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -3140,7 +3140,7 @@
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="400" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>C_DUNGEON</clan>
 			</clanList>
@@ -3148,7 +3148,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="626" max="1255" chance="100" /> <!-- Adena -->
+					<item id="57" min="1280" max="1536" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2531">
 					<item id="86" min="1" max="1" chance="1.2938" /> <!-- Tomahawk -->

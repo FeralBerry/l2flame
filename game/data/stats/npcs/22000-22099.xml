@@ -952,7 +952,7 @@
 			<height normal="22" />
 		</collision>
 	</npc>
-	<npc id="22010" level="32" type="Monster" name="Ghost of a General">
+	<npc id="22010" level="32" type="Monster" name="Призрак Генерала">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
@@ -961,14 +961,14 @@
 			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
-			<!-- <skill name="SelfBuff" id="4028" level="2" /> --> <!-- NPC Might -->
+			<skill name="SelfBuff" id="4028" level="2" /> <!-- NPC Might -->
 			<skill name="SelfRangeDDMagic" id="4612" level="3" /> <!-- NPC Wide Wild Sweep -->
 			<skill name="PhysicalSpecial" id="4032" level="2" /> <!-- NPC Strike -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="8532" /> <!-- rhand: For Monsters Only (Spinebone Sword) -->
-		<acquire exp="2034" sp="114" />
+		<acquire exp="480" sp="48" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="668.47132" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1002,7 +1002,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>GRUDGE</clan>
 			</clanList>
@@ -1010,7 +1010,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="286" max="575" chance="100" /> <!-- Adena -->
+					<item id="57" min="320" max="384" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2349">
 					<item id="46" min="1" max="1" chance="41.1945" /> <!-- Bronze Helmet -->

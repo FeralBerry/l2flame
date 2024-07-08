@@ -4048,7 +4048,7 @@
 			<height normal="50" />
 		</collision>
 	</npc>
-	<npc id="20788" level="35" type="Monster" name="Rakul">
+	<npc id="20788" level="35" type="Monster" name="Мурлок">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -4063,7 +4063,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="3" /> <!-- rhand: Broadsword -->
-		<acquire exp="2544" sp="150" />
+		<acquire exp="525" sp="53" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="772.73802" hpRegen="4.5" mp="402.6" mpRegen="1.8" />
 			<attack physical="129.32896" magical="88.31491" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4093,7 +4093,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ALL</clan>
 			</clanList>
@@ -4101,7 +4101,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="355" max="708" chance="100" /> <!-- Adena -->
+					<item id="57" min="350" max="420" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.012">
 					<item id="260" min="1" max="1" chance="100" /> <!-- Triple-Edged Jamadhr -->

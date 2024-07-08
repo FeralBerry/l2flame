@@ -559,7 +559,7 @@
 			<height normal="22" grown="27" />
 		</collision>
 	</npc>
-	<npc id="21106" level="34" type="Monster" name="Cursed Seer">
+	<npc id="21106" level="34" type="Monster" name="Проклятый Смотритель">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -574,7 +574,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2057" sp="120" />
+		<acquire exp="510" sp="51" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -606,7 +606,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>MONSTER_EYE</clan>
 			</clanList>
@@ -614,7 +614,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="288" max="574" chance="100" /> <!-- Adena -->
+					<item id="57" min="340" max="408" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1502">
 					<item id="628" min="1" max="1" chance="58.8353" /> <!-- Hoplon -->
@@ -4246,7 +4246,7 @@
 			<height normal="33.5" />
 		</collision>
 	</npc>
-	<npc id="21144" level="34" type="Monster" name="Catacomb Shadow">
+	<npc id="21144" level="34" type="Monster" name="Тень Катакомб">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -4261,7 +4261,7 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="5016" sp="293" />
+		<acquire exp="2040" sp="204" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -4293,7 +4293,7 @@
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>C_DUNGEON</clan>
 			</clanList>
@@ -4301,7 +4301,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="702" max="1399" chance="100" /> <!-- Adena -->
+					<item id="57" min="1360" max="1632" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3661">
 					<item id="628" min="1" max="1" chance="58.8353" /> <!-- Hoplon -->
@@ -6527,7 +6527,7 @@
 			<height normal="42" />
 		</collision>
 	</npc>
-	<npc id="21170" level="33" type="Monster" name="Lith Medium">
+	<npc id="21170" level="33" type="Monster" name="Медиум Лит">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -6542,7 +6542,7 @@
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<equipment rhand="5797" /> <!-- rhand: Tomb Savant A -->
-		<acquire exp="5230" sp="300" />
+		<acquire exp="1980" sp="198" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
 			<attack physical="113.49065" magical="77.49941" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -6590,6 +6590,9 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
+					<item id="57" min="320" max="584" chance="100" /> <!-- Red Seal Stone -->
+				</group>
+				<group chance="70">
 					<item id="6362" min="22" max="41" chance="100" /> <!-- Red Seal Stone -->
 				</group>
 				<group chance="70">
@@ -6622,7 +6625,7 @@
 			<height normal="40" />
 		</collision>
 	</npc>
-	<npc id="21171" level="36" type="Monster" name="Lith Overlord">
+	<npc id="21171" level="36" type="Monster" name="Владыка Лит">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -6637,7 +6640,7 @@
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<equipment rhand="5796" /> <!-- rhand: Tomb Guard B -->
-		<acquire exp="6676" sp="404" />
+		<acquire exp="2160" sp="216" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
 			<attack physical="137.86467" magical="94.1437" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -6685,6 +6688,9 @@
 		</ai>
 		<dropLists>
 			<drop>
+				<group chance="70">
+					<item id="6362" min="440" max="728" chance="100" /> <!-- Red Seal Stone -->
+				</group>
 				<group chance="70">
 					<item id="6362" min="24" max="44" chance="100" /> <!-- Red Seal Stone -->
 				</group>
