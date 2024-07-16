@@ -8,7 +8,7 @@
 		<items>
 			<item id="-200" count="100" /> <!-- Репутация клана -->
 			<item id="-300" count="300" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -20,7 +20,7 @@
 		<items>
 			<item id="-200" count="130" /> <!-- Репутация клана -->
 			<item id="-300" count="400" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -32,7 +32,7 @@
 		<items>
 			<item id="-200" count="170" /> <!-- Репутация клана -->
 			<item id="-300" count="500" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -44,7 +44,7 @@
 		<items>
 			<item id="-200" count="200" /> <!-- Репутация клана -->
 			<item id="-300" count="700" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -56,7 +56,7 @@
 		<items>
 			<item id="-200" count="220" /> <!-- Репутация клана -->
 			<item id="-300" count="850" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -68,7 +68,7 @@
 		<items>
 			<item id="-200" count="240" /> <!-- Репутация клана -->
 			<item id="-300" count="1100" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -80,7 +80,7 @@
 		<items>
 			<item id="-200" count="280" /> <!-- Репутация клана -->
 			<item id="-300" count="1200" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -92,7 +92,7 @@
 		<items>
 			<item id="-200" count="300" /> <!-- Репутация клана -->
 			<item id="-300" count="1300" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -104,7 +104,7 @@
 		<items>
 			<item id="-200" count="320" /> <!-- Репутация клана -->
 			<item id="-300" count="1450" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -116,44 +116,48 @@
 		<items>
 			<item id="-200" count="350" /> <!-- Репутация клана -->
 			<item id="-300" count="1500" /> <!-- Личные очки клана -->
-			<item id="81012" count="5" /> <!-- Особый Коктейль Императора -->
+			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
-	<reward id="1010" name="Успешный рейд до 40 уровня" requiredCompletion="1" isOneTime="false">
-		<!-- Зверь Безумия (20) -->
-		<!-- Отверженный Стражник (20) -->
-		<!-- Повелитель Зомби Фаракелсус (20) -->
-		<!-- Посланник Дагониэля Малекс (21) -->
-		<!-- Вождь Трусливых Крысолюдов (21) -->
-		<!-- Посланник Икара Кайша (21) -->
-		<!-- Тиберий (22) -->
-		<!-- Жрец Куробороса (23) -->
-		<!-- Начальник Следопытов Шарук (23) -->
-		<!-- Кутус Серый Коготь (23) -->
-		<!-- Отверженная Каэль (24) -->
-		<!-- Вождь Лангк Рашкос (24) -->
-		<!-- Предатель Уруту Фреки (25) -->
-		<!-- Наместник Гноллов (25) -->
-		<!-- Коллекционер Маммона Талос (25) -->
-		<!-- Повелитель Зомби Кроул (25) -->
-		<!-- Патриарх Куроборос (26) -->
-		<!-- Тигровый Шершень (26) -->
-		<!-- Икунтай (27) -->
-		<!-- Главарь Партизан Талакин (28) -->
-		<!-- Тирак (28) -->
-		<!-- Эльф Реноа (29) -->
-		<!-- Агент Белефа Мина (32) -->
-		<!-- Капитан Нурки (33) -->
-		<!-- Призрак Сэра Калибуса (34) -->
-		<!-- Красноглазый Капитан Тракиа (35) -->
-		<!-- Повелитель Пламени Шадар (35) -->
-		<!-- Слуга Седжара (35) -->
-		<!-- Собиратель Душ Ашерон (35) -->
-		<!-- Повелитель Горгулий Сирокко (35) -->
-		<!-- Беспокойный Злой Дух (36) -->
+
+	<reward id="2001" name="Успешный рейд до 40 уровня" requiredCompletion="1" isOneTime="false">
+		<!-- 25378 Зверь Безумия (20) -->
+		<!-- 25372 Отверженный Стражник (20) -->
+		<!-- 25375 Повелитель Зомби Фаракелсус (20) -->
+		<!-- 25373 Посланник Дагониэля Малекс (21) -->
+		<!-- 25357 Вождь Трусливых Крысолюдов (21) -->
+		<!-- 25380 Посланник Икара Кайша (21) -->
+		<!-- 25528 Тиберий (22) -->
+		<!-- 25366 Жрец Куробороса (23) -->
+		<!-- 25362 Начальник Следопытов Шарук (23) -->
+		<!-- 25001 Кутус Серый Коготь (23) -->
+		<!-- 25060 Отверженная Каэль (24) -->
+		<!-- 25127 Вождь Лангк Рашкос (24) -->
+		<!-- 25426 Предатель Уруту Фреки (25) -->
+		<!-- 25019 Наместник Гноллов (25) -->
+		<!-- 25429 Коллекционер Маммона Талос (25) -->
+		<!-- 25149 Повелитель Зомби Кроул (25) -->
+		<!-- 25365 Патриарх Куроборос (26) -->
+		<!-- 25360 Тигровый Шершень (26) -->
+		<!-- 25166 Икунтай (27) -->
+		<!-- 25272Главарь Партизан Талакин (28) -->
+		<!-- 25038 Тирак (28) -->
+		<!-- 25095 Эльф Реноа (29) -->
+		<!-- 25112 Агент Белефа Мина (32) -->
+		<!-- 25391 Капитан Нурки (33) -->
+		<!-- 25383 Призрак Сэра Калибуса (34) -->
+		<!-- 25388 Красноглазый Капитан Тракиа (35) -->
+		<!-- 25152 Повелитель Пламени Шадар (35) -->
+		<!-- 25098 Слуга Седжара (35) -->
+		<!-- 25223 Собиратель Душ Ашерон (35) -->
+		<!-- 25354 Повелитель Горгулий Сирокко (35) -->
+		<!-- 25385 Беспокойный Злой Дух (36) -->
+		<!-- 25020 Колдун Брека Пасту (36) -->
+		<!-- 25063 Чертуба Великий Дух (37) -->
+		<!-- 25185 Хелена Патриарх Тасаба (37) -->
 		<handler name="boss">
-			<param name="ids">25378,25372,25375,25373,25357,25380,25528,25366,25362,25001,25060,25127,25426,25019,25429,25149,25365,25360,25166,25272,25038,25095,25112,25391,25383,25388,25152,25098,25223,25354,25385</param>
+			<param name="ids">25378,25372,25375,25373,25357,25380,25528,25366,25362,25001,25060,25127,25426,25019,25429,25149,25365,25360,25166,25272,25038,25095,25112,25391,25383,25388,25152,25098,25223,25354,25385,25020,25063,25185</param>
 			<param name="minLevel">1</param>
 			<param name="maxLevel">40</param>
 		</handler>
@@ -161,6 +165,64 @@
 			<item id="-200" count="50" /> <!-- Репутация клана -->
 			<item id="-300" count="100" /> <!-- Личные очки клана -->
 			<item id="48857" count="1" /> <!-- Сверкающее Зелье Стихий Дракона (Опыт) -->
+		</items>
+	</reward>
+	<reward id="2002" name="Успешный рейд c 40 до 50 уровня" requiredCompletion="1" isOneTime="false">
+		<!-- 25169 Раграмэн (40) -->
+		<!-- 25041 Реммель (41) -->
+		<!-- 25170 Глава Ящеров Хеллион (42) -->
+		<!-- 25064 Чародей Бури Терук (43) -->
+		<handler name="boss">
+			<param name="ids">25169,25041,25170,25064</param>
+			<param name="minLevel">40</param>
+			<param name="maxLevel">50</param>
+		</handler>
+		<items>
+			<item id="-200" count="70" /> <!-- Репутация клана -->
+			<item id="-300" count="130" /> <!-- Личные очки клана -->
+			<item id="48857" count="1" /> <!-- Сверкающее Зелье Стихий Дракона (Опыт) -->
+		</items>
+	</reward>
+	<reward id="2050" name="Успешный заход в камалоку 43 46 и 49" requiredCompletion="1" isOneTime="false">
+		<!-- 18554  (43) -->
+		<!-- 18555  (46) -->
+		<!-- 29129  (49) -->
+		<handler name="monster">
+			<param name="ids">18554,18555,29129</param>
+			<param name="minLevel">40</param>
+			<param name="maxLevel">50</param>
+		</handler>
+		<items>
+			<item id="-200" count="70" /> <!-- Репутация клана -->
+			<item id="-300" count="130" /> <!-- Личные очки клана -->
+		</items>
+	</reward>
+	<reward id="2051" name="Успешный заход в камалоку 53 56 и 59" requiredCompletion="1" isOneTime="false">
+		<!-- 18558  (53) -->
+		<!-- 18559  (56) -->
+		<!-- 29132  (59) -->
+		<handler name="monster">
+			<param name="ids">18558,18559,29132</param>
+			<param name="minLevel">50</param>
+			<param name="maxLevel">60</param>
+		</handler>
+		<items>
+			<item id="-200" count="90" /> <!-- Репутация клана -->
+			<item id="-300" count="150" /> <!-- Личные очки клана -->
+		</items>
+	</reward>
+	<reward id="2052" name="Успешный заход в камалоку 63 66 и 69" requiredCompletion="1" isOneTime="false">
+		<!-- 18562  (63) -->
+		<!-- 18564  (66) -->
+		<!-- 29135  (69) -->
+		<handler name="monster">
+			<param name="ids">18562,18564,29135</param>
+			<param name="minLevel">60</param>
+			<param name="maxLevel">70</param>
+		</handler>
+		<items>
+			<item id="-200" count="110" /> <!-- Репутация клана -->
+			<item id="-300" count="180" /> <!-- Личные очки клана -->
 		</items>
 	</reward>
 	<!-- 
@@ -1073,18 +1135,56 @@
 		</items>
 	</reward> 
 	-->
-	<!-- 
-	<reward id="3201" name="Main Class - Basic Enhancement 1" requiredCompletion="99" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+	<reward id="3001" name="Достигнуть 20 уровня" requiredCompletion="20" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
 		<handler name="level">
-			<param name="level">99</param>
+			<param name="level">20</param>
 		</handler>
 		<items>
 			<item id="-200" count="300" /> 
 			<item id="-300" count="3000" /> 
-			<item id="81887" count="1" /> 
+			<item id="22474" count="1" />
 		</items>
-	</reward> 
-	-->
+	</reward>
+	<reward id="3002" name="Достигнуть 40 уровня" requiredCompletion="40" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">40</param>
+		</handler>
+		<items>
+			<item id="-200" count="600" />
+			<item id="-300" count="5000" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+	<reward id="3003" name="Достигнуть 50 уровня" requiredCompletion="50" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">50</param>
+		</handler>
+		<items>
+			<item id="-200" count="800" />
+			<item id="-300" count="6500" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+	<reward id="3004" name="Достигнуть 60 уровня" requiredCompletion="60" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">60</param>
+		</handler>
+		<items>
+			<item id="-200" count="1000" />
+			<item id="-300" count="8000" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+	<reward id="3005" name="Достигнуть 70 уровня" requiredCompletion="70" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">70</param>
+		</handler>
+		<items>
+			<item id="-200" count="1200" />
+			<item id="-300" count="10000" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
 	<!-- 
 	<reward id="3202" name="Main Class - Basic Enhancement 2" requiredCompletion="100" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
 		<handler name="level">
@@ -1633,7 +1733,7 @@
 		</items>
 	</reward> 
 	-->
-	<!-- 
+	<!--
 	<reward id="4104" name="Power of Glowing Dragon's Attribute Potion" requiredCompletion="8" isOneTime="false">
 		<handler name="useitem">
 			<param name="itemIds">29776,48497,48755,48857,60182,60186,80748,81759</param>
@@ -1644,7 +1744,7 @@
 			<item id="-200" count="25" /> 
 			<item id="-300" count="250" /> 
 		</items>
-	</reward> 
+	</reward>
 	-->
 	<!-- 
 	<reward id="4105" name="Power of Honey Dark Beer" requiredCompletion="8" isOneTime="false">
@@ -1800,19 +1900,6 @@
 			<item id="-200" count="35" /> 
 			<item id="-300" count="35" /> 
 			<item id="82405" count="1" /> 
-		</items>
-	</reward> 
-	-->
-	<!--
-	<reward id="60000" name="Hunt Lv. 101+ monsters" requiredCompletion="800" isOneTime="false">
-		Kill 800 monsters in any hunting zone. (A monster kill counts only when XP is gained from it.)
-		<handler name="monster">
-			<param name="minLevel">101</param>
-			<param name="maxLevel">255</param>
-		</handler>
-		<items>
-			<item id="-200" count="280" /> Clan Reputation
-			<item id="-300" count="1500" /> Fame
 		</items>
 	</reward> 
 	-->

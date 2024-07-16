@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="22500" level="78" type="Monster" name="Lost Watcher">
+	<npc id="22500" level="78" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="50" />
 			<param name="MoveAroundSocial1" value="50" />
@@ -10,7 +10,7 @@
 			<param name="Skill02_Type" value="2" />
 			<param name="Skill02_Probablity" value="500" />
 			<param name="is_private" value="0" />
-			<param name="silhouette" value="22501" /> <!-- Lost Watcher -->
+			<param name="silhouette" value="22501" /> <!-- Смотритель Лабиринта -->
 			<param name="ai_type" value="kamaloka_78_a_false" />
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
@@ -63,7 +63,7 @@
 			<height normal="36.5" grown="42.5" />
 		</collision>
 	</npc>
-	<npc id="22501" level="78" type="Monster" name="Lost Watcher">
+	<npc id="22501" level="78" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="50" />
 			<param name="MoveAroundSocial1" value="50" />
@@ -123,7 +123,7 @@
 			<height normal="36.5" grown="42.5" />
 		</collision>
 	</npc>
-	<npc id="22502" level="78" type="Monster" name="Lost Beholder">
+	<npc id="22502" level="78" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -187,7 +187,7 @@
 			<height normal="30" grown="36.5" />
 		</collision>
 	</npc>
-	<npc id="22503" level="81" type="Monster" name="Lost Watcher">
+	<npc id="22503" level="81" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -197,7 +197,7 @@
 			<param name="Skill02_Type" value="2" />
 			<param name="Skill02_Probablity" value="500" />
 			<param name="is_private" value="0" />
-			<param name="silhouette" value="22504" /> <!-- Lost Watcher -->
+			<param name="silhouette" value="22504" /> <!-- Смотритель Лабиринта -->
 			<param name="ai_type" value="kamaloka_81_a_false" />
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
@@ -250,7 +250,7 @@
 			<height normal="37.5" grown="46.8" />
 		</collision>
 	</npc>
-	<npc id="22504" level="81" type="Monster" name="Lost Watcher">
+	<npc id="22504" level="81" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -310,7 +310,7 @@
 			<height normal="37.5" grown="46.8" />
 		</collision>
 	</npc>
-	<npc id="22505" level="81" type="Monster" name="Lost Beholder">
+	<npc id="22505" level="81" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />

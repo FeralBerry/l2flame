@@ -452,7 +452,7 @@
 			<height normal="48.5" />
 		</collision>
 	</npc>
-	<npc id="25708" level="83" type="Monster" name="Lost Beholder">
+	<npc id="25708" level="83" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="IsAggressive" value="1" />
 			<param name="MoveArounding" value="0" />

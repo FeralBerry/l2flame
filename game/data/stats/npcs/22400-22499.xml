@@ -7827,7 +7827,7 @@
 			<height normal="49" grown="60.5" />
 		</collision>
 	</npc>
-	<npc id="22485" level="29" type="Monster" name="Lost Watcher">
+	<npc id="22485" level="49" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7837,7 +7837,7 @@
 			<param name="Skill02_Type" value="2" />
 			<param name="Skill02_Probablity" value="500" />
 			<param name="is_private" value="0" />
-			<param name="silhouette" value="22486" /> <!-- Lost Watcher -->
+			<param name="silhouette" value="22486" /> <!-- Смотритель Лабиринта -->
 			<param name="ai_type" value="kamaloka_29_a_false" />
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
@@ -7851,9 +7851,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="127" /> <!-- rhand: Crimson Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="4969.53573226743" hpRegen="24.6038566584159" mp="315.12" mpRegen="1.5" />
-			<attack physical="329.855278324131" magical="225.248392013545" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="184.009568" magical="201.975312" />
+			<vitals hp="16259.5568027746" hpRegen="70.8842869727447" mp="720.0" mpRegen="2.1" />
+			<attack physical="590.51302676516" magical="390.27203717647" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="293.49453" magical="286.36" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -7878,9 +7878,9 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" aggroRange="300" clanHelpRange="1000" isAggressive="false">
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="1000" isAggressive="true">
 			<clanList>
-				<clan>ABYSS</clan>
+				<clan>ALL</clan>
 			</clanList>
 		</ai>
 		<collision>
@@ -7888,7 +7888,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="22486" level="29" type="Monster" name="Lost Watcher">
+	<npc id="22486" level="49" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7909,9 +7909,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="127" /> <!-- rhand: Crimson Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="4969.53573226743" hpRegen="24.6038566584159" mp="315.12" mpRegen="1.5" />
-			<attack physical="329.855278324131" magical="225.248392013545" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="184.009568" magical="201.975312" />
+			<vitals hp="16259.5568027746" hpRegen="70.8842869727447" mp="720.0" mpRegen="2.1" />
+			<attack physical="590.51302676516" magical="390.27203717647" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="293.49453" magical="286.36" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -7936,9 +7936,9 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" aggroRange="300" clanHelpRange="1000" isAggressive="false">
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="1000" isAggressive="true">
 			<clanList>
-				<clan>ABYSS</clan>
+				<clan>ALL</clan>
 			</clanList>
 		</ai>
 		<collision>
@@ -7946,7 +7946,7 @@
 			<height normal="37" grown="44.5" />
 		</collision>
 	</npc>
-	<npc id="22487" level="29" type="Monster" name="Lost Beholder">
+	<npc id="22487" level="49" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7970,9 +7970,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="72" /> <!-- rhand: Stormbringer -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="9939.07146453487" hpRegen="24.6038566584159" mp="315.12" mpRegen="1.5" />
-			<attack physical="271.299505478987" magical="185.262390444947" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="184.009568" magical="201.975312" />
+			<vitals hp="29939.07146453487" hpRegen="24.6038566584159" mp="315.12" mpRegen="1.5" />
+			<attack physical="671.299505478987" magical="585.262390444947" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="484.009568" magical="401.975312" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -8008,7 +8008,7 @@
 			<height normal="38" />
 		</collision>
 	</npc>
-	<npc id="22488" level="39" type="Monster" name="Lost Watcher">
+	<npc id="22488" level="59" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -8018,7 +8018,7 @@
 			<param name="Skill02_Type" value="2" />
 			<param name="Skill02_Probablity" value="500" />
 			<param name="is_private" value="0" />
-			<param name="silhouette" value="22489" /> <!-- Lost Watcher -->
+			<param name="silhouette" value="22489" /> <!-- Смотритель Лабиринта -->
 			<param name="ai_type" value="kamaloka_39_a_false" />
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
@@ -8032,9 +8032,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="68" /> <!-- rhand: Falchion -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="7316.98928680867" hpRegen="33.3957981429179" mp="463.32" mpRegen="1.8" />
-			<attack physical="953.490662863352" magical="651.110498170522" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="243.948032" magical="267.765888" />
+			<vitals hp="29968.5829990193" hpRegen="118.297038154024" mp="1007.0" mpRegen="2.4" />
+			<attack physical="3540.84563545436" magical="2417.93855826416" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="388.505488" magical="426.437184" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -8069,7 +8069,7 @@
 			<height normal="32" />
 		</collision>
 	</npc>
-	<npc id="22489" level="39" type="Monster" name="Lost Watcher">
+	<npc id="22489" level="59" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -8090,9 +8090,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="68" /> <!-- rhand: Falchion -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="7316.98928680867" hpRegen="33.3957981429179" mp="463.32" mpRegen="1.8" />
-			<attack physical="953.490662863352" magical="651.110498170522" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="243.948032" magical="267.765888" />
+			<vitals hp="29968.5829990193" hpRegen="118.297038154024" mp="1007.0" mpRegen="2.4" />
+			<attack physical="3540.84563545436" magical="2417.93855826416" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="388.505488" magical="426.437184" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -8127,7 +8127,7 @@
 			<height normal="32" />
 		</collision>
 	</npc>
-	<npc id="22490" level="39" type="Monster" name="Lost Beholder">
+	<npc id="22490" level="59" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -8151,9 +8151,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- rhand: Great Spear -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="14607.4178077364" hpRegen="33.3351845530168" mp="463.32" mpRegen="1.8" />
-			<attack physical="789.388859228459" magical="539.050242861332" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="243.948032" magical="267.765888" />
+			<vitals hp="59874.1811258681" hpRegen="118.172725906319" mp="1007.0" mpRegen="2.4" />
+			<attack physical="3210.45135498254" magical="2192.32209473249" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="388.505488" magical="426.437184" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -8189,7 +8189,7 @@
 			<height normal="35" grown="42.2" />
 		</collision>
 	</npc>
-	<npc id="22491" level="49" type="Monster" name="Lost Watcher">
+	<npc id="22491" level="69" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="116" />
 			<param name="MoveAroundSocial1" value="116" />
@@ -8199,7 +8199,7 @@
 			<param name="Skill02_Type" value="2" />
 			<param name="Skill02_Probablity" value="500" />
 			<param name="is_private" value="0" />
-			<param name="silhouette" value="22492" /> <!-- Lost Watcher -->
+			<param name="silhouette" value="22492" /> <!-- Смотритель Лабиринта -->
 			<param name="ai_type" value="kamaloka_49_a_false" />
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
@@ -8212,9 +8212,9 @@
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="16605.6873020657" hpRegen="70.2986762215597" mp="720.0" mpRegen="2.1" />
-			<attack physical="1565.167145235" magical="1068.80623772118" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="313.060832" magical="343.626504" />
+			<vitals hp="34683.5592837889" hpRegen="128.24367356764" mp="1314.0" mpRegen="2.7" />
+			<attack physical="5371.9113064698" magical="3668.31908449667" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="465.841008" magical="511.323336" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -8249,7 +8249,7 @@
 			<height normal="31" />
 		</collision>
 	</npc>
-	<npc id="22492" level="49" type="Monster" name="Lost Watcher">
+	<npc id="22492" level="69" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="116" />
 			<param name="MoveAroundSocial1" value="116" />
@@ -8269,9 +8269,9 @@
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="16605.6873020657" hpRegen="70.2986762215597" mp="720.0" mpRegen="2.1" />
-			<attack physical="1565.167145235" magical="1068.80623772118" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="313.060832" magical="343.626504" />
+			<vitals hp="34683.5592837889" hpRegen="128.24367356764" mp="1314.0" mpRegen="2.7" />
+			<attack physical="5371.9113064698" magical="3668.31908449667" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="465.841008" magical="511.323336" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -8306,7 +8306,7 @@
 			<height normal="31" />
 		</collision>
 	</npc>
-	<npc id="22493" level="49" type="Monster" name="Lost Beholder">
+	<npc id="22493" level="69" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -8329,9 +8329,9 @@
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="33211.3746041314" hpRegen="70.2986762215597" mp="720.0" mpRegen="2.1" />
-			<attack physical="1315.39400605676" magical="898.243566519169" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="313.060832" magical="343.626504" />
+			<vitals hp="69294.2944949816" hpRegen="128.109038789856" mp="1314.0" mpRegen="2.7" />
+			<attack physical="5265.71070694305" magical="3595.79784134812" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="465.841008" magical="511.323336" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -8367,7 +8367,8 @@
 			<height normal="52" />
 		</collision>
 	</npc>
-	<npc id="22494" level="59" type="Monster" name="Lost Watcher">
+
+	<npc id="22494" level="59" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -8377,7 +8378,7 @@
 			<param name="Skill02_Type" value="2" />
 			<param name="Skill02_Probablity" value="500" />
 			<param name="is_private" value="0" />
-			<param name="silhouette" value="22495" /> <!-- Lost Watcher -->
+			<param name="silhouette" value="22495" /> <!-- Смотритель Лабиринта -->
 			<param name="ai_type" value="kamaloka_59_a_false" />
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
@@ -8428,7 +8429,7 @@
 			<height normal="28.5" />
 		</collision>
 	</npc>
-	<npc id="22495" level="59" type="Monster" name="Lost Watcher">
+	<npc id="22495" level="59" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -8486,7 +8487,7 @@
 			<height normal="28.5" />
 		</collision>
 	</npc>
-	<npc id="22496" level="59" type="Monster" name="Lost Beholder">
+	<npc id="22496" level="59" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -8547,7 +8548,7 @@
 			<height normal="42" />
 		</collision>
 	</npc>
-	<npc id="22497" level="69" type="Monster" name="Lost Watcher">
+	<npc id="22497" level="69" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="78" />
 			<param name="MoveAroundSocial1" value="78" />
@@ -8557,7 +8558,7 @@
 			<param name="Skill02_Type" value="2" />
 			<param name="Skill02_Probablity" value="500" />
 			<param name="is_private" value="0" />
-			<param name="silhouette" value="22498" /> <!-- Lost Watcher -->
+			<param name="silhouette" value="22498" /> <!-- Смотритель Лабиринта -->
 			<param name="ai_type" value="kamaloka_69_a_false" />
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
@@ -8607,7 +8608,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="22498" level="69" type="Monster" name="Lost Watcher">
+	<npc id="22498" level="69" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="78" />
 			<param name="MoveAroundSocial1" value="78" />
@@ -8664,7 +8665,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="22499" level="69" type="Monster" name="Lost Beholder">
+	<npc id="22499" level="69" type="Monster" name="Блюститель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />

@@ -1,17 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- EACH PRODUCT SHOULD HAVE UNIQUE ITEM ID -->
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../data/xsd/ClanShop.xsd">
-	<clan level="5" item="36952" count="1" adena="10000000" fame="50000" /> <!-- Air Bike -->
+	<!-- 1 уровень -->
+	<clan level="1" item="10650" count="1" adena="1" fame="50" /> <!-- Свиток Телепорта Путешественника -->
+	<clan level="1" item="21195" count="1" adena="50000" fame="300" /> <!-- Свиток Благ. Телепорта -->
 	<clan level="1" item="48282" count="1" adena="0" fame="2000" /> <!-- Party Scroll of Escape -->
-	<clan level="1" item="48287" count="1" adena="0" fame="15000" /> <!-- Snow Kung Transformation Stick (15-day) -->
-	<clan level="1" item="48288" count="1" adena="0" fame="15000" /> <!-- Scarecrow Jack Transformation Stick (15-day) -->
-	<clan level="1" item="48289" count="1" adena="0" fame="15000" /> <!-- Tin Golem Transformation Stick (15-day) -->
-	<clan level="1" item="48290" count="1" adena="0" fame="15000" /> <!-- Gatekeeper Transformation Stick (15-day) -->
-	<clan level="1" item="48291" count="1" adena="0" fame="15000" /> <!-- Aqua Elf Transformation Stick (15-day) -->
-	<clan level="1" item="12819" count="1" adena="0" fame="500" /> <!-- Scroll: Recovery (Battleground) -->
-	<clan level="1" item="35756" count="1" adena="10000000" fame="50000" /> <!-- High-grade Scroll: Reputation -->
-	<clan level="1" item="35752" count="1" adena="10000000" fame="50000" /> <!-- Mid-grade Scroll: PK -->
-	<clan level="1" item="27592" count="1" adena="0" fame="9000" /> <!-- Supply Box - Top Grade -->
-	<clan level="1" item="47739" count="1" adena="5000000" fame="30000" /> <!-- Hunter's Amulet -->
+	<!-- 2 уровень -->
+	<clan level="2" item="20393" count="1" adena="100000" fame="300" /> <!-- Коктейль из Сладких Фруктов -->
+	<clan level="2" item="20394" count="1" adena="100000" fame="300" /> <!-- Коктейль из Свежих Фруктов -->
+	<!-- 3 уровень -->
+	<clan level="3" item="20335" count="1" adena="300000" fame="1000" /> <!-- Руна опыта 30% 5ч -->
+	<clan level="3" item="20341" count="1" adena="300000" fame="1000" /> <!-- Руна сп 30% 5ч -->
+	<!-- 4 уровень -->
+	<clan level="4" item="21233" count="1" adena="300000" fame="2000" /> <!-- Упаковка: Парное Молоко -->
+	<clan level="4" item="21234" count="1" adena="300000" fame="2000" /> <!-- Упаковка: Парное Молоко -->
+	<!-- 5 уровень -->
+	<clan level="5" item="36952" count="1" adena="10000000" fame="50000" /> <!-- Air Bike -->
+	<clan level="5" item="38941" count="1" adena="1000000" fame="1000" /> <!-- Ларец Лавианроз -->
+	<!-- 6 уровень -->
+	<clan level="6" item="22751" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 30% - 3 ч. -->
+	<!-- 7 уровень -->
+	<clan level="7" item="22754" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 50% - 3 ч. -->
+	<!-- 8 уровень -->
+	<clan level="8" item="22757" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 100% - 3 ч. -->
+	<!-- 9 уровень -->
+	<clan level="9" item="22760" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 200% - 3 ч. -->
+	<!-- 10 уровень -->
 	<clan level="10" item="48283" count="1" adena="500000" fame="2000" /> <!-- Stealth Detector -->
+	<!-- 11 уровень -->
+	<clan level="11" item="37719" count="1" adena="1000000" fame="50000" /> <!-- Особая Коробка Паагрио -->
+	<clan level="11" item="37720" count="1" adena="1000000" fame="50000" /> <!-- Особая Коробка Мафр -->
+	<clan level="11" item="37721" count="1" adena="1000000" fame="50000" /> <!-- Особая Коробка Сайхи -->
+	<clan level="11" item="37722" count="1" adena="1000000" fame="50000" /> <!-- Особая Коробка Евы -->
+	<!-- 12 уровень -->
+	<clan level="12" item="23238" count="1" adena="5000000" fame="5000" /> <!-- Упаковка с Благословенным Свитком: Модифицировать Футболку 30 шт -->
+	<!-- 13 уровень -->
+
+	<!-- 14 уровень -->
+
+	<!-- 15 уровень -->
 </list>
+<!--
+<clan level="1" item="48287" count="1" adena="0" fame="15000" /> Snow Kung Transformation Stick (15-day)
+<clan level="1" item="48288" count="1" adena="0" fame="15000" /> Scarecrow Jack Transformation Stick (15-day)
+<clan level="1" item="48289" count="1" adena="0" fame="15000" /> Tin Golem Transformation Stick (15-day)
+<clan level="1" item="48290" count="1" adena="0" fame="15000" /> Gatekeeper Transformation Stick (15-day)
+<clan level="1" item="48291" count="1" adena="0" fame="15000" /> Aqua Elf Transformation Stick (15-day)
+<clan level="1" item="12819" count="1" adena="0" fame="500" />  Scroll: Recovery (Battleground)
+<clan level="1" item="35756" count="1" adena="10000000" fame="50000" /> High-grade Scroll: Reputation
+<clan level="1" item="35752" count="1" adena="10000000" fame="50000" />  Mid-grade Scroll: PK
+<clan level="1" item="27592" count="1" adena="0" fame="9000" />  Supply Box - Top Grade
+<clan level="1" item="47739" count="1" adena="5000000" fame="30000" />  Hunter's Amulet
+-->

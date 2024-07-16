@@ -8450,7 +8450,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="22081" level="53" type="Monster" name="Lost Watcher">
+	<npc id="22081" level="53" type="Monster" name="Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="40" />
 			<param name="MoveAroundSocial1" value="40" />
@@ -8577,7 +8577,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="22082" level="54" type="Monster" name="Elder Lost Watcher">
+	<npc id="22082" level="54" type="Monster" name="Elder Смотритель Лабиринта">
 		<parameters>
 			<param name="MoveAroundSocial" value="40" />
 			<param name="MoveAroundSocial1" value="40" />

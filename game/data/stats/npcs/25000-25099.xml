@@ -990,7 +990,7 @@
 			<height normal="73" />
 		</collision>
 	</npc>
-	<npc id="25020" level="34" type="RaidBoss" name="Breka Warlock Pastu" title="Raid Boss">
+	<npc id="25020" level="36" type="RaidBoss" name="Колдун Брека Пасту" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
 				<npc id="25021" count="2" respawnTime="360" weightPoint="1" /> <!-- Pastu's Silhouette -->
@@ -1002,11 +1002,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8" /> <!-- rhand: Willow Staff -->
-		<acquire exp="231861" sp="13550" raidPoints="496" />
+		<acquire exp="648000" sp="64800" raidPoints="496" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="65791.6741786232" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
-			<attack physical="151.742801059792" magical="12.040611940131" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="398.8458" magical="194.58" evasion="-18" />
+			<vitals hp="73380.9239757113" hpRegen="25.6128307622386" mp="417.6" mpRegen="1.8" />
+			<attack physical="176.455636850148" magical="14.03993239503" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="421.71834" magical="205.74" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1030,12 +1030,15 @@
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
-			<skill id="4797" level="1" /> <!-- Raid Boss - Level 34 -->
+			<skill id="4797" level="1" /> <!-- Raid Boss - Level 36 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="70">
+					<item id="57" min="432000" max="518400" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="72.5609">
 					<item id="396" min="1" max="1" chance="29.0162" /> <!-- Salamander Skin Mail -->
 					<item id="1952" min="12" max="36" chance="70.9838" /> <!-- Salamander Skin Mail Texture -->
@@ -1062,7 +1065,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="25021" level="33" type="Monster" name="Pastu's Silhouette" title="Raid Fighter">
+	<npc id="25021" level="35" type="Monster" name="Силуэт Пасту" title="Raid Fighter">
 		<parameters>
 			<skill name="HealMagic_a" id="4786" level="3" /> <!-- BOSS Chant of Life -->
 			<skill name="SelfRangeBuff_a" id="4211" level="3" /> <!-- BOSS Might -->
@@ -1070,9 +1073,9 @@
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="9983.70344337502" hpRegen="24.5170941308607" mp="372.96" mpRegen="1.8" />
-			<attack physical="281.115059392479" magical="44.7780251490961" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="193.846425" magical="189.14" evasion="-18" />
+			<vitals hp="15983.70344337502" hpRegen="24.5170941308607" mp="472.96" mpRegen="1.8" />
+			<attack physical="301.115059392479" magical="54.7780251490961" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="213.846425" magical="219.14" evasion="-18" />
 			<attribute>
 				<attack type="DARK" value="20" />
 				<defence fire="20" water="20" wind="20" earth="20" holy="-13" dark="189" />
@@ -1105,13 +1108,13 @@
 			<height normal="23" />
 		</collision>
 	</npc>
-	<npc id="25022" level="33" type="Monster" name="Pastu's Shadow" title="Raid Fighter">
+	<npc id="25022" level="35" type="Monster" name="Тень Пасту" title="Raid Fighter">
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="4991.85172168751" hpRegen="24.5170941308607" mp="372.96" mpRegen="1.8" />
-			<attack physical="281.115059392479" magical="44.7780251490961" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="193.846425" magical="189.14" evasion="-18" />
+			<vitals hp="7991.85172168751" hpRegen="24.5170941308607" mp="372.96" mpRegen="1.8" />
+			<attack physical="301.115059392479" magical="54.7780251490961" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="203.846425" magical="209.14" evasion="-18" />
 			<attribute>
 				<attack type="DARK" value="20" />
 				<defence fire="20" water="20" wind="20" earth="20" holy="-13" dark="189" />
@@ -2063,11 +2066,11 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
-	<npc id="25041" level="35" type="RaidBoss" name="Remmel" title="Raid Boss">
+	<npc id="25041" level="41" type="RaidBoss" name="Реммель" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25042" count="3" respawnTime="360" weightPoint="1" /> <!-- Remmel's Archer -->
-				<npc id="25043" count="2" respawnTime="360" weightPoint="1" /> <!-- Remmel's Guard -->
+				<npc id="25042" count="3" respawnTime="360" weightPoint="1" /> <!-- Стрелок Реммеля -->
+				<npc id="25043" count="2" respawnTime="360" weightPoint="1" /> <!-- Страж Реммеля -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4752" level="3" /> <!-- BOSS Mortal Blow -->
@@ -2075,11 +2078,11 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<equipment rhand="221" lhand="109" /> <!-- rhand: Assassin Knife lhand: Shield of Solar Eclipse -->
-		<acquire exp="221239" sp="14413" raidPoints="520" />
+		<acquire exp="836400" sp="84000" raidPoints="820" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="69449.5684546156" hpRegen="26.794392073316" mp="402.6" mpRegen="1.8" />
-			<attack physical="163.695648646951" magical="12.9299967753255" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
-			<defence physical="410.18844" magical="200.1" evasion="-18" shield="547" shieldRate="20" />
+			<vitals hp="99449.5684546156" hpRegen="26.794392073316" mp="402.6" mpRegen="1.8" />
+			<attack physical="203.695648646951" magical="24.9299967753255" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="610.18844" magical="300.1" evasion="-18" shield="547" shieldRate="20" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -2103,32 +2106,35 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
 			<skill id="4752" level="3" /> <!-- BOSS Mortal Blow -->
-			<skill id="4804" level="1" /> <!-- Raid Boss - Level 35 -->
+			<skill id="4804" level="1" /> <!-- Raid Boss - Level 41 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
-				<group chance="78.2773">
-					<item id="61" min="9" max="25" chance="1.3428" /> <!-- Mithril Plate Gloves -->
-					<item id="607" min="9" max="27" chance="1.2682" /> <!-- Ogre Power Gauntlets -->
-					<item id="1125" min="10" max="28" chance="1.2015" /> <!-- Assault Boots -->
-					<item id="2427" min="10" max="30" chance="1.1414" /> <!-- Salamander Skin Boots -->
-					<item id="2428" min="1" max="1" chance="22.8284" /> <!-- Plate Boots -->
-					<item id="2451" min="1" max="1" chance="22.8284" /> <!-- Sage's Worn Gloves -->
-					<item id="1949" min="112" max="336" chance="4.2767" /> <!-- Mithril Gloves Design -->
-					<item id="1963" min="203" max="607" chance="2.3654" /> <!-- Ogre Power Gauntlets Part -->
-					<item id="1957" min="320" max="960" chance="1.4968" /> <!-- Assault Boots Part -->
-					<item id="2931" min="28" max="82" chance="17.4178" /> <!-- Salamander Skin Boot Lining -->
-					<item id="2932" min="36" max="108" chance="13.3052" /> <!-- Plate Boots Design -->
-					<item id="2933" min="46" max="136" chance="10.5274" /> <!-- Sage's Worn Gloves Lining -->
+				<item id="9816" min="1" max="5" chance="73" /> <!-- Earth Egg -->
+				<item id="8176" min="1" max="2" chance="73" /> <!-- Destruction Tombstone -->
+				<group chance="70">
+					<item id="57" min="590400" max="738000" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="29.5519">
-					<item id="262" min="1" max="1" chance="29.5049" /> <!-- Scallop Jamadhr -->
-					<item id="2053" min="12" max="36" chance="70.4951" /> <!-- Scallop Jamadhr Edge -->
+				<group chance="71.4274">
+					<item id="398" min="1" max="1" chance="16.102" /> <!-- Plated Leather -->
+					<item id="418" min="7" max="19" chance="1.9806" /> <!-- Plated Leather Gaiters -->
+					<item id="399" min="1" max="1" chance="14.8467" /> <!-- Rind Leather Armor -->
+					<item id="419" min="1" max="1" chance="23.7752" /> <!-- Rind Leather Gaiters -->
+					<item id="1966" min="192" max="576" chance="2.6255" /> <!-- Plated Leather Fragment -->
+					<item id="1967" min="116" max="346" chance="6.52" /> <!-- Plated Leather Gaiters Material -->
+					<item id="1975" min="23" max="67" chance="20.1565" /> <!-- Rind Leather Armor Design -->
+					<item id="1976" min="60" max="180" chance="13.9935" /> <!-- Rind Leather Gaiters Material -->
 				</group>
-				<group chance="44.7912">
-					<item id="6574" min="1" max="1" chance="100" /> <!-- Blessed Scroll: Enchant Armor (C) -->
+				<group chance="46.53">
+					<item id="282" min="1" max="1" chance="11.5105" /> <!-- Elemental Bow -->
+					<item id="285" min="1" max="1" chance="11.5105" /> <!-- Noble Elven Bow -->
+					<item id="2085" min="24" max="72" chance="18.3283" /> <!-- Crossbow Shaft -->
+					<item id="2086" min="8" max="22" chance="58.6507" /> <!-- Elven Bow of Nobility Shaft -->
+				</group>
+				<group chance="85.2299">
+					<item id="952" min="12" max="36" chance="100" /> <!-- Scroll: Enchant Armor (C) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -2137,7 +2143,7 @@
 			<height normal="76" />
 		</collision>
 	</npc>
-	<npc id="25042" level="34" type="Monster" name="Remmel's Archer" title="Raid Fighter">
+	<npc id="25042" level="40" type="Monster" name="Стрелок Реммеля" title="Raid Fighter">
 		<parameters>
 			<skill name="LongRangePhysicalSpecial_a" id="4757" level="3" /> <!-- BOSS Power Shot -->
 		</parameters>
@@ -2145,9 +2151,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="275" /> <!-- rhand: Long Bow -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="7052.86747194841" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
-			<attack physical="303.485602119585" magical="48.1624477605241" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
-			<defence physical="199.4229" magical="194.58" evasion="-18" />
+			<vitals hp="9052.86747194841" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
+			<attack physical="503.485602119585" magical="58.1624477605241" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="299.4229" magical="294.58" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -2178,14 +2184,14 @@
 			<height normal="21.5" />
 		</collision>
 	</npc>
-	<npc id="25043" level="34" type="Monster" name="Remmel's Guard" title="Raid Fighter">
+	<npc id="25043" level="40" type="Monster" name="Страж Реммеля" title="Raid Fighter">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="127" /> <!-- rhand: Crimson Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="5263.33393428986" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
-			<attack physical="303.485602119585" magical="48.1624477605241" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="199.4229" magical="194.58" evasion="-18" />
+			<vitals hp="7263.33393428986" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
+			<attack physical="403.485602119585" magical="68.1624477605241" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="299.4229" magical="294.58" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -3233,7 +3239,7 @@
 			<height normal="42" />
 		</collision>
 	</npc>
-	<npc id="25063" level="35" type="RaidBoss" name="Chertuba of Great Soul" title="Raid Boss">
+	<npc id="25063" level="37" type="RaidBoss" name="Чертуба Великий Дух" title="Raid Boss">
 		<parameters>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="SelfRangeCancel_a" id="4177" level="3" /> <!-- BOSS Cancel Magic -->
@@ -3244,11 +3250,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="78" /> <!-- rhand: Great Sword -->
-		<acquire exp="211239" sp="14413" raidPoints="520" />
+		<acquire exp="666000" sp="67200" raidPoints="520" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="138899.136909231" hpRegen="66.9859801832901" mp="402.6" mpRegen="1.8" />
-			<attack physical="327.391297293902" magical="51.7199871013021" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="410.18844" magical="200.1" evasion="-18" />
+			<attack physical="357.391297293902" magical="71.7199871013021" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="510.18844" magical="300.1" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -3275,12 +3281,15 @@
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
 			<skill id="4722" level="3" /> <!-- BOSS Strike -->
 			<skill id="4737" level="3" /> <!-- BOSS Spinning Slash -->
-			<skill id="4812" level="1" /> <!-- Raid Boss - Level 35 -->
+			<skill id="4812" level="1" /> <!-- Raid Boss - Level 37 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="70">
+					<item id="57" min="444000" max="532800" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="62.1017">
 					<item id="630" min="6" max="16" chance="4.9799" /> <!-- Square Shield -->
 					<item id="2412" min="1" max="1" chance="38.3646" /> <!-- Plate Helmet -->
@@ -3303,11 +3312,11 @@
 			<height normal="51" />
 		</collision>
 	</npc>
-	<npc id="25064" level="40" type="RaidBoss" name="Wizard of Storm Teruk" title="Raid Boss">
+	<npc id="25064" level="43" type="RaidBoss" name="Чародей Бури Терук" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25065" count="1" respawnTime="360" weightPoint="1" /> <!-- Teruk's Escort -->
-				<npc id="25066" count="4" respawnTime="360" weightPoint="1" /> <!-- Teruk's Knight -->
+				<npc id="25065" count="1" respawnTime="360" weightPoint="1" /> <!-- Эскорт Терука -->
+				<npc id="25066" count="4" respawnTime="360" weightPoint="1" /> <!-- Рыцарь Терука -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="DDMagic_a" id="4195" level="4" /> <!-- BOSS Twister -->
@@ -3317,11 +3326,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="90" /> <!-- rhand: Goat Head Staff -->
-		<acquire exp="223096" sp="18126" raidPoints="632" />
+		<acquire exp="877200" sp="88800" raidPoints="832" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="91937.3861400206" hpRegen="34.0387779378852" mp="478.8" mpRegen="1.8" />
-			<attack physical="236.34363334721" magical="18.6629186045602" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="469.65105" magical="229.12" evasion="-18" />
+			<vitals hp="101937.3861400206" hpRegen="34.0387779378852" mp="478.8" mpRegen="1.8" />
+			<attack physical="336.34363334721" magical="18.6629186045602" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="569.65105" magical="329.12" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -3347,7 +3356,7 @@
 			<skill id="4415" level="5" /> <!-- Blunt Weapons -->
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
-			<skill id="4813" level="1" /> <!-- Raid Boss - Level 40 -->
+			<skill id="4813" level="1" /> <!-- Raid Boss - Level 43 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
@@ -3355,6 +3364,9 @@
 			<drop>
 				<item id="9818" min="1" max="3" chance="64" /> <!-- Angelic Essence -->
 				<item id="8176" min="1" max="1" chance="64" /> <!-- Destruction Tombstone -->
+				<group chance="70">
+					<item id="57" min="619200" max="774000" chance="100" /> <!-- Moonstone Earring -->
+				</group>
 				<group chance="64.1428">
 					<item id="852" min="1" max="1" chance="40.3267" /> <!-- Moonstone Earring -->
 					<item id="883" min="6" max="16" chance="5.5014" /> <!-- Aquastone Ring -->
@@ -3394,7 +3406,7 @@
 			<height normal="55" />
 		</collision>
 	</npc>
-	<npc id="25065" level="39" type="Monster" name="Teruk's Escort" title="Raid Fighter">
+	<npc id="25065" level="42" type="Monster" name="Эскорт Терука" title="Raid Fighter">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4722" level="3" /> <!-- BOSS Strike -->
 		</parameters>
@@ -3403,8 +3415,8 @@
 		<equipment rhand="123" /> <!-- rhand: Saber -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="13899.4158866737" hpRegen="32.4117473308651" mp="463.32" mpRegen="1.8" />
-			<attack physical="879.877415312974" magical="276.790243634882" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="228.70128" magical="223.14" evasion="-18" />
+			<attack physical="979.877415312974" magical="376.790243634882" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="328.70128" magical="323.14" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -3435,14 +3447,14 @@
 			<height normal="32" />
 		</collision>
 	</npc>
-	<npc id="25066" level="39" type="Monster" name="Teruk's Knight" title="Raid Fighter">
+	<npc id="25066" level="42" type="Monster" name="Рыцарь Терука" title="Raid Fighter">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- rhand: Trident -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="6949.70794333687" hpRegen="32.4117473308651" mp="463.32" mpRegen="1.8" />
-			<attack physical="439.938707656487" magical="69.1975609087206" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="228.70128" magical="223.14" evasion="-18" />
+			<attack physical="639.938707656487" magical="69.1975609087206" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="328.70128" magical="323.14" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>

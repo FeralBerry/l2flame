@@ -298,11 +298,11 @@
     </spawn>
     <spawn name="ForgottenTemple_023">
         <territories>
-            <territory minZ="-4816" maxZ="-4803">
-                <node x="-60193" y="184467"/>
-                <node x="-62612" y="183192"/>
-                <node x="-62586" y="184467"/>
-                <node x="-60193" y="183192"/>
+            <territory minZ="-4820" maxZ="-4808">
+                <node x="-60266" y="183308"/>
+                <node x="-62516" y="183308"/>
+                <node x="-62516" y="184348"/>
+                <node x="-60266" y="184348"/>
             </territory>
         </territories>
         <npc id="21191" count="7" respawnTime="60sec" chaseRange="1500" /><!-- Клерик Гигант 33 -->
@@ -336,7 +336,7 @@
     </spawn>
     <spawn name="ForgottenTemple_024">
         <territories>
-            <territory minZ="-4808" maxZ="-4800">
+            <territory minZ="-4808" maxZ="-4808">
                 <node x="-60633" y="180824"/>
                 <node x="-62216" y="180844"/>
                 <node x="-62214" y="181841"/>
