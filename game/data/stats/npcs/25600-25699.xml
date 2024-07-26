@@ -1114,7 +1114,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="201" /> <!-- rhand: Club of Nature -->
-		<acquire exp="999600" sp="100800" />
+		<acquire exp="499600" sp="50800" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="148076.094026853" hpRegen="51.7193112926872" mp="720" mpRegen="2.1" />
 			<attack physical="431.283359498593" magical="51.9275982726895" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1162,7 +1162,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="221" /> <!-- rhand: Assassin Knife -->
-		<acquire exp="1416000" sp="141600" />
+		<acquire exp="716000" sp="71600" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="154029.954705898" hpRegen="70.1991595616828" mp="1007.0" mpRegen="2.4" />
 			<attack physical="1574.55774540111" magical="1075.21882532739" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1209,7 +1209,7 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="1821600" sp="182400" />
+		<acquire exp="921600" sp="92400" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="186877.922094395" hpRegen="81.1635784369403" mp="1314.0" mpRegen="2.7" />
 			<attack physical="2385.12110860886" magical="1628.72854416048" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -1247,8 +1247,7 @@
 			<height normal="65" />
 		</collision>
 	</npc>
-
-	<npc id="25619" level="59" type="RaidBoss" name="Надзиратель Лабиринта">
+	<npc id="25619" level="79" type="RaidBoss" name="Надзиратель Лабиринта">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4723" level="5" /> <!-- BOSS Strike -->
 			<skill name="SelfRangePhysicalSpecial_a" id="4738" level="5" /> <!-- BOSS Spinning Slash -->
@@ -1258,11 +1257,11 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="75" /> <!-- rhand: Caliburs -->
-		<acquire exp="939496" sp="133510.802646198" />
+		<acquire exp="1409496" sp="133510.802646198" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="154029.954705898" hpRegen="70.1991595616828" mp="1007.0" mpRegen="2.4" />
-			<attack physical="1574.55774540111" magical="1075.21882532739" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="728.44779" magical="355.36" evasion="-18" />
+			<vitals hp="614903.39163531" hpRegen="127.691727959173" mp="1641.0" mpRegen="3" />
+			<attack physical="2633.52325550856" magical="947.573725160725" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1011.21024" magical="493.3" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1296,6 +1295,7 @@
 			<height normal="35.3" />
 		</collision>
 	</npc>
+
 	<npc id="25620" level="69" type="RaidBoss" name="Надзиратель Лабиринта">
 		<parameters>
 			<skill name="PhysicalSpecial_a" id="4723" level="6" /> <!-- BOSS Strike -->

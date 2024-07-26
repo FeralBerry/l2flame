@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+    <npc id="30059"> <!-- Телепорт -->
+        <teleport type="OTHER">
+            <location x="5106" y="126916" z="-3667" feeCount="1500"/> <!-- Топи Крумы-->
+            <location x="17110" y="114162" z="-3432" feeCount="5200"/> <!-- Вход в Круму -->
+            <location x="17694" y="169996" z="-3496" feeCount="3000"/> <!-- Деревня Флоран -->
+            <location x="47916" y="186857" z="-3475" feeCount="7500"/> <!-- Гавань Гирана -->
+            <location x="55949" y="164364" z="-2627" feeCount="9000"/> <!-- Каньён Танор -->
+            <location x="35843" y="189426" z="-3006" feeCount="6300"/> <!-- Вход на остров Дьявола -->
+            <location x="46557" y="127187" z="-3717" feeCount="4500"/> <!-- Вход в Лагерь Партизан -->
+            <location x="-80684" y="149770" z="-3035" feeCount="14000"/> <!-- Глудин -->
+            <location x="-14608" y="123920" z="-3115" feeCount="4000"/> <!-- Глудио -->
+            <location x="82958" y="53213" z="-1483" feeCount="18000"/> <!-- Орен -->
+            <location x="83551" y="147945" z="-3395" feeCount="10000"/> <!-- Гиран -->
+            <location x="111375" y="219095" z="-3536" feeCount="23000"/> <!-- Хейн -->
+        </teleport>
+    </npc>
+</list>

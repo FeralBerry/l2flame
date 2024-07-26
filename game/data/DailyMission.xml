@@ -225,6 +225,20 @@
 			<item id="-300" count="180" /> <!-- Личные очки клана -->
 		</items>
 	</reward>
+	<reward id="2053" name="Успешный заход в камалоку 73 76 и 79" requiredCompletion="1" isOneTime="false">
+		<!-- 18566  (73) -->
+		<!-- 18568  (76) -->
+		<!-- 29138  (79) -->
+		<handler name="monster">
+			<param name="ids">18566,18568,29138</param>
+			<param name="minLevel">70</param>
+			<param name="maxLevel">80</param>
+		</handler>
+		<items>
+			<item id="-200" count="130" /> <!-- Репутация клана -->
+			<item id="-300" count="210" /> <!-- Личные очки клана -->
+		</items>
+	</reward>
 	<!-- 
 	<reward id="1104" name="Fishing" requiredCompletion="100" isOneTime="false">
 		<handler name="fishing">

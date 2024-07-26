@@ -2561,7 +2561,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="67" lhand="633" /> <!-- Orcish Sword / Zubei's Shield -->
-		<acquire exp="38400" sp="44800" />
+		<acquire exp="438400" sp="44800" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="321133.8" hpRegen="12.1792353154195" mp="1846.8" mpRegen="4.8" />
 			<attack physical="569.2168255356476" magical="357.7522279641964" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2652,6 +2652,7 @@
 			<height normal="27" grown="32" />
 		</collision>
 	</npc>
+
 	<npc id="18557" level="53" type="Monster" name="Ранк Деумус" title="Kaneus">
 		<parameters>
 			<param name="Skill01_Probablity" value="10" />
@@ -2717,6 +2718,7 @@
 			<height normal="34.5" />
 		</collision>
 	</npc>
+
 	<npc id="18558" level="53" type="Monster" name="Багровый Хату Отис" title="Kaneus">
 		<parameters>
 			<skill name="aoe_skill" id="4737" level="3" />
@@ -2896,6 +2898,7 @@
 			<height normal="43" />
 		</collision>
 	</npc>
+
 	<npc id="18561" level="66" type="Monster" name="Гранитик Дуерга" title="Kaneus">
 		<parameters>
 			<param name="Skill01_Probablity" value="20" />
@@ -3049,7 +3052,7 @@
 			<height normal="35.1" />
 		</collision>
 	</npc>
-	<npc id="18563" level="43" type="Monster" name="Миньон Отиса">
+	<npc id="18563" level="63" type="Monster" name="Миньон Отиса">
 		<parameters>
 			<skill name="fake_heal" id="4065" level="1" />
 			<skill name="real_heal" id="4209" level="6" />
@@ -3058,9 +3061,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="223" /> <!-- Kukuri -->
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="3282.65" hpRegen="5.5" mp="1507.8" mpRegen="11.55" />
-			<attack physical="210.04832" magical="143.43577" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="169.13417" magical="123.76505" />
+			<vitals hp="6270.032" hpRegen="7.5" mp="3349.6" mpRegen="16.47" />
+			<attack physical="541.44774" magical="369.73862" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="262.19426" magical="191.86238" />
 			<speed>
 				<walk ground="80" />
 				<run ground="155" />
@@ -3166,6 +3169,7 @@
 			<height normal="80.5" />
 		</collision>
 	</npc>
+
 	<npc id="18565" level="46" type="Monster" name="Храбрый Мартин" title="Kaneus">
 		<parameters>
 			<param name="Skill01_Probablity" value="10" />
@@ -3242,7 +3246,8 @@
 			<height normal="66" />
 		</collision>
 	</npc>
-	<npc id="18566" level="53" type="Monster" name="Кайм Абигор" title="Kaneus">
+
+	<npc id="18566" level="73" type="Monster" name="Кайм Абигор" title="Kaneus">
 		<parameters>
 			<param name="Skill01_Probablity" value="10" />
 			<param name="Skill02_Probablity" value="10" />
@@ -3251,11 +3256,11 @@
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<acquire exp="967925" sp="88254" />
+		<acquire exp="1102400" sp="111200" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="294174.619264419" hpRegen="47.9069582428852" mp="2512.2" mpRegen="13.2" />
-			<attack physical="805.150123040852" magical="549.813146917057" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="342.693216" magical="376.152024" />
+			<vitals hp="475289.654476948" hpRegen="67.8461312332064" mp="1345.8" mpRegen="18.3" />
+			<attack physical="2939.28876727043" magical="2007.15320551588" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="496.047344" magical="544.47888" />
 			<speed>
 				<walk ground="60" />
 				<run ground="250" />
@@ -3283,17 +3288,25 @@
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
 		<dropLists>
 			<drop>
-				<group chance="47.9189">
-					<item id="266" min="1" max="1" chance="1.736" /> <!-- Great Pata -->
-					<item id="2120" min="1" max="3" chance="98.264" /> <!-- Great Pata Blade -->
+				<group chance="41.2439">
+					<item id="6323" min="1" max="1" chance="4.3576" /> <!-- Sealed Phoenix Necklace -->
+					<item id="6343" min="14" max="42" chance="22.2942" /> <!-- Sealed Phoenix Necklace Beads -->
+					<item id="6324" min="1" max="1" chance="5.8101" /> <!-- Sealed Phoenix Earring -->
+					<item id="6341" min="9" max="27" chance="44.8618" /> <!-- Sealed Phoenix Earring Gemstone -->
+					<item id="6325" min="1" max="1" chance="8.7151" /> <!-- Sealed Phoenix Ring -->
+					<item id="6345" min="40" max="120" chance="13.9612" /> <!-- Sealed Phoenix Ring Gemstone -->
 				</group>
-				<group chance="71.8783">
-					<item id="266" min="1" max="1" chance="1.736" /> <!-- Great Pata -->
-					<item id="2120" min="1" max="3" chance="98.264" /> <!-- Great Pata Blade -->
+				<group chance="61.8659">
+					<item id="6323" min="1" max="1" chance="4.3576" /> <!-- Sealed Phoenix Necklace -->
+					<item id="6343" min="14" max="42" chance="22.2942" /> <!-- Sealed Phoenix Necklace Beads -->
+					<item id="6324" min="1" max="1" chance="5.8101" /> <!-- Sealed Phoenix Earring -->
+					<item id="6341" min="9" max="27" chance="44.8618" /> <!-- Sealed Phoenix Earring Gemstone -->
+					<item id="6325" min="1" max="1" chance="8.7151" /> <!-- Sealed Phoenix Ring -->
+					<item id="6345" min="40" max="120" chance="13.9612" /> <!-- Sealed Phoenix Ring Gemstone -->
 				</group>
-				<group chance="55.2756">
-					<item id="947" min="1" max="1" chance="13.7931" /> <!-- Scroll: Enchant Weapon (B) -->
-					<item id="948" min="1" max="1" chance="86.2069" /> <!-- Scroll: Enchant Armor (B) -->
+				<group chance="33.17">
+					<item id="729" min="1" max="1" chance="11.7647" /> <!-- Scroll: Enchant Weapon (A) -->
+					<item id="730" min="1" max="1" chance="88.2353" /> <!-- Scroll: Enchant Armor (A) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -3302,16 +3315,16 @@
 			<height normal="60" />
 		</collision>
 	</npc>
-	<npc id="18567" level="53" type="Monster" name="Миньон Абигора">
+	<npc id="18567" level="73" type="Monster" name="Миньон Абигора">
 		<parameters>
 			<skill name="skill_explosion" id="4614" level="6" />
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="4712.303" hpRegen="6.5" mp="2512.2" mpRegen="13.2" />
-			<attack physical="353.71092" magical="241.5387" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="214.18326" magical="156.73001" />
+			<vitals hp="10346.37" hpRegen="8.5" mp="1345.8" mpRegen="18.3" />
+			<attack physical="752.73928" magical="514.02335" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.02959" magical="226.8662" />
 			<speed>
 				<walk ground="80" />
 				<run ground="170" />
@@ -3340,7 +3353,7 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="18568" level="56" type="Monster" name="Рыцарь Монтагнар" title="Kaneus">
+	<npc id="18568" level="76" type="Monster" name="Рыцарь Монтагнар" title="Kaneus">
 		<parameters>
 			<minions name="Privates">
 				<npc id="18569" count="6" respawnTime="360" weightPoint="1" /> <!-- Montagnar's Subordinate -->
@@ -3351,11 +3364,11 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="946" lhand="945" /> <!-- Skeleton Dagger / Skeleton Buckler -->
-		<acquire exp="1002610" sp="124970" />
+		<acquire exp="1302610" sp="124970" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="318250.283048557" hpRegen="50.7554330723992" mp="40" mpRegen="13.2" />
-			<attack physical="1114.68190633232" magical="761.183239040102" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="365.44216" magical="401.12208" />
+			<vitals hp="401886.766608773" hpRegen="124.302529182249" mp="1540.8" mpRegen="3" />
+			<attack physical="2501.79548333906" magical="888.048862829437" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="971.35365" magical="473.86" evasion="-18" />
 			<speed>
 				<walk ground="80" />
 				<run ground="120" />
@@ -3382,29 +3395,23 @@
 		<ai type="BALANCED" clanHelpRange="300" aggroRange="300" />
 		<dropLists>
 			<drop>
-				<group chance="56.7781">
-					<item id="357" min="1" max="1" chance="1.4743" /> <!-- Zubei's Breastplate -->
-					<item id="4056" min="16" max="48" chance="6.6542" /> <!-- Zubei's Breastplate Part -->
-					<item id="383" min="1" max="1" chance="2.3583" /> <!-- Zubei's Gaiters -->
-					<item id="4057" min="6" max="18" chance="27.4233" /> <!-- Zubei's Gaiter Material -->
-					<item id="2376" min="1" max="1" chance="1.4743" /> <!-- Avadon Breastplate -->
-					<item id="4064" min="3" max="7" chance="42.5868" /> <!-- Avadon Breastplate Part -->
-					<item id="2379" min="1" max="1" chance="2.3583" /> <!-- Avadon Gaiters -->
-					<item id="4065" min="11" max="31" chance="15.6705" /> <!-- Avadon Gaiters Material -->
+				<group chance="15.332">
+					<item id="6678" min="1" max="1" chance="31.4624" /> <!-- Sealed Imperial Crusader Shield -->
+					<item id="6679" min="1" max="1" chance="22.023" /> <!-- Sealed Imperial Crusader Helmet -->
+					<item id="6683" min="1" max="1" chance="22.023" /> <!-- Sealed Draconic Leather Helmet -->
+					<item id="6687" min="1" max="1" chance="22.023" /> <!-- Sealed Major Arcana Circlet -->
+					<item id="6371" min="1" max="1" chance="2.4686" /> <!-- Demon Splinter -->
 				</group>
-				<group chance="52.9283">
-					<item id="357" min="1" max="1" chance="2.3723" /> <!-- Zubei's Breastplate -->
-					<item id="4056" min="16" max="48" chance="10.7075" /> <!-- Zubei's Breastplate Part -->
-					<item id="383" min="1" max="1" chance="3.7949" /> <!-- Zubei's Gaiters -->
-					<item id="4057" min="6" max="18" chance="44.1279" /> <!-- Zubei's Gaiter Material -->
-					<item id="2376" min="1" max="1" chance="2.3723" /> <!-- Avadon Breastplate -->
-					<item id="4064" min="23" max="67" chance="7.6142" /> <!-- Avadon Breastplate Part -->
-					<item id="2379" min="1" max="1" chance="3.7949" /> <!-- Avadon Gaiters -->
-					<item id="4065" min="11" max="31" chance="25.216" /> <!-- Avadon Gaiters Material -->
+				<group chance="55.8924">
+					<item id="6705" min="315" max="945" chance="4.8073" /> <!-- Sealed Imperial Crusader Shield Part -->
+					<item id="6706" min="66" max="198" chance="26.6885" /> <!-- Sealed Imperial Crusader Helmet Pattern -->
+					<item id="6710" min="126" max="378" chance="13.9797" /> <!-- Sealed Draconic Leather Helmet Pattern -->
+					<item id="6714" min="208" max="624" chance="8.4685" /> <!-- Sealed Major Arcana Circlet Pattern -->
+					<item id="6695" min="5" max="15" chance="46.056" /> <!-- Demon Splinter Blade -->
 				</group>
-				<group chance="75.3343">
-					<item id="947" min="1" max="1" chance="13.7931" /> <!-- Scroll: Enchant Weapon (B) -->
-					<item id="948" min="1" max="1" chance="86.2069" /> <!-- Scroll: Enchant Armor (B) -->
+				<group chance="57.9112">
+					<item id="6578" min="1" max="1" chance="15.0943" /> <!-- Blessed Scroll: Enchant Armor (S) -->
+					<item id="3936" min="1" max="3" chance="84.9057" /> <!-- Blessed Scroll of Resurrection -->
 				</group>
 			</drop>
 		</dropLists>
@@ -3413,13 +3420,14 @@
 			<height normal="28.5" />
 		</collision>
 	</npc>
-	<npc id="18569" level="56" type="Monster" name="Миньон Монтагнара">
+
+	<npc id="18569" level="76" type="Monster" name="Миньон Монтагнара">
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="5174.132" hpRegen="6.5" mp="12240" mpRegen="13.2" />
-			<attack physical="405.96455" magical="277.22116" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="228.40135" magical="167.1342" />
+			<vitals hp="63589.9602304145" hpRegen="123.216289543832" mp="1507.8" mpRegen="3" />
+			<attack physical="9804.8939216752" magical="13902.0164290252" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="478.869345" magical="467.22" evasion="-18" />
 			<speed>
 				<walk ground="25" />
 				<run ground="150" />
@@ -3969,6 +3977,7 @@
 			<height normal="43" />
 		</collision>
 	</npc>
+
 	<npc id="18579" level="70" type="Monster" name="Hunting Ground Keeper">
 		<parameters>
 			<param name="MoveAroundSocial" value="69" />
