@@ -3601,7 +3601,7 @@
 			<height normal="28" grown="33" />
 		</collision>
 	</npc>
-	<npc id="25169" level="30" type="RaidBoss" name="Ragraman" title="Raid Boss">
+	<npc id="25169" level="40" type="RaidBoss" name="Раграмэн" title="Raid Boss">
 		<parameters>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="SelfRangeCancel_a" id="4177" level="3" /> <!-- BOSS Cancel Magic -->
@@ -3612,11 +3612,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="72" /> <!-- rhand: Stormbringer -->
-		<acquire exp="286857" sp="15066" raidPoints="792" />
+		<acquire exp="816000" sp="81600" raidPoints="1092" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="141484.138003554" hpRegen="71.4116064656513" mp="329.4" mpRegen="1.5" />
-			<attack physical="416.072961376921" magical="100.070888819998" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="355.39281" magical="173.38" evasion="-18" />
+			<vitals hp="281484.138003554" hpRegen="121.4116064656513" mp="429.4" mpRegen="2.5" />
+			<attack physical="616.072961376921" magical="150.070888819998" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="555.39281" magical="273.38" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -3631,7 +3631,7 @@
 			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
 			<skill id="4172" level="3" /> <!-- Stun -->
 			<skill id="4173" level="3" /> <!-- BOSS Might -->
-			<skill id="4177" level="3" /> <!-- BOSS Cancel Magic -->
+			<skill id="4177" level="2" /> <!-- BOSS Cancel Magic -->
 			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
@@ -3643,39 +3643,54 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
 			<skill id="4720" level="3" /> <!-- BOSS Strike -->
-			<skill id="4854" level="1" /> <!-- Raid Boss - Level 30 -->
+			<skill id="4854" level="1" /> <!-- Raid Boss - Level 40 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
-				<group chance="71.3663">
-					<item id="606" min="10" max="30" chance="1.5126" /> <!-- Rip Gauntlets -->
-					<item id="1124" min="11" max="31" chance="1.4406" /> <!-- Boots of Power -->
-					<item id="2424" min="11" max="33" chance="1.3751" /> <!-- Manticore Skin Boots -->
-					<item id="2425" min="12" max="34" chance="1.3153" /> <!-- Brigandine Boots -->
-					<item id="2426" min="12" max="36" chance="1.2605" /> <!-- Elven Mithril Boots -->
-					<item id="2448" min="13" max="37" chance="1.2101" /> <!-- Manticore Skin Gloves -->
-					<item id="2449" min="13" max="39" chance="1.1635" /> <!-- Brigandine Gauntlets -->
-					<item id="2450" min="14" max="40" chance="1.1205" /> <!-- Mithril Gloves -->
-					<item id="1946" min="180" max="540" chance="3.2592" /> <!-- Rip Gauntlets Pattern -->
-					<item id="1948" min="314" max="940" chance="1.8713" /> <!-- Boots of Power Pattern -->
-					<item id="2923" min="24" max="72" chance="24.4437" /> <!-- Manticore Skin Boot Lining -->
-					<item id="2924" min="33" max="97" chance="18.0507" /> <!-- Brigandine Boots Design -->
-					<item id="2925" min="42" max="126" chance="13.9678" /> <!-- Elven Mithril Boots Design -->
-					<item id="2926" min="53" max="157" chance="11.1742" /> <!-- Manticore Skin Gloves Lining -->
-					<item id="2927" min="64" max="192" chance="9.1664" /> <!-- Brigandine Gauntlets Pattern -->
-					<item id="2928" min="77" max="229" chance="7.6685" /> <!-- Mithril Gloves Design -->
+				<item id="9817" min="1" max="4" chance="81" /> <!-- Nonliving Nucleus -->
+				<item id="8176" min="1" max="2" chance="68" /> <!-- Destruction Tombstone -->
+				<group chance="70">
+					<item id="57" min="576000" max="720000" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="77.345">
+					<item id="62" min="11" max="33" chance="0.9817" /> <!-- Mithril Boots -->
+					<item id="2429" min="12" max="34" chance="0.939" /> <!-- Chain Boots -->
+					<item id="2430" min="12" max="36" chance="0.8999" /> <!-- Karmian Boots -->
+					<item id="2431" min="13" max="37" chance="0.8639" /> <!-- Plated Leather Boots -->
+					<item id="2432" min="13" max="39" chance="0.8306" /> <!-- Dwarven Chain Boots -->
+					<item id="2433" min="14" max="40" chance="0.7999" /> <!-- Boots of Seal -->
+					<item id="2452" min="14" max="42" chance="0.7713" /> <!-- Reinforced Mithril Gloves -->
+					<item id="2453" min="15" max="43" chance="0.7447" /> <!-- Chain Gloves -->
+					<item id="2454" min="1" max="1" chance="21.5965" /> <!-- Karmian Gloves -->
+					<item id="1958" min="220" max="660" chance="2.142" /> <!-- Mithril Boots Design -->
+					<item id="2937" min="378" max="1134" chance="1.2467" /> <!-- Chain Boots Part -->
+					<item id="2938" min="26" max="78" chance="18.1246" /> <!-- Karmian Boots Fabric -->
+					<item id="2939" min="35" max="105" chance="13.464" /> <!-- Plate Leather Boot Lining -->
+					<item id="2940" min="45" max="135" chance="10.472" /> <!-- Dwarven Chain Boots Part -->
+					<item id="2941" min="56" max="168" chance="8.415" /> <!-- Boots of Seal Pattern -->
+					<item id="2942" min="68" max="204" chance="6.93" /> <!-- Reinforced Mithril Gloves Design -->
+					<item id="2943" min="81" max="243" chance="5.8178" /> <!-- Chain Gloves Design -->
+					<item id="2944" min="95" max="285" chance="4.9604" /> <!-- Karmian Gloves Fabric -->
 				</group>
 				<group chance="46.5805">
 					<item id="129" min="1" max="1" chance="29.7257" /> <!-- Sword of Revolution -->
 					<item id="2034" min="12" max="36" chance="70.2743" /> <!-- Sword of Revolution Blade -->
 				</group>
-				<group chance="71.2189">
+				<group chance="47.682">
+					<item id="263" min="1" max="1" chance="26.0498" /> <!-- Chakram -->
+					<item id="2073" min="12" max="36" chance="73.9502" /> <!-- Chakram Edge -->
+				</group>
+				<group chance="84.1979">
 					<item id="4553" min="5" max="15" chance="13.5338" /> <!-- Greater Dye of STR <Str+1 Con-1> -->
 					<item id="4554" min="2" max="4" chance="45.1128" /> <!-- Greater Dye of STR <Str+1 Dex-1> -->
 					<item id="4555" min="2" max="6" chance="33.8346" /> <!-- Greater Dye of CON <Con+1 Str-1> -->
 					<item id="6575" min="1" max="1" chance="7.5188" /> <!-- Blessed Scroll: Enchant Weapon (D) -->
+					<item id="4594" min="2" max="6" chance="35.1171" /> <!-- Greater Dye of DEX <Dex+2 Con-2> -->
+					<item id="4595" min="3" max="7" chance="28.0936" /> <!-- Greater Dye of INT <Int+2 Men-2> -->
+					<item id="4596" min="3" max="9" chance="23.4114" /> <!-- Greater Dye of INT <Int+2 Wit-2> -->
+					<item id="952" min="21" max="63" chance="13.3779" /> <!-- Scroll: Enchant Armor (C) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -3684,11 +3699,11 @@
 			<height normal="52" />
 		</collision>
 	</npc>
-	<npc id="25170" level="38" type="RaidBoss" name="Lizardmen Leader Hellion" title="Raid Boss">
+	<npc id="25170" level="42" type="RaidBoss" name="Глава Ящеров Хеллион" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25171" count="3" respawnTime="360" weightPoint="1" /> <!-- Hellion's Archers -->
-				<npc id="25172" count="2" respawnTime="360" weightPoint="1" /> <!-- Hellion's Guards -->
+				<npc id="25171" count="3" respawnTime="360" weightPoint="1" /> <!-- Стрелок Хеллиона -->
+				<npc id="25172" count="2" respawnTime="360" weightPoint="1" /> <!-- Стража Хеллиона -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4752" level="3" /> <!-- BOSS Mortal Blow -->
@@ -3696,11 +3711,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="223" /> <!-- rhand: Kukuri -->
-		<acquire exp="295760" sp="16319" raidPoints="588" />
+		<acquire exp="856800" sp="86400" raidPoints="588" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="82089.0524454172" hpRegen="30.8726873073006" mp="447.96" mpRegen="1.8" />
-			<attack physical="204.554218646784" magical="16.1476898312799" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
-			<defence physical="445.32861" magical="217.24" evasion="-18" />
+			<vitals hp="112089.0524454172" hpRegen="30.8726873073006" mp="547.96" mpRegen="2.8" />
+			<attack physical="304.554218646784" magical="26.1476898312799" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="645.32861" magical="317.24" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -3724,12 +3739,17 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
 			<skill id="4752" level="3" /> <!-- BOSS Mortal Blow -->
-			<skill id="4855" level="1" /> <!-- Raid Boss - Level 38 -->
+			<skill id="4855" level="1" /> <!-- Raid Boss - Level 42 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<item id="9817" min="2" max="4" chance="74" /> <!-- Nonliving Nucleus -->
+				<item id="8176" min="1" max="2" chance="74" /> <!-- Destruction Tombstone -->
+				<group chance="70">
+					<item id="57" min="604800" max="756000" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="76.0425">
 					<item id="631" min="6" max="16" chance="3.3742" /> <!-- Eldarake -->
 					<item id="2413" min="1" max="1" chance="25.9842" /> <!-- Chain Hood -->
@@ -3738,14 +3758,20 @@
 					<item id="2936" min="140" max="420" chance="4.9619" /> <!-- Chain Hood Pattern -->
 					<item id="2945" min="81" max="243" chance="9.4423" /> <!-- Chain Shield Fragment -->
 				</group>
-				<group chance="56.6384">
-					<item id="226" min="1" max="1" chance="6.4873" /> <!-- Cursed Dagger -->
-					<item id="232" min="1" max="1" chance="6.4873" /> <!-- Dark Elven Dagger -->
-					<item id="2070" min="4" max="12" chance="56.7557" /> <!-- Cursed Dagger Blade -->
-					<item id="2072" min="8" max="22" chance="30.2697" /> <!-- Dark Elven Dagger Edge -->
+				<group chance="55.1501">
+					<item id="355" min="1" max="1" chance="29.2819" /> <!-- Dwarven Chain Mail Shirt -->
+					<item id="382" min="1" max="1" chance="46.8492" /> <!-- Dwarven Chain Gaiters -->
+					<item id="1968" min="53" max="157" chance="16.6485" /> <!-- Dwarven Chain Mail Shirt Material -->
+					<item id="1969" min="192" max="576" chance="7.2204" /> <!-- Dwarven Chain Gaiters Material -->
 				</group>
-				<group chance="76.3333">
-					<item id="951" min="1" max="3" chance="100" /> <!-- Scroll: Enchant Weapon (C) -->
+				<group chance="45.7553">
+					<item id="227" min="1" max="1" chance="11.8715" /> <!-- Stiletto -->
+					<item id="242" min="1" max="1" chance="11.8715" /> <!-- Soulfire Dirk -->
+					<item id="2083" min="24" max="72" chance="18.1564" /> <!-- Stiletto Edge -->
+					<item id="2084" min="8" max="22" chance="58.1006" /> <!-- Soulfire Dirk Blade -->
+				</group>
+				<group chance="10.3727">
+					<item id="6573" min="1" max="1" chance="100" /> <!-- Blessed Scroll: Enchant Weapon (C) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -3754,7 +3780,7 @@
 			<height normal="63" grown="76" />
 		</collision>
 	</npc>
-	<npc id="25171" level="37" type="Monster" name="Hellion's Archers" title="Raid Fighter">
+	<npc id="25171" level="41" type="Monster" name="Стрелок Хеллиона" title="Raid Fighter">
 		<parameters>
 			<skill name="LongRangePhysicalSpecial_a" id="4757" level="3" /> <!-- BOSS Power Shot -->
 		</parameters>
@@ -3763,8 +3789,8 @@
 		<equipment rhand="278" /> <!-- rhand: Gastraphetes -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="8317.93283689914" hpRegen="29.4232868171158" mp="432.72" mpRegen="1.8" />
-			<attack physical="380.124427536806" magical="60.2732663328511" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
-			<defence physical="216.71637" magical="211.44" evasion="-18" />
+			<attack physical="580.124427536806" magical="70.2732663328511" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="316.71637" magical="311.44" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -3795,14 +3821,14 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="25172" level="37" type="Monster" name="Hellion's Guards" title="Raid Fighter">
+	<npc id="25172" level="41" type="Monster" name="Стража Хеллиона" title="Raid Fighter">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="291" /> <!-- rhand: Trident -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="6207.41256485011" hpRegen="29.4232868171158" mp="432.72" mpRegen="1.8" />
-			<attack physical="380.124427536806" magical="60.2732663328511" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="216.71637" magical="211.44" evasion="-18" />
+			<vitals hp="8207.41256485011" hpRegen="29.4232868171158" mp="432.72" mpRegen="1.8" />
+			<attack physical="480.124427536806" magical="70.2732663328511" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="416.71637" magical="411.44" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -4445,11 +4471,11 @@
 			<height normal="45" grown="52" />
 		</collision>
 	</npc>
-	<npc id="25185" level="35" type="RaidBoss" name="Tasaba Patriarch Hellena" title="Raid Boss">
+	<npc id="25185" level="37" type="RaidBoss" name="Хелена Патриарх Тасаба" title="Raid Boss">
 		<parameters>
 			<minions name="Privates">
-				<npc id="25186" count="3" respawnTime="360" weightPoint="1" /> <!-- Hellena's Marksman -->
-				<npc id="25187" count="2" respawnTime="360" weightPoint="1" /> <!-- Hellena's Soldier -->
+				<npc id="25186" count="3" respawnTime="360" weightPoint="1" /> <!-- Зверолов Хелены -->
+				<npc id="25187" count="2" respawnTime="360" weightPoint="1" /> <!-- Солдат Хелены -->
 			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4751" level="3" /> <!-- BOSS Mortal Blow -->
@@ -4457,11 +4483,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="225" /> <!-- rhand: Mithril Dagger -->
-		<acquire exp="291239" sp="14413" raidPoints="520" />
+		<acquire exp="666000" sp="67200" raidPoints="520" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="69449.5684546156" hpRegen="26.794392073316" mp="402.6" mpRegen="1.8" />
-			<attack physical="163.695648646951" magical="12.9299967753255" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
-			<defence physical="410.18844" magical="200.1" evasion="-18" />
+			<vitals hp="79449.5684546156" hpRegen="26.794392073316" mp="402.6" mpRegen="1.8" />
+			<attack physical="183.695648646951" magical="15.9299967753255" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="450.18844" magical="250.1" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -4485,12 +4511,15 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
 			<skill id="4751" level="3" /> <!-- BOSS Mortal Blow -->
-			<skill id="4860" level="1" /> <!-- Raid Boss - Level 35 -->
+			<skill id="4860" level="1" /> <!-- Raid Boss - Level 37 -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai type="BALANCED" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
+				<group chance="70">
+					<item id="57" min="444000" max="532800" chance="100" /> <!-- Adena -->
+				</group>
 				<group chance="62.5165">
 					<item id="851" min="6" max="18" chance="3.8396" /> <!-- Omen Beast's Eye Earring -->
 					<item id="882" min="5" max="15" chance="6.9113" /> <!-- Mithril Ring -->
@@ -4516,7 +4545,7 @@
 			<height normal="40" />
 		</collision>
 	</npc>
-	<npc id="25186" level="34" type="Monster" name="Hellena's Marksman" title="Raid Fighter">
+	<npc id="25186" level="36" type="Monster" name="Зверолов Хелены" title="Raid Fighter">
 		<parameters>
 			<skill name="LongRangePhysicalSpecial_a" id="4761" level="3" /> <!-- Stun -->
 		</parameters>
@@ -4524,9 +4553,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="272" /> <!-- rhand: Forest Bow -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="7052.86747194841" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
-			<attack physical="303.485602119585" magical="48.1624477605241" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
-			<defence physical="199.4229" magical="194.58" evasion="-18" />
+			<vitals hp="7552.86747194841" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
+			<attack physical="313.485602119585" magical="58.1624477605241" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="249.4229" magical="244.58" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -4557,14 +4586,14 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="25187" level="34" type="Monster" name="Helena's Soldier" title="Raid Fighter">
+	<npc id="25187" level="36" type="Monster" name="Солдат Хелены" title="Raid Fighter">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- rhand: Great Spear -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="5263.33393428986" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
-			<attack physical="303.485602119585" magical="48.1624477605241" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="199.4229" magical="194.58" evasion="-18" />
+			<vitals hp="6263.33393428986" hpRegen="25.6128307622386" mp="387.72" mpRegen="1.8" />
+			<attack physical="343.485602119585" magical="58.1624477605241" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="239.4229" magical="244.58" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>

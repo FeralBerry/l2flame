@@ -1,5 +1,349 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="20100" level="13" type="Monster" name="Skeleton Archer">
+		<parameters>
+			<param name="MoveAroundSocial" value="157" />
+			<param name="MoveAroundSocial1" value="157" />
+			<param name="MoveAroundSocial2" value="157" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="14" /> <!-- rhand: Bow -->
+		<acquire exp="405" sp="16" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="214.61578" hpRegen="2.5" mp="132.64" mpRegen="1.2" />
+			<attack physical="25.04271" magical="17.10092" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="68.67458" magical="45.7243124542497" />
+			<attribute>
+				<attack type="DARK" value="20" />
+				<defence fire="20" water="20" wind="20" earth="20" holy="-32" dark="53" />
+			</attribute>
+			<speed>
+				<walk ground="40" />
+				<run ground="140" />
+			</speed>
+			<hitTime>800</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Weak Point -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="9" /> <!-- Bows -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="99" max="140" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0535">
+					<item id="271" min="1" max="1" chance="100" /> <!-- Hunting Bow -->
+				</group>
+				<group chance="11.6767">
+					<item id="1866" min="1" max="1" chance="21.1765" /> <!-- Suede -->
+					<item id="1871" min="1" max="1" chance="31.7647" /> <!-- Charcoal -->
+					<item id="1799" min="1" max="1" chance="47.0588" /> <!-- Recipe: Leather Gloves -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1833" min="1" max="1" chance="50.2269" /> <!-- Bandage -->
+				<item id="1866" min="1" max="1" chance="12.5567" /> <!-- Suede -->
+				<item id="1792" min="1" max="1" chance="1.3849" /> <!-- Recipe: Short Spear -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="11" />
+			<height normal="27" />
+		</collision>
+	</npc>
+	<npc id="20101" level="14" type="Monster" name="Crasher">
+		<parameters>
+			<param name="MoveAroundSocial" value="116" />
+			<param name="MoveAroundSocial1" value="116" />
+			<param name="MoveAroundSocial2" value="116" />
+			<skill name="DDMagicSlow" id="4247" level="1" /> <!-- NPC Windstrike - Slow -->
+		</parameters>
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<acquire exp="705" sp="27" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
+			<attack physical="27.24646" magical="18.6058" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="71.08179" magical="47.3270583783809" />
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="23" />
+				<run ground="23" />
+			</speed>
+			<hitTime>410</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4247" level="1" /> <!-- NPC Windstrike - Slow -->
+			<skill id="4273" level="3" /> <!-- Resist Daggers/Rapier Weapon -->
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Weak Point -->
+			<skill id="4284" level="5" /> <!-- Resist Bleed Attacks -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="19" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="2" /> <!-- Magic Creatures -->
+			<skill id="4444" level="2" /> <!-- Higher Resist Bow/Crossbow Weapons -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="128" max="189" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="2.1865">
+					<item id="114" min="1" max="1" chance="10.0297" /> <!-- Earring of Strength -->
+					<item id="115" min="1" max="1" chance="10.0297" /> <!-- Earring of Wisdom -->
+					<item id="907" min="1" max="1" chance="7.5223" /> <!-- Necklace of Anguish -->
+					<item id="1896" min="1" max="1" chance="57.3736" /> <!-- Necklace of Anguish Chain -->
+					<item id="876" min="1" max="1" chance="15.0447" /> <!-- Ring of Anguish -->
+				</group>
+				<group chance="17.0402">
+					<item id="1864" min="1" max="1" chance="28.9561" /> <!-- Stem -->
+					<item id="1865" min="1" max="1" chance="14.4781" /> <!-- Varnish -->
+					<item id="1866" min="1" max="1" chance="9.652" /> <!-- Suede -->
+					<item id="1873" min="1" max="1" chance="5.7912" /> <!-- Silver Nugget -->
+					<item id="1868" min="1" max="1" chance="28.9561" /> <!-- Thread -->
+					<item id="1803" min="1" max="1" chance="12.1665" /> <!-- Recipe: Necklace of Wisdom -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="20" min="1" max="1" chance="2.3417" /> <!-- Buckler -->
+				<item id="1921" min="1" max="1" chance="16.1654" /> <!-- Leather Shoes Texture -->
+				<item id="1793" min="1" max="1" chance="1.8424" /> <!-- Recipe: Sword of Reflection -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="20" grown="25" />
+			<height normal="31" grown="37.5" />
+		</collision>
+	</npc>
+	<npc id="20102" level="14" type="Monster" name="Skeleton Marksman">
+		<parameters>
+			<param name="MoveAroundSocial" value="157" />
+			<param name="MoveAroundSocial1" value="157" />
+			<param name="MoveAroundSocial2" value="157" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="14" /> <!-- rhand: Bow -->
+		<acquire exp="428" sp="17" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="230.38548" hpRegen="2.5" mp="140.88" mpRegen="1.2" />
+			<attack physical="27.24646" magical="18.6058" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="71.08179" magical="47.3270583783809" />
+			<attribute>
+				<attack type="DARK" value="20" />
+				<defence fire="20" water="20" wind="20" earth="20" holy="-32" dark="53" />
+			</attribute>
+			<speed>
+				<walk ground="40" />
+				<run ground="140" />
+			</speed>
+			<hitTime>800</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Weak Point -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="9" /> <!-- Bows -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="98" max="145" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.0543">
+					<item id="271" min="1" max="1" chance="100" /> <!-- Hunting Bow -->
+				</group>
+				<group chance="13.1854">
+					<item id="1864" min="1" max="1" chance="57.1429" /> <!-- Stem -->
+					<item id="1869" min="1" max="1" chance="28.5714" /> <!-- Iron Ore -->
+					<item id="736" min="1" max="1" chance="14.2857" /> <!-- Scroll of Escape -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1866" min="1" max="1" chance="12.7538" /> <!-- Suede -->
+				<item id="1922" min="1" max="1" chance="4.8803" /> <!-- Leather Tunic Pattern -->
+				<item id="1793" min="1" max="1" chance="1.4067" /> <!-- Recipe: Sword of Reflection -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="11" />
+			<height normal="27" />
+		</collision>
+	</npc>
+	<npc id="20103" level="15" type="Monster" name="Giant Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="545" sp="22" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="246.95422" hpRegen="2.5" mp="149.2" mpRegen="1.2" />
+			<attack physical="29.61691" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="73.55216" magical="48.9718589929237" />
+			<attribute>
+				<defence fire="-5" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="119" max="180" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="3.9136">
+					<item id="37" min="1" max="1" chance="11.6541" /> <!-- Leather Shoes -->
+					<item id="1921" min="1" max="1" chance="76.6917" /> <!-- Leather Shoes Texture -->
+					<item id="49" min="1" max="1" chance="11.6542" /> <!-- Gloves -->
+				</group>
+				<group chance="27.0068">
+					<item id="1867" min="1" max="1" chance="17.2261" /> <!-- Animal Skin -->
+					<item id="1872" min="1" max="1" chance="17.2261" /> <!-- Animal Bone -->
+					<item id="1794" min="1" max="1" chance="0.95" /> <!-- Recipe: Forest Bow -->
+					<item id="17" min="10" max="30" chance="64.5978" /> <!-- Wooden Arrow -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1803" min="1" max="1" chance="19.8526" /> <!-- Recipe: Necklace of Wisdom -->
+				<item id="1871" min="1" max="1" chance="23.6245" /> <!-- Charcoal -->
+				<item id="1921" min="1" max="1" chance="15.2416" /> <!-- Leather Shoes Texture -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+	</npc>
 	<npc id="20104" level="15" type="Monster" name="Skeleton Lord">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
@@ -69,6 +413,204 @@
 			<height normal="25" grown="31" />
 		</collision>
 	</npc>
+	<npc id="20105" level="16" type="Monster" name="Dark Horror">
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+			<skill name="HoldMagic" id="4047" level="1" /> <!-- Hold -->
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="576" sp="23" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
+			<attack physical="32.16396" magical="21.96382" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="76.08628" magical="50.6590964478128" />
+			<attribute>
+				<attack type="DARK" value="20" />
+				<defence fire="20" water="20" wind="20" earth="20" holy="-32" dark="53" />
+			</attribute>
+			<speed>
+				<walk ground="100" />
+				<run ground="100" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4047" level="1" /> <!-- Hold -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" />
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="119" max="185" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="0.1752">
+					<item id="15" min="1" max="1" chance="7.7061" /> <!-- Short Spear -->
+					<item id="2011" min="1" max="1" chance="92.2939" /> <!-- Short Spear Edge -->
+				</group>
+				<group chance="10.453">
+					<item id="1867" min="1" max="1" chance="45.1977" /> <!-- Animal Skin -->
+					<item id="1872" min="1" max="1" chance="45.1977" /> <!-- Animal Bone -->
+					<item id="2140" min="1" max="1" chance="6.7797" /> <!-- Recipe: High Grade Suede -->
+					<item id="735" min="1" max="1" chance="2.8249" /> <!-- Potion of Alacrity -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="734" min="1" max="1" chance="3.9986" /> <!-- Haste Potion -->
+				<item id="1801" min="1" max="1" chance="12.0865" /> <!-- Recipe: Piece Bone Gaiters -->
+				<item id="1872" min="1" max="1" chance="31.989" /> <!-- Animal Bone -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="20" />
+			<height normal="35" grown="42" />
+		</collision>
+	</npc>
+	<npc id="20106" level="16" type="Monster" name="Talon Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="570" sp="23" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="264.34345" hpRegen="2.5" mp="157.6" mpRegen="1.2" />
+			<attack physical="32.16396" magical="21.96382" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="76.08628" magical="50.6590964478128" />
+			<attribute>
+				<defence fire="-5" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="118" max="183" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="3.4269">
+					<item id="38" min="1" max="1" chance="5.2405" /> <!-- Low Boots -->
+					<item id="50" min="1" max="1" chance="5.2405" /> <!-- Leather Gloves -->
+					<item id="1925" min="1" max="1" chance="89.519" /> <!-- Leather Gloves Lining -->
+				</group>
+				<group chance="10.1985">
+					<item id="1867" min="1" max="1" chance="45.8716" /> <!-- Animal Skin -->
+					<item id="1872" min="1" max="1" chance="45.8716" /> <!-- Animal Bone -->
+					<item id="2141" min="1" max="1" chance="6.8807" /> <!-- Recipe: Silver Mold -->
+					<item id="5273" min="1" max="1" chance="1.3761" /> <!-- Recipe: Greater Spiritshot (D) Compressed Package(100%) -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="2150" min="1" max="1" chance="11.1533" /> <!-- Recipe: Blue Diamond Necklace -->
+				<item id="1897" min="1" max="1" chance="5.6563" /> <!-- Necklace of Wisdom Chain -->
+				<item id="734" min="1" max="1" chance="3.9594" /> <!-- Haste Potion -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+	</npc>
 	<npc id="20107" level="16" type="Monster" name="Крысолюд">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
@@ -135,6 +677,106 @@
 		<collision>
 			<radius normal="14" />
 			<height normal="25" />
+		</collision>
+	</npc>
+	<npc id="20108" level="17" type="Monster" name="Blade Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="618" sp="26" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
+			<attack physical="34.8979" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="78.68469" magical="52.3891528929827" />
+			<attribute>
+				<defence fire="-5" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="122" max="197" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="3.6207">
+					<item id="38" min="1" max="1" chance="5.2405" /> <!-- Low Boots -->
+					<item id="50" min="1" max="1" chance="5.2405" /> <!-- Leather Gloves -->
+					<item id="1925" min="1" max="1" chance="89.519" /> <!-- Leather Gloves Lining -->
+				</group>
+				<group chance="10.9359">
+					<item id="1872" min="1" max="1" chance="45.1977" /> <!-- Animal Bone -->
+					<item id="1867" min="1" max="1" chance="45.1977" /> <!-- Animal Skin -->
+					<item id="2144" min="1" max="1" chance="6.7797" /> <!-- Recipe: Compound Braid -->
+					<item id="735" min="1" max="1" chance="2.8249" /> <!-- Potion of Alacrity -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="40" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="52" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="8" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1866" min="1" max="1" chance="16.7333" /> <!-- Suede -->
+				<item id="734" min="1" max="1" chance="4.1833" /> <!-- Haste Potion -->
+				<item id="1800" min="1" max="1" chance="7.8931" /> <!-- Recipe: Piece Bone Breastplate -->
+			</spoil>
+		</dropLists>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
 		</collision>
 	</npc>
 	<npc id="20109" level="17" type="Monster" name="Саламандра">
@@ -1026,7 +1668,7 @@
 			<height normal="10" />
 		</collision>
 	</npc>
-	<npc id="20130" level="6" type="Monster" name="Orc">
+	<npc id="20130" level="37" type="Monster" name="Орк отшельник">
 		<parameters>
 			<param name="MoveAroundSocial" value="138" />
 			<param name="MoveAroundSocial1" value="138" />
@@ -1035,11 +1677,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="156" /> <!-- Hand Axe -->
-		<acquire exp="213" sp="6" />
+		<acquire exp="1110" sp="111" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
-			<vitals hp="93.54158" hpRegen="2" mp="77.2" mpRegen="0.9" />
-			<attack physical="13.52471" magical="9.23562" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="53.53373" magical="39.17366" />
+			<vitals hp="847.31754" hpRegen="4.5" mp="432.72" mpRegen="1.8" />
+			<attack physical="146.82587" magical="100.26304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="144.47758" magical="105.72243" />
 			<speed>
 				<walk ground="45" />
 				<run ground="110" />
@@ -1050,7 +1692,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -1061,11 +1703,12 @@
 			<skill id="4072" level="1" /> <!-- Stun -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
-				<clan>ORC</clan>
+				<clan>ALL</clan>
 			</clanList>
 		</ai>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<collision>
 			<radius normal="10" />
 			<height normal="21" />
@@ -1073,17 +1716,24 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="41" max="58" chance="100" /> <!-- Adena -->
+					<item id="57" min="740" max="888" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="1.9543">
-					<item id="1122" min="1" max="1" chance="33.3333" /> <!-- Cotton Shoes -->
-					<item id="1129" min="1" max="1" chance="33.3333" /> <!-- Crude Leather Shoes -->
-					<item id="1119" min="1" max="1" chance="33.3334" /> <!-- Short Leather Gloves -->
+				<group chance="2.5045">
+					<item id="850" min="1" max="1" chance="0.7508" /> <!-- Elven Earring -->
+					<item id="1902" min="1" max="1" chance="27.3465" /> <!-- Elven Earring Beads -->
+					<item id="913" min="1" max="1" chance="0.5635" /> <!-- Elven Necklace -->
+					<item id="1904" min="1" max="1" chance="25.1899" /> <!-- Elven Necklace Beads -->
+					<item id="881" min="1" max="1" chance="1.127" /> <!-- Elven Ring -->
+					<item id="1903" min="1" max="1" chance="45.0223" /> <!-- Elven Ring Piece -->
 				</group>
-				<group chance="5.103">
-					<item id="1864" min="1" max="1" chance="60" /> <!-- Stem -->
-					<item id="1869" min="1" max="1" chance="30" /> <!-- Iron Ore -->
-					<item id="1666" min="1" max="1" chance="10" /> <!-- Recipe: Wooden Arrow -->
+				<group chance="17.0887">
+					<item id="1872" min="1" max="1" chance="45.2099" /> <!-- Animal Bone -->
+					<item id="1867" min="1" max="1" chance="45.2099" /> <!-- Animal Skin -->
+					<item id="1881" min="1" max="1" chance="4.521" /> <!-- Coarse Bone Powder -->
+					<item id="1875" min="1" max="1" chance="2.2605" /> <!-- Stone of Purity -->
+					<item id="2145" min="1" max="1" chance="2.422" /> <!-- Recipe: Mithril Alloy -->
+					<item id="2288" min="1" max="1" chance="0.1884" /> <!-- Recipe: Ghost Staff -->
+					<item id="2287" min="1" max="1" chance="0.1883" /> <!-- Recipe: Atuba Hammer -->
 				</group>
 				<group chance="42">
 					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
@@ -1091,9 +1741,9 @@
 					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
 				</group>
 				<group chance="11">
-					<item id="8603" min="1" max="1" chance="50" /> <!-- Herb of Mana -->
-					<item id="8604" min="1" max="1" chance="43" /> <!-- Greater Herb of Mana -->
-					<item id="8605" min="1" max="1" chance="7" /> <!-- Superior Herb of Mana -->
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
 				</group>
 				<group chance="25">
 					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
@@ -1118,13 +1768,13 @@
 				</group>
 			</drop>
 			<spoil>
-				<item id="1666" min="1" max="1" chance="2.5914" /> <!-- Recipe: Wooden Arrow -->
-				<item id="1060" min="1" max="1" chance="17.2757" /> <!-- Lesser Healing Potion -->
-				<item id="2005" min="1" max="1" chance="0.5553" /> <!-- Broadsword Blade -->
+				<item id="1874" min="1" max="1" chance="5.231" /> <!-- Oriharukon Ore -->
+				<item id="2034" min="1" max="1" chance="0.829" /> <!-- Sword of Revolution Blade -->
+				<item id="1902" min="1" max="1" chance="7.9498" /> <!-- Elven Earring Beads -->
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20131" level="7" type="Monster" name="Orc Grunt">
+	<npc id="20131" level="38" type="Monster" name="Боец орков отшельников">
 		<parameters>
 			<param name="MoveAroundSocial" value="138" />
 			<param name="MoveAroundSocial1" value="138" />
@@ -1133,11 +1783,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="4" /> <!-- rhand: Club -->
-		<acquire exp="249" sp="8" />
+		<acquire exp="1710" sp="171" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="108.42254" hpRegen="2" mp="84.88" mpRegen="0.9" />
-			<attack physical="14.80956" magical="10.11301" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="55.51894" magical="36.965135694682" />
+			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
+			<attack physical="156.22273" magical="106.67987" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="148.44287" magical="98.8349371271581" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1149,7 +1799,7 @@
 		</stats>
 		<status undying="false" canBeSown="true" />
 		<skillList>
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -1165,19 +1815,28 @@
 				<clan>ORC</clan>
 			</clanList>
 		</ai>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="51" max="72" chance="100" /> <!-- Adena -->
+					<item id="57" min="1140" max="1368" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="1.9946">
-					<item id="19" min="1" max="1" chance="58.8235" /> <!-- Small Shield -->
-					<item id="42" min="1" max="1" chance="41.1765" /> <!-- Leather Cap -->
+				<group chance="1.6866">
+					<item id="850" min="1" max="1" chance="0.7508" /> <!-- Elven Earring -->
+					<item id="1902" min="1" max="1" chance="27.3465" /> <!-- Elven Earring Beads -->
+					<item id="913" min="1" max="1" chance="0.5635" /> <!-- Elven Necklace -->
+					<item id="1904" min="1" max="1" chance="25.1899" /> <!-- Elven Necklace Beads -->
+					<item id="881" min="1" max="1" chance="1.127" /> <!-- Elven Ring -->
+					<item id="1903" min="1" max="1" chance="45.0223" /> <!-- Elven Ring Piece -->
 				</group>
-				<group chance="7.7042">
-					<item id="1865" min="1" max="1" chance="24.8744" /> <!-- Varnish -->
-					<item id="1870" min="1" max="1" chance="24.8744" /> <!-- Coal -->
-					<item id="1797" min="1" max="1" chance="50.2512" /> <!-- Recipe: Leather Stockings -->
+				<group chance="16.2753">
+					<item id="1866" min="1" max="1" chance="15.9832" /> <!-- Suede -->
+					<item id="1871" min="1" max="1" chance="23.9748" /> <!-- Charcoal -->
+					<item id="5220" min="1" max="1" chance="0.959" /> <!-- Metal Hardener -->
+					<item id="1885" min="1" max="1" chance="1.9979" /> <!-- High Grade Suede -->
+					<item id="2201" min="1" max="1" chance="2.3277" /> <!-- Recipe: Square Shield -->
+					<item id="2159" min="1" max="1" chance="1.4799" /> <!-- Recipe: Necklace of Darkness -->
+					<item id="1060" min="1" max="1" chance="53.2775" /> <!-- Lesser Healing Potion -->
 				</group>
 				<group chance="42">
 					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
@@ -1185,9 +1844,9 @@
 					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
 				</group>
 				<group chance="11">
-					<item id="8603" min="1" max="1" chance="50" /> <!-- Herb of Mana -->
-					<item id="8604" min="1" max="1" chance="43" /> <!-- Greater Herb of Mana -->
-					<item id="8605" min="1" max="1" chance="7" /> <!-- Superior Herb of Mana -->
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
 				</group>
 				<group chance="25">
 					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
@@ -1212,9 +1871,9 @@
 				</group>
 			</drop>
 			<spoil>
-				<item id="1789" min="1" max="1" chance="1.7988" /> <!-- Recipe: Cedar Staff -->
-				<item id="2006" min="1" max="1" chance="0.6951" /> <!-- Willow Staff Head -->
-				<item id="1666" min="1" max="1" chance="3.2439" /> <!-- Recipe: Wooden Arrow -->
+				<item id="1825" min="1" max="1" chance="3.7742" /> <!-- Recipe: Oriharukon -->
+				<item id="2032" min="1" max="1" chance="0.4883" /> <!-- Goat Head Staff Head -->
+				<item id="5220" min="1" max="1" chance="2.1136" /> <!-- Metal Hardener -->
 			</spoil>
 		</dropLists>
 		<collision>

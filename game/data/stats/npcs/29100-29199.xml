@@ -1163,11 +1163,11 @@
 			<height normal="22.2" />
 		</collision>
 	</npc>
-	<npc id="29129" level="29" type="RaidBoss" name="Lost Captain">
+	<npc id="29129" level="49" type="RaidBoss" name="Начальник Стражи Лабиринта">
 		<parameters>
 			<minions name="Privates">
-				<npc id="29130" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Guard -->
-				<npc id="29131" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Assistant Guard -->
+				<npc id="29130" count="2" respawnTime="300" weightPoint="1" /> <!-- Страж Лабиринта -->
+				<npc id="29131" count="2" respawnTime="300" weightPoint="1" /> <!-- Помощник Стража Лабиринта -->
 			</minions>
 			<param name="PCCafe_Reward" value="13002" /> <!-- Essence of Kamaloka -->
 			<param name="PCCafe_Number" value="5" />
@@ -1178,11 +1178,11 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="5013132" sp="233765.357111758" raidPoints="160.38" />
+		<acquire exp="599600" sp="50800" raidPoints="160.38" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="51627.9236028674" hpRegen="9.65855863489551" mp="315.12" mpRegen="1.5" />
-			<attack physical="499.690202881462" magical="113.741209251744" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="1035.05382" magical="504.96" />
+			<vitals hp="188076.094026853" hpRegen="51.7193112926872" mp="720" mpRegen="2.1" />
+			<attack physical="631.283359498593" magical="301.9275982726895" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="586.98906" magical="486.36" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1213,18 +1213,23 @@
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
-				<group chance="59.8529">
-					<item id="395" min="1" max="1" chance="56.3214" /> <!-- Manticore Skin Shirt -->
-					<item id="417" min="4" max="12" chance="11.2434" /> <!-- Manticore Skin Gaiters -->
-					<item id="1942" min="53" max="157" chance="23.5297" /> <!-- Manticore Skin Shirt Texture -->
-					<item id="1943" min="216" max="648" chance="8.9055" /> <!-- Manticore Skin Gaiters Pattern -->
+				<group chance="58.8978">
+					<item id="119" min="1" max="1" chance="28.6435" /> <!-- Necklace of Binding -->
+					<item id="855" min="1" max="1" chance="38.1913" /> <!-- Nassen's Earring -->
+					<item id="886" min="6" max="16" chance="5.2079" /> <!-- Ring of Binding -->
+					<item id="1920" min="140" max="420" chance="7.6028" /> <!-- Necklace of Binding Chain -->
+					<item id="1918" min="81" max="243" chance="16.6321" /> <!-- Nassen's Earring Gemstone -->
+					<item id="2917" min="480" max="1440" chance="3.7224" /> <!-- Ring of Binding Gemstone -->
 				</group>
-				<group chance="58.1236">
-					<item id="279" min="1" max="1" chance="27.8645" /> <!-- Strengthened Long Bow -->
-					<item id="2040" min="12" max="36" chance="72.1355" /> <!-- Strengthened Long Bow Shaft -->
+				<group chance="38.5915">
+					<item id="286" min="1" max="1" chance="18.1298" /> <!-- Eminence Bow -->
+					<item id="2121" min="12" max="36" chance="81.8702" /> <!-- Eminence Bow Shaft -->
 				</group>
-				<group chance="37.5804">
-					<item id="6576" min="3" max="9" chance="100" /> <!-- Blessed Scroll: Enchant Armor (D) -->
+				<group chance="84.7075">
+					<item id="4607" min="5" max="15" chance="14.0187" /> <!-- Greater Dye of INT <Int+3 Men-3> -->
+					<item id="4608" min="2" max="4" chance="46.729" /> <!-- Greater Dye of INT <Int+3 Wit-3> -->
+					<item id="4609" min="2" max="6" chance="35.0467" /> <!-- Greater Dye of MEN <Men+3 Int-3> -->
+					<item id="6573" min="1" max="1" chance="4.2056" /> <!-- Blessed Scroll: Enchant Weapon (C) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -1233,14 +1238,14 @@
 			<height normal="73.5" />
 		</collision>
 	</npc>
-	<npc id="29130" level="29" type="Monster" name="Lost Guard">
+	<npc id="29130" level="49" type="Monster" name="Страж Лабиринта">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="72" /> <!-- rhand: Stormbringer -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3243.99114901302" hpRegen="4.82927931744775" mp="315.12" mpRegen="1.5" />
-			<attack physical="249.845101440731" magical="170.611813877616" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="172.50897" magical="84.16" />
+			<vitals hp="23243.99114901302" hpRegen="4.82927931744775" mp="315.12" mpRegen="1.5" />
+			<attack physical="349.845101440731" magical="270.611813877616" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="272.50897" magical="104.16" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1270,7 +1275,7 @@
 			<height normal="38" />
 		</collision>
 	</npc>
-	<npc id="29131" level="29" type="Monster" name="Lost Assistant Guard">
+	<npc id="29131" level="49" type="Monster" name="Помощник Стража Лабиринта">
 		<parameters>
 			<skill name="SelfRangeBuff_a" id="4214" level="2" /> <!-- BOSS Reflect Damage -->
 			<skill name="HealMagic_a" id="4780" level="2" /> <!-- BOSS Heal -->
@@ -1279,9 +1284,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="201" /> <!-- rhand: Club of Nature -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3243.99114901302" hpRegen="4.82927931744775" mp="315.12" mpRegen="7.5" />
-			<attack physical="166.563400960487" magical="113.741209251744" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="172.50897" magical="84.16" />
+			<vitals hp="23243.99114901302" hpRegen="4.82927931744775" mp="315.12" mpRegen="7.5" />
+			<attack physical="366.563400960487" magical="113.741209251744" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="372.50897" magical="204.16" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1316,11 +1321,11 @@
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="29132" level="39" type="RaidBoss" name="Lost Captain">
+	<npc id="29132" level="59" type="RaidBoss" name="Начальник Стражи Лабиринта">
 		<parameters>
 			<minions name="Privates">
-				<npc id="29133" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Guard -->
-				<npc id="29134" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Assistant Guard -->
+				<npc id="29133" count="2" respawnTime="300" weightPoint="1" /> <!-- Страж Лабиринта -->
+				<npc id="29134" count="2" respawnTime="300" weightPoint="1" /> <!-- Помощник Стража Лабиринта -->
 			</minions>
 			<param name="PCCafe_Reward" value="13002" /> <!-- Essence of Kamaloka -->
 			<param name="PCCafe_Number" value="7" />
@@ -1331,11 +1336,11 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
-		<acquire exp="4952215" sp="390467.35219537" raidPoints="246.24" />
+		<acquire exp="706000" sp="71600" raidPoints="246.24" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="84512.1750684667" hpRegen="14.123486282901" mp="463.32" mpRegen="1.8" />
-			<attack physical="1067.15457828808" magical="242.909405114151" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
-			<defence physical="1372.20768" magical="669.42" />
+			<vitals hp="196694.915642454" hpRegen="28.0780399914357" mp="1007.0" mpRegen="2.4" />
+			<attack physical="3637.52664450543" magical="827.986384796121" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2185.34337" magical="1066.08" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1365,22 +1370,27 @@
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
-				<group chance="48.7802">
-					<item id="439" min="1" max="1" chance="54.8719" /> <!-- Karmian Tunic -->
-					<item id="471" min="5" max="13" chance="9.743" /> <!-- Karmian Stockings -->
-					<item id="1962" min="53" max="157" chance="24.3318" /> <!-- Karmian Tunic Pattern -->
-					<item id="1954" min="192" max="576" chance="11.0533" /> <!-- Karmian Stocking Design -->
+				<group chance="62.1828">
+					<item id="864" min="1" max="1" chance="22.4307" /> <!-- Earring of Black Ore -->
+					<item id="895" min="1" max="1" chance="33.646" /> <!-- Ring of Black Ore -->
+					<item id="926" min="1" max="1" chance="16.823" /> <!-- Necklace of Black Ore -->
+					<item id="4052" min="81" max="243" chance="17.4271" /> <!-- Earring of Black Ore Piece -->
+					<item id="4053" min="280" max="840" chance="6.1035" /> <!-- Ring of Black Ore Gemstone -->
+					<item id="4054" min="220" max="660" chance="3.5697" /> <!-- Necklace of Black Ore Beads -->
 				</group>
-				<group chance="51.8474">
-					<item id="71" min="1" max="1" chance="12.7827" /> <!-- Flamberge -->
-					<item id="72" min="1" max="1" chance="12.7827" /> <!-- Stormbringer -->
-					<item id="2059" min="8" max="22" chance="55.796" /> <!-- Flamberge Blade -->
-					<item id="2060" min="24" max="72" chance="18.6386" /> <!-- Stormbringer Blade -->
+				<group chance="65.9782">
+					<item id="171" min="1" max="1" chance="2.2342" /> <!-- Deadman's Glory -->
+					<item id="175" min="1" max="1" chance="2.2342" /> <!-- Art of Battle Axe -->
+					<item id="210" min="1" max="1" chance="2.2342" /> <!-- Staff of Evil Spirits -->
+					<item id="4116" min="5" max="15" chance="49.2613" /> <!-- Deadman's Glory Stone -->
+					<item id="4117" min="9" max="27" chance="27.3674" /> <!-- Art of Battle Axe Blade -->
+					<item id="4118" min="14" max="42" chance="16.6687" /> <!-- Evil Spirit Head -->
 				</group>
-				<group chance="61.1027">
-					<item id="4589" min="4" max="12" chance="34.4262" /> <!-- Greater Dye of STR <Str+2 Con-2> -->
-					<item id="4590" min="8" max="22" chance="18.3607" /> <!-- Greater Dye of STR <Str+2 Dex-2> -->
-					<item id="6574" min="1" max="1" chance="47.2131" /> <!-- Blessed Scroll: Enchant Armor (C) -->
+				<group chance="87.4394">
+					<item id="4616" min="5" max="15" chance="11.4068" /> <!-- Greater Dye of CON <Con+4 Dex-4> -->
+					<item id="4617" min="2" max="4" chance="38.0228" /> <!-- Greater Dye of DEX <Dex+4 Str-4> -->
+					<item id="4618" min="2" max="6" chance="28.5171" /> <!-- Greater Dye of DEX <Dex+4 Con-4> -->
+					<item id="6572" min="1" max="1" chance="22.0533" /> <!-- Blessed Scroll: Enchant Armor (B) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -1389,14 +1399,14 @@
 			<height normal="45.5" />
 		</collision>
 	</npc>
-	<npc id="29133" level="39" type="Monster" name="Lost Guard">
+	<npc id="29133" level="59" type="Monster" name="Страж Лабиринта">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="16" /> <!-- rhand: Great Spear -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="5180.05748720336" hpRegen="7.06174314145048" mp="463.32" mpRegen="1.8" />
-			<attack physical="533.577289144038" magical="364.364107671226" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
-			<defence physical="228.70128" magical="111.57" />
+			<vitals hp="11637.1453751844" hpRegen="14.0390199957178" mp="1007.0" mpRegen="2.4" />
+			<attack physical="1818.76332225272" magical="1241.97957719418" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="364.223895" magical="177.68" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1426,7 +1436,7 @@
 			<height normal="35" grown="42.2" />
 		</collision>
 	</npc>
-	<npc id="29134" level="39" type="Monster" name="Lost Assistant Guard">
+	<npc id="29134" level="59" type="Monster" name="Помощник Стража Лабиринта">
 		<parameters>
 			<skill name="SelfRangeBuff_a" id="4214" level="3" /> <!-- BOSS Reflect Damage -->
 			<skill name="HealMagic_a" id="4780" level="3" /> <!-- BOSS Heal -->
@@ -1435,9 +1445,9 @@
 		<sex>MALE</sex>
 		<equipment rhand="7" /> <!-- rhand: Apprentice's Rod -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="5180.05748720336" hpRegen="7.06174314145048" mp="463.32" mpRegen="9" />
-			<attack physical="355.718192762692" magical="242.909405114151" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="228.70128" magical="111.57" />
+			<vitals hp="11637.1453751844" hpRegen="14.0390199957178" mp="1007.0" mpRegen="12" />
+			<attack physical="1212.50888150181" magical="827.986384796121" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="364.223895" magical="177.68" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1472,11 +1482,11 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="29135" level="49" type="RaidBoss" name="Lost Captain">
+	<npc id="29135" level="69" type="RaidBoss" name="Начальник Стражи Лабиринта">
 		<parameters>
 			<minions name="Privates">
-				<npc id="29136" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Guard -->
-				<npc id="29137" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Assistant Guard -->
+				<npc id="29136" count="2" respawnTime="300" weightPoint="1" /> <!-- Страж Лабиринта -->
+				<npc id="29137" count="2" respawnTime="300" weightPoint="1" /> <!-- Помощник Стража Лабиринта -->
 			</minions>
 			<param name="PCCafe_Reward" value="13002" /> <!-- Essence of Kamaloka -->
 			<param name="PCCafe_Number" value="8" />
@@ -1487,11 +1497,11 @@
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="6038762" sp="629274.839769063" raidPoints="356.4" />
+		<acquire exp="921600" sp="92400" raidPoints="356.4" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="138394.422441285" hpRegen="21.1254457302684" mp="720.0" mpRegen="2.1" />
-			<attack physical="2091.7548489206" magical="476.132455909724" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="1760.96718" magical="859.08" />
+			<vitals hp="239746.726642273" hpRegen="32.4635364678828" mp="1314.0" mpRegen="2.7" />
+			<attack physical="5466.50386862267" magical="1244.30451427299" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="2620.35567" magical="1278.3" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1521,23 +1531,20 @@
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
-				<group chance="58.8978">
-					<item id="119" min="1" max="1" chance="28.6435" /> <!-- Necklace of Binding -->
-					<item id="855" min="1" max="1" chance="38.1913" /> <!-- Nassen's Earring -->
-					<item id="886" min="6" max="16" chance="5.2079" /> <!-- Ring of Binding -->
-					<item id="1920" min="140" max="420" chance="7.6028" /> <!-- Necklace of Binding Chain -->
-					<item id="1918" min="81" max="243" chance="16.6321" /> <!-- Nassen's Earring Gemstone -->
-					<item id="2917" min="480" max="1440" chance="3.7224" /> <!-- Ring of Binding Gemstone -->
+				<group chance="66.6906">
+					<item id="5326" min="1" max="1" chance="3.2792" /> <!-- Sealed Nightmare Robe -->
+					<item id="5329" min="1" max="1" chance="3.2792" /> <!-- Sealed Majestic Robe -->
+					<item id="5487" min="4" max="12" chance="60.9401" /> <!-- Sealed Nightmare Robe Fabric -->
+					<item id="5488" min="8" max="22" chance="32.5015" /> <!-- Sealed Majestic Robe Fabric -->
 				</group>
-				<group chance="38.5915">
-					<item id="286" min="1" max="1" chance="18.1298" /> <!-- Eminence Bow -->
-					<item id="2121" min="12" max="36" chance="81.8702" /> <!-- Eminence Bow Shaft -->
+				<group chance="26.8661">
+					<item id="289" min="1" max="1" chance="7.7743" /> <!-- Soul Bow -->
+					<item id="5534" min="12" max="36" chance="92.2257" /> <!-- Soul Bow Stave -->
 				</group>
-				<group chance="84.7075">
-					<item id="4607" min="5" max="15" chance="14.0187" /> <!-- Greater Dye of INT <Int+3 Men-3> -->
-					<item id="4608" min="2" max="4" chance="46.729" /> <!-- Greater Dye of INT <Int+3 Wit-3> -->
-					<item id="4609" min="2" max="6" chance="35.0467" /> <!-- Greater Dye of MEN <Men+3 Int-3> -->
-					<item id="6573" min="1" max="1" chance="4.2056" /> <!-- Blessed Scroll: Enchant Weapon (C) -->
+				<group chance="89.6422">
+					<item id="730" min="1" max="1" chance="87.007" /> <!-- Scroll: Enchant Armor (A) -->
+					<item id="6569" min="1" max="1" chance="1.3921" /> <!-- Blessed Scroll: Enchant Weapon (A) -->
+					<item id="729" min="1" max="1" chance="11.6009" /> <!-- Scroll: Enchant Weapon (A) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -1546,13 +1553,13 @@
 			<height normal="56" />
 		</collision>
 	</npc>
-	<npc id="29136" level="49" type="Monster" name="Lost Guard">
+	<npc id="29136" level="69" type="Monster" name="Страж Лабиринта">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="8290.65725071764" hpRegen="10.5627228651342" mp="720.0" mpRegen="2.1" />
-			<attack physical="1045.8774244603" magical="714.198683864586" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="293.49453" magical="143.18" />
+			<vitals hp="14118.8406588518" hpRegen="16.2317682339414" mp="1314.0" mpRegen="2.7" />
+			<attack physical="2733.25193431133" magical="1866.45677140948" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="436.725945" magical="213.05" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1582,7 +1589,7 @@
 			<height normal="34.7" />
 		</collision>
 	</npc>
-	<npc id="29137" level="49" type="Monster" name="Lost Assistant Guard">
+	<npc id="29137" level="69" type="Monster" name="Помощник Стража Лабиринта">
 		<parameters>
 			<skill name="SelfRangeBuff_a" id="4214" level="4" /> <!-- BOSS Reflect Damage -->
 			<skill name="HealMagic_a" id="4780" level="4" /> <!-- BOSS Heal -->
@@ -1590,9 +1597,9 @@
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="8290.65725071764" hpRegen="10.5627228651342" mp="720.0" mpRegen="10.5" />
-			<attack physical="697.251616306867" magical="476.132455909724" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="293.49453" magical="143.18" />
+			<vitals hp="14118.8406588518" hpRegen="16.2317682339414" mp="1314.0" mpRegen="13.5" />
+			<attack physical="1822.16795620756" magical="1244.30451427299" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="436.725945" magical="213.05" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1627,11 +1634,11 @@
 			<height normal="32.8" />
 		</collision>
 	</npc>
-	<npc id="29138" level="59" type="RaidBoss" name="Lost Captain">
+	<npc id="29138" level="79" type="RaidBoss" name="Начальник Стражи Лабиринта">
 		<parameters>
 			<minions name="Privates">
-				<npc id="29139" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Guard -->
-				<npc id="29140" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Assistant Guard -->
+				<npc id="29139" count="2" respawnTime="300" weightPoint="1" /> <!-- Страж Лабиринта -->
+				<npc id="29140" count="2" respawnTime="300" weightPoint="1" /> <!-- Помощник Стража Лабиринта -->
 			</minions>
 			<param name="PCCafe_Reward" value="13002" /> <!-- Essence of Kamaloka -->
 			<param name="PCCafe_Number" value="12" />
@@ -1643,11 +1650,11 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="135" /> <!-- rhand: Samurai Longsword -->
-		<acquire exp="7188263" sp="860647.48653383" raidPoints="489.24" />
+		<acquire exp="1488263" sp="140647.48653383" raidPoints="489.24" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="196694.915642454" hpRegen="28.0780399914357" mp="1007.0" mpRegen="2.4" />
-			<attack physical="3637.52664450543" magical="827.986384796121" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="2185.34337" magical="1066.08" />
+			<vitals hp="467072.719255532" hpRegen="35.1613571322458" mp="1607.4" mpRegen="3" />
+			<attack physical="6825.89686480245" magical="1553.73425501404" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="2994.30549" magical="1460.76" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1678,27 +1685,18 @@
 		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="false" />
 		<dropLists>
 			<drop>
-				<group chance="62.1828">
-					<item id="864" min="1" max="1" chance="22.4307" /> <!-- Earring of Black Ore -->
-					<item id="895" min="1" max="1" chance="33.646" /> <!-- Ring of Black Ore -->
-					<item id="926" min="1" max="1" chance="16.823" /> <!-- Necklace of Black Ore -->
-					<item id="4052" min="81" max="243" chance="17.4271" /> <!-- Earring of Black Ore Piece -->
-					<item id="4053" min="280" max="840" chance="6.1035" /> <!-- Ring of Black Ore Gemstone -->
-					<item id="4054" min="220" max="660" chance="3.5697" /> <!-- Necklace of Black Ore Beads -->
+				<group chance="56.4673">
+					<item id="6680" min="1" max="1" chance="5.855" /> <!-- Sealed Draconic Leather Armor -->
+					<item id="6707" min="12" max="36" chance="94.145" /> <!-- Sealed Draconic Leather Armor Part -->
 				</group>
-				<group chance="65.9782">
-					<item id="171" min="1" max="1" chance="2.2342" /> <!-- Deadman's Glory -->
-					<item id="175" min="1" max="1" chance="2.2342" /> <!-- Art of Battle Axe -->
-					<item id="210" min="1" max="1" chance="2.2342" /> <!-- Staff of Evil Spirits -->
-					<item id="4116" min="5" max="15" chance="49.2613" /> <!-- Deadman's Glory Stone -->
-					<item id="4117" min="9" max="27" chance="27.3674" /> <!-- Art of Battle Axe Blade -->
-					<item id="4118" min="14" max="42" chance="16.6687" /> <!-- Evil Spirit Head -->
+				<group chance="36.9952">
+					<item id="7575" min="1" max="1" chance="4.8834" /> <!-- Draconic Bow -->
+					<item id="7579" min="12" max="36" chance="95.1166" /> <!-- Draconic Bow Shaft -->
 				</group>
-				<group chance="87.4394">
-					<item id="4616" min="5" max="15" chance="11.4068" /> <!-- Greater Dye of CON <Con+4 Dex-4> -->
-					<item id="4617" min="2" max="4" chance="38.0228" /> <!-- Greater Dye of DEX <Dex+4 Str-4> -->
-					<item id="4618" min="2" max="6" chance="28.5171" /> <!-- Greater Dye of DEX <Dex+4 Con-4> -->
-					<item id="6572" min="1" max="1" chance="22.0533" /> <!-- Blessed Scroll: Enchant Armor (B) -->
+				<group chance="74.5482">
+					<item id="959" min="1" max="1" chance="8.9552" /> <!-- Scroll: Enchant Weapon (S) -->
+					<item id="960" min="1" max="1" chance="89.5522" /> <!-- Scroll: Enchant Armor (S) -->
+					<item id="6577" min="1" max="1" chance="1.4926" /> <!-- Blessed Scroll: Enchant Weapon (S) -->
 				</group>
 			</drop>
 		</dropLists>
@@ -1707,13 +1705,13 @@
 			<height normal="54.5" />
 		</collision>
 	</npc>
-	<npc id="29139" level="59" type="Monster" name="Lost Guard">
+	<npc id="29139" level="79" type="Monster" name="Страж Лабиринта">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="11637.1453751844" hpRegen="14.0390199957178" mp="1007.0" mpRegen="2.4" />
-			<attack physical="1818.76332225272" magical="1241.97957719418" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="364.223895" magical="177.68" />
+			<vitals hp="45710.0762676364" hpRegen="17.5806785661229" mp="1607.4" mpRegen="3" />
+			<attack physical="3412.94843240122" magical="2330.60138252105" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="499.050915" magical="243.46" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1743,7 +1741,7 @@
 			<height normal="42" />
 		</collision>
 	</npc>
-	<npc id="29140" level="59" type="Monster" name="Lost Assistant Guard">
+	<npc id="29140" level="79" type="Monster" name="Помощник Стража Лабиринта">
 		<parameters>
 			<skill name="SelfRangeBuff_a" id="4214" level="5" /> <!-- BOSS Reflect Damage -->
 			<skill name="HealMagic_a" id="4780" level="5" /> <!-- BOSS Heal -->
@@ -1751,9 +1749,9 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="11637.1453751844" hpRegen="14.0390199957178" mp="1007.0" mpRegen="12" />
-			<attack physical="1212.50888150181" magical="827.986384796121" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="364.223895" magical="177.68" />
+			<vitals hp="45710.0762676364" hpRegen="17.5806785661229" mp="1607.4" mpRegen="15" />
+			<attack physical="2275.29895493415" magical="1553.73425501404" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="499.050915" magical="243.46" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1788,11 +1786,12 @@
 			<height normal="42" />
 		</collision>
 	</npc>
-	<npc id="29141" level="69" type="RaidBoss" name="Lost Captain">
+
+	<npc id="29141" level="69" type="RaidBoss" name="Начальник Стражи Лабиринта">
 		<parameters>
 			<minions name="Privates">
-				<npc id="29142" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Guard -->
-				<npc id="29143" count="2" respawnTime="300" weightPoint="1" /> <!-- Lost Assistant Guard -->
+				<npc id="29142" count="2" respawnTime="300" weightPoint="1" /> <!-- Страж Лабиринта -->
+				<npc id="29143" count="2" respawnTime="300" weightPoint="1" /> <!-- Помощник Стража Лабиринта -->
 			</minions>
 			<param name="PCCafe_Reward" value="13002" /> <!-- Essence of Kamaloka -->
 			<param name="PCCafe_Number" value="15" />
@@ -1860,7 +1859,7 @@
 			<height normal="45" />
 		</collision>
 	</npc>
-	<npc id="29142" level="69" type="Monster" name="Lost Guard">
+	<npc id="29142" level="69" type="Monster" name="Страж Лабиринта">
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
@@ -1896,7 +1895,7 @@
 			<height normal="43.5" />
 		</collision>
 	</npc>
-	<npc id="29143" level="69" type="Monster" name="Lost Assistant Guard">
+	<npc id="29143" level="69" type="Monster" name="Помощник Стража Лабиринта">
 		<parameters>
 			<skill name="SelfRangeBuff_a" id="4214" level="6" /> <!-- BOSS Reflect Damage -->
 			<skill name="HealMagic_a" id="4780" level="6" /> <!-- BOSS Heal -->
@@ -1941,11 +1940,11 @@
 			<height normal="43.5" />
 		</collision>
 	</npc>
-	<npc id="29144" level="78" type="RaidBoss" name="Lost Captain">
+	<npc id="29144" level="78" type="RaidBoss" name="Начальник Стражи Лабиринта">
 		<parameters>
 			<minions name="Privates">
-				<npc id="29145" count="2" respawnTime="150" weightPoint="1" /> <!-- Lost Guard -->
-				<npc id="29146" count="2" respawnTime="150" weightPoint="1" /> <!-- Lost Assistant Guard -->
+				<npc id="29145" count="2" respawnTime="150" weightPoint="1" /> <!-- Страж Лабиринта -->
+				<npc id="29146" count="2" respawnTime="150" weightPoint="1" /> <!-- Помощник Стража Лабиринта -->
 			</minions>
 			<param name="PCCafe_Reward" value="13002" /> <!-- Essence of Kamaloka -->
 			<param name="PCCafe_Number" value="18" />
@@ -2014,7 +2013,7 @@
 			<height normal="80" />
 		</collision>
 	</npc>
-	<npc id="29145" level="78" type="Monster" name="Lost Guard">
+	<npc id="29145" level="78" type="Monster" name="Страж Лабиринта">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
 		<equipment rhand="8221" /> <!-- rhand: Monster Only (Grail Apostle Spear) -->
@@ -2053,7 +2052,7 @@
 			<height normal="47" />
 		</collision>
 	</npc>
-	<npc id="29146" level="78" type="Monster" name="Lost Assistant Guard">
+	<npc id="29146" level="78" type="Monster" name="Помощник Стража Лабиринта">
 		<parameters>
 			<skill name="SelfRangeBuff_a" id="4214" level="7" /> <!-- BOSS Reflect Damage -->
 			<skill name="HealMagic_a" id="4780" level="7" /> <!-- BOSS Heal -->
@@ -2101,11 +2100,11 @@
 			<height normal="38.5" grown="46.5" />
 		</collision>
 	</npc>
-	<npc id="29147" level="81" type="RaidBoss" name="Lost Captain">
+	<npc id="29147" level="81" type="RaidBoss" name="Начальник Стражи Лабиринта">
 		<parameters>
 			<minions name="Privates">
-				<npc id="29148" count="2" respawnTime="150" weightPoint="1" /> <!-- Lost Guard -->
-				<npc id="29149" count="2" respawnTime="150" weightPoint="1" /> <!-- Lost Assistant Guard -->
+				<npc id="29148" count="2" respawnTime="150" weightPoint="1" /> <!-- Страж Лабиринта -->
+				<npc id="29149" count="2" respawnTime="150" weightPoint="1" /> <!-- Помощник Стража Лабиринта -->
 			</minions>
 			<param name="PCCafe_Reward" value="13002" /> <!-- Essence of Kamaloka -->
 			<param name="PCCafe_Number" value="19" />
@@ -2178,7 +2177,7 @@
 			<height normal="51.5" />
 		</collision>
 	</npc>
-	<npc id="29148" level="81" type="Monster" name="Lost Guard">
+	<npc id="29148" level="81" type="Monster" name="Страж Лабиринта">
 		<race>DRAGON</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
@@ -2215,7 +2214,7 @@
 			<height normal="34.5" />
 		</collision>
 	</npc>
-	<npc id="29149" level="81" type="Monster" name="Lost Assistant Guard">
+	<npc id="29149" level="81" type="Monster" name="Помощник Стража Лабиринта">
 		<parameters>
 			<skill name="SelfRangeBuff_a" id="4214" level="8" /> <!-- BOSS Reflect Damage -->
 			<skill name="HealMagic_a" id="4780" level="8" /> <!-- BOSS Heal -->
@@ -2261,6 +2260,7 @@
 			<height normal="34.5" />
 		</collision>
 	</npc>
+
 	<npc id="29150" level="82" type="GrandBoss" name="Ekimus" title="Lord of Immortality">
 		<parameters>
 			<skill name="Skill_HPBuff" id="5916" level="1" /> <!-- Cruising Aura -->

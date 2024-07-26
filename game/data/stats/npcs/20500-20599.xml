@@ -2097,7 +2097,7 @@
 			<height normal="11" />
 		</collision>
 	</npc>
-	<npc id="20528" level="13" type="Monster" name="Лорд Гоблинов">
+	<npc id="20528" level="13" type="Monster" name="Вожак Гоблинов">
 		<parameters>
 			<param name="MoveAroundSocial" value="42" />
 			<param name="MoveAroundSocial1" value="42" />
@@ -2133,7 +2133,7 @@
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true" />
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<group chance="70">

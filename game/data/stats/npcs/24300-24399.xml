@@ -2630,10 +2630,10 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="24389" level="33" type="Monster" name="Spartoi Soldier">
+	<npc id="24389" level="33" type="Monster" name="Призрачный Скелет Солдат">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="701" sp="48"/>
+		<acquire exp="495" sp="50"/>
 		<equipment rhand="73" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2663,16 +2663,43 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 		</skillList>
+		<ai aggroRange="300" isAggressive="true"/>
 		<dropLists>
 			<drop>
-				<item id="57" min="13" max="30" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="330" max="396" chance="70" /> <!-- Adena -->
+				</group>
+				<group chance="0.7936">
+					<item id="553" min="1" max="1" chance="2.8426" /> <!-- Iron Boots -->
+					<item id="1940" min="1" max="1" chance="82.9444" /> <!-- Iron Boots Design -->
+					<item id="2422" min="1" max="1" chance="2.8426" /> <!-- Reinforced Leather Boots -->
+					<item id="2423" min="1" max="1" chance="2.8426" /> <!-- Boots of Knowledge -->
+					<item id="63" min="1" max="1" chance="2.8426" /> <!-- Gauntlets -->
+					<item id="2446" min="1" max="1" chance="2.8426" /> <!-- Reinforced Leather Gloves -->
+					<item id="2447" min="1" max="1" chance="2.8426" /> <!-- Gloves of Knowledge -->
+				</group>
+				<group chance="6.6356">
+					<item id="1875" min="1" max="1" chance="3.8769" /> <!-- Stone of Purity -->
+					<item id="1879" min="1" max="1" chance="9.6921" /> <!-- Cokes -->
+					<item id="1885" min="1" max="1" chance="4.8461" /> <!-- High Grade Suede -->
+					<item id="5550" min="1" max="1" chance="0.7754" /> <!-- Durable Metal Plate -->
+					<item id="5549" min="1" max="1" chance="5.8153" /> <!-- Metallic Thread -->
+					<item id="2154" min="1" max="1" chance="6.2262" /> <!-- Recipe: Elven Earring -->
+					<item id="2190" min="1" max="1" chance="4.1538" /> <!-- Recipe: Mithril Stockings -->
+					<item id="1832" min="1" max="1" chance="64.6142" /> <!-- Greater Antidote -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1884" min="1" max="1" chance="35.7298" /> <!-- Cord -->
+				<item id="2275" min="1" max="1" chance="0.4147" /> <!-- Recipe: Heavy Bone Club -->
+				<item id="1901" min="1" max="1" chance="8.0195" /> <!-- Tiger's Eye Earring Stone -->
+			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="24390" level="33" type="Monster" name="Raging Spartoi">
+	<npc id="24390" level="33" type="Monster" name="Скелет Берсерк">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="701" sp="48"/>
+		<acquire exp="495" sp="50"/>
 		<equipment rhand="946" lhand="945" />
 		<mpReward value="20" type="PER" ticks="10" affects="PARTY" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
@@ -2702,10 +2729,30 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 		</skillList>
+		<ai aggroRange="300" isAggressive="true"/>
 		<dropLists>
 			<drop>
-				<item id="57" min="13" max="30" chance="70" /> <!-- Adena -->
+				<group chance="70">
+					<item id="57" min="330" max="396" chance="70" /> <!-- Adena -->
+				</group>
+				<group chance="0.4442">
+					<item id="278" min="1" max="1" chance="2.2054" /> <!-- Gastraphetes -->
+					<item id="2029" min="1" max="1" chance="97.7946" /> <!-- Gastraphetes Shaft -->
+				</group>
+				<group chance="6.52">
+					<item id="1875" min="1" max="1" chance="12.4131" /> <!-- Stone of Purity -->
+					<item id="1879" min="1" max="1" chance="31.0328" /> <!-- Cokes -->
+					<item id="1885" min="1" max="1" chance="15.5164" /> <!-- High Grade Suede -->
+					<item id="5550" min="1" max="1" chance="2.4826" /> <!-- Durable Metal Plate -->
+					<item id="5549" min="1" max="1" chance="18.6197" /> <!-- Metallic Thread -->
+					<item id="2154" min="1" max="1" chance="19.9354" /> <!-- Recipe: Elven Earring -->
+				</group>
 			</drop>
+			<spoil>
+				<item id="1901" min="1" max="1" chance="18.9223" /> <!-- Tiger's Eye Earring Stone -->
+				<item id="1875" min="1" max="1" chance="9.1332" /> <!-- Stone of Purity -->
+				<item id="1879" min="1" max="1" chance="22.8329" /> <!-- Cokes -->
+			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="24391" level="40" type="Monster" name="Sobbing Windra">

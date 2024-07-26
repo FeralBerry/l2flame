@@ -100,38 +100,126 @@
 			</territory>
 		</territories>
 		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
-		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Skeleton Knight 32 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3784" maxZ="-3784" rad="300">
+				<node x="-14689" y="139312"/>
+			</territory>
+		</territories>
+		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3784" maxZ="-3784" rad="500">
+				<node x="-13811" y="140267"/>
+			</territory>
+		</territories>
+		<npc id="20513" count="6" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
+		<npc id="20749" count="3" respawnTime="25sec" chaseRange="550" /><!-- Пламя Смерти 32 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3792" maxZ="-3896" rad="500">
+				<node x="-14085" y="141094"/>
+			</territory>
+		</territories>
+		<npc id="20749" count="3" respawnTime="25sec" chaseRange="550" /><!-- Пламя Смерти 32 -->
+		<npc id="22010" count="6" respawnTime="25sec" chaseRange="550" /><!-- Призрак Генерала 32 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3880" maxZ="-3688">
+				<node x="-13608" y="141042"/>
+				<node x="-12939" y="140983"/>
+				<node x="-12586" y="142811"/>
+				<node x="-14328" y="142401"/>
+			</territory>
+		</territories>
+		<npc id="22010" count="6" respawnTime="25sec" chaseRange="550" /><!-- Призрак Генерала 32 -->
+		<npc id="22010" count="6" respawnTime="25sec" chaseRange="550" /><!-- Посвященный Монах 32 -->
+		<npc id="20201" count="10" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак 32 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3784" maxZ="-3576">
+				<node x="-15087" y="138327"/>
+				<node x="-12689" y="138149"/>
+				<node x="-13236" y="139819"/>
+			</territory>
+		</territories>
+		<npc id="20201" count="12" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак 32 -->
+		<npc id="21237" count="12" respawnTime="25sec" chaseRange="550" /><!-- Монах Кургана 32 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3464" maxZ="-3672">
+				<node x="-12647" y="140031"/>
+				<node x="-11783" y="143795"/>
+				<node x="-7850" y="146833"/>
+				<node x="-3737" y="146867"/>
+				<node x="-2370" y="144831"/>
+				<node x="-6254" y="142763"/>
+				<node x="-7909" y="141827"/>
+				<node x="-9464" y="139981"/>
+				<node x="-12789" y="138437"/>
+			</territory>
+		</territories>
+		<npc id="24389" count="18" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Скелет Солдат 33 -->
+		<npc id="24390" count="18" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="18" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
+		<npc id="21144" count="18" respawnTime="25sec" chaseRange="550" /><!-- Тень Катакомб 34 -->
+		<npc id="18269" count="18" respawnTime="60sec" chaseRange="550" /><!-- Сундук с Сокровищами 33 -->
+		<npc id="20202" count="18" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
+		<npc id="21170" count="18" respawnTime="30sec" chaseRange="550" /><!-- Медиум Лит 33 -->
+		<npc id="20788" count="18" respawnTime="30sec" chaseRange="550" /><!-- Мурлок 35 -->
+		<npc id="21171" count="18" respawnTime="30sec" chaseRange="550" /><!-- Владыка Лит 36 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory shape="Cylinder" minZ="-3832" maxZ="-3832" rad="300">
+				<node x="-22024" y="139888"/>
+			</territory>
+		</territories>
+		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3880" maxZ="-3016">
+				<node x="-23683" y="141451"/>
+				<node x="-23239" y="144401"/>
+				<node x="-21674" y="146338"/>
+				<node x="-18900" y="147833"/>
+				<node x="-18524" y="150753"/>
+				<node x="-21143" y="151708"/>
+				<node x="-25894" y="151089"/>
+				<node x="-26572" y="148470"/>
+				<node x="-27342" y="146170"/>
+				<node x="-24513" y="141393"/>
+			</territory>
+		</territories>
+		<npc id="24389" count="24" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Скелет Солдат 33 -->
+		<npc id="24390" count="24" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="24" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
+		<npc id="21144" count="24" respawnTime="25sec" chaseRange="550" /><!-- Тень Катакомб 34 -->
+		<npc id="18269" count="24" respawnTime="60sec" chaseRange="550" /><!-- Сундук с Сокровищами 33 -->
+		<npc id="20202" count="24" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
+		<npc id="21170" count="24" respawnTime="30sec" chaseRange="550" /><!-- Медиум Лит 33 -->
+		<npc id="20788" count="24" respawnTime="30sec" chaseRange="550" /><!-- Мурлок 35 -->
+		<npc id="21171" count="24" respawnTime="30sec" chaseRange="550" /><!-- Владыка Лит 36 -->
 	</spawn>
 	<!--
 
-	<npc id="18268" level="30" type="Chest" name="">
-
-
-	<npc id="22009" level="31" type="Monster" name="Призрак Верного Вассала">
-	<npc id="20513" level="32" type="Monster" name="Skeleton Knight">
-
-	<npc id="20749" level="32" type="Monster" name="Death Fire">
-	<npc id="22010" level="32" type="Monster" name="Ghost of a General">
-	<npc id="21213" level="32" type="Monster" name="Hallowed Monk">
-	<npc id="20201" level="32" type="Monster" name="Ghoul">
-	<npc id="21237" level="32" type="Monster" name="Barrow Monk">
-	<npc id="24389" level="33" type="Monster" name="Spartoi Soldier">
-    <npc id="24390" level="33" type="Monster" name="Raging Spartoi">
-	<npc id="21106" level="34" type="Monster" name="Cursed Seer">
-	<npc id="21144" level="34" type="Monster" name="Catacomb Shadow">
-	<npc id="20202" level="34" type="Monster" name="Dead Seeker">
 	<npc id="22011" level="33" type="Monster" name="Ghost of a Batur Chief">
 	<npc id="22012" level="33" type="Monster" name="Ghost of a Batur Chief">
 	<npc id="22013" level="33" type="Monster" name="Ghost of a Morek Chief">
 	<npc id="22014" level="33" type="Monster" name="Ghost of a Morek Chief">
 	<npc id="22015" level="33" type="Monster" name="Ghost of a Turka Chief">
 	<npc id="22016" level="33" type="Monster" name="Ghost of a Turka Chief">
-	<npc id="21170" level="33" type="Monster" name="Lith Medium">
- 	<npc id="18269" level="33" type="Chest" name="Сундук с Сокровищами">
- 	<npc id="20788" level="35" type="Monster" name="Rakul">
- 	<npc id="21171" level="36" type="Monster" name="Lith Overlord">
- 	<npc id="24389" count="2" respawnTime="3sec" chaseRange="550" /> Spartoi Soldier 33 переделать
-	<npc id="24390" count="2" respawnTime="3sec" chaseRange="550" /> Raging Spartoi 33 переделать
+
 
 	-->
 	<spawn>

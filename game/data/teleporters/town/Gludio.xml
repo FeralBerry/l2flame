@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+    <npc id="30256"> <!-- Телепорт -->
+        <teleport type="OTHER">
+            <location x="87264" y="-143156" z="-1288" feeCount="85000"/> <!-- Шутгарт -->
+            <location x="111378" y="219052" z="-3536" feeCount="47000"/> <!-- Хейн -->
+            <location x="146378" y="25742" z="-2008" feeCount="56000"/> <!-- Аден -->
+            <location x="82754" y="53365" z="-1488" feeCount="35000"/> <!-- Орен -->
+            <location x="15404" y="142891" z="-2680" feeCount="3400"/> <!-- Дион -->
+            <location x="147796" y="-55434" z="-2728" feeCount="71000"/> <!-- Годдарт -->
+            <location x="83416" y="148055" z="-3400" feeCount="29000"/> <!-- Гиран -->
+            <location x="43823" y="-47760" z="-787" feeCount="53000"/> <!-- Руна -->
+            <location x="-80684" y="149770" z="-3035" feeCount="7300"/> <!-- Глудин -->
+            <location x="44734" y="49210" z="-3051" feeCount="9200"/> <!-- Деревня светлых эльфов -->
+            <location x="11167" y="16012" z="-4571" feeCount="10000"/> <!-- Деревня тёмных эльфов -->
+            <location x="115357" y="-178212" z="-915" feeCount="32000"/> <!-- Деревня гномов -->
+            <location x="-44124" y="-113390" z="-235" feeCount="23000"/> <!-- Деревня орков -->
+            <location x="-117001" y="46589" z="373" feeCount="12000"/> <!-- Деревня камаэлей -->
+            <location x="-41167" y="122789" z="-2891" feeCount="790"/> <!-- Руины страданий -->
+            <location x="-19353" y="136842" z="-3755" feeCount="610"/> <!-- Руины отчаяния -->
+            <location x="-10009" y="176989" z="-4176" feeCount="2100"/> <!-- Вход в муравейник -->
+            <location x="-10612" y="75881" z="-3587" feeCount="3000"/> <!-- Нейтральная зона -->
+            <location x="-19413" y="182977" z="-3312" feeCount="3500"/> <!-- Центр пустоши -->
+        </teleport>
+    </npc>
+</list>

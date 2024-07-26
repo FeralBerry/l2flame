@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+    <npc id="30233"> <!-- Телепорт -->
+        <teleport type="OTHER">
+            <location x="15404" y="142891" z="-2680" feeCount="12000"/> <!-- Дион -->
+            <location x="82958" y="53213" z="-1483" feeCount="10000"/> <!-- Гиран -->
+            <location x="146619" y="25799" z="-2008" feeCount="5000"/> <!-- Аден -->
+            <location x="82958" y="53213" z="-1483" feeCount="8000"/> <!-- Орен -->
+            <location x="88490" y="60779" z="-3651" feeCount="5000"/> <!-- Школа Полномочий -->
+            <location x="86325" y="84937" z="-3080" feeCount="4500"/> <!-- Долина Ящеров -->
+            <location x="114681" y="48255" z="-4587" feeCount="4500"/> <!-- Волшебная Долина-->
+            <location x="105918" y="109759" z="-3187" feeCount="5000"/> <!-- Академия Хардина -->
+            <location x="160088" y="68561" z="-3315" feeCount="7000"/> <!-- Лес зеркал -->
+            <location x="146439" y="46715" z="-3427" feeCount="8000"/> <!-- Колизей -->
+            <location x="114628" y="11065" z="-5120" feeCount="10000"/> <!-- Башня Дерзости -->
+        </teleport>
+    </npc>
+</list>

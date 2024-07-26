@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
+	<!-- Ghost Hunter -->
 	<skillTree type="classSkillTree" classId="108" parentClassId="36">
-		<skill skillName="Novice Angel of Death" skillId="30644" skillLevel="1" getLevel="76" levelUpSp="30" />
-		<skill skillName="Novice Critical Wound" skillId="30744" skillLevel="1" getLevel="76" levelUpSp="100" />
-		<skill skillName="Novice Blood Stab" skillId="30618" skillLevel="1" getLevel="76" levelUpSp="30">
-			<removeSkill id="30619" /> <!-- Novice Quick Shot -->
-		</skill>
-		<skill skillName="Novice Flash Bluff" skillId="30743" skillLevel="1" getLevel="76" levelUpSp="100" />
-		<skill skillName="Novice Shadow Chase" skillId="30742" skillLevel="1" getLevel="76" levelUpSp="100" />
-		<skill skillName="Novice Heart Breaker" skillId="30617" skillLevel="1" getLevel="76" levelUpSp="4">
-			<removeSkill id="30798" /> <!-- Power Strike -->
-		</skill>
-		<skill skillName="Novice Shadow Reverse" skillId="30686" skillLevel="1" getLevel="76" levelUpSp="30" />
-		<skill skillName="Intermediate Dagger Mastery" skillId="30714" skillLevel="1" getLevel="76" levelUpSp="30">
-			<removeSkill id="30636" /> <!-- Bow/Crossbow Mastery -->
-			<removeSkill id="30634" /> <!-- Dagger Mastery -->
-		</skill>
-		<skill skillName="Intermediate Dagger Mastery" skillId="30714" skillLevel="2" getLevel="76" levelUpSp="100">
-		</skill>
-		<skill skillName="Intermediate Light Armor Mastery" skillId="30716" skillLevel="1" getLevel="76" levelUpSp="30">
-			<removeSkill id="30630" /> <!-- Light Armor Mastery -->
-		</skill>
-		<skill skillName="Intermediate Light Armor Mastery" skillId="30716" skillLevel="2" getLevel="76" levelUpSp="100" />
-		<skill skillName="Intermediate Dual Dagger Mastery" skillId="30715" skillLevel="1" getLevel="76" levelUpSp="30">
-			<removeSkill id="30636" /> <!-- Bow/Crossbow Mastery -->
-			<removeSkill id="30635" /> <!-- Dual Dagger Mastery -->
-		</skill>
-		<skill skillName="Intermediate Dual Dagger Mastery" skillId="30715" skillLevel="2" getLevel="76" levelUpSp="100">
-		</skill>
-		<skill skillName="Novice Chain Blow" skillId="30643" skillLevel="1" getLevel="76" levelUpSp="30" />
+		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
+		<skill skillName="Lethal Blow" skillId="344" skillLevel="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
+		<skill skillName="Skill Mastery" skillId="330" skillLevel="1" getLevel="77" levelUpSp="14670000" learnedByNpc="true" />
+		<skill skillName="Bluff" skillId="358" skillLevel="1" getLevel="77" levelUpSp="14670000" learnedByNpc="true" />
+		<skill skillName="Focus Skill Mastery" skillId="334" skillLevel="1" getLevel="78" levelUpSp="16000000" learnedByNpc="true" />
+		<skill skillName="Focus Death" skillId="355" skillLevel="1" getLevel="78" levelUpSp="16000000" learnedByNpc="true" />
+		<skill skillName="Focus Power" skillId="357" skillLevel="1" getLevel="78" levelUpSp="16000000" learnedByNpc="true" />
+		<skill skillName="Assassination" skillId="432" skillLevel="1" getLevel="78" levelUpSp="16000000" learnedByNpc="true" />
+		<skill skillName="Counterattack" skillId="447" skillLevel="1" getLevel="79" levelUpSp="60000000" learnedByNpc="true" />
+		<skill skillName="Critical Wound" skillId="531" skillLevel="1" getLevel="79" levelUpSp="60000000" learnedByNpc="true" />
+		<skill skillName="Symbol of the Assassin" skillId="460" skillLevel="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
+
+		<!-- Forgotten Scrolls -->
+		<skill skillName="Fighters Will" skillId="758" skillLevel="1" getLevel="81" learnedByFS="true" />
+		<skill skillName="Archers Will" skillId="759" skillLevel="1" getLevel="81" learnedByFS="true" />
+		<skill skillName="Sixth Sense" skillId="766" skillLevel="1" getLevel="81" learnedByFS="true" />
+		<skill skillName="Expose Weak Point" skillId="767" skillLevel="1" getLevel="81" learnedByFS="true" />
+		<skill skillName="Hide" skillId="922" skillLevel="1" getLevel="81" learnedByFS="true" />
+		<skill skillName="Dual Dagger Mastery" skillId="923" skillLevel="1" getLevel="81" learnedByFS="true" />
+		<skill skillName="Protection of Rune" skillId="755" skillLevel="1" getLevel="82" learnedByFS="true" />
+		<skill skillName="Protection of Elemental" skillId="756" skillLevel="1" getLevel="82" learnedByFS="true" />
+		<skill skillName="Protection of Alignment" skillId="757" skillLevel="1" getLevel="82" learnedByFS="true" />
+		<skill skillName="Ghost Walking" skillId="770" skillLevel="1" getLevel="83" learnedByFS="true" />
+
+		<!-- HighFive new -->
+		<skill skillName="Throwing Dagger" skillId="991" skillLevel="1" getLevel="80" levelUpSp="70000000" learnedByNpc="true" />
+		<skill skillName="Dual Blow" skillId="928" skillLevel="1" getLevel="83" levelUpSp="100000000" learnedByNpc="true" />
 	</skillTree>
 </list>
