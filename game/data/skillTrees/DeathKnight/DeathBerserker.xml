@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="214" parentClassId="213">
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="2" getLevel="40" />
-		<skill skillName="Death Sentence" skillId="30961" skillLevel="1" getLevel="40" />
-		<skill skillName="Fateful Assault" skillId="30972" skillLevel="1" getLevel="40" />
+		<!-- 40 lvl -->
+		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="2" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="6" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="9" getLevel="40" levelUpSp="28000" learnedByNpc="true"/>
+		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="3" getLevel="40" levelUpSp="40000" learnedByNpc="true" />
+		<!-- 43 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="7" getLevel="43" levelUpSp="29000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="10" getLevel="43" levelUpSp="29000" learnedByNpc="true"/>
+		<!-- 46 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="8" getLevel="46" levelUpSp="30000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="11" getLevel="46" levelUpSp="30000" learnedByNpc="true"/>
+		<!-- 49 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="9" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
+		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="3" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="12" getLevel="49" levelUpSp="61000" learnedByNpc="true"/>
+		<!-- 52 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="10" getLevel="52" levelUpSp="88000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="13" getLevel="52" levelUpSp="88000" learnedByNpc="true"/>
+		<!-- 55 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="11" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
+		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="4" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="14" getLevel="55" levelUpSp="116000" learnedByNpc="true"/>
+		<!-- 58 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="12" getLevel="58" levelUpSp="126000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="15" getLevel="58" levelUpSp="126000" learnedByNpc="true"/>
+		<!-- 60 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="13" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="16" getLevel="60" levelUpSp="181000" learnedByNpc="true"/>
+		<!-- 62 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="14" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
+		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="5" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="17" getLevel="62" levelUpSp="270000" learnedByNpc="true"/>
+		<!-- 64 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="15" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="18" getLevel="64" levelUpSp="300000" learnedByNpc="true"/>
+		<!-- 66 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="16" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="19" getLevel="66" levelUpSp="370000" learnedByNpc="true"/>
+		<!-- 68 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="17" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
+		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="6" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="20" getLevel="68" levelUpSp="460000" learnedByNpc="true"/>
+		<!-- 70 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="18" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="21" getLevel="70" levelUpSp="580000" learnedByNpc="true"/>
+		<!-- 72 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="19" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="22" getLevel="72" levelUpSp="710000" learnedByNpc="true"/>
+		<!-- 74 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="20" getLevel="74" levelUpSp="1180000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="23" getLevel="74" levelUpSp="1180000" learnedByNpc="true"/>
+
+
+		<!--<skill skillName="Death Sentence" skillId="30961" skillLevel="1" getLevel="20" />
+		<skill skillName="Fateful Assault" skillId="30972" skillLevel="1" getLevel="20" />-->
+		<!--<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="1" getLevel="1" autoGet="true" />
+                <skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="1" getLevel="1" autoGet="true" />
+                <skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="1" getLevel="1" autoGet="true" />-->
 	</skillTree>
 </list>

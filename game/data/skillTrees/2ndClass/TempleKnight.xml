@@ -3,6 +3,8 @@
 	<!-- Temple Knight -->
 	<skillTree type="classSkillTree" classId="20" parentClassId="19">
 		<!-- Confirmed CT2.4 -->
+		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="1" getLevel="5" levelUpSp="100" learnedByNpc="true" />
+
 		<skill skillName="Aggression" skillId="28" skillLevel="13" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="14" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="15" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
@@ -16,20 +18,20 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="20" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="21" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="2" getLevel="40" levelUpSp="30000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="16" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="17" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="18" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="16" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="17" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="18" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
 		<skill skillName="Holy Armor" skillId="197" skillLevel="1" getLevel="40" levelUpSp="30000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="15" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="16" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="17" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="15" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="16" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="17" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
 		<skill skillName="Poison Recovery" skillId="21" skillLevel="2" getLevel="40" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Shield Mastery" skillId="153" skillLevel="3" getLevel="40" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Spirit Barrier" skillId="123" skillLevel="1" getLevel="40" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="1" getLevel="40" levelUpSp="30000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="9" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="10" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="11" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="9" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="10" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="11" getLevel="40" levelUpSp="10000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="16" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="17" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="18" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
@@ -47,16 +49,16 @@
 		<skill skillName="Entangle" skillId="102" skillLevel="3" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Focus Mind" skillId="191" skillLevel="2" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Guard Stance" skillId="288" skillLevel="1" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="19" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="20" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="21" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="18" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="19" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="20" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="19" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="20" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="21" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="18" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="19" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="20" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Summon Life Cubic" skillId="67" skillLevel="1" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="12" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="13" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="14" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="12" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="13" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="14" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Vanguard" skillId="812" skillLevel="1" getLevel="43" levelUpSp="99000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="19" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="20" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
@@ -72,17 +74,17 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="26" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="27" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="4" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="22" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="23" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="24" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="22" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="23" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="24" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Holy Armor" skillId="197" skillLevel="2" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="21" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="22" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="23" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="21" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="22" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="23" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="2" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="15" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="16" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="17" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="15" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="16" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="17" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Ultimate Defense" skillId="110" skillLevel="2" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="22" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="23" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
@@ -99,17 +101,17 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="30" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="5" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
 		<skill skillName="Focus Mind" skillId="191" skillLevel="3" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="25" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="26" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="27" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="24" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="25" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="26" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="25" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="26" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="27" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="24" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="25" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="26" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
 		<skill skillName="Spirit Barrier" skillId="123" skillLevel="2" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
 		<skill skillName="Summon Life Cubic" skillId="67" skillLevel="2" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="18" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="19" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="20" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="18" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="19" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="20" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="25" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="26" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="27" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
@@ -125,18 +127,18 @@
 		<skill skillName="Entangle" skillId="102" skillLevel="6" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="1" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Guard Stance" skillId="288" skillLevel="2" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="28" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="29" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="30" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="27" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="28" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="29" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="28" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="29" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="30" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="27" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="28" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="29" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Shield Mastery" skillId="153" skillLevel="4" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Sprint" skillId="230" skillLevel="2" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="3" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="21" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="22" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="23" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="21" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="22" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="23" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="28" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="29" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="30" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
@@ -154,16 +156,16 @@
 		<skill skillName="Entangle" skillId="102" skillLevel="7" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="2" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
 		<skill skillName="Focus Mind" skillId="191" skillLevel="4" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="31" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="32" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="33" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="30" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="31" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="32" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="31" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="32" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="33" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="30" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="31" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="32" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
 		<skill skillName="Summon Life Cubic" skillId="67" skillLevel="3" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="24" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="25" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="26" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="24" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="25" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="26" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="1" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="31" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="32" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
@@ -180,18 +182,18 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="39" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="8" getLevel="58" levelUpSp="171000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="3" getLevel="58" levelUpSp="171000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="34" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="35" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="36" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="34" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="35" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="36" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="1" getLevel="58" levelUpSp="171000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="33" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="34" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="35" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="33" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="34" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="35" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
 		<skill skillName="Spirit Barrier" skillId="123" skillLevel="3" getLevel="58" levelUpSp="171000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="4" getLevel="58" levelUpSp="171000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="27" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="28" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="29" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="27" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="28" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="29" getLevel="58" levelUpSp="57000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="2" getLevel="58" levelUpSp="171000" learnedByNpc="true" />
 		<skill skillName="Aegis" skillId="316" skillLevel="1" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="34" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
@@ -205,16 +207,16 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="41" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="9" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="4" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="37" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="38" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="37" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="38" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="2" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="36" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="37" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="36" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="37" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
 		<skill skillName="Poison Recovery" skillId="21" skillLevel="3" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="1" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Summon Life Cubic" skillId="67" skillLevel="4" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="30" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="31" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="30" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="31" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="3" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="36" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="37" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
@@ -229,15 +231,15 @@
 		<skill skillName="Entangle" skillId="102" skillLevel="10" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="5" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
 		<skill skillName="Guard Stance" skillId="288" skillLevel="3" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="39" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="40" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="39" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="40" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="3" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="38" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="39" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="38" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="39" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Summon Attractive Cubic" skillId="449" skillLevel="1" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="5" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="32" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="33" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="32" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="33" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="4" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="38" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="39" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
@@ -251,16 +253,16 @@
 		<skill skillName="Entangle" skillId="102" skillLevel="11" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="6" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Focus Mind" skillId="191" skillLevel="5" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="41" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="42" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="41" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="42" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="4" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="40" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="41" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="40" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="41" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="2" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Shield Fortress" skillId="322" skillLevel="1" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Summon Life Cubic" skillId="67" skillLevel="5" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="34" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="35" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="34" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="35" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="5" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="40" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="41" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
@@ -273,16 +275,16 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="47" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="12" getLevel="66" levelUpSp="470000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="7" getLevel="66" levelUpSp="470000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="43" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="44" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="43" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="44" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="5" getLevel="66" levelUpSp="470000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="42" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="43" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="42" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="43" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Shield Fortress" skillId="322" skillLevel="2" getLevel="66" levelUpSp="470000" learnedByNpc="true" />
 		<skill skillName="Summon Attractive Cubic" skillId="449" skillLevel="2" getLevel="66" levelUpSp="470000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="6" getLevel="66" levelUpSp="470000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="36" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="37" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="36" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="37" getLevel="66" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="6" getLevel="66" levelUpSp="470000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="42" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="43" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
@@ -295,16 +297,16 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="49" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="13" getLevel="68" levelUpSp="520000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="8" getLevel="68" levelUpSp="520000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="45" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="46" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="45" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="46" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="6" getLevel="68" levelUpSp="520000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="44" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="45" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="44" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="45" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="3" getLevel="68" levelUpSp="520000" learnedByNpc="true" />
 		<skill skillName="Shield Fortress" skillId="322" skillLevel="3" getLevel="68" levelUpSp="520000" learnedByNpc="true" />
 		<skill skillName="Summon Life Cubic" skillId="67" skillLevel="6" getLevel="68" levelUpSp="520000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="38" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="39" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="38" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="39" getLevel="68" levelUpSp="260000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="7" getLevel="68" levelUpSp="520000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="44" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="45" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
@@ -318,16 +320,16 @@
 		<skill skillName="Entangle" skillId="102" skillLevel="14" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="9" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Guard Stance" skillId="288" skillLevel="4" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="47" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="48" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="47" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="48" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="7" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="46" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="47" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="46" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="47" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
 		<skill skillName="Shield Fortress" skillId="322" skillLevel="4" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Summon Attractive Cubic" skillId="449" skillLevel="3" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="7" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="40" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="41" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="40" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="41" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="8" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="46" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="47" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
@@ -341,16 +343,16 @@
 		<skill skillName="Entangle" skillId="102" skillLevel="15" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="10" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
 		<skill skillName="Focus Mind" skillId="191" skillLevel="6" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="49" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="50" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="49" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="50" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="8" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="48" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="49" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="48" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="49" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="4" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
 		<skill skillName="Shield Fortress" skillId="322" skillLevel="5" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
 		<skill skillName="Summon Life Cubic" skillId="67" skillLevel="7" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="42" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="43" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="42" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="43" getLevel="72" levelUpSp="380000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="9" getLevel="72" levelUpSp="750000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="48" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
 		<skill skillName="Aggression" skillId="28" skillLevel="49" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
@@ -363,16 +365,16 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLevel="55" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
 		<skill skillName="Entangle" skillId="102" skillLevel="16" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="11" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="51" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="232" skillLevel="52" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="51" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="52" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
 		<skill skillName="Holy Aura" skillId="107" skillLevel="9" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="50" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
-		<skill skillName="Magic Resistance" skillId="147" skillLevel="51" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="50" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="51" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
 		<skill skillName="Shield Fortress" skillId="322" skillLevel="6" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
 		<skill skillName="Summon Attractive Cubic" skillId="449" skillLevel="4" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="8" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="44" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
-		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLevel="45" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="44" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="45" getLevel="74" levelUpSp="870000" learnedByNpc="true" />
 		<skill skillName="Tribunal" skillId="400" skillLevel="10" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
 	</skillTree>
 </list>

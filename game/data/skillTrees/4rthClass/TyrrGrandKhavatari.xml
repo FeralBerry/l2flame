@@ -17,7 +17,7 @@
 			<removeSkill id="30634" /> <!-- Dagger Mastery -->
 			<removeSkill id="30635" /> <!-- Dual Dagger Mastery -->
 			<removeSkill id="30633" /> <!-- Dual Weapon Mastery -->
-			<removeSkill id="30629" /> <!-- Heavy Armor Mastery -->
+			<removeSkill id="30629" /> <!-- Владение Тяжелой Броней -->
 			<removeSkill id="30734" /> <!-- Intermediate Armor Mastery -->
 			<removeSkill id="30707" /> <!-- Intermediate Blunt Weapon Mastery -->
 			<removeSkill id="30717" /> <!-- Intermediate Bow/Crossbow Mastery -->
@@ -27,9 +27,9 @@
 			<removeSkill id="30722" /> <!-- Intermediate Dual Weapon Mastery -->
 			<removeSkill id="30706" /> <!-- Intermediate Fist Weapon Mastery -->
 			<removeSkill id="30710" /> <!-- Intermediate Force Mastery -->
-			<removeSkill id="30708" /> <!-- Intermediate Heavy Armor Mastery -->
-			<removeSkill id="30712" /> <!-- Intermediate Heavy Armor Mastery -->
-			<removeSkill id="30726" /> <!-- Intermediate Heavy Armor Mastery -->
+			<removeSkill id="30708" /> <!-- Intermediate Владение Тяжелой Броней -->
+			<removeSkill id="30712" /> <!-- Intermediate Владение Тяжелой Броней -->
+			<removeSkill id="30726" /> <!-- Intermediate Владение Тяжелой Броней -->
 			<removeSkill id="30731" /> <!-- Intermediate Light Armor Mastery -->
 			<removeSkill id="30709" /> <!-- Intermediate Light Armor Mastery -->
 			<removeSkill id="30716" /> <!-- Intermediate Light Armor Mastery -->
@@ -157,8 +157,8 @@
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="1" getLevel="85" autoGet="true">
 			<removeSkill id="30710" /> <!-- Intermediate Force Mastery -->
 		</skill>
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="1" getLevel="85" autoGet="true">
-			<removeSkill id="30708" /> <!-- Intermediate Heavy Armor Mastery -->
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="1" getLevel="85" autoGet="true">
+			<removeSkill id="30708" /> <!-- Intermediate Владение Тяжелой Броней -->
 		</skill>
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="1" getLevel="85" autoGet="true" />
 		<skill skillName="Eruption" skillId="10265" skillLevel="1" getLevel="85" levelUpSp="0" />
@@ -236,7 +236,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="2" getLevel="90" levelUpSp="37" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="2" getLevel="90" levelUpSp="37" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Eruption" skillId="10265" skillLevel="4" getLevel="90" levelUpSp="37" />
 		<skill skillName="Brave Spear" skillId="10289" skillLevel="2" getLevel="90" levelUpSp="37" />
@@ -283,7 +283,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="3" getLevel="95" levelUpSp="100" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="3" getLevel="95" levelUpSp="100" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Rolling Thunder" skillId="10268" skillLevel="4" getLevel="95" levelUpSp="100" />
 		<skill skillName="Sonic Star" skillId="10281" skillLevel="1" getLevel="95" levelUpSp="100" />
@@ -328,7 +328,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="4" getLevel="99" levelUpSp="500" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="4" getLevel="99" levelUpSp="500" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Rolling Thunder" skillId="10268" skillLevel="6" getLevel="99" levelUpSp="500" />
 		<skill skillName="Brave Spear" skillId="10289" skillLevel="4" getLevel="99" levelUpSp="500" />
@@ -349,7 +349,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="5" getLevel="100" levelUpSp="8809" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="5" getLevel="100" levelUpSp="8809" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Maximum Force Mastery" skillId="10301" skillLevel="2" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Divine Expansion" skillId="10956" skillLevel="1" getLevel="100" levelUpSp="8809">
@@ -378,7 +378,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="6" getLevel="102" levelUpSp="25372" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="6" getLevel="102" levelUpSp="25372" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		
 		<skill skillName="Jump Attack" skillId="10269" skillLevel="9" getLevel="103" levelUpSp="30447" />
@@ -400,7 +400,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="7" getLevel="104" levelUpSp="36536" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="7" getLevel="104" levelUpSp="36536" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		
 		<skill skillName="Jump Attack" skillId="10269" skillLevel="10" getLevel="105" levelUpSp="87688" />
@@ -426,7 +426,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="8" getLevel="106" levelUpSp="105225" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="8" getLevel="106" levelUpSp="105225" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Furious Fist" skillId="10335" skillLevel="2" getLevel="106" levelUpSp="105225">
 			<item id="81887,39738" count="8" /> <!-- Rune Stone -->
@@ -454,7 +454,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="9" getLevel="108" levelUpSp="151525" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="9" getLevel="108" levelUpSp="151525" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="9" getLevel="108" levelUpSp="151525" />
 
 		<skill skillName="Jump Attack" skillId="10269" skillLevel="12" getLevel="109" levelUpSp="181830" />
@@ -476,7 +476,7 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="10252" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="10" getLevel="110" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="10" getLevel="110" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Resistance" skillId="10286" skillLevel="10" getLevel="110" levelUpSp="436393" />
 
 		<!-- Dual Maximum HP -->
@@ -559,8 +559,8 @@
 		<skill skillName="Superior Weapon Mastery" skillId="10251" skillLevel="12" getLevel="120" levelUpSp="436393" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="11" getLevel="115" levelUpSp="436393" />
 		<skill skillName="Superior Momentum Mastery" skillId="10255" skillLevel="12" getLevel="120" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="11" getLevel="115" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10253" skillLevel="12" getLevel="120" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="11" getLevel="115" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10253" skillLevel="12" getLevel="120" levelUpSp="436393" />
 		<skill skillName="Tyrr's Defense Mastery" skillId="30892" skillLevel="4" getLevel="120" levelUpSp="436393" />
 		<skill skillName="Max Energy" skillId="30852" skillLevel="2" getLevel="115" levelUpSp="436393">
 			<item id="81453" count="1" /> <!-- Improved Rune Stone -->

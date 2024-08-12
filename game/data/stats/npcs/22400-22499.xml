@@ -7852,7 +7852,7 @@
 		<equipment rhand="127" /> <!-- rhand: Crimson Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="16259.5568027746" hpRegen="70.8842869727447" mp="720.0" mpRegen="2.1" />
-			<attack physical="590.51302676516" magical="390.27203717647" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<attack physical="590.51302676516" magical="390.27203717647" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="SWORD" range="1100" distance="10" width="0" />
 			<defence physical="293.49453" magical="286.36" evasion="-18" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />

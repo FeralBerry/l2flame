@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+    <npc id="31964"> <!-- Телепорт -->
+        <teleport type="OTHER">
+            <location x="147963" y="-55359" z="-2728" feeCount="20000"/> <!-- Годдарт -->
+            <location x="43823" y="-47760" z="-787" feeCount="10000"/> <!-- Руна -->
+            <location x="16360" y="-114097" z="-219" feeCount="23000"/> <!-- Кайнак -->
+            <location x="115357" y="-178212" z="-923" feeCount="10000"/> <!-- Деревня Гномов -->
+            <location x="146619" y="25799" z="-2008" feeCount="45000"/> <!-- Аден -->
+            <location x="83551" y="147945" z="-3395" feeCount="63000"/> <!-- Гиран -->
+            <location x="91280" y="-117152" z="-3923" feeCount="6000"/> <!-- Заброшенная мастерская -->
+            <location x="123463" y="-126707" z="-2563" feeCount="10000"/> <!-- Ледяной лабиринт -->
+            <location x="73891" y="-126592" z="-3448" feeCount="2300"/> <!-- Логово зла -->
+            <location x="57305" y="-127162" z="-3513" feeCount="4600"/> <!-- Склепы позора -->
+            <location x="113452" y="-155260" z="-1520" feeCount="8000"/> <!-- Разграбленные равнины -->
+        </teleport>
+    </npc>
+</list>

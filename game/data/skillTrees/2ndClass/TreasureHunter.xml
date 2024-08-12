@@ -3,6 +3,8 @@
 	<!-- Treasure Hunter -->
 	<skillTree type="classSkillTree" classId="8" parentClassId="7">
 		<!-- Confirmed CT2.4 (By Topaz) - Source, official legacy site. -->
+		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="2" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+
 		<skill skillName="Backstab" skillId="30" skillLevel="1" getLevel="40" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="2" getLevel="40" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="3" getLevel="40" levelUpSp="12000" learnedByNpc="true" />
@@ -20,7 +22,7 @@
 		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="13" getLevel="40" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Silent Move" skillId="221" skillLevel="1" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="6" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="6" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="6" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="3" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Acrobatic Move" skillId="225" skillLevel="2" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="4" getLevel="43" levelUpSp="14000" learnedByNpc="true" />
@@ -40,7 +42,7 @@
 		<skill skillName="Switch" skillId="12" skillLevel="1" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="7" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="1" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="7" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="7" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="7" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="8" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="9" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
@@ -61,7 +63,7 @@
 		<skill skillName="Switch" skillId="12" skillLevel="2" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="8" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="2" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="8" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="8" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="4" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="10" getLevel="49" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="11" getLevel="49" levelUpSp="30000" learnedByNpc="true" />
@@ -81,7 +83,7 @@
 		<skill skillName="Switch" skillId="12" skillLevel="3" getLevel="49" levelUpSp="89000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="1" getLevel="49" levelUpSp="89000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="3" getLevel="49" levelUpSp="89000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="9" getLevel="49" levelUpSp="89000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="9" getLevel="49" levelUpSp="89000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="13" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="14" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="15" getLevel="52" levelUpSp="38000" learnedByNpc="true" />
@@ -101,7 +103,7 @@
 		<skill skillName="Trick" skillId="11" skillLevel="2" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="9" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="4" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="10" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="10" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="5" getLevel="52" levelUpSp="115000" learnedByNpc="true" />
 		<skill skillName="Acrobatic Move" skillId="225" skillLevel="3" getLevel="55" levelUpSp="147000" learnedByNpc="true" />
 		<skill skillName="Acrobatics" skillId="173" skillLevel="2" getLevel="55" levelUpSp="147000" learnedByNpc="true" />
@@ -125,7 +127,7 @@
 		<skill skillName="Ultimate Evasion" skillId="111" skillLevel="2" getLevel="55" levelUpSp="147000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="10" getLevel="55" levelUpSp="147000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="5" getLevel="55" levelUpSp="147000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="11" getLevel="55" levelUpSp="147000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="11" getLevel="55" levelUpSp="147000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="19" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="20" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="21" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
@@ -148,7 +150,7 @@
 		<skill skillName="Switch" skillId="12" skillLevel="6" getLevel="58" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="4" getLevel="58" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="6" getLevel="58" levelUpSp="150000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="12" getLevel="58" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="12" getLevel="58" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="6" getLevel="58" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="22" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="23" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
@@ -165,7 +167,7 @@
 		<skill skillName="Trick" skillId="11" skillLevel="5" getLevel="60" levelUpSp="242000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="11" getLevel="60" levelUpSp="242000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="7" getLevel="60" levelUpSp="242000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="13" getLevel="60" levelUpSp="242000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="13" getLevel="60" levelUpSp="242000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="24" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="25" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Critical Blow" skillId="409" skillLevel="4" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
@@ -180,7 +182,7 @@
 		<skill skillName="Switch" skillId="12" skillLevel="8" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="6" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="8" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="14" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="14" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="26" getLevel="64" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="27" getLevel="64" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Critical Blow" skillId="409" skillLevel="5" getLevel="64" levelUpSp="370000" learnedByNpc="true" />
@@ -196,7 +198,7 @@
 		<skill skillName="Trick" skillId="11" skillLevel="7" getLevel="64" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="12" getLevel="64" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="9" getLevel="64" levelUpSp="370000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="15" getLevel="64" levelUpSp="370000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="15" getLevel="64" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="7" getLevel="64" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="28" getLevel="66" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="29" getLevel="66" levelUpSp="270000" learnedByNpc="true" />
@@ -214,7 +216,7 @@
 		<skill skillName="Switch" skillId="12" skillLevel="10" getLevel="66" levelUpSp="540000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="8" getLevel="66" levelUpSp="540000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="10" getLevel="66" levelUpSp="540000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="16" getLevel="66" levelUpSp="540000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="16" getLevel="66" levelUpSp="540000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="30" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
 		<skill skillName="Backstab" skillId="30" skillLevel="31" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
 		<skill skillName="Critical Blow" skillId="409" skillLevel="7" getLevel="68" levelUpSp="650000" learnedByNpc="true" />

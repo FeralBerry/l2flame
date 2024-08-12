@@ -17,13 +17,13 @@
 			<removeSkill id="30711" /> <!-- Intermediate Sword/Blunt Weapon Mastery -->
 		</skill>
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="1" getLevel="85" autoGet="true" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="1" getLevel="85" autoGet="true">
-			<removeSkill id="30712" /> <!-- Intermediate Heavy Armor Mastery -->
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="1" getLevel="85" autoGet="true">
+			<removeSkill id="30712" /> <!-- Intermediate Владение Тяжелой Броней -->
 			<removeSkill id="30636" /> <!-- Bow/Crossbow Mastery -->
 			<removeSkill id="30634" /> <!-- Dagger Mastery -->
 			<removeSkill id="30635" /> <!-- Dual Dagger Mastery -->
 			<removeSkill id="30633" /> <!-- Dual Weapon Mastery -->
-			<removeSkill id="30629" /> <!-- Heavy Armor Mastery -->
+			<removeSkill id="30629" /> <!-- Владение Тяжелой Броней -->
 			<removeSkill id="30734" /> <!-- Intermediate Armor Mastery -->
 			<removeSkill id="30707" /> <!-- Intermediate Blunt Weapon Mastery -->
 			<removeSkill id="30717" /> <!-- Intermediate Bow/Crossbow Mastery -->
@@ -33,9 +33,9 @@
 			<removeSkill id="30722" /> <!-- Intermediate Dual Weapon Mastery -->
 			<removeSkill id="30706" /> <!-- Intermediate Fist Weapon Mastery -->
 			<removeSkill id="30710" /> <!-- Intermediate Force Mastery -->
-			<removeSkill id="30708" /> <!-- Intermediate Heavy Armor Mastery -->
-			<removeSkill id="30712" /> <!-- Intermediate Heavy Armor Mastery -->
-			<removeSkill id="30726" /> <!-- Intermediate Heavy Armor Mastery -->
+			<removeSkill id="30708" /> <!-- Intermediate Владение Тяжелой Броней -->
+			<removeSkill id="30712" /> <!-- Intermediate Владение Тяжелой Броней -->
+			<removeSkill id="30726" /> <!-- Intermediate Владение Тяжелой Броней -->
 			<removeSkill id="30731" /> <!-- Intermediate Light Armor Mastery -->
 			<removeSkill id="30709" /> <!-- Intermediate Light Armor Mastery -->
 			<removeSkill id="30716" /> <!-- Intermediate Light Armor Mastery -->
@@ -181,7 +181,7 @@
 			<removeSkill id="30682" /> <!-- Novice Summon Death Cubic -->
 		</skill>
 		<skill skillName="Summon Hex Cubic" skillId="10080" skillLevel="1" getLevel="85" levelUpSp="0" />
-		<skill skillName="Sigel Force" skillId="1927" skillLevel="1" getLevel="85" levelUpSp="0" />
+		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="1" getLevel="85" levelUpSp="0" />
 		<skill skillName="Two-Hand Stance" skillId="10244" skillLevel="1" getLevel="85" levelUpSp="0" />
 		<skill skillName="Shield Bash" skillId="10009" skillLevel="1" getLevel="85" levelUpSp="0" />
 		<skill skillName="Focus Shield" skillId="10020" skillLevel="1" getLevel="85" levelUpSp="0" />
@@ -217,7 +217,7 @@
 		<skill skillName="Grand Shillien Shadow" skillId="19566" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="2" getLevel="90" levelUpSp="37" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="2" getLevel="90" levelUpSp="37" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="2" getLevel="90" levelUpSp="37" />
@@ -264,7 +264,7 @@
 		<skill skillName="Grand Shillien Shadow" skillId="19566" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="3" getLevel="95" levelUpSp="100" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="3" getLevel="95" levelUpSp="100" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="3" getLevel="95" levelUpSp="100" />
@@ -305,7 +305,7 @@
 		<skill skillName="Grand Shillien Shadow" skillId="19566" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="4" getLevel="99" levelUpSp="500" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="4" getLevel="99" levelUpSp="500" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="4" getLevel="99" levelUpSp="500" />
@@ -327,7 +327,7 @@
 		
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="5" getLevel="100" levelUpSp="8809" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="5" getLevel="100" levelUpSp="8809" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="5" getLevel="100" levelUpSp="8809" />
@@ -362,7 +362,7 @@
 		
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="6" getLevel="102" levelUpSp="25372" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="6" getLevel="102" levelUpSp="25372" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="6" getLevel="102" levelUpSp="25372" />
@@ -392,7 +392,7 @@
 		
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="7" getLevel="104" levelUpSp="36536" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="7" getLevel="104" levelUpSp="36536" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="7" getLevel="104" levelUpSp="36536" />
@@ -422,7 +422,7 @@
 		<!-- Fafurion Updates -->
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="8" getLevel="106" levelUpSp="105225" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="8" getLevel="106" levelUpSp="105225" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="8" getLevel="106" levelUpSp="105225" />
@@ -449,7 +449,7 @@
 
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="9" getLevel="108" levelUpSp="151525" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="9" getLevel="108" levelUpSp="151525" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="9" getLevel="108" levelUpSp="151525" />
@@ -474,7 +474,7 @@
 
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="10" getLevel="110" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="10" getLevel="110" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Mental Attack Resistance" skillId="10005" skillLevel="10" getLevel="110" levelUpSp="436393" />
@@ -555,8 +555,8 @@
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="10001" skillLevel="12" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="11" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Superior Shield Mastery" skillId="10003" skillLevel="12" getLevel="117" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="11" getLevel="112" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="10002" skillLevel="12" getLevel="117" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="11" getLevel="112" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="10002" skillLevel="12" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="11" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Superior Magic Resistance" skillId="10004" skillLevel="12" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Superior Elemental Mastery" skillId="10044" skillLevel="11" getLevel="112" levelUpSp="436393" />

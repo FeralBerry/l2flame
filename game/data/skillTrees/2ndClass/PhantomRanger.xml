@@ -23,7 +23,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="15" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="3" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="4" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="6" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="6" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Long Shot" skillId="113" skillLevel="2" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="5" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="3" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
@@ -49,7 +49,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="18" getLevel="43" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="5" getLevel="43" levelUpSp="16000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="6" getLevel="43" levelUpSp="16000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="7" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="7" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Acrobatic Move" skillId="225" skillLevel="2" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="2" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Quick Step" skillId="169" skillLevel="2" getLevel="43" levelUpSp="33000" learnedByNpc="true" />
@@ -76,7 +76,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="21" getLevel="46" levelUpSp="15000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="7" getLevel="46" levelUpSp="23000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="8" getLevel="46" levelUpSp="23000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="8" getLevel="46" levelUpSp="46000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="8" getLevel="46" levelUpSp="46000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="3" getLevel="46" levelUpSp="46000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="7" getLevel="46" levelUpSp="46000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="5" getLevel="46" levelUpSp="46000" learnedByNpc="true" />
@@ -101,7 +101,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="24" getLevel="49" levelUpSp="25000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="9" getLevel="49" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="10" getLevel="49" levelUpSp="38000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="9" getLevel="49" levelUpSp="75000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="9" getLevel="49" levelUpSp="75000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="4" getLevel="49" levelUpSp="75000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="8" getLevel="49" levelUpSp="75000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="6" getLevel="49" levelUpSp="75000" learnedByNpc="true" />
@@ -127,7 +127,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="27" getLevel="52" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="11" getLevel="52" levelUpSp="63000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="12" getLevel="52" levelUpSp="63000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="10" getLevel="52" levelUpSp="125000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="10" getLevel="52" levelUpSp="125000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="5" getLevel="52" levelUpSp="125000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="9" getLevel="52" levelUpSp="125000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="7" getLevel="52" levelUpSp="125000" learnedByNpc="true" />
@@ -152,7 +152,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="30" getLevel="55" levelUpSp="51000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="13" getLevel="55" levelUpSp="77000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="14" getLevel="55" levelUpSp="77000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="11" getLevel="55" levelUpSp="154000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="11" getLevel="55" levelUpSp="154000" learnedByNpc="true" />
 		<skill skillName="Acrobatic Move" skillId="225" skillLevel="3" getLevel="55" levelUpSp="154000" learnedByNpc="true" />
 		<skill skillName="Rapid Shot" skillId="99" skillLevel="2" getLevel="55" levelUpSp="154000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="10" getLevel="55" levelUpSp="154000" learnedByNpc="true" />
@@ -178,7 +178,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="33" getLevel="58" levelUpSp="58000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="15" getLevel="58" levelUpSp="87000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="16" getLevel="58" levelUpSp="87000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="12" getLevel="58" levelUpSp="173000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="12" getLevel="58" levelUpSp="173000" learnedByNpc="true" />
 		<skill skillName="Soul of Sagittarius" skillId="303" skillLevel="2" getLevel="58" levelUpSp="173000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="11" getLevel="58" levelUpSp="173000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="9" getLevel="58" levelUpSp="173000" learnedByNpc="true" />
@@ -199,7 +199,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="34" getLevel="60" levelUpSp="110000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="35" getLevel="60" levelUpSp="110000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="17" getLevel="60" levelUpSp="220000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="13" getLevel="60" levelUpSp="220000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="13" getLevel="60" levelUpSp="220000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="12" getLevel="60" levelUpSp="220000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="10" getLevel="60" levelUpSp="220000" learnedByNpc="true" />
 		<skill skillName="Hex" skillId="122" skillLevel="8" getLevel="60" levelUpSp="220000" learnedByNpc="true" />
@@ -220,7 +220,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="36" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="37" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="18" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="14" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="14" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="6" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="13" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="11" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
@@ -242,7 +242,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="38" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="39" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="19" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="15" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="15" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
 		<skill skillName="Soul of Sagittarius" skillId="303" skillLevel="3" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="14" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="12" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
@@ -263,7 +263,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="40" getLevel="66" levelUpSp="210000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="41" getLevel="66" levelUpSp="210000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="20" getLevel="66" levelUpSp="410000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="16" getLevel="66" levelUpSp="410000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="16" getLevel="66" levelUpSp="410000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="15" getLevel="66" levelUpSp="410000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="13" getLevel="66" levelUpSp="410000" learnedByNpc="true" />
 		<skill skillName="Hex" skillId="122" skillLevel="11" getLevel="66" levelUpSp="410000" learnedByNpc="true" />
@@ -286,7 +286,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="42" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="43" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="21" getLevel="68" levelUpSp="560000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="17" getLevel="68" levelUpSp="560000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="17" getLevel="68" levelUpSp="560000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="7" getLevel="68" levelUpSp="560000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="16" getLevel="68" levelUpSp="560000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="14" getLevel="68" levelUpSp="560000" learnedByNpc="true" />
@@ -307,7 +307,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="44" getLevel="70" levelUpSp="310000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="45" getLevel="70" levelUpSp="310000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="22" getLevel="70" levelUpSp="620000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="18" getLevel="70" levelUpSp="620000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="18" getLevel="70" levelUpSp="620000" learnedByNpc="true" />
 		<skill skillName="Soul of Sagittarius" skillId="303" skillLevel="4" getLevel="70" levelUpSp="620000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="17" getLevel="70" levelUpSp="620000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="15" getLevel="70" levelUpSp="620000" learnedByNpc="true" />
@@ -329,7 +329,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="46" getLevel="72" levelUpSp="430000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="47" getLevel="72" levelUpSp="430000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="23" getLevel="72" levelUpSp="860000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="19" getLevel="72" levelUpSp="860000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="19" getLevel="72" levelUpSp="860000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="18" getLevel="72" levelUpSp="860000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="16" getLevel="72" levelUpSp="860000" learnedByNpc="true" />
 		<skill skillName="Hex" skillId="122" skillLevel="14" getLevel="72" levelUpSp="860000" learnedByNpc="true" />
@@ -350,7 +350,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="48" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="49" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="24" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="20" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="20" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="8" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="19" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
 		<skill skillName="Power Break" skillId="115" skillLevel="17" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />

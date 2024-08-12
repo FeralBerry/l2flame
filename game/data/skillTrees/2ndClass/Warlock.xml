@@ -3,6 +3,8 @@
 	<!-- Warlock -->
 	<skillTree type="classSkillTree" classId="14" parentClassId="11">
 		<!-- Confirmed CT2.4 (By Topaz) -->
+		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="2" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+
 		<skill skillName="Anti Magic" skillId="146" skillLevel="13" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="14" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="15" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
@@ -28,9 +30,9 @@
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="5" getLevel="40" levelUpSp="32000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="1" getLevel="40" levelUpSp="32000" learnedByNpc="true" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="1" getLevel="40" levelUpSp="32000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="10" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="11" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="12" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="10" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="11" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="12" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="16" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="17" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="18" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
@@ -56,9 +58,9 @@
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="6" getLevel="44" levelUpSp="41000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="6" getLevel="44" levelUpSp="41000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="2" getLevel="44" levelUpSp="41000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="13" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="14" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="15" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="13" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="14" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="15" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="19" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="20" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="21" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
@@ -83,9 +85,9 @@
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="7" getLevel="48" levelUpSp="75000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="7" getLevel="48" levelUpSp="75000" learnedByNpc="true" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="2" getLevel="48" levelUpSp="75000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="16" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="17" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="18" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="16" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="17" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="18" getLevel="48" levelUpSp="25000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="22" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="23" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="24" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
@@ -111,9 +113,9 @@
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="8" getLevel="52" levelUpSp="106000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="8" getLevel="52" levelUpSp="106000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="3" getLevel="52" levelUpSp="106000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="19" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="20" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="21" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="19" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="20" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="21" getLevel="52" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="25" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="26" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="27" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
@@ -141,9 +143,9 @@
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="9" getLevel="56" levelUpSp="105000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="9" getLevel="56" levelUpSp="105000" learnedByNpc="true" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="3" getLevel="56" levelUpSp="105000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="22" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="23" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="24" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="22" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="23" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="24" getLevel="56" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="28" getLevel="58" levelUpSp="65000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="29" getLevel="58" levelUpSp="65000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="2" getLevel="58" levelUpSp="129000" learnedByNpc="true" />
@@ -165,8 +167,8 @@
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="10" getLevel="58" levelUpSp="129000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="4" getLevel="58" levelUpSp="129000" learnedByNpc="true" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="4" getLevel="58" levelUpSp="129000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="25" getLevel="58" levelUpSp="65000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="26" getLevel="58" levelUpSp="65000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="25" getLevel="58" levelUpSp="65000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="26" getLevel="58" levelUpSp="65000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="30" getLevel="60" levelUpSp="94000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="31" getLevel="60" levelUpSp="94000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="3" getLevel="60" levelUpSp="188000" learnedByNpc="true" />
@@ -187,8 +189,8 @@
 		<skill skillName="Summon Kai the Cat" skillId="1276" skillLevel="7" getLevel="60" levelUpSp="188000" learnedByNpc="true" />
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="11" getLevel="60" levelUpSp="188000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="11" getLevel="60" levelUpSp="188000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="27" getLevel="60" levelUpSp="94000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="28" getLevel="60" levelUpSp="94000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="27" getLevel="60" levelUpSp="94000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="28" getLevel="60" levelUpSp="94000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="32" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="33" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="4" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
@@ -209,8 +211,8 @@
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="12" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="12" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="5" getLevel="62" levelUpSp="250000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="29" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="30" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="29" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="30" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="34" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="35" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="5" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
@@ -229,8 +231,8 @@
 		<skill skillName="Summon Kai the Cat" skillId="1276" skillLevel="9" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="13" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="13" getLevel="64" levelUpSp="340000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="31" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="32" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="31" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="32" getLevel="64" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="36" getLevel="66" levelUpSp="220000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="37" getLevel="66" levelUpSp="220000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="6" getLevel="66" levelUpSp="440000" learnedByNpc="true" />
@@ -251,8 +253,8 @@
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="14" getLevel="66" levelUpSp="440000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="14" getLevel="66" levelUpSp="440000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="6" getLevel="66" levelUpSp="440000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="33" getLevel="66" levelUpSp="220000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="34" getLevel="66" levelUpSp="220000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="33" getLevel="66" levelUpSp="220000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="34" getLevel="66" levelUpSp="220000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="38" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="39" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="7" getLevel="68" levelUpSp="550000" learnedByNpc="true" />
@@ -271,8 +273,8 @@
 		<skill skillName="Summon Kai the Cat" skillId="1276" skillLevel="11" getLevel="68" levelUpSp="550000" learnedByNpc="true" />
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="15" getLevel="68" levelUpSp="550000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="15" getLevel="68" levelUpSp="550000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="35" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="36" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="35" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="36" getLevel="68" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="40" getLevel="70" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="41" getLevel="70" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="8" getLevel="70" levelUpSp="550000" learnedByNpc="true" />
@@ -294,8 +296,8 @@
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="16" getLevel="70" levelUpSp="550000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="7" getLevel="70" levelUpSp="550000" learnedByNpc="true" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="5" getLevel="70" levelUpSp="550000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="37" getLevel="70" levelUpSp="280000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="38" getLevel="70" levelUpSp="280000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="37" getLevel="70" levelUpSp="280000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="38" getLevel="70" levelUpSp="280000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="42" getLevel="72" levelUpSp="540000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="43" getLevel="72" levelUpSp="540000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="9" getLevel="72" levelUpSp="1070000" learnedByNpc="true" />
@@ -314,8 +316,8 @@
 		<skill skillName="Summon Kai the Cat" skillId="1276" skillLevel="13" getLevel="72" levelUpSp="1070000" learnedByNpc="true" />
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="17" getLevel="72" levelUpSp="1070000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="17" getLevel="72" levelUpSp="1070000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="39" getLevel="72" levelUpSp="540000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="40" getLevel="72" levelUpSp="540000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="39" getLevel="72" levelUpSp="540000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="40" getLevel="72" levelUpSp="540000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="44" getLevel="74" levelUpSp="680000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="45" getLevel="74" levelUpSp="680000" learnedByNpc="true" />
 		<skill skillName="Arcane Disruption" skillId="1386" skillLevel="10" getLevel="74" levelUpSp="1350000" learnedByNpc="true" />
@@ -337,7 +339,7 @@
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="18" getLevel="74" levelUpSp="1350000" learnedByNpc="true" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="18" getLevel="74" levelUpSp="1350000" learnedByNpc="true" />
 		<skill skillName="Summon Storm Cubic" skillId="10" skillLevel="8" getLevel="74" levelUpSp="1350000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="41" getLevel="74" levelUpSp="680000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="42" getLevel="74" levelUpSp="680000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="41" getLevel="74" levelUpSp="680000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="42" getLevel="74" levelUpSp="680000" learnedByNpc="true" />
 	</skillTree>
 </list>

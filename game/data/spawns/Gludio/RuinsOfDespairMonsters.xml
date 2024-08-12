@@ -211,6 +211,33 @@
 		<npc id="20788" count="24" respawnTime="30sec" chaseRange="550" /><!-- Мурлок 35 -->
 		<npc id="21171" count="24" respawnTime="30sec" chaseRange="550" /><!-- Владыка Лит 36 -->
 	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3688" maxZ="-3592">
+				<node x="-15491" y="143590"/>
+				<node x="-13487" y="143114"/>
+				<node x="-13171" y="145074"/>
+				<node x="-14933" y="145531"/>
+			</territory>
+		</territories>
+		<npc id="24390" count="10" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="10" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
+		<npc id="20202" count="10" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory minZ="-3752" maxZ="-3848">
+				<node x="-18754" y="145787"/>
+				<node x="-19114" y="144162"/>
+				<node x="-19853" y="143656"/>
+				<node x="-21177" y="144038"/>
+				<node x="-20392" y="145682"/>
+			</territory>
+		</territories>
+		<npc id="24390" count="10" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="10" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
+		<npc id="20202" count="10" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
+	</spawn>
 	<!--
 
 	<npc id="22011" level="33" type="Monster" name="Ghost of a Batur Chief">

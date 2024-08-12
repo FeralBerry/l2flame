@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+    <npc id="31320"> <!-- Телепорт -->
+        <teleport type="OTHER">
+            <location x="147963" y="-55359" z="-2728" feeCount="10000"/> <!-- Годдарт -->
+            <location x="87120" y="-143406" z="-1288" feeCount="10000"/> <!-- Шутгарт -->
+            <location x="146619" y="25799" z="-2008" feeCount="18000"/> <!-- Аден -->
+            <location x="83551" y="147945" z="-3395" feeCount="63000"/> <!-- Гиран -->
+            <location x="65307" y="-71445" z="-3683" feeCount="3000"/> <!-- Долина святых -->
+            <location x="106414" y="-87799" z="-2907" feeCount="10000"/> <!-- Монастырь безмолвия -->
+            <location x="15404" y="142891" z="-2680" feeCount="6300"/> <!-- Ферма диких зверей -->
+            <location x="82958" y="53213" z="-1483" feeCount="4600"/> <!-- Лес неупокоенных -->
+            <location x="111375" y="219095" z="-3536" feeCount="5000"/> <!-- Проклятая деревня -->
+            <location x="82958" y="53213" z="-1483" feeCount="7000"/> <!-- Болото криков -->
+            <location x="125008" y="-41668" z="-3595" feeCount="10000"/> <!-- Гнездо Стакато -->
+            <location x="146580" y="-68100" z="-3667" feeCount="20000"/> <!-- Первобытный остров -->
+            <location x="16360" y="-114097" z="-219" feeCount="23000"/> <!-- Кайнак -  -->
+            <location x="46917" y="51408" z="-2968" feeCount="53000"/> <!-- Эльфийская деревня -->
+        </teleport>
+    </npc>
+</list>

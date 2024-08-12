@@ -3,6 +3,8 @@
 	<!-- Cardinal -->
 	<skillTree type="classSkillTree" classId="97" parentClassId="16">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="3" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
+
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Sigil Mastery" skillId="926" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />

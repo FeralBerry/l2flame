@@ -839,7 +839,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="30629" toLevel="1" name="Heavy Armor Mastery">
+	<skill id="30629" toLevel="1" name="Владение Тяжелой Броней">
 		<!-- When using heavy armor, Max HP +100, P. Def. +25, received Critical Damage from basic attacks -10%. Additionally, STR +1. -->
 		<icon>icon.skill10253</icon>
 		<operateType>P</operateType>
@@ -962,7 +962,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="30632" toLevel="1" name="Weapon Mastery">
+	<skill id="30632" toLevel="1" name="Владение Оружием">
 		<!-- P. Atk. +10% and additionally +13, Atk. Spd +8%, P. Accuracy +2, when using a sword, a blunt weapon, or a spear. Increases the number of possible targets, when using a spear. STR +1. Depending on your STR, the skill cooldown can be reset or its duration can be increased by 2 times. -->
 		<icon>icon.skill10251</icon>
 		<operateType>P</operateType>
@@ -1209,7 +1209,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="30637" toLevel="1" name="Weapon Mastery">
+	<skill id="30637" toLevel="1" name="Владение Оружием">
 		<!-- M. Atk. +5% and additionally +57, Casting Spd. +7%. Depending on your INT, there is a chance to reset Skill Cooldown or extend skill duration by 2 times. -->
 		<icon>icon.skill11251</icon>
 		<operateType>P</operateType>

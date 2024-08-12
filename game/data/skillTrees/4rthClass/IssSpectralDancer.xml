@@ -18,7 +18,7 @@
 			<removeSkill id="30634" /> <!-- Dagger Mastery -->
 			<removeSkill id="30635" /> <!-- Dual Dagger Mastery -->
 			<removeSkill id="30633" /> <!-- Dual Weapon Mastery -->
-			<removeSkill id="30629" /> <!-- Heavy Armor Mastery -->
+			<removeSkill id="30629" /> <!-- Владение Тяжелой Броней -->
 			<removeSkill id="30734" /> <!-- Intermediate Armor Mastery -->
 			<removeSkill id="30707" /> <!-- Intermediate Blunt Weapon Mastery -->
 			<removeSkill id="30717" /> <!-- Intermediate Bow/Crossbow Mastery -->
@@ -28,9 +28,9 @@
 			<removeSkill id="30722" /> <!-- Intermediate Dual Weapon Mastery -->
 			<removeSkill id="30706" /> <!-- Intermediate Fist Weapon Mastery -->
 			<removeSkill id="30710" /> <!-- Intermediate Force Mastery -->
-			<removeSkill id="30708" /> <!-- Intermediate Heavy Armor Mastery -->
-			<removeSkill id="30712" /> <!-- Intermediate Heavy Armor Mastery -->
-			<removeSkill id="30726" /> <!-- Intermediate Heavy Armor Mastery -->
+			<removeSkill id="30708" /> <!-- Intermediate Владение Тяжелой Броней -->
+			<removeSkill id="30712" /> <!-- Intermediate Владение Тяжелой Броней -->
+			<removeSkill id="30726" /> <!-- Intermediate Владение Тяжелой Броней -->
 			<removeSkill id="30731" /> <!-- Intermediate Light Armor Mastery -->
 			<removeSkill id="30709" /> <!-- Intermediate Light Armor Mastery -->
 			<removeSkill id="30716" /> <!-- Intermediate Light Armor Mastery -->
@@ -158,8 +158,8 @@
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="1" getLevel="85" autoGet="true">
 			<removeSkill id="30722" /> <!-- Intermediate Dual Weapon Mastery -->
 		</skill>
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="1" getLevel="85" autoGet="true">
-			<removeSkill id="30726" /> <!-- Intermediate Heavy Armor Mastery -->
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="1" getLevel="85" autoGet="true">
+			<removeSkill id="30726" /> <!-- Intermediate Владение Тяжелой Броней -->
 		</skill>
 		<skill skillName="Superior Mana Steal" skillId="11549" skillLevel="1" getLevel="85" autoGet="true" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="1" getLevel="85" autoGet="true" />
@@ -216,7 +216,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="2" getLevel="90" levelUpSp="37" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="2" getLevel="90" levelUpSp="37" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="2" getLevel="90" levelUpSp="37" />
@@ -251,7 +251,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="3" getLevel="95" levelUpSp="100" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="3" getLevel="95" levelUpSp="100" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="3" getLevel="95" levelUpSp="100" />
@@ -288,7 +288,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="4" getLevel="99" levelUpSp="500" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="4" getLevel="99" levelUpSp="500" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="4" getLevel="99" levelUpSp="500" />
@@ -315,7 +315,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="5" getLevel="100" levelUpSp="8809" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="5" getLevel="100" levelUpSp="8809" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="5" getLevel="100" levelUpSp="8809" />
@@ -349,7 +349,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="6" getLevel="102" levelUpSp="25372" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="6" getLevel="102" levelUpSp="25372" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="6" getLevel="102" levelUpSp="25372" />
@@ -375,7 +375,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="7" getLevel="104" levelUpSp="36536" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="7" getLevel="104" levelUpSp="36536" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="7" getLevel="104" levelUpSp="36536" />
@@ -399,7 +399,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="8" getLevel="106" levelUpSp="105225" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="8" getLevel="106" levelUpSp="105225" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="8" getLevel="106" levelUpSp="105225" />
@@ -421,7 +421,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="9" getLevel="108" levelUpSp="151525" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="9" getLevel="108" levelUpSp="151525" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="9" getLevel="108" levelUpSp="151525" />
@@ -443,7 +443,7 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Sword / Blunt Weapon Mastery" skillId="11526" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Dual Weapon Mastery" skillId="11501" skillLevel="10" getLevel="110" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="10" getLevel="110" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior HP Recovery" skillId="11547" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior MP Boost" skillId="11507" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="10" getLevel="110" levelUpSp="436393" />
@@ -528,8 +528,8 @@
 		<skill skillName="Superior Robe Mastery" skillId="11502" skillLevel="12" getLevel="120" levelUpSp="436393" />
 		<skill skillName="Superior Light Armor Mastery" skillId="11503" skillLevel="11" getLevel="115" levelUpSp="436393" />
 		<skill skillName="Superior Light Armor Mastery" skillId="11503" skillLevel="12" getLevel="120" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="11" getLevel="115" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="11504" skillLevel="12" getLevel="120" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="11" getLevel="115" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="11504" skillLevel="12" getLevel="120" levelUpSp="436393" />
 		<skill skillName="Superior Anti Magic" skillId="11505" skillLevel="11" getLevel="115" levelUpSp="436393" />
 		<skill skillName="Superior Anti Magic" skillId="11505" skillLevel="12" getLevel="120" levelUpSp="436393" />
 		<skill skillName="Superior HP Boost" skillId="11506" skillLevel="11" getLevel="115" levelUpSp="436393" />

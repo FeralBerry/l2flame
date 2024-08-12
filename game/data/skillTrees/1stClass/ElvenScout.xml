@@ -21,7 +21,7 @@
 		<skill skillName="Charm" skillId="15" skillLevel="1" getLevel="20" levelUpSp="950" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="2" getLevel="20" levelUpSp="950" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="3" getLevel="20" levelUpSp="950" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
 		<skill skillName="Defense Aura" skillId="91" skillLevel="2" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
 		<skill skillName="Long Shot" skillId="113" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
 		<skill skillName="Breath Boost" skillId="195" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
@@ -45,7 +45,7 @@
 		<skill skillName="Charm" skillId="15" skillLevel="4" getLevel="24" levelUpSp="1700" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="5" getLevel="24" levelUpSp="1700" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="6" getLevel="24" levelUpSp="1700" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="2" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="2" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
 		<skill skillName="Boost Evasion" skillId="198" skillLevel="1" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
 		<skill skillName="Cure Bleeding" skillId="61" skillLevel="1" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
 		<skill skillName="Poison Recovery" skillId="21" skillLevel="1" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
@@ -71,7 +71,7 @@
 		<skill skillName="Charm" skillId="15" skillLevel="7" getLevel="28" levelUpSp="3100" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="8" getLevel="28" levelUpSp="3100" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="9" getLevel="28" levelUpSp="3100" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="3" getLevel="28" levelUpSp="9200" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="3" getLevel="28" levelUpSp="9200" learnedByNpc="true" />
 		<skill skillName="Quick Step" skillId="169" skillLevel="1" getLevel="28" levelUpSp="9200" learnedByNpc="true" />
 		<skill skillName="Acrobatic Move" skillId="225" skillLevel="1" getLevel="28" levelUpSp="9200" learnedByNpc="true" />
 		<skill skillName="Attack Aura" skillId="77" skillLevel="2" getLevel="28" levelUpSp="9200" learnedByNpc="true" />
@@ -96,7 +96,7 @@
 		<skill skillName="Charm" skillId="15" skillLevel="10" getLevel="32" levelUpSp="5100" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="11" getLevel="32" levelUpSp="5100" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="12" getLevel="32" levelUpSp="5100" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="4" getLevel="32" levelUpSp="15000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="4" getLevel="32" levelUpSp="15000" learnedByNpc="true" />
 		<skill skillName="Critical Chance" skillId="137" skillLevel="1" getLevel="32" levelUpSp="15000" learnedByNpc="true" />
 		<skill skillName="Rapid Shot" skillId="99" skillLevel="1" getLevel="32" levelUpSp="15000" learnedByNpc="true" />
 		<skill skillName="Sprint" skillId="230" skillLevel="1" getLevel="32" levelUpSp="15000" learnedByNpc="true" />

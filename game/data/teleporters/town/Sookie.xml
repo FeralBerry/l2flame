@@ -29,6 +29,11 @@
 			<location x="213023" y="52487" z="-8416" /> <!-- Orbis Temple - 1st floor -->
 			<location x="213025" y="50424" z="-14640" /> <!-- Orbis Temple - 2nd floor -->
 			<location x="214292" y="115551" z="-12736" /> <!-- Orbis Temple - 3rd floor -->
+			<location x="82958" y="53213" z="-1483" feeCount="10000"/> <!-- Гиран -->
+			<location x="111375" y="219095" z="-3536" feeCount="16000"/> <!-- Хейн -->
+			<location x="146619" y="25799" z="-2008" feeCount="5000"/> <!-- Аден -->
+			<location x="117070" y="76936" z="-2683" feeCount="13000"/> <!-- Деревня Охотников -->
+			<location x="214432" y="79587" z="829" feeCount="2000"/> <!-- Колония Фей -->
 		</teleport>
 	</npc>
 </list>

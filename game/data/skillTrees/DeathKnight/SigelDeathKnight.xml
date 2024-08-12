@@ -1,13 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="216" parentClassId="215">
-		<skill skillName="Weight Limit" skillId="150" skillLevel="3" getLevel="85" autoGet="true" />
+		<!-- 86 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="27" getLevel="86" levelUpSp="2300000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="30" getLevel="86" levelUpSp="2300000" learnedByNpc="true"/>
+		<!-- 87 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="28" getLevel="87" levelUpSp="2400000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="31" getLevel="87" levelUpSp="2400000" learnedByNpc="true"/>
+		<!-- 88 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="29" getLevel="88" levelUpSp="2500000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="32" getLevel="88" levelUpSp="2500000" learnedByNpc="true"/>
+		<!-- 89 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="30" getLevel="89" levelUpSp="2600000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="33" getLevel="89" levelUpSp="2600000" learnedByNpc="true"/>
+		<!-- 90 lvl -->
+		<skill skillName="Ясная Цель" skillId="1901" skillLevel="2" getLevel="90" autoGet="true" />
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="31" getLevel="90" levelUpSp="2700000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="34" getLevel="90" levelUpSp="2700000" learnedByNpc="true"/>
+		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="5" getLevel="90" levelUpSp="5000000" learnedByNpc="true" />
+		<!-- 91 lvl -->
+		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="10" getLevel="85" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="32" getLevel="91" levelUpSp="2800000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="35" getLevel="91" levelUpSp="2800000" learnedByNpc="true"/>
+		<!-- 92 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="33" getLevel="92" levelUpSp="2900000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="36" getLevel="92" levelUpSp="2900000" learnedByNpc="true"/>
+		<!-- 93 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="34" getLevel="93" levelUpSp="3000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="37" getLevel="93" levelUpSp="3000000" learnedByNpc="true"/>
+		<!-- 94 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="35" getLevel="94" levelUpSp="3100000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="38" getLevel="94" levelUpSp="3100000" learnedByNpc="true"/>
+		<!-- 95 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="36" getLevel="95" levelUpSp="3200000" learnedByNpc="true" />
+		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="11" getLevel="95" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="39" getLevel="95" levelUpSp="3200000" learnedByNpc="true"/>
+		<!-- 96 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="37" getLevel="96" levelUpSp="3300000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="40" getLevel="96" levelUpSp="3300000" learnedByNpc="true"/>
+		<!-- 97 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="38" getLevel="97" levelUpSp="3400000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="41" getLevel="97" levelUpSp="3400000" learnedByNpc="true"/>
+		<!-- 98 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="39" getLevel="98" levelUpSp="3500000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="42" getLevel="98" levelUpSp="3500000" learnedByNpc="true"/>
+		<!-- 99 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="40" getLevel="99" levelUpSp="3600000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="43" getLevel="99" levelUpSp="3600000" learnedByNpc="true"/>
+		<!-- 100 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="41" getLevel="100" levelUpSp="3700000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="44" getLevel="100" levelUpSp="3700000" learnedByNpc="true"/>
+		<!-- 101 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="42" getLevel="101" levelUpSp="3800000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="45" getLevel="101" levelUpSp="3800000" learnedByNpc="true"/>
+		<!-- 102 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="43" getLevel="102" levelUpSp="3900000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="46" getLevel="102" levelUpSp="3900000" learnedByNpc="true"/>
+		<!-- 103 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="44" getLevel="103" levelUpSp="4000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="47" getLevel="103" levelUpSp="4000000" learnedByNpc="true"/>
+		<!-- 104 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="45" getLevel="104" levelUpSp="4100000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="48" getLevel="104" levelUpSp="4100000" learnedByNpc="true"/>
+		<!-- 105 lvl -->
+		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="5" getLevel="105" levelUpSp="4200000" learnedByNpc="true" />
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="46" getLevel="105" levelUpSp="4200000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="49" getLevel="105" levelUpSp="4200000" learnedByNpc="true"/>
+		<!-- 106 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="47" getLevel="106" levelUpSp="4300000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="50" getLevel="106" levelUpSp="4300000" learnedByNpc="true"/>
+		<!-- 107 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="48" getLevel="107" levelUpSp="4400000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="51" getLevel="107" levelUpSp="4400000" learnedByNpc="true"/>
+		<!-- 108 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="49" getLevel="108" levelUpSp="4500000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="52" getLevel="108" levelUpSp="4500000" learnedByNpc="true"/>
+		<!-- 109 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="50" getLevel="109" levelUpSp="4600000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="53" getLevel="109" levelUpSp="4600000" learnedByNpc="true"/>
+		<!-- 110 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="51" getLevel="110" levelUpSp="4700000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="54" getLevel="110" levelUpSp="4700000" learnedByNpc="true"/>
+		<!-- 111 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="52" getLevel="111" levelUpSp="4800000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="55" getLevel="111" levelUpSp="4800000" learnedByNpc="true"/>
+		<!-- 112 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="53" getLevel="112" levelUpSp="4900000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="56" getLevel="112" levelUpSp="4900000" learnedByNpc="true"/>
+		<!-- 113 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="54" getLevel="113" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="57" getLevel="113" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 114 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="55" getLevel="114" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="58" getLevel="114" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 115 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="56" getLevel="115" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="59" getLevel="115" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 116 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="57" getLevel="116" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="60" getLevel="116" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 117 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="58" getLevel="117" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="61" getLevel="117" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 118 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="59" getLevel="118" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="62" getLevel="118" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 119 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="60" getLevel="119" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="63" getLevel="119" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 120 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="61" getLevel="120" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="64" getLevel="120" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 121 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="62" getLevel="121" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="65" getLevel="121" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 122 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="63" getLevel="122" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="66" getLevel="122" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 123 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="64" getLevel="123" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="67" getLevel="123" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 124 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="65" getLevel="124" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="68" getLevel="124" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 125 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="66" getLevel="125" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="69" getLevel="125" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 126 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="67" getLevel="126" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="70" getLevel="126" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 127 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="68" getLevel="127" levelUpSp="5000000" learnedByNpc="true" />
+		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="71" getLevel="127" levelUpSp="5000000" learnedByNpc="true"/>
+		<!-- 128 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="69" getLevel="128" levelUpSp="5000000" learnedByNpc="true" />
+		<!-- 129 lvl -->
+		<skill skillName="Адский Огонь" skillId="30963" skillLevel="70" getLevel="129" levelUpSp="5000000" learnedByNpc="true" />
+		<!-- 130 lvl -->
+
+
+
+
+
+
+		<!--<skill skillName="Weight Limit" skillId="150" skillLevel="3" getLevel="85" autoGet="true" />
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="4" getLevel="85" levelUpSp="0" />
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="1" getLevel="85" getDualClassLevel="85" levelUpSp="0" />
 		<skill skillName="Dual Class - Renewed Energy of Power" skillId="30820" skillLevel="1" getLevel="85" getDualClassLevel="85" levelUpSp="0" autoGet="false" />
 		<skill skillName="Basic Fantasia Harmony" skillId="30833" skillLevel="1" getLevel="85" levelUpSp="0" />
 		<skill skillName="Sigel's Defense Mastery" skillId="30891" skillLevel="1" getLevel="85" levelUpSp="0" />
-		<skill skillName="Aura of Fury" skillId="30948" skillLevel="1" getLevel="85" levelUpSp="0" />
 		<skill skillName="Ignition" skillId="30953" skillLevel="1" getLevel="85" levelUpSp="0" />
 		<skill skillName="Death Sentence" skillId="30961" skillLevel="2" getLevel="85" levelUpSp="0" />
 		<skill skillName="Hellfire" skillId="30963" skillLevel="2" getLevel="85" levelUpSp="0" />
@@ -19,11 +160,10 @@
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="2" getLevel="90" getDualClassLevel="90" levelUpSp="37" />
 		<skill skillName="Presence of Mind" skillId="30950" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Ignition" skillId="30953" skillLevel="2" getLevel="90" levelUpSp="37" />
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="3" getLevel="90" levelUpSp="37" />
 		<skill skillName="Death Sentence" skillId="30961" skillLevel="3" getLevel="90" levelUpSp="37" />
 		<skill skillName="Fire Earthquake" skillId="30970" skillLevel="1" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="2" getLevel="90" levelUpSp="37" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="2" getLevel="90" levelUpSp="37" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Superior Adamant Will" skillId="30984" skillLevel="2" getLevel="90" levelUpSp="37" />
 
@@ -33,7 +173,6 @@
 		<skill skillName="Hellfire" skillId="30963" skillLevel="3" getLevel="92" levelUpSp="42" />
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="3" getLevel="92" levelUpSp="42" />
 
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="4" getLevel="93" levelUpSp="44" />
 
 		<skill skillName="Pursuing Curse" skillId="30960" skillLevel="4" getLevel="94" levelUpSp="48" />
 		<skill skillName="Fire Earthquake" skillId="30970" skillLevel="2" getLevel="94" levelUpSp="48" />
@@ -46,11 +185,10 @@
 		<skill skillName="Hellfire" skillId="30963" skillLevel="4" getLevel="95" levelUpSp="100" />
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="4" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="3" getLevel="95" levelUpSp="100" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="3" getLevel="95" levelUpSp="100" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="3" getLevel="95" levelUpSp="100" />
 		<skill skillName="Superior Adamant Will" skillId="30984" skillLevel="3" getLevel="95" levelUpSp="100" />
 
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="5" getLevel="96" levelUpSp="497" />
 
 		<skill skillName="Pursuing Curse" skillId="30960" skillLevel="5" getLevel="97" levelUpSp="498" />
 		<skill skillName="Furious Eruption" skillId="30971" skillLevel="4" getLevel="97" levelUpSp="498" />
@@ -59,22 +197,21 @@
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="5" getLevel="98" levelUpSp="499" />
 
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="5" getLevel="99" levelUpSp="500">
-			<item id="40064" count="1" /> <!-- Ancient Book: Divine Inspiration (Beginner) -->
+			<item id="40064" count="1" /> &lt;!&ndash; Ancient Book: Divine Inspiration (Beginner) &ndash;&gt;
 		</skill>
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="6" getLevel="99" levelUpSp="500">
-			<item id="40065" count="1" /> <!-- Ancient Book: Divine Inspiration (Intermediate) -->
+			<item id="40065" count="1" /> &lt;!&ndash; Ancient Book: Divine Inspiration (Intermediate) &ndash;&gt;
 		</skill>
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="4" getLevel="99" getDualClassLevel="99" levelUpSp="500" />
 		<skill skillName="Mount Night Mare" skillId="8911" skillLevel="1" getLevel="99" autoGet="true" />
 		<skill skillName="Presence of Mind" skillId="30950" skillLevel="4" getLevel="99" levelUpSp="500" />
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="6" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="4" getLevel="99" levelUpSp="500" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="4" getLevel="99" levelUpSp="500" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="4" getLevel="99" levelUpSp="500" />
 		<skill skillName="Superior Adamant Will" skillId="30984" skillLevel="4" getLevel="99" levelUpSp="500" />
 
 		<skill skillName="Divine Expansion" skillId="10956" skillLevel="1" getLevel="100" levelUpSp="8809">
-			<item id="81887,39738" count="8" /> <!-- Rune Stone -->
+			<item id="81887,39738" count="8" /> &lt;!&ndash; Rune Stone &ndash;&gt;
 		</skill>
 		<skill skillName="Sigel's Defense Mastery" skillId="30891" skillLevel="2" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Ignition" skillId="30953" skillLevel="4" getLevel="100" levelUpSp="8809" />
@@ -85,17 +222,17 @@
 		<skill skillName="Hellfire" skillId="30963" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Furious Eruption" skillId="30971" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="5" getLevel="100" levelUpSp="8809" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="5" getLevel="100" levelUpSp="8809" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="5" getLevel="100" levelUpSp="8809" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="5" getLevel="100" levelUpSp="8809" />
 
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="5" getLevel="101" getDualClassLevel="101" levelUpSp="21143" />
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="6" getLevel="101" levelUpSp="21143" />
 
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="7" getLevel="102" levelUpSp="25372" />
+
 		<skill skillName="Hellfire" skillId="30963" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Fire Earthquake" skillId="30970" skillLevel="4" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="6" getLevel="102" levelUpSp="25372" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="6" getLevel="102" levelUpSp="25372" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="6" getLevel="102" levelUpSp="25372" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="6" getLevel="102" levelUpSp="25372" />
 
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="6" getLevel="103" getDualClassLevel="103" levelUpSp="30447" />
@@ -106,20 +243,20 @@
 		<skill skillName="Hellfire" skillId="30963" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="7" getLevel="104" levelUpSp="36536" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="7" getLevel="104" levelUpSp="36536" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="7" getLevel="104" levelUpSp="36536" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="7" getLevel="104" levelUpSp="36536" />
 
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="7" getLevel="105" getDualClassLevel="105" levelUpSp="87688" />
 		<skill skillName="Presence of Mind" skillId="30950" skillLevel="5" getLevel="105" levelUpSp="87688" />
 		<skill skillName="Valakas' Sturdiness" skillId="30951" skillLevel="1" getLevel="105" levelUpSp="87688">
-			<item id="81887,39738" count="8" /> <!-- Rune Stone -->
+			<item id="81887,39738" count="8" /> &lt;!&ndash; Rune Stone &ndash;&gt;
 		</skill>
 		<skill skillName="Divine Expansion" skillId="30952" skillLevel="1" getLevel="105" levelUpSp="87688">
-			<item id="81887,39738" count="8" /> <!-- Rune Stone -->
+			<item id="81887,39738" count="8" /> &lt;!&ndash; Rune Stone &ndash;&gt;
 		</skill>
 		<skill skillName="Ignition" skillId="30953" skillLevel="5" getLevel="105" levelUpSp="87688" />
 		<skill skillName="Mocking Resilience" skillId="30954" skillLevel="2" getLevel="105" levelUpSp="87688" />
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="8" getLevel="105" levelUpSp="87688" />
+
 		<skill skillName="Death Sentence" skillId="30961" skillLevel="6" getLevel="105" levelUpSp="87688" />
 		<skill skillName="Hellbringer" skillId="30967" skillLevel="1" getLevel="105" levelUpSp="87688" />
 
@@ -127,17 +264,17 @@
 		<skill skillName="Fire Earthquake" skillId="30970" skillLevel="5" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Furious Eruption" skillId="30971" skillLevel="7" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="8" getLevel="106" levelUpSp="105225" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="8" getLevel="106" levelUpSp="105225" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="8" getLevel="106" levelUpSp="105225" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="8" getLevel="106" levelUpSp="105225" />
 
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="8" getLevel="107" getDualClassLevel="107" levelUpSp="126271" />
 		<skill skillName="Hellfire" skillId="30963" skillLevel="8" getLevel="107" levelUpSp="126271" />
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="8" getLevel="107" levelUpSp="126271" />
 
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="9" getLevel="108" levelUpSp="151525" />
+
 		<skill skillName="Shrivelling" skillId="30962" skillLevel="3" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="9" getLevel="108" levelUpSp="151525" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="9" getLevel="108" levelUpSp="151525" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="9" getLevel="108" levelUpSp="151525" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="9" getLevel="108" levelUpSp="151525" />
 
 		<skill skillName="Dual Maximum HP" skillId="1986" skillLevel="9" getLevel="109" getDualClassLevel="109" levelUpSp="181830" />
@@ -151,44 +288,44 @@
 		<skill skillName="Fire Earthquake" skillId="30970" skillLevel="6" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="9" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Spirit Altar" skillId="30980" skillLevel="1" getLevel="110" levelUpSp="436393">
-			<item id="81453" count="1" /> <!-- Enhanced Rune Stone -->
+			<item id="81453" count="1" /> &lt;!&ndash; Enhanced Rune Stone &ndash;&gt;
 		</skill>
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="10" getLevel="110" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="10" getLevel="110" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="10" getLevel="110" levelUpSp="436393" />
 		
 		<skill skillName="Eraton's Spear" skillId="30930" skillLevel="1" getLevel="115" levelUpSp="436393" autoGet="false">
-			<item id="81889" count="1" /> <!-- Eraton's Historical Book -->
+			<item id="81889" count="1" /> &lt;!&ndash; Eraton's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Eraton's Spear" skillId="30930" skillLevel="2" getLevel="116" levelUpSp="436393" autoGet="false">
-			<item id="81889" count="1" /> <!-- Eraton's Historical Book -->
+			<item id="81889" count="1" /> &lt;!&ndash; Eraton's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Eraton's Spear" skillId="30930" skillLevel="3" getLevel="117" levelUpSp="436393" autoGet="false">
-			<item id="81889" count="1" /> <!-- Eraton's Historical Book -->
+			<item id="81889" count="1" /> &lt;!&ndash; Eraton's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Eraton's Spear" skillId="30930" skillLevel="4" getLevel="118" levelUpSp="436393" autoGet="false">
-			<item id="81889" count="1" /> <!-- Eraton's Historical Book -->
+			<item id="81889" count="1" /> &lt;!&ndash; Eraton's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Eraton's Spear" skillId="30930" skillLevel="5" getLevel="119" levelUpSp="436393" autoGet="false">
-			<item id="81889" count="1" /> <!-- Eraton's Historical Book -->
+			<item id="81889" count="1" /> &lt;!&ndash; Eraton's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Masia's Shield" skillId="30931" skillLevel="1" getLevel="110" levelUpSp="436393" autoGet="false">
-			<item id="81888" count="1" /> <!-- Masia's Historical Book -->
+			<item id="81888" count="1" /> &lt;!&ndash; Masia's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Masia's Shield" skillId="30931" skillLevel="2" getLevel="111" levelUpSp="436393" autoGet="false">
-			<item id="81888" count="1" /> <!-- Masia's Historical Book -->
+			<item id="81888" count="1" /> &lt;!&ndash; Masia's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Masia's Shield" skillId="30931" skillLevel="3" getLevel="112" levelUpSp="436393" autoGet="false">
-			<item id="81888" count="1" /> <!-- Masia's Historical Book -->
+			<item id="81888" count="1" /> &lt;!&ndash; Masia's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Masia's Shield" skillId="30931" skillLevel="4" getLevel="113" levelUpSp="436393" autoGet="false">
-			<item id="81888" count="1" /> <!-- Masia's Historical Book -->
+			<item id="81888" count="1" /> &lt;!&ndash; Masia's Historical Book &ndash;&gt;
 		</skill>
 		<skill skillName="Masia's Shield" skillId="30931" skillLevel="5" getLevel="114" levelUpSp="436393" autoGet="false">
-			<item id="81888" count="1" /> <!-- Masia's Historical Book -->
+			<item id="81888" count="1" /> &lt;!&ndash; Masia's Historical Book &ndash;&gt;
 		</skill>
 		
-		<!-- Master Class Chapter 2 -->
+		&lt;!&ndash; Master Class Chapter 2 &ndash;&gt;
 		<skill skillName="Basic Musician's Melody" skillId="30993" skillLevel="1" getLevel="85" levelUpSp="0" />
 		<skill skillName="Basic Musician's Melody" skillId="30993" skillLevel="2" getLevel="90" levelUpSp="37" />
 		<skill skillName="Basic Musician's Melody" skillId="30993" skillLevel="3" getLevel="95" levelUpSp="100" />
@@ -197,23 +334,21 @@
 		<skill skillName="Basic Andante Performance" skillId="31004" skillLevel="1" getLevel="85" levelUpSp="0" />
 		
 		<skill skillName="Basic United Resistance" skillId="31006" skillLevel="1" getLevel="85" levelUpSp="0">
-			<removeSkill id="30751" /> <!-- Novice Elemental Resistance -->
-			<removeSkill id="30752" /> <!-- Novice Resistance Debuff -->
-			<removeSkill id="30753" /> <!-- Novice Mental Attack Resistance -->
+			<removeSkill id="30751" /> &lt;!&ndash; Novice Elemental Resistance &ndash;&gt;
+			<removeSkill id="30752" /> &lt;!&ndash; Novice Resistance Debuff &ndash;&gt;
+			<removeSkill id="30753" /> &lt;!&ndash; Novice Mental Attack Resistance &ndash;&gt;
 		</skill>
 		
 		<skill skillName="Superior Adamant Will" skillId="30984" skillLevel="5" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="11" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="12" getLevel="117" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="11" getLevel="112" levelUpSp="436393" />
-		<skill skillName="Superior Heavy Armor Mastery" skillId="30982" skillLevel="12" getLevel="117" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="11" getLevel="112" levelUpSp="436393" />
+		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="12" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="11" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="12" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Ignition" skillId="30953" skillLevel="6" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Valakas' Sturdiness" skillId="30951" skillLevel="2" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Valakas' Fury" skillId="30952" skillLevel="2" getLevel="112" levelUpSp="436393" />
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="10" getLevel="112" levelUpSp="436393" />
-		<skill skillName="Hell Slash" skillId="30957" skillLevel="11" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Pursuing Curse" skillId="30960" skillLevel="10" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Pursuing Curse" skillId="30960" skillLevel="11" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Death Sentence" skillId="30961" skillLevel="7" getLevel="112" levelUpSp="436393" />
@@ -229,12 +364,12 @@
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="10" getLevel="112" levelUpSp="436393" />
 		<skill skillName="Fateful Assault" skillId="30972" skillLevel="11" getLevel="117" levelUpSp="436393" />
 		<skill skillName="Spirit Altar" skillId="30980" skillLevel="2" getLevel="115" levelUpSp="436393">
-			<item id="81453" count="1" /> <!-- Enhanced Rune Stone -->
+			<item id="81453" count="1" /> &lt;!&ndash; Enhanced Rune Stone &ndash;&gt;
 		</skill>
-		
+		-->
 		<!-- The Source of Flame -->
-		<skill skillName="Hell Rift" skillId="31156" skillLevel="1" getLevel="110" levelUpSp="436393">
-			<item id="81453" count="2" /> <!-- Improved Rune Stone -->
-		</skill>
+		<!--<skill skillName="Hell Rift" skillId="31156" skillLevel="1" getLevel="110" levelUpSp="436393">
+			<item id="81453" count="2" /> &lt;!&ndash; Improved Rune Stone &ndash;&gt;
+		</skill>-->
 	</skillTree>
 </list>

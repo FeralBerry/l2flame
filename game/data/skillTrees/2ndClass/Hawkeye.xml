@@ -3,6 +3,8 @@
 	<!-- Hawkeye -->
 	<skillTree type="classSkillTree" classId="9" parentClassId="7">
 		<!-- Confirmed CT2.4 (By Topaz) -->
+		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="2" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="16" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="17" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="18" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
@@ -17,7 +19,7 @@
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="4" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="5" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="6" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="6" getLevel="40" levelUpSp="49000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="6" getLevel="40" levelUpSp="49000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="3" getLevel="40" levelUpSp="49000" learnedByNpc="true" />
 		<skill skillName="Acrobatic Move" skillId="225" skillLevel="2" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="19" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
@@ -34,7 +36,7 @@
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="7" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="8" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="9" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="7" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="7" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="22" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="23" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="24" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
@@ -52,7 +54,7 @@
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="10" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="11" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="12" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="8" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="8" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="4" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="25" getLevel="49" levelUpSp="41000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="26" getLevel="49" levelUpSp="41000" learnedByNpc="true" />
@@ -71,7 +73,7 @@
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="13" getLevel="49" levelUpSp="41000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="14" getLevel="49" levelUpSp="41000" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="15" getLevel="49" levelUpSp="41000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="9" getLevel="49" levelUpSp="123000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="9" getLevel="49" levelUpSp="123000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="28" getLevel="52" levelUpSp="63000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="29" getLevel="52" levelUpSp="63000" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="30" getLevel="52" levelUpSp="63000" learnedByNpc="true" />

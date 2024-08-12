@@ -3,6 +3,8 @@
 	<!-- Shilien Templar -->
 	<skillTree type="classSkillTree" classId="106" parentClassId="33">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="2" getLevel="76" levelUpSp="7000000" learnedByNpc="true" />
+
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Fortitude" skillId="335" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />

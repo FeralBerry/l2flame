@@ -742,7 +742,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="217" toLevel="45" name="Sword / Blunt Weapon Mastery">
+	<skill id="217" toLevel="45" name="Владение Мечом / Дробящим Оружием">
 		<!-- Increases P. Atk. by 1.5 when using a sword or blunt weapon. -->
 		<icon>icon.skill0217</icon>
 		<magicLevel>
@@ -1587,7 +1587,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="231" toLevel="50" name="Heavy Armor Mastery">
+	<skill id="231" toLevel="50" name="Владение Тяжелой Броней">
 		<!-- When using heavy armor, P. Def. +1.9. -->
 		<icon>icon.skill0231</icon>
 		<magicLevel>
@@ -1705,7 +1705,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="232" toLevel="52" name="Heavy Armor Mastery">
+	<skill id="232" toLevel="52" name="Владение Тяжелой Броней">
 		<!-- P. Def. +17.7, received Critical Damage from basic attacks -15%. -->
 		<icon>icon.skill0232</icon>
 		<magicLevel>
@@ -2461,7 +2461,7 @@
 		<operateType>P</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 	</skill>
-	<skill id="244" toLevel="3" name="Armor Mastery">
+	<skill id="244" toLevel="3" name="Владение Броней">
 		<!-- P. Def. +6.7 -->
 		<icon>icon.skill0244</icon>
 		<magicLevel>
@@ -2652,7 +2652,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="249" toLevel="42" name="Weapon Mastery">
+	<skill id="249" toLevel="42" name="Владение Оружием">
 		<!-- P. Atk. +1.5, M. Atk. +1.9. -->
 		<icon>icon.skill0249</icon>
 		<magicLevel>
@@ -2822,7 +2822,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="250" toLevel="42" name="Weapon Mastery">
+	<skill id="250" toLevel="42" name="Владение Оружием">
 		<!-- Increases P. Atk. by 1.5 and M. Atk. by 1.9. Has a chance of absorbing 10% of physical damage inflicted on the enemy as HP. -->
 		<icon>icon.skill0250</icon>
 		<magicLevel>
@@ -3232,7 +3232,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="253" toLevel="43" name="Heavy Armor Mastery">
+	<skill id="253" toLevel="43" name="Владение Тяжелой Броней">
 		<!-- When using heavy armor, P. Def. +11.6, Casting Spd. +71%, Atk. Spd. +25%. -->
 		<icon>icon.skill0253</icon>
 		<magicLevel>
@@ -3734,7 +3734,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="259" toLevel="33" name="Heavy Armor Mastery">
+	<skill id="259" toLevel="33" name="Владение Тяжелой Броней">
 		<!-- When using heavy armor, P. Def. +14.8, Casting Spd. +68%, Atk. Spd. +25%. -->
 		<icon>icon.skill0259</icon>
 		<magicLevel>

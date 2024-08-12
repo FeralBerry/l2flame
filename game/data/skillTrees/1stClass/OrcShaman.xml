@@ -3,13 +3,13 @@
 	<!-- Orc Shaman -->
 	<skillTree type="classSkillTree" classId="50" parentClassId="49">
 		<!-- Confirmed CT2.5 -->
-		<skill skillName="Weapon Mastery" skillId="250" skillLevel="3" getLevel="20" levelUpSp="2900" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="250" skillLevel="3" getLevel="20" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="5" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="6" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="5" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="6" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="3" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="4" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="3" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="4" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="5" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="6" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Stun Attack" skillId="100" skillLevel="1" getLevel="20" levelUpSp="960" learnedByNpc="true" />
@@ -17,14 +17,14 @@
 		<skill skillName="Stun Attack" skillId="100" skillLevel="3" getLevel="20" levelUpSp="960" learnedByNpc="true" />
 		<skill skillName="Boost Mana" skillId="213" skillLevel="1" getLevel="20" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Quick Recycle" skillId="164" skillLevel="1" getLevel="20" levelUpSp="2900" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="250" skillLevel="4" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="250" skillLevel="5" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="250" skillLevel="4" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="250" skillLevel="5" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="7" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="8" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="7" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="8" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="5" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="6" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="5" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="6" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="7" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="8" getLevel="25" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Stun Attack" skillId="100" skillLevel="4" getLevel="25" levelUpSp="1900" learnedByNpc="true" />
@@ -32,14 +32,14 @@
 		<skill skillName="Stun Attack" skillId="100" skillLevel="6" getLevel="25" levelUpSp="1900" learnedByNpc="true" />
 		<skill skillName="Fast Spell Casting" skillId="228" skillLevel="1" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="1" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="250" skillLevel="6" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="250" skillLevel="7" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="250" skillLevel="6" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="250" skillLevel="7" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="9" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="10" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="9" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="10" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="7" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="8" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="7" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="8" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="9" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="10" getLevel="30" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Stun Attack" skillId="100" skillLevel="7" getLevel="30" levelUpSp="3500" learnedByNpc="true" />
@@ -47,14 +47,14 @@
 		<skill skillName="Stun Attack" skillId="100" skillLevel="9" getLevel="30" levelUpSp="3500" learnedByNpc="true" />
 		<skill skillName="Boost Mana" skillId="213" skillLevel="2" getLevel="30" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Quick Recycle" skillId="164" skillLevel="2" getLevel="30" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="250" skillLevel="8" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="250" skillLevel="9" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="250" skillLevel="8" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="250" skillLevel="9" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="11" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLevel="12" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="11" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="12" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="9" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
-		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="10" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="9" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="253" skillLevel="10" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="11" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="12" getLevel="35" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Stun Attack" skillId="100" skillLevel="10" getLevel="35" levelUpSp="5900" learnedByNpc="true" />
@@ -78,7 +78,7 @@
 		<skill skillName="Fear" skillId="1092" skillLevel="3" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
 		<skill skillName="Madness" skillId="1105" skillLevel="2" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
 		<skill skillName="Seal of Binding" skillId="1208" skillLevel="1" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
-		<skill skillName="Soul Cry" skillId="1001" skillLevel="3" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
+		<skill skillName="Крик Души" skillId="1001" skillLevel="3" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
 		<skill skillName="Blaze Quake" skillId="1101" skillLevel="1" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
 		<skill skillName="Soul Shield" skillId="1010" skillLevel="2" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
 		<skill skillName="Chant of Battle" skillId="1007" skillLevel="2" getLevel="25" levelUpSp="5800" learnedByNpc="true" />
@@ -103,7 +103,7 @@
 		<skill skillName="Seal of Binding" skillId="1208" skillLevel="3" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Seal of Chaos" skillId="1096" skillLevel="2" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Seal of Slow" skillId="1099" skillLevel="1" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
-		<skill skillName="Soul Cry" skillId="1001" skillLevel="4" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
+		<skill skillName="Крик Души" skillId="1001" skillLevel="4" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Blaze Quake" skillId="1101" skillLevel="2" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Soul Shield" skillId="1010" skillLevel="3" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Blessings of Pa'agrio" skillId="1005" skillLevel="1" getLevel="35" levelUpSp="18000" learnedByNpc="true" />

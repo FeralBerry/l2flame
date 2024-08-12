@@ -1974,7 +1974,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="141" toLevel="3" name="Weapon Mastery">
+	<skill id="141" toLevel="3" name="Владение Оружием">
 		<!-- Increases P. Atk. by 8.5% and additionally by 2. -->
 		<icon>icon.skill0141</icon>
 		<magicLevel>
@@ -1999,7 +1999,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="142" toLevel="5" name="Armor Mastery">
+	<skill id="142" toLevel="5" name="Владение Броней">
 		<!-- P. Def. +9, MP Recovery Rate +10%. -->
 		<icon>icon.skill0142</icon>
 		<magicLevel>
@@ -2306,7 +2306,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="147" toLevel="51" name="Magic Resistance">
+	<skill id="147" toLevel="51" name="Магическое Сопротивление">
 		<!-- M. Def. +22 -->
 		<icon>icon.skill0147</icon>
 		<magicLevel>

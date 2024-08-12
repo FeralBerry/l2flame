@@ -389,7 +389,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="312" toLevel="20" name="Vicious Stance">
+	<skill id="312" toLevel="20" name="Боевая Стойка Коварства">
 		<!-- Critical Damage for basic attacks +35. MP Consumption depends on your level. -->
 		<icon>icon.skill0312</icon>
 		<magicLevel>

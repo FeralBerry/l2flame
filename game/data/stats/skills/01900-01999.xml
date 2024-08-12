@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
-	<skill id="1901" toLevel="2" name="Aim">
+	<skill id="1901" toLevel="2" name="Ясная Цель">
 		<!-- Fire/ Water/ Wind/ Earth Resistance +5. -->
 		<icon>icon.skill1901</icon>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -40,13 +40,16 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="1902" toLevel="2" name="Mental Fortitude">
+	<skill id="1902" toLevel="5" name="Крепкая Психика">
 		<!-- Debuff Resistance +1%. -->
 		<icon>icon.skill1902</icon>
 		<magicCriticalRate>5</magicCriticalRate>
 		<magicLevel>
-			<value level="1">85</value>
-			<value level="2">105</value>
+			<value level="1">10</value>
+			<value level="2">40</value>
+			<value level="3">76</value>
+			<value level="4">85</value>
+			<value level="5">105</value>
 		</magicLevel>
 		<operateType>P</operateType>
 		<effects>
@@ -54,6 +57,9 @@
 				<amount>
 					<value level="1">-1</value>
 					<value level="2">-2</value>
+					<value level="3">-3</value>
+					<value level="4">-4</value>
+					<value level="5">-5</value>
 				</amount>
 				<slot>DEBUFF</slot>
 			</effect>
@@ -827,7 +833,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="1927" toLevel="1" name="Sigel Force">
+	<skill id="1927" toLevel="5" name="Сила Сигеля">
 		<!-- P. Atk. +1% -->
 		<icon>icon.icon_sigel</icon>
 		<operateType>P</operateType>
@@ -835,7 +841,13 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="PAtk">
-				<amount>1</amount>
+				<amount>
+					<value level="1">1</value>
+					<value level="2">2</value>
+					<value level="3">3</value>
+					<value level="4">4</value>
+					<value level="5">5</value>
+				</amount>
 				<mode>PER</mode>
 			</effect>
 		</effects>
@@ -1246,7 +1258,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="1946" toLevel="1" name="Block Sigel Force">
+	<skill id="1946" toLevel="1" name="Блокировать Силу Сигеля">
 		<!-- Sigel Momentum is not applied. -->
 		<icon>icon.icon_sigel</icon>
 		<magicCriticalRate>5</magicCriticalRate>

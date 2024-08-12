@@ -23,7 +23,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="15" getLevel="40" levelUpSp="9300" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="3" getLevel="40" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="4" getLevel="40" levelUpSp="14000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="6" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="6" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="6" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Critical Power" skillId="193" skillLevel="3" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Silent Move" skillId="221" skillLevel="1" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
@@ -51,7 +51,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="18" getLevel="43" levelUpSp="9600" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="5" getLevel="43" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="6" getLevel="43" levelUpSp="14000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="7" getLevel="43" levelUpSp="29000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="7" getLevel="43" levelUpSp="29000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="1" getLevel="43" levelUpSp="29000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="7" getLevel="43" levelUpSp="29000" learnedByNpc="true" />
 		<skill skillName="Acrobatic Move" skillId="225" skillLevel="2" getLevel="43" levelUpSp="29000" learnedByNpc="true" />
@@ -80,7 +80,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="21" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="7" getLevel="46" levelUpSp="19000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="8" getLevel="46" levelUpSp="19000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="8" getLevel="46" levelUpSp="38000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="8" getLevel="46" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="2" getLevel="46" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="8" getLevel="46" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="3" getLevel="46" levelUpSp="38000" learnedByNpc="true" />
@@ -109,7 +109,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="24" getLevel="49" levelUpSp="20000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="9" getLevel="49" levelUpSp="31000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="10" getLevel="49" levelUpSp="31000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="9" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="9" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="3" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="1" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="4" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
@@ -138,7 +138,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="27" getLevel="52" levelUpSp="29000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="11" getLevel="52" levelUpSp="44000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="12" getLevel="52" levelUpSp="44000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="10" getLevel="52" levelUpSp="88000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="10" getLevel="52" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="4" getLevel="52" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="2" getLevel="52" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="9" getLevel="52" levelUpSp="88000" learnedByNpc="true" />
@@ -168,7 +168,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="30" getLevel="55" levelUpSp="39000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="13" getLevel="55" levelUpSp="58000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="14" getLevel="55" levelUpSp="58000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="11" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="11" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="5" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="3" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="10" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
@@ -200,7 +200,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="33" getLevel="58" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="15" getLevel="58" levelUpSp="63000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="16" getLevel="58" levelUpSp="63000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="12" getLevel="58" levelUpSp="126000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="12" getLevel="58" levelUpSp="126000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="6" getLevel="58" levelUpSp="126000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="4" getLevel="58" levelUpSp="126000" learnedByNpc="true" />
 		<skill skillName="Bleed" skillId="96" skillLevel="4" getLevel="58" levelUpSp="126000" learnedByNpc="true" />
@@ -225,7 +225,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="34" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="35" getLevel="60" levelUpSp="91000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="17" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="13" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="13" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="7" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="5" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="11" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
@@ -247,7 +247,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="36" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="37" getLevel="62" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="18" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="14" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="14" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="8" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="6" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="6" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
@@ -268,7 +268,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="38" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="39" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="19" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="15" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="15" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="9" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="7" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Critical Power" skillId="193" skillLevel="5" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
@@ -290,7 +290,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="40" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="41" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="20" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="16" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="16" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="10" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="8" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Bleed" skillId="96" skillLevel="5" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
@@ -316,7 +316,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="42" getLevel="68" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="43" getLevel="68" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="21" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="17" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="17" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="11" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="9" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="7" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
@@ -340,7 +340,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="44" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="45" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
 		<skill skillName="Freezing Strike" skillId="105" skillLevel="22" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="18" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="18" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Veil" skillId="106" skillLevel="12" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Trick" skillId="11" skillLevel="10" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Bleed" skillId="96" skillLevel="6" getLevel="70" levelUpSp="580000" learnedByNpc="true" />

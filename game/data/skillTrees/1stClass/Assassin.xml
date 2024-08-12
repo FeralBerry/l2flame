@@ -18,7 +18,7 @@
 		<skill skillName="Drain Health" skillId="70" skillLevel="3" getLevel="20" levelUpSp="1500" learnedByNpc="true" />
 		<skill skillName="Drain Health" skillId="70" skillLevel="4" getLevel="20" levelUpSp="1500" learnedByNpc="true" />
 		<skill skillName="Defense Aura" skillId="91" skillLevel="2" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
 		<skill skillName="Long Shot" skillId="113" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
 		<skill skillName="Breath Boost" skillId="195" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
 		<skill skillName="Acrobatics" skillId="173" skillLevel="1" getLevel="20" levelUpSp="2800" learnedByNpc="true" />
@@ -42,7 +42,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="1" getLevel="24" levelUpSp="1700" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="2" getLevel="24" levelUpSp="1700" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="3" getLevel="24" levelUpSp="1700" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="2" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="2" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
 		<skill skillName="Critical Power" skillId="193" skillLevel="1" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
 		<skill skillName="Boost Evasion" skillId="198" skillLevel="1" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
 		<skill skillName="Bleed" skillId="96" skillLevel="1" getLevel="24" levelUpSp="5000" learnedByNpc="true" />
@@ -68,7 +68,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="4" getLevel="28" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="5" getLevel="28" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="6" getLevel="28" levelUpSp="2900" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="3" getLevel="28" levelUpSp="8500" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="3" getLevel="28" levelUpSp="8500" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="2" getLevel="28" levelUpSp="8500" learnedByNpc="true" />
 		<skill skillName="Attack Aura" skillId="77" skillLevel="2" getLevel="28" levelUpSp="8500" learnedByNpc="true" />
 		<skill skillName="Quick Step" skillId="169" skillLevel="1" getLevel="28" levelUpSp="8500" learnedByNpc="true" />
@@ -94,7 +94,7 @@
 		<skill skillName="Sting" skillId="223" skillLevel="7" getLevel="32" levelUpSp="4800" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="8" getLevel="32" levelUpSp="4800" learnedByNpc="true" />
 		<skill skillName="Sting" skillId="223" skillLevel="9" getLevel="32" levelUpSp="4800" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="4" getLevel="32" levelUpSp="14000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="4" getLevel="32" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Rapid Shot" skillId="99" skillLevel="1" getLevel="32" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Critical Power" skillId="193" skillLevel="2" getLevel="32" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Bleed" skillId="96" skillLevel="2" getLevel="32" levelUpSp="14000" learnedByNpc="true" />
@@ -125,7 +125,7 @@
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="1" getLevel="36" levelUpSp="7400" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="2" getLevel="36" levelUpSp="7400" learnedByNpc="true" />
 		<skill skillName="Stunning Shot" skillId="101" skillLevel="3" getLevel="36" levelUpSp="7400" learnedByNpc="true" />
-		<skill skillName="Vicious Stance" skillId="312" skillLevel="5" getLevel="36" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="5" getLevel="36" levelUpSp="22000" learnedByNpc="true" />
 		<skill skillName="Esprit" skillId="171" skillLevel="1" getLevel="36" levelUpSp="22000" learnedByNpc="true" />
 		<skill skillName="Unlock" skillId="27" skillLevel="5" getLevel="36" levelUpSp="22000" learnedByNpc="true" />
 		<skill skillName="Confusion" skillId="2" skillLevel="4" getLevel="36" levelUpSp="22000" learnedByNpc="true" />

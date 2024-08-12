@@ -3,6 +3,8 @@
 	<!-- Necromancer -->
 	<skillTree type="classSkillTree" classId="13" parentClassId="11">
 		<!-- Confirmed CT2.4 (By Topaz) -->
+		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="2" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+
 		<skill skillName="Anti Magic" skillId="146" skillLevel="13" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="14" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="15" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
@@ -27,9 +29,9 @@
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="1" getLevel="40" levelUpSp="32000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="1" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="2" getLevel="40" levelUpSp="16000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="10" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="11" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="12" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="10" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="11" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="12" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="1" getLevel="40" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="16" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="17" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
@@ -57,9 +59,9 @@
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="1" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="3" getLevel="44" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="4" getLevel="44" levelUpSp="18000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="13" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="14" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="15" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="13" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="14" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="15" getLevel="44" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="2" getLevel="48" levelUpSp="55000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="19" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="20" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
@@ -90,9 +92,9 @@
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="2" getLevel="48" levelUpSp="55000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="5" getLevel="48" levelUpSp="27000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="6" getLevel="48" levelUpSp="27000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="16" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="17" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="18" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="16" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="17" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="18" getLevel="48" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="3" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="22" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="23" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
@@ -125,9 +127,9 @@
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="2" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="7" getLevel="52" levelUpSp="39000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="8" getLevel="52" levelUpSp="39000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="19" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="20" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="21" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="19" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="20" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="21" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="4" getLevel="56" levelUpSp="83000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="25" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="26" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
@@ -161,9 +163,9 @@
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="3" getLevel="56" levelUpSp="83000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="9" getLevel="56" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="10" getLevel="56" levelUpSp="42000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="22" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="23" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="24" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="22" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="23" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="24" getLevel="56" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="5" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="28" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="29" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
@@ -193,8 +195,8 @@
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="4" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="11" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="12" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="25" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="26" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="25" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="26" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="6" getLevel="60" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="30" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="31" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
@@ -222,8 +224,8 @@
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="3" getLevel="60" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="13" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="14" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="27" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="28" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="27" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="28" getLevel="60" levelUpSp="65000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="7" getLevel="62" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="32" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="33" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
@@ -253,8 +255,8 @@
 		<skill skillName="Summon Corrupted Man" skillId="1154" skillLevel="4" getLevel="62" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="15" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="16" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="29" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="30" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="29" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="30" getLevel="62" levelUpSp="80000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="8" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="34" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="35" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
@@ -284,8 +286,8 @@
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="4" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="17" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="18" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="31" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="32" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="31" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="32" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="9" getLevel="66" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="36" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="37" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
@@ -317,8 +319,8 @@
 		<skill skillName="Summon Cursed Bones" skillId="1387" skillLevel="2" getLevel="66" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="19" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="20" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="33" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="34" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="33" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="34" getLevel="66" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="10" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="38" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="39" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
@@ -347,8 +349,8 @@
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="5" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="21" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="22" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="35" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="36" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="35" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="36" getLevel="68" levelUpSp="170000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="11" getLevel="70" levelUpSp="380000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="40" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="41" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
@@ -379,8 +381,8 @@
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="5" getLevel="70" levelUpSp="380000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="23" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="24" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="37" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="38" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="37" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="38" getLevel="70" levelUpSp="190000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="12" getLevel="72" levelUpSp="630000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="42" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="43" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
@@ -410,8 +412,8 @@
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="6" getLevel="72" levelUpSp="630000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="25" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="26" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="39" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="40" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="39" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="40" getLevel="72" levelUpSp="310000" learnedByNpc="true" />
 		<skill skillName="Anchor" skillId="1170" skillLevel="13" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="44" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="45" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
@@ -445,7 +447,7 @@
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="7" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="27" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
 		<skill skillName="Vampiric Claw" skillId="1234" skillLevel="28" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="41" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
-		<skill skillName="Weapon Mastery" skillId="249" skillLevel="42" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="41" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
+		<skill skillName="Владение Оружием" skillId="249" skillLevel="42" getLevel="74" levelUpSp="410000" learnedByNpc="true" />
 	</skillTree>
 </list>

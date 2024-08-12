@@ -16,12 +16,7 @@
  */
 package ai.others.HermuncusMinion;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.StringTokenizer;
-
+import ai.AbstractNpcAI;
 import org.l2jmobius.gameserver.enums.CategoryType;
 import org.l2jmobius.gameserver.model.Location;
 import org.l2jmobius.gameserver.model.actor.Npc;
@@ -29,7 +24,7 @@ import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.itemcontainer.Inventory;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 
-import ai.AbstractNpcAI;
+import java.util.*;
 
 /**
  * Hermuncus' Minion AI.
@@ -109,10 +104,7 @@ public class HermuncusMinion extends AbstractNpcAI
 				}
 				
 				final Integer currentLoc = HERMUNCUS_MINIONS.get(npc.getId());
-				if (teleportList.contains(currentLoc))
-				{
-					teleportList.remove(currentLoc);
-				}
+                teleportList.remove(currentLoc);
 				
 				final StringBuilder sb = new StringBuilder();
 				for (Integer teleportLoc : teleportList)
@@ -125,7 +117,7 @@ public class HermuncusMinion extends AbstractNpcAI
 		else if (event.equals("teleport") && st.hasMoreTokens())
 		{
 			final int locId = Integer.parseInt(st.nextToken());
-			if (player.getAdena() < 150000)
+			if (player.getAdena() < 100000)
 			{
 				player.sendPacket(SystemMessageId.NOT_ENOUGH_ADENA);
 				return null;
@@ -143,7 +135,7 @@ public class HermuncusMinion extends AbstractNpcAI
 			
 			if (loc != null)
 			{
-				takeItems(player, Inventory.ADENA_ID, 150000);
+				takeItems(player, Inventory.ADENA_ID, 100000);
 				player.teleToLocation(loc);
 			}
 		}
