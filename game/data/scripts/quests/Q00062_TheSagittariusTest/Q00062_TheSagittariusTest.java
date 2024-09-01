@@ -35,6 +35,14 @@ public class Q00062_TheSagittariusTest extends Quest {
     @Override
     public String onAdvEvent(String event, Npc npc, Player player) {
         String htmltext = getNoQuestMsg(player);
+        if(
+                player.getActiveClass() == 7 ||
+                        player.getActiveClass() == 22 ||
+                        player.getActiveClass() == 35 ||
+                        player.getActiveClass() == 126
+        ){
+
+        }
         if(player.getRace() == Race.KAMAEL){
             if(player.getLevel() < minLevel){
                 return "00057-01.htm";

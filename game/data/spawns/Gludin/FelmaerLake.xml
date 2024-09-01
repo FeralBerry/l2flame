@@ -12,10 +12,10 @@
                     <node x="-58692" y="123394"/>
                 </territory>
             </territories>
-            <npc id="20789" count="10" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
-            <npc id="20552" count="10" respawnTime="60sec" chaseRange="100" /><!-- Пленная Душа -->
-            <npc id="21216" count="10" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
-            <npc id="20793" count="10" respawnTime="60sec" chaseRange="100" /><!-- Рогач -->
+            <npc id="20789" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Крок -->
+            <npc id="20552" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Пленная Душа -->
+            <npc id="21216" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Владыка Святых Земель -->
+            <npc id="20793" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Рогач -->
         </group>
         <group>
             <territories>
@@ -26,10 +26,10 @@
                     <node x="-58217" y="120965"/>
                 </territory>
             </territories>
-            <npc id="20789" count="10" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
-            <npc id="20552" count="10" respawnTime="60sec" chaseRange="100" /><!-- Пленная Душа -->
-            <npc id="22045" count="10" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
-            <npc id="20792" count="10" respawnTime="60sec" chaseRange="100" /><!-- Крок Шаман -->
+            <npc id="20789" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Крок -->
+            <npc id="20552" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Пленная Душа -->
+            <npc id="22045" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Темный Труп -->
+            <npc id="20792" count="10" respawnTime="60sec" chaseRange="3000" /><!-- Крок Шаман -->
         </group>
         <group>
             <territories>
@@ -41,13 +41,13 @@
                     <node x="-55764" y="120763"/>
                 </territory>
             </territories>
-            <npc id="20789" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
-            <npc id="21644" count="20" respawnTime="60sec" chaseRange="100" /><!-- Аспид -->
-            <npc id="20791" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок Воин -->
-            <npc id="21216" count="20" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
-            <npc id="20991" count="5" respawnTime="60sec" chaseRange="100" /><!-- Болотная Тварь -->
-            <npc id="20992" count="15" respawnTime="60sec" chaseRange="100" /><!-- Болотный Аллигатор -->
-            <npc id="22045" count="20" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
+            <npc id="20789" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Крок -->
+            <npc id="21644" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Аспид -->
+            <npc id="20791" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Крок Воин -->
+            <npc id="21216" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Владыка Святых Земель -->
+            <npc id="20991" count="5" respawnTime="60sec" chaseRange="3000" /><!-- Болотная Тварь -->
+            <npc id="20992" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Болотный Аллигатор -->
+            <npc id="22045" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Темный Труп -->
         </group>
         <group>
             <territories>
@@ -59,8 +59,8 @@
                     <node x="-62213" y="117137"/>
                 </territory>
             </territories>
-            <npc id="20989" count="15" respawnTime="60sec" chaseRange="100" /><!-- Лагеос -->
-            <npc id="20990" count="15" respawnTime="60sec" chaseRange="100" /><!-- Пагеос -->
+            <npc id="20989" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Лагеос -->
+            <npc id="20990" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Пагеос -->
         </group>
         <group>
             <territories>
@@ -72,13 +72,13 @@
                     <node x="-65196" y="120895"/>
                 </territory>
             </territories>
-            <npc id="20789" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
-            <npc id="21644" count="20" respawnTime="60sec" chaseRange="100" /><!-- Аспид -->
-            <npc id="20791" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок Воин -->
-            <npc id="21216" count="20" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
-            <npc id="20991" count="5" respawnTime="60sec" chaseRange="100" /><!-- Болотная Тварь -->
-            <npc id="20992" count="15" respawnTime="60sec" chaseRange="100" /><!-- Болотный Аллигатор -->
-            <npc id="22045" count="20" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
+            <npc id="20789" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Крок -->
+            <npc id="21644" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Аспид -->
+            <npc id="20791" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Крок Воин -->
+            <npc id="21216" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Владыка Святых Земель -->
+            <npc id="20991" count="5" respawnTime="60sec" chaseRange="3000" /><!-- Болотная Тварь -->
+            <npc id="20992" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Болотный Аллигатор -->
+            <npc id="22045" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Темный Труп -->
         </group>
         <group>
             <territories>
@@ -91,13 +91,13 @@
                     <node x="-57142" y="116462"/>
                 </territory>
             </territories>
-            <npc id="20789" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
-            <npc id="21644" count="20" respawnTime="60sec" chaseRange="100" /><!-- Аспид -->
-            <npc id="20791" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок Воин -->
-            <npc id="21216" count="20" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
-            <npc id="20991" count="5" respawnTime="60sec" chaseRange="100" /><!-- Болотная Тварь -->
-            <npc id="20992" count="15" respawnTime="60sec" chaseRange="100" /><!-- Болотный Аллигатор -->
-            <npc id="22045" count="20" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
+            <npc id="20789" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Крок -->
+            <npc id="21644" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Аспид -->
+            <npc id="20791" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Крок Воин -->
+            <npc id="21216" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Владыка Святых Земель -->
+            <npc id="20991" count="5" respawnTime="60sec" chaseRange="3000" /><!-- Болотная Тварь -->
+            <npc id="20992" count="15" respawnTime="60sec" chaseRange="3000" /><!-- Болотный Аллигатор -->
+            <npc id="22045" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Темный Труп -->
         </group>
         <group>
             <territories>
@@ -105,7 +105,7 @@
                     <node x="-62101" y="122880"/>
                 </territory>
             </territories>
-            <npc id="20932" count="20" respawnTime="60sec" chaseRange="100" /><!-- Багровый Медведь Хату -->
+            <npc id="20932" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Багровый Медведь Хату -->
         </group>
         <group>
             <territories>
@@ -113,7 +113,7 @@
                     <node x="-61198" y="126244"/>
                 </territory>
             </territories>
-            <npc id="20932" count="20" respawnTime="60sec" chaseRange="100" /><!-- Багровый Медведь Хату -->
+            <npc id="20932" count="20" respawnTime="60sec" chaseRange="3000" /><!-- Багровый Медведь Хату -->
         </group>
         <group>
             <npc id="21216" x="-67102" y="129360" z="-2944" heading="64528" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->

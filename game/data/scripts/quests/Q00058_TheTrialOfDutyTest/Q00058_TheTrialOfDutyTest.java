@@ -35,6 +35,16 @@ public class Q00058_TheTrialOfDutyTest extends Quest {
     @Override
     public String onAdvEvent(String event, Npc npc, Player player) {
         String htmltext = getNoQuestMsg(player);
+
+
+        if(
+                player.getActiveClass() == 4 ||
+                player.getActiveClass() == 19 ||
+                player.getActiveClass() == 32 ||
+                player.getActiveClass() == 213
+        ){
+
+        }
         if(player.getRace() == Race.KAMAEL){
             if(player.getLevel() < minLevel){
                 return "00057-01.htm";

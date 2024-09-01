@@ -35,6 +35,16 @@ public class Q00060_TheMageTest extends Quest {
     @Override
     public String onAdvEvent(String event, Npc npc, Player player) {
         String htmltext = getNoQuestMsg(player);
+        if(
+                player.getActiveClass() == 11 ||
+                        player.getActiveClass() == 26 ||
+                        player.getActiveClass() == 39 ||
+                        player.getActiveClass() == 125 ||
+                        player.getActiveClass() == 126 ||
+                        player.getActiveClass() == 185
+        ){
+
+        }
         if(player.getRace() == Race.KAMAEL){
             if(player.getLevel() < minLevel){
                 return "00057-01.htm";

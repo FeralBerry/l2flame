@@ -35,6 +35,14 @@ public class Q00063_TheHealerTest extends Quest {
     @Override
     public String onAdvEvent(String event, Npc npc, Player player) {
         String htmltext = getNoQuestMsg(player);
+        if(
+                player.getActiveClass() == 15 ||
+                        player.getActiveClass() == 29 ||
+                        player.getActiveClass() == 42 ||
+                        player.getActiveClass() == 50
+        ){
+
+        }
         if(player.getRace() == Race.KAMAEL){
             if(player.getLevel() < minLevel){
                 return "00057-01.htm";

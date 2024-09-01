@@ -35,6 +35,15 @@ public class Q00064_TheBufferTest extends Quest {
     @Override
     public String onAdvEvent(String event, Npc npc, Player player) {
         String htmltext = getNoQuestMsg(player);
+        if(
+                player.getActiveClass() == 15 ||
+                        player.getActiveClass() == 19 ||
+                        player.getActiveClass() == 32 ||
+                        player.getActiveClass() == 50 ||
+                        player.getActiveClass() == 56
+        ){
+
+        }
         if(player.getRace() == Race.KAMAEL){
             if(player.getLevel() < minLevel){
                 return "00057-01.htm";

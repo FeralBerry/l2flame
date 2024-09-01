@@ -35,6 +35,13 @@ public class Q00059_TheSummonerTest extends Quest {
     @Override
     public String onAdvEvent(String event, Npc npc, Player player) {
         String htmltext = getNoQuestMsg(player);
+        if(
+                player.getActiveClass() == 11 ||
+                        player.getActiveClass() == 26 ||
+                        player.getActiveClass() == 39
+        ){
+
+        }
         if(player.getRace() == Race.KAMAEL){
             if(player.getLevel() < minLevel){
                 return "00057-01.htm";
