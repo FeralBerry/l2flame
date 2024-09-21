@@ -8,7 +8,7 @@
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="11" getLevel="40" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Crystallize" skillId="248" skillLevel="2" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Fake Death" skillId="60" skillLevel="1" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="1" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="2" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="3" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
@@ -32,7 +32,7 @@
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="13" getLevel="43" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="14" getLevel="43" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Boost HP" skillId="211" skillLevel="4" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="4" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="5" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="6" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
@@ -53,7 +53,7 @@
 		<skill skillName="Whirlwind" skillId="36" skillLevel="4" getLevel="43" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="5" getLevel="43" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="6" getLevel="43" levelUpSp="12000" learnedByNpc="true" />
-		<skill skillName="Bandage" skillId="34" skillLevel="2" getLevel="46" levelUpSp="60000" learnedByNpc="true" />
+		<skill skillName="Перевязка" skillId="34" skillLevel="2" getLevel="46" levelUpSp="60000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="15" getLevel="46" levelUpSp="20000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="16" getLevel="46" levelUpSp="20000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="17" getLevel="46" levelUpSp="20000" learnedByNpc="true" />
@@ -105,7 +105,7 @@
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="22" getLevel="52" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="23" getLevel="52" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Crystallize" skillId="248" skillLevel="3" getLevel="52" levelUpSp="150000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="52" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="52" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="13" getLevel="52" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="14" getLevel="52" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="15" getLevel="52" levelUpSp="42000" learnedByNpc="true" />
@@ -153,7 +153,7 @@
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="28" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="29" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
 		<skill skillName="Collector's Experience" skillId="952" skillLevel="1" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="19" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="20" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="21" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
@@ -191,7 +191,7 @@
 		<skill skillName="Spoil" skillId="254" skillLevel="8" getLevel="60" levelUpSp="322000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="22" getLevel="60" levelUpSp="161000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="23" getLevel="60" levelUpSp="161000" learnedByNpc="true" />
-		<skill skillName="Bandage" skillId="34" skillLevel="3" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Перевязка" skillId="34" skillLevel="3" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="32" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="33" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Boost HP" skillId="211" skillLevel="7" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
@@ -248,7 +248,7 @@
 		<skill skillName="Wrath" skillId="320" skillLevel="2" getLevel="66" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="38" getLevel="68" levelUpSp="390000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="39" getLevel="68" levelUpSp="390000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="7" getLevel="68" levelUpSp="730000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="7" getLevel="68" levelUpSp="730000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="30" getLevel="68" levelUpSp="350000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="31" getLevel="68" levelUpSp="350000" learnedByNpc="true" />
 		<skill skillName="Hammer Crush" skillId="260" skillLevel="30" getLevel="68" levelUpSp="390000" learnedByNpc="true" />
@@ -306,7 +306,7 @@
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="45" getLevel="74" levelUpSp="930000" learnedByNpc="true" />
 		<skill skillName="Boost HP" skillId="211" skillLevel="10" getLevel="74" levelUpSp="1900000" learnedByNpc="true" />
 		<skill skillName="Collector's Experience" skillId="952" skillLevel="5" getLevel="74" levelUpSp="1900000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="8" getLevel="74" levelUpSp="1900000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="8" getLevel="74" levelUpSp="1900000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="36" getLevel="74" levelUpSp="930000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="37" getLevel="74" levelUpSp="930000" learnedByNpc="true" />
 		<skill skillName="Hammer Crush" skillId="260" skillLevel="36" getLevel="74" levelUpSp="930000" learnedByNpc="true" />

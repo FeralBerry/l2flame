@@ -2,7 +2,10 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="213" parentClassId="212">
 		<!-- 20 lvl -->
+		<skill skillName="Зажигание" skillId="30953" skillLevel="1" getLevel="20" levelUpSp="5000" />
+		<skill skillName="Перевязка" skillId="34" skillLevel="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="1" getLevel="20" levelUpSp="5000" learnedByNpc="true" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="1" getLevel="20" levelUpSp="5000" />
 		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="2" getLevel="20" levelUpSp="5000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="4" getLevel="20" levelUpSp="3700" learnedByNpc="true"/>
 		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="1" getLevel="20" levelUpSp="4700" learnedByNpc="true" />
@@ -12,7 +15,9 @@
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="1" getLevel="20" levelUpSp="2300" learnedByNpc="true" />
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="2" getLevel="20" levelUpSp="2300" learnedByNpc="true" />
 		<!-- 24 lvl -->
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="1" getLevel="24" levelUpSp="6400" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="2" getLevel="24" levelUpSp="7000" learnedByNpc="true" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="2" getLevel="24" levelUpSp="7000" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="5" getLevel="24" levelUpSp="7000" learnedByNpc="true"/>
 		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="2" getLevel="24" levelUpSp="8800" learnedByNpc="true" />
 		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="4" getLevel="24" levelUpSp="2900" learnedByNpc="true" />
@@ -23,6 +28,7 @@
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="5" getLevel="24" levelUpSp="2900" learnedByNpc="true" />
 		<!-- 28 lvl -->
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="3" getLevel="28" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="3" getLevel="28" levelUpSp="13000" />
 		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="2" getLevel="28" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="6" getLevel="28" levelUpSp="13000" learnedByNpc="true"/>
 		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="3" getLevel="28" levelUpSp="6700" learnedByNpc="true" />
@@ -34,6 +40,9 @@
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="7" getLevel="28" levelUpSp="4400" learnedByNpc="true" />
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="8" getLevel="28" levelUpSp="4400" learnedByNpc="true" />
 		<!-- 32 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="4" getLevel="32" levelUpSp="25000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="2" getLevel="32" levelUpSp="25000" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="2" getLevel="32" levelUpSp="25000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="4" getLevel="32" levelUpSp="25000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="7" getLevel="32" levelUpSp="25000" learnedByNpc="true"/>
 		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="5" getLevel="32" levelUpSp="11000" learnedByNpc="true" />
@@ -45,6 +54,7 @@
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="10" getLevel="32" levelUpSp="7400" learnedByNpc="true" />
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="11" getLevel="32" levelUpSp="7400" learnedByNpc="true" />
 		<!-- 36 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="5" getLevel="36" levelUpSp="36000" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="5" getLevel="36" levelUpSp="36000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="8" getLevel="36" levelUpSp="36000" learnedByNpc="true"/>
 		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="7" getLevel="36" levelUpSp="14000" learnedByNpc="true" />
@@ -55,9 +65,5 @@
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="12" getLevel="36" levelUpSp="9000" learnedByNpc="true" />
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="13" getLevel="36" levelUpSp="9000" learnedByNpc="true" />
 		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="14" getLevel="36" levelUpSp="9000" learnedByNpc="true" />
-
-
-
-
 	</skillTree>
 </list>

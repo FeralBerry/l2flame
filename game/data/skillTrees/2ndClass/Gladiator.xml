@@ -9,7 +9,7 @@
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="1" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="2" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="3" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="1" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="2" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="3" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
@@ -68,7 +68,7 @@
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="7" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="8" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="9" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="46" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="7" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="8" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="9" getLevel="46" levelUpSp="14000" learnedByNpc="true" />
@@ -142,7 +142,7 @@
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="13" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="14" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="15" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="13" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="14" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="15" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
@@ -218,7 +218,7 @@
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="19" getLevel="58" levelUpSp="51000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="20" getLevel="58" levelUpSp="51000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="21" getLevel="58" levelUpSp="51000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="58" levelUpSp="153000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="58" levelUpSp="153000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="19" getLevel="58" levelUpSp="51000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="20" getLevel="58" levelUpSp="51000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="21" getLevel="58" levelUpSp="51000" learnedByNpc="true" />
@@ -366,7 +366,7 @@
 		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="25" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="30" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="31" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="7" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="7" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="30" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="31" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
 		<skill skillName="Final Frenzy" skillId="290" skillLevel="11" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
@@ -448,7 +448,7 @@
 		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="31" getLevel="74" levelUpSp="810000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="36" getLevel="74" levelUpSp="810000" learnedByNpc="true" />
 		<skill skillName="Dual Weapon Mastery" skillId="144" skillLevel="37" getLevel="74" levelUpSp="810000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="8" getLevel="74" levelUpSp="1630000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="8" getLevel="74" levelUpSp="1630000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="36" getLevel="74" levelUpSp="810000" learnedByNpc="true" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="37" getLevel="74" levelUpSp="810000" learnedByNpc="true" />
 		<skill skillName="Final Frenzy" skillId="290" skillLevel="14" getLevel="74" levelUpSp="1630000" learnedByNpc="true" />

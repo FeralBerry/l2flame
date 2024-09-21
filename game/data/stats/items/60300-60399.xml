@@ -1466,14 +1466,14 @@
 		<set name="is_sellable" val="false" />
 		<set name="handler" val="ExtractableItems" />
 		<capsuled_items>
-			<item id="48848" min="100" max="100" chance="100" /> <!-- Freya's Ice Rose - Event -->
-			<item id="48857" min="100" max="100" chance="100" /> <!-- Glowing Dragon's Attribute Potion (XP) - Event -->
-			<item id="81011" min="100" max="100" chance="100" /> <!-- Honey Dark Beer - Event -->
-			<item id="81012" min="50" max="50" chance="100" /> <!-- Emperor's Special Cocktail - Event -->
-			<item id="81013" min="50" max="50" chance="100" /> <!-- Shining Nevit's Gold Hourglass - Event -->
-			<item id="81815" min="50" max="50" chance="100" /> <!-- Homunculus' Hourglass -->
+			<item id="48848" min="20" max="20" chance="100" /> <!-- Freya's Ice Rose - Event -->
+			<item id="48857" min="20" max="20" chance="100" /> <!-- Glowing Dragon's Attribute Potion (XP) - Event -->
+			<item id="81011" min="20" max="20" chance="100" /> <!-- Honey Dark Beer - Event -->
+			<item id="81012" min="10" max="10" chance="100" /> <!-- Emperor's Special Cocktail - Event -->
+			<item id="81013" min="10" max="10" chance="100" /> <!-- Shining Nevit's Gold Hourglass - Event -->
+			<item id="81815" min="10" max="10" chance="100" /> <!-- Homunculus' Hourglass -->
 			<item id="81821" min="1" max="1" chance="100" /> <!-- Cara's Talisman - 10-day -->
-			<item id="82344" min="100" max="100" chance="100" /> <!-- Tales of Dimensions -->
+			<item id="82344" min="50" max="50" chance="100" /> <!-- Tales of Dimensions -->
 		</capsuled_items>
 	</item>
 	<item id="60379" name="Season Reward Chest" type="EtcItem">

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/DailyMission.xsd">
+	<!--
+		1000 - 1099 охота на монстров
+		1100 - 1104 рыбная ловля
+		2000 - 2049 РБ
+		2050 - 2100 Инстансы (камалока)
+		3001 - 3005 Достяжение уровня
+		4101 - 4200 Использование предмета
+	-->
 	<reward id="1000" name="Охота на монстров до 40 уровня" requiredCompletion="1000" isOneTime="false">
 		<handler name="monster">
 			<param name="minLevel">6</param>
@@ -8,7 +16,7 @@
 		<items>
 			<item id="-200" count="100" /> <!-- Репутация клана -->
 			<item id="-300" count="300" /> <!-- Личные очки клана -->
-			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
+			<item id="21235" count="1" /><!-- Парное Молоко -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -20,7 +28,7 @@
 		<items>
 			<item id="-200" count="130" /> <!-- Репутация клана -->
 			<item id="-300" count="400" /> <!-- Личные очки клана -->
-			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
+			<item id="21235" count="1" /><!-- Парное Молоко -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -32,7 +40,7 @@
 		<items>
 			<item id="-200" count="170" /> <!-- Репутация клана -->
 			<item id="-300" count="500" /> <!-- Личные очки клана -->
-			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
+			<item id="21235" count="1" /><!-- Парное Молоко -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -44,7 +52,7 @@
 		<items>
 			<item id="-200" count="200" /> <!-- Репутация клана -->
 			<item id="-300" count="700" /> <!-- Личные очки клана -->
-			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
+			<item id="21235" count="1" /><!-- Парное Молоко -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -56,7 +64,7 @@
 		<items>
 			<item id="-200" count="220" /> <!-- Репутация клана -->
 			<item id="-300" count="850" /> <!-- Личные очки клана -->
-			<item id="81012" count="1" /> <!-- Особый Коктейль Императора -->
+			<item id="21235" count="1" /><!-- Парное Молоко -->
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
@@ -120,6 +128,74 @@
 			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
 		</items>
 	</reward>
+
+	<reward id="1100" name="Fishing" requiredCompletion="100" isOneTime="false">
+		<handler name="fishing">
+			<param name="minLevel">20</param>
+			<param name="maxLevel">39</param>
+		</handler>
+		<items>
+			<item id="-200" count="100" />
+			<item id="-300" count="500" />
+			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
+		</items>
+	</reward>
+	<reward id="1101" name="Fishing" requiredCompletion="100" isOneTime="false">
+		<handler name="fishing">
+			<param name="minLevel">40</param>
+			<param name="maxLevel">51</param>
+		</handler>
+		<items>
+			<item id="-200" count="120" />
+			<item id="-300" count="600" />
+			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
+		</items>
+	</reward>
+	<reward id="1102" name="Fishing" requiredCompletion="100" isOneTime="false">
+		<handler name="fishing">
+			<param name="minLevel">52</param>
+			<param name="maxLevel">61</param>
+		</handler>
+		<items>
+			<item id="-200" count="140" />
+			<item id="-300" count="750" />
+			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
+		</items>
+	</reward>
+	<reward id="1103" name="Fishing" requiredCompletion="100" isOneTime="false">
+		<handler name="fishing">
+			<param name="minLevel">62</param>
+			<param name="maxLevel">75</param>
+		</handler>
+		<items>
+			<item id="-200" count="160" />
+			<item id="-300" count="900" />
+			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
+		</items>
+	</reward>
+	<reward id="1104" name="Fishing" requiredCompletion="100" isOneTime="false">
+		<handler name="fishing">
+			<param name="minLevel">76</param>
+			<param name="maxLevel">84</param>
+		</handler>
+		<items>
+			<item id="-200" count="180" />
+			<item id="-300" count="1000" />
+			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
+		</items>
+	</reward>
+	<reward id="1105" name="Fishing" requiredCompletion="100" isOneTime="false">
+		<handler name="fishing">
+			<param name="minLevel">85</param>
+			<param name="maxLevel">255</param>
+		</handler>
+		<items>
+			<item id="-200" count="220" />
+			<item id="-300" count="1000" />
+			<item id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
+		</items>
+	</reward>
+
 
 	<reward id="2001" name="Успешный рейд до 40 уровня" requiredCompletion="1" isOneTime="false">
 		<!-- 25378 Зверь Безумия (20) -->
@@ -239,21 +315,125 @@
 			<item id="-300" count="210" /> <!-- Личные очки клана -->
 		</items>
 	</reward>
-	<!-- 
-	<reward id="1104" name="Fishing" requiredCompletion="100" isOneTime="false">
-		<handler name="fishing">
-			<param name="minLevel">85</param>
+
+	<reward id="3001" name="Достигнуть 20 уровня" requiredCompletion="20" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">20</param>
+		</handler>
+		<items>
+			<item id="-200" count="300" />
+			<item id="-300" count="3000" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+	<reward id="3002" name="Достигнуть 40 уровня" requiredCompletion="40" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">40</param>
+		</handler>
+		<items>
+			<item id="-200" count="600" />
+			<item id="-300" count="5000" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+	<reward id="3003" name="Достигнуть 50 уровня" requiredCompletion="50" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">50</param>
+		</handler>
+		<items>
+			<item id="-200" count="800" />
+			<item id="-300" count="6500" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+	<reward id="3004" name="Достигнуть 60 уровня" requiredCompletion="60" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">60</param>
+		</handler>
+		<items>
+			<item id="-200" count="1000" />
+			<item id="-300" count="8000" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+	<reward id="3005" name="Достигнуть 70 уровня" requiredCompletion="70" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
+		<handler name="level">
+			<param name="level">70</param>
+		</handler>
+		<items>
+			<item id="-200" count="1200" />
+			<item id="-300" count="10000" />
+			<item id="22474" count="1" />
+		</items>
+	</reward>
+
+	<reward id="4101" name="Сила Свитка Фреи" requiredCompletion="24" isOneTime="false">
+		<handler name="useitem">
+			<param name="itemIds">40227,40231,47382,27673,47428,81054,81140</param>
+			<param name="minLevel">1</param>
 			<param name="maxLevel">255</param>
 		</handler>
 		<items>
-			<item id="-200" count="220" /> 
-			<item id="-300" count="1000" /> 
-			<item id="82305" count="1" /> 
-			<item id="82155" count="1" /> 
+			<item id="-200" count="25" />
+			<item id="-300" count="250" />
 		</items>
-	</reward> 
-	-->
-	<!-- 
+	</reward>
+	<reward id="4102" name="Сила ледяной розы Фреи" requiredCompletion="8" isOneTime="false">
+		<handler name="useitem">
+			<param name="itemIds">48830,80441,80442,29789,48848,60000,80612</param>
+			<param name="minLevel">1</param>
+			<param name="maxLevel">255</param>
+		</handler>
+		<items>
+			<item id="-200" count="25" />
+			<item id="-300" count="250" />
+		</items>
+	</reward>
+	<reward id="4103" name="Сила зелья дракона" requiredCompletion="8" isOneTime="false">
+		<handler name="useitem">
+			<param name="itemIds">29776,48497,48755,48857,60182,60186,80748,81759</param>
+			<param name="minLevel">1</param>
+			<param name="maxLevel">255</param>
+		</handler>
+		<items>
+			<item id="-200" count="25" />
+			<item id="-300" count="250" />
+		</items>
+	</reward>
+	<reward id="4104" name="Сила Медового пива" requiredCompletion="8" isOneTime="false">
+		<handler name="useitem">
+			<param name="itemIds">60179,80747,80842,81011,81460,81747</param>
+			<param name="minLevel">1</param>
+			<param name="maxLevel">255</param>
+		</handler>
+		<items>
+			<item id="-200" count="25" />
+			<item id="-300" count="250" />
+		</items>
+	</reward>
+	<reward id="4105" name="Сила специального коктейля" requiredCompletion="4" isOneTime="false">
+		<handler name="useitem">
+			<param name="itemIds">29791,80061,80062,80063,80435,80436,80437,80438,80439,80440,80753,80754,80755,80817,80818,80819,80820,80832,81012</param>
+			<param name="minLevel">1</param>
+			<param name="maxLevel">255</param>
+		</handler>
+		<items>
+			<item id="-200" count="25" />
+			<item id="-300" count="250" />
+		</items>
+	</reward>
+	<reward id="4106" name="Часы Невита" requiredCompletion="8" isOneTime="false">
+		<handler name="useitem">
+			<param name="itemIds">48642,60183,60187,80797,80852,81013,81892</param>
+			<param name="minLevel">1</param>
+			<param name="maxLevel">255</param>
+		</handler>
+		<items>
+			<item id="-200" count="25" />
+			<item id="-300" count="250" />
+		</items>
+	</reward>
+	<!--
 	<reward id="1105" name="Attempt Augmenting" requiredCompletion="5" isOneTime="false">
 		<handler name="augment">
 			<param name="minLevel">85</param>
@@ -1149,56 +1329,7 @@
 		</items>
 	</reward> 
 	-->
-	<reward id="3001" name="Достигнуть 20 уровня" requiredCompletion="20" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
-		<handler name="level">
-			<param name="level">20</param>
-		</handler>
-		<items>
-			<item id="-200" count="300" /> 
-			<item id="-300" count="3000" /> 
-			<item id="22474" count="1" />
-		</items>
-	</reward>
-	<reward id="3002" name="Достигнуть 40 уровня" requiredCompletion="40" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
-		<handler name="level">
-			<param name="level">40</param>
-		</handler>
-		<items>
-			<item id="-200" count="600" />
-			<item id="-300" count="5000" />
-			<item id="22474" count="1" />
-		</items>
-	</reward>
-	<reward id="3003" name="Достигнуть 50 уровня" requiredCompletion="50" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
-		<handler name="level">
-			<param name="level">50</param>
-		</handler>
-		<items>
-			<item id="-200" count="800" />
-			<item id="-300" count="6500" />
-			<item id="22474" count="1" />
-		</items>
-	</reward>
-	<reward id="3004" name="Достигнуть 60 уровня" requiredCompletion="60" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
-		<handler name="level">
-			<param name="level">60</param>
-		</handler>
-		<items>
-			<item id="-200" count="1000" />
-			<item id="-300" count="8000" />
-			<item id="22474" count="1" />
-		</items>
-	</reward>
-	<reward id="3005" name="Достигнуть 70 уровня" requiredCompletion="70" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
-		<handler name="level">
-			<param name="level">70</param>
-		</handler>
-		<items>
-			<item id="-200" count="1200" />
-			<item id="-300" count="10000" />
-			<item id="22474" count="1" />
-		</items>
-	</reward>
+
 	<!-- 
 	<reward id="3202" name="Main Class - Basic Enhancement 2" requiredCompletion="100" isMainClassOnly="true" isDualClassOnly="false" dailyReset="false">
 		<handler name="level">
@@ -1723,82 +1854,8 @@
 		</items>
 	</reward> 
 	-->
-	<reward id="4101" name="Сила Свитка Фреи" requiredCompletion="24" isOneTime="false">
-		<handler name="useitem">
-			<param name="itemIds">40227,40231,47382,27673,47428,81054,81140</param>
-			<param name="minLevel">1</param>
-			<param name="maxLevel">255</param>
-		</handler>
-		<items>
-			<item id="-200" count="25" /> 
-			<item id="-300" count="250" /> 
-		</items>
-	</reward>
-	<!-- 
-	<reward id="4103" name="Power of Freya's Ice Rose" requiredCompletion="8" isOneTime="false">
-		<handler name="useitem">
-			<param name="itemIds">48830,80441,80442,29789,48848,60000,80612</param>
-			<param name="minLevel">85</param>
-			<param name="maxLevel">255</param>
-		</handler>
-		<items>
-			<item id="-200" count="25" /> 
-			<item id="-300" count="250" /> 
-		</items>
-	</reward> 
-	-->
-	<!--
-	<reward id="4104" name="Power of Glowing Dragon's Attribute Potion" requiredCompletion="8" isOneTime="false">
-		<handler name="useitem">
-			<param name="itemIds">29776,48497,48755,48857,60182,60186,80748,81759</param>
-			<param name="minLevel">85</param>
-			<param name="maxLevel">255</param>
-		</handler>
-		<items>
-			<item id="-200" count="25" /> 
-			<item id="-300" count="250" /> 
-		</items>
-	</reward>
-	-->
-	<!-- 
-	<reward id="4105" name="Power of Honey Dark Beer" requiredCompletion="8" isOneTime="false">
-		<handler name="useitem">
-			<param name="itemIds">60179,80747,80842,81011,81460,81747</param>
-			<param name="minLevel">85</param>
-			<param name="maxLevel">255</param>
-		</handler>
-		<items>
-			<item id="-200" count="25" /> 
-			<item id="-300" count="250" /> 
-		</items>
-	</reward> 
-	-->
-	<!-- 
-	<reward id="4106" name="Power of Emperor's Special Cocktail" requiredCompletion="4" isOneTime="false">
-		<handler name="useitem">
-			<param name="itemIds">29791,80061,80062,80063,80435,80436,80437,80438,80439,80440,80753,80754,80755,80817,80818,80819,80820,80832,81012</param>
-			<param name="minLevel">85</param>
-			<param name="maxLevel">255</param>
-		</handler>
-		<items>
-			<item id="-200" count="25" /> 
-			<item id="-300" count="250" /> 
-		</items>
-	</reward> 
-	-->
-	<!-- 
-	<reward id="4107" name="Nevit's Hourglass" requiredCompletion="8" isOneTime="false">
-		<handler name="useitem">
-			<param name="itemIds">48642,60183,60187,80797,80852,81013,81892</param>
-			<param name="minLevel">85</param>
-			<param name="maxLevel">255</param>
-		</handler>
-		<items>
-			<item id="-200" count="25" /> 
-			<item id="-300" count="250" /> 
-		</items>
-	</reward> 
-	-->
+
+
 	<!-- 
 	<reward id="4108" name="Time Stone" requiredCompletion="3" isOneTime="false">
 		<handler name="useitem">

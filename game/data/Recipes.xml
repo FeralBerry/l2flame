@@ -12844,16 +12844,14 @@
 	</recipe>
 	<recipe id="776" name="mk_racoon_ear" level="4" itemId="7689" successRate="100" isCommonRecipe="true">
 		<materials>
-			<item id="7689" count="1" /> <!-- Recipe: Raccoon Ears (100%) -->
-			<item id="7684" count="10" /> <!-- Raccoon Ear Fabric -->
-			<item id="36516" count="250" /> <!-- Corroded Worn Leather -->
-			<item id="36521" count="49" /> <!-- Corroded Iron Ore -->
-			<item id="36526" count="136" /> <!-- Corroded Fiber -->
-			<item id="36536" count="63" /> <!-- Corroded Worn Leather Braid -->
-			<item id="36541" count="45" /> <!-- Corroded Steel Wire -->
-			<item id="36531" count="84" /> <!-- Corroded Thread -->
-			<item id="36561" count="29" /> <!-- Corroded Cokes -->
-			<item id="34994" count="2000" /> <!-- Gemstone -->
+			<item id="7689" count="1" /> <!-- Рецепт: Ушки Енота (100%) -->
+			<item id="7684" count="10" /> <!-- Материя для Ушек Енота -->
+            <item id="1882" count="250" /> <!-- Кожа -->
+			<item id="1866" count="130" /> <!-- Замша -->
+			<item id="1868" count="60" /> <!-- Нитки -->
+			<item id="1865" count="63" /> <!-- Лак -->
+			<item id="1889" count="45" /> <!-- Прочный шнурок -->
+			<item id="2130" count="150" /> <!-- Самоцвет: Ранг D -->
 		</materials>
 		<product>
 			<item id="7680" count="1" chance="100" /> <!-- Raccoon Ears -->
@@ -12864,10 +12862,12 @@
 	</recipe>
 	<recipe id="777" name="mk_outlaw_eyepatch" level="4" itemId="7690" successRate="100" isCommonRecipe="true">
 		<materials>
-			<item id="7690" count="1" /> <!-- Recipe: Outlaw's Eyepatch (100%) -->
-			<item id="7685" count="1" /> <!-- Outlaw's Eyepatch Strap -->
-			<item id="45489" count="33" /> <!-- Crafted Fish -->
-			<item id="45490" count="2" /> <!-- Fish Pearl -->
+			<item id="7690" count="1" /> <!-- Рецепт: Глазная Повязка Разбойника (100%) -->
+			<item id="7685" count="10" /> <!-- Лента для Глазной Повязки Разбойника -->
+            <item id="1882" count="70" /> <!-- Кожа -->
+            <item id="1866" count="65" /> <!-- Замша -->
+            <item id="1889" count="20" /> <!-- Прочный шнурок -->
+            <item id="2130" count="50" /> <!-- Самоцвет: Ранг D -->
 		</materials>
 		<product>
 			<item id="7681" count="1" chance="100" /> <!-- Outlaw's Eyepatch -->
@@ -12878,10 +12878,12 @@
 	</recipe>
 	<recipe id="778" name="mk_maidens_hairpin" level="4" itemId="7691" successRate="100" isCommonRecipe="true">
 		<materials>
-			<item id="7691" count="1" /> <!-- Recipe: Maiden's Hairpin (100%) -->
-			<item id="7686" count="1" /> <!-- Maiden's Hairpin Fragment -->
-			<item id="45489" count="33" /> <!-- Crafted Fish -->
-			<item id="45490" count="2" /> <!-- Fish Pearl -->
+			<item id="7691" count="1" /> <!-- Рецепт: Заколка Девы (100%) -->
+			<item id="7686" count="10" /> <!-- Часть Заколки Девы -->
+            <item id="1882" count="70" /> <!-- Кожа -->
+            <item id="1866" count="65" /> <!-- Замша -->
+            <item id="1889" count="20" /> <!-- Прочный шнурок -->
+            <item id="2130" count="50" /> <!-- Самоцвет: Ранг D -->
 		</materials>
 		<product>
 			<item id="7682" count="1" chance="100" /> <!-- Maiden's Hairpin -->
@@ -12892,16 +12894,14 @@
 	</recipe>
 	<recipe id="779" name="mk_rabbit_ear" level="4" itemId="7692" successRate="100" isCommonRecipe="true">
 		<materials>
-			<item id="7692" count="1" /> <!-- Recipe: Rabbit Ears (100%) -->
-			<item id="7687" count="10" /> <!-- Rabbit Ear Fabric -->
-			<item id="36516" count="250" /> <!-- Corroded Worn Leather -->
-			<item id="36521" count="49" /> <!-- Corroded Iron Ore -->
-			<item id="36526" count="136" /> <!-- Corroded Fiber -->
-			<item id="36536" count="63" /> <!-- Corroded Worn Leather Braid -->
-			<item id="36541" count="45" /> <!-- Corroded Steel Wire -->
-			<item id="36531" count="84" /> <!-- Corroded Thread -->
-			<item id="36561" count="29" /> <!-- Corroded Cokes -->
-			<item id="34994" count="2000" /> <!-- Gemstone -->
+			<item id="7692" count="1" /> <!-- Рецепт: Ушки Кролика (100%) -->
+			<item id="7687" count="10" /> <!-- Материя для Ушек Кролика -->
+            <item id="1882" count="250" /> <!-- Кожа -->
+            <item id="1866" count="130" /> <!-- Замша -->
+            <item id="1868" count="60" /> <!-- Нитки -->
+            <item id="1865" count="63" /> <!-- Лак -->
+            <item id="1889" count="45" /> <!-- Прочный шнурок -->
+            <item id="2130" count="150" /> <!-- Самоцвет: Ранг D -->
 		</materials>
 		<product>
 			<item id="7683" count="1" chance="100" /> <!-- Rabbit Ears -->
@@ -12912,16 +12912,14 @@
 	</recipe>
 	<recipe id="780" name="mk_cat_ear" level="4" itemId="7693" successRate="100" isCommonRecipe="true">
 		<materials>
-			<item id="7693" count="1" /> <!-- Recipe: Cat Ears (100%) -->
-			<item id="7688" count="10" /> <!-- Cat Ear Fabric -->
-			<item id="36516" count="250" /> <!-- Corroded Worn Leather -->
-			<item id="36521" count="49" /> <!-- Corroded Iron Ore -->
-			<item id="36526" count="136" /> <!-- Corroded Fiber -->
-			<item id="36536" count="63" /> <!-- Corroded Worn Leather Braid -->
-			<item id="36541" count="45" /> <!-- Corroded Steel Wire -->
-			<item id="36531" count="84" /> <!-- Corroded Thread -->
-			<item id="36561" count="29" /> <!-- Corroded Cokes -->
-			<item id="34994" count="2000" /> <!-- Gemstone -->
+			<item id="7693" count="1" /> <!-- Рецепт: Кошачьи Ушки (100%) -->
+			<item id="7688" count="10" /> <!-- Материя для Кошачьих Ушек -->
+            <item id="1882" count="250" /> <!-- Кожа -->
+            <item id="1866" count="130" /> <!-- Замша -->
+            <item id="1868" count="60" /> <!-- Нитки -->
+            <item id="1865" count="63" /> <!-- Лак -->
+            <item id="1889" count="45" /> <!-- Прочный шнурок -->
+            <item id="2130" count="150" /> <!-- Самоцвет: Ранг D -->
 		</materials>
 		<product>
 			<item id="6843" count="1" chance="100" /> <!-- Cat Ears -->
@@ -12932,10 +12930,12 @@
 	</recipe>
 	<recipe id="781" name="mk_forget_me_not_hairpin" level="4" itemId="7699" successRate="100" isCommonRecipe="true">
 		<materials>
-			<item id="7699" count="1" /> <!-- Recipe: Forget-me-not Hairpin (100%) -->
-			<item id="7697" count="1" /> <!-- Forget-me-not Hairpin Fragment -->
-			<item id="45489" count="33" /> <!-- Crafted Fish -->
-			<item id="45490" count="2" /> <!-- Fish Pearl -->
+			<item id="7699" count="1" /> <!-- Рецепт: Заколка Незабудка (100%) -->
+			<item id="7697" count="10" /> <!-- Часть Заколки Незабудки -->
+            <item id="1882" count="70" /> <!-- Кожа -->
+            <item id="1866" count="65" /> <!-- Замша -->
+            <item id="1889" count="20" /> <!-- Прочный шнурок -->
+            <item id="2130" count="50" /> <!-- Самоцвет: Ранг D -->
 		</materials>
 		<product>
 			<item id="7695" count="1" chance="100" /> <!-- Forget-me-not Hairpin -->
@@ -12946,10 +12946,12 @@
 	</recipe>
 	<recipe id="782" name="mk_daisy_hairpin" level="4" itemId="7700" successRate="100" isCommonRecipe="true">
 		<materials>
-			<item id="7700" count="1" /> <!-- Recipe: Daisy Hairpin (100%) -->
-			<item id="7698" count="1" /> <!-- Piece of Daisy Hairpin -->
-			<item id="45489" count="33" /> <!-- Crafted Fish -->
-			<item id="45490" count="2" /> <!-- Fish Pearl -->
+			<item id="7700" count="1" /> <!-- Рецепт: Заколка Маргаритка (100%) -->
+			<item id="7698" count="10" /> <!-- Часть Заколки Маргаритки -->
+            <item id="1882" count="70" /> <!-- Кожа -->
+            <item id="1866" count="65" /> <!-- Замша -->
+            <item id="1889" count="20" /> <!-- Прочный шнурок -->
+            <item id="2130" count="50" /> <!-- Самоцвет: Ранг D -->
 		</materials>
 		<product>
 			<item id="7696" count="1" chance="100" /> <!-- Daisy Hairpin -->

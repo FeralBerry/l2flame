@@ -1,0 +1,131 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+    <npcs>
+        <npc>30435</npc> <!-- Leopold -->
+    </npcs>
+    <item>
+        <ingredient id="813" count="1" /> <!-- Каменное сердце -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="1034" count="1" /> <!-- Кукла -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="1077" count="1" /> <!-- Мешок с ядом -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="1359" count="1" /> <!-- Красный камень -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="1360" count="1" /> <!-- Синий камень -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="1361" count="1" /> <!-- Черный камень -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="813" count="50" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="50" /> <!-- Кукла -->
+        <ingredient id="1077" count="50" /> <!-- Мешок с ядом -->
+        <production id="1463" count="500"/><!-- Заряд Души: Ранг D -->
+    </item>
+    <item>
+        <ingredient id="1359" count="50" /> <!-- Красный камень -->
+        <ingredient id="1360" count="50" /> <!-- Синий камень -->
+        <ingredient id="1361" count="50" /> <!-- Черный камень -->
+        <production id="1463" count="500"/><!-- Заряд Души: Ранг D -->
+    </item>
+    <item>
+        <ingredient id="1359" count="50" /> <!-- Красный камень -->
+        <ingredient id="1360" count="50" /> <!-- Синий камень -->
+        <ingredient id="1361" count="50" /> <!-- Черный камень -->
+        <production id="3948" count="200"/><!-- Заряд Души: Ранг D -->
+    </item>
+    <item>
+        <ingredient id="813" count="50" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="50" /> <!-- Кукла -->
+        <ingredient id="1077" count="50" /> <!-- Мешок с ядом -->
+        <production id="3948" count="200"/><!-- Заряд Души: Ранг D -->
+    </item>
+    <item>
+        <ingredient id="813" count="30" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="30" /> <!-- Кукла -->
+        <ingredient id="1077" count="30" /> <!-- Мешок с ядом -->
+        <production id="736" count="1"/><!-- Свиток Телепорта -->
+    </item>
+    <item>
+        <ingredient id="813" count="70" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="70" /> <!-- Кукла -->
+        <ingredient id="1077" count="70" /> <!-- Мешок с ядом -->
+        <production id="737" count="1"/><!-- Свиток Воскрешения -->
+    </item>
+    <item>
+        <ingredient id="813" count="20" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="20" /> <!-- Кукла -->
+        <ingredient id="1077" count="20" /> <!-- Мешок с ядом -->
+        <production id="1785" count="1"/><!-- Руда Души -->
+    </item>
+    <item>
+        <ingredient id="813" count="27" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="27" /> <!-- Кукла -->
+        <ingredient id="1077" count="27" /> <!-- Мешок с ядом -->
+        <production id="3031" count="1"/><!-- Руда Духов -->
+    </item>
+    <item>
+        <ingredient id="813" count="600" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="600" /> <!-- Кукла -->
+        <ingredient id="1077" count="600" /> <!-- Мешок с ядом -->
+        <ingredient id="1359" count="600" /> <!-- Красный камень -->
+        <ingredient id="1360" count="600" /> <!-- Синий камень -->
+        <ingredient id="1361" count="600" /> <!-- Черный камень -->
+        <production id="436" count="1"/><!-- Туника Знаний -->
+    </item>
+    <item>
+        <ingredient id="813" count="600" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="600" /> <!-- Кукла -->
+        <ingredient id="1077" count="600" /> <!-- Мешок с ядом -->
+        <ingredient id="1359" count="600" /> <!-- Красный камень -->
+        <ingredient id="1360" count="600" /> <!-- Синий камень -->
+        <ingredient id="1361" count="600" /> <!-- Черный камень -->
+        <production id="393" count="1"/><!-- Усиленнаф мифрилом броня -->
+    </item>
+    <item>
+        <ingredient id="813" count="600" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="600" /> <!-- Кукла -->
+        <ingredient id="1077" count="600" /> <!-- Мешок с ядом -->
+        <ingredient id="1359" count="600" /> <!-- Красный камень -->
+        <ingredient id="1360" count="600" /> <!-- Синий камень -->
+        <ingredient id="1361" count="600" /> <!-- Черный камень -->
+        <production id="58" count="1"/><!-- Мифриловая кираса -->
+    </item>
+    <item>
+        <ingredient id="813" count="400" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="400" /> <!-- Кукла -->
+        <ingredient id="1077" count="400" /> <!-- Мешок с ядом -->
+        <ingredient id="1359" count="400" /> <!-- Красный камень -->
+        <ingredient id="1360" count="400" /> <!-- Синий камень -->
+        <ingredient id="1361" count="400" /> <!-- Черный камень -->
+        <production id="415" count="1"/><!-- Усиленные мифрилом набедренники -->
+    </item>
+    <item>
+        <ingredient id="813" count="400" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="400" /> <!-- Кукла -->
+        <ingredient id="1077" count="400" /> <!-- Мешок с ядом -->
+        <ingredient id="1359" count="400" /> <!-- Красный камень -->
+        <ingredient id="1360" count="400" /> <!-- Синий камень -->
+        <ingredient id="1361" count="400" /> <!-- Черный камень -->
+        <production id="59" count="1"/><!-- Мифриловые Набедренники -->
+    </item>
+    <item>
+        <ingredient id="813" count="400" /> <!-- Каменное сердце -->
+        <ingredient id="1034" count="400" /> <!-- Кукла -->
+        <ingredient id="1077" count="400" /> <!-- Мешок с ядом -->
+        <ingredient id="1359" count="400" /> <!-- Красный камень -->
+        <ingredient id="1360" count="400" /> <!-- Синий камень -->
+        <ingredient id="1361" count="400" /> <!-- Черный камень -->
+        <production id="469" count="1"/><!-- Штаны Знаний -->
+    </item>
+</list>

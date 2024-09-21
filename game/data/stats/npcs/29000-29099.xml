@@ -23,7 +23,7 @@
 			</speed>
 			<hitTime>370</hitTime>
 		</stats>
-		<status undying="false" noSleepMode="true" />
+		<status undying="false" noSleepMode="true" randomWalk="false"/>
 		<skillList>
 			<skill id="4019" level="1" /> <!-- Decrease Speed -->
 			<skill id="4021" level="1" /> <!-- Queen Ant -->

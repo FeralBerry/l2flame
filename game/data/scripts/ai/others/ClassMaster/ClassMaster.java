@@ -336,8 +336,7 @@ public class ClassMaster extends AbstractNpcAI implements IXmlReader
 				{
 					return null;
 				}
-				
-				final int classId = Integer.parseInt(st.nextToken());
+				final int classId = Integer.parseInt(st.nextToken()); // id класса для смены из html
 				boolean canChange = false;
 				if ((player.isInCategory(CategoryType.SECOND_CLASS_GROUP) || player.isInCategory(CategoryType.FIRST_CLASS_GROUP)) && (player.getLevel() >= 40)) // In retail you can skip first occupation
 				{
@@ -363,7 +362,7 @@ public class ClassMaster extends AbstractNpcAI implements IXmlReader
 					{
 						classDataIndex = Integer.parseInt(st.nextToken());
 					}
-					
+					System.out.println(checkIfClassChangeHasOptions(player));
 					if (checkIfClassChangeHasOptions(player) && (classDataIndex == -1))
 					{
 						htmltext = getHtm(player, "cc_options.html");
@@ -382,7 +381,7 @@ public class ClassMaster extends AbstractNpcAI implements IXmlReader
 							{
 								if (player.getInventory().getInventoryItemCount(ri.getId(), -1) < ri.getCount())
 								{
-									player.sendMessage("You do not have enough items.");
+									player.sendMessage("У Вас нет необходимых предметов.");
 									return null; // No class change if payment failed.
 								}
 							}
@@ -602,6 +601,7 @@ public class ClassMaster extends AbstractNpcAI implements IXmlReader
 			}
 			else
 			{
+
 				switch (player.getClassId())
 				{
 					case FIGHTER:

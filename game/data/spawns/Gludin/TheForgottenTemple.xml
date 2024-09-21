@@ -426,4 +426,8 @@
     <spawn>
         <npc id="25098" x="-53855" y="179298" z="-4640" heading="16723" dbSave="true" dbName="Слуга Седжара (35)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Слуга Седжара (35) -->
     </spawn>
+    <!-- NPC -->
+    <spawn>
+        <npc id="30971" x="-53939" y="188216" z="-4664" heading="63813" respawnTime="60sec"/><!-- Орфеус -->
+    </spawn>
 </list>

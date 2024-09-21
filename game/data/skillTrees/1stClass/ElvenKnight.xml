@@ -3,6 +3,8 @@
 	<!-- Elven Knight -->
 	<skillTree type="classSkillTree" classId="19" parentClassId="18">
 		<!-- Confirmed CT2.4 -->
+		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="1" getLevel="20" levelUpSp="10000" learnedByNpc="true" />
+
 		<skill skillName="Charm" skillId="15" skillLevel="1" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="2" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
 		<skill skillName="Charm" skillId="15" skillLevel="3" getLevel="20" levelUpSp="1400" learnedByNpc="true" />

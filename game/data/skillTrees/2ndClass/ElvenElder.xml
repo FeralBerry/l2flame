@@ -47,7 +47,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="16" getLevel="44" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="17" getLevel="44" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="18" getLevel="44" levelUpSp="13000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="2" getLevel="44" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="2" getLevel="44" levelUpSp="39000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="3" getLevel="44" levelUpSp="39000" learnedByNpc="true" />
 		<skill skillName="Inquisitor" skillId="1521" skillLevel="1" getLevel="44" levelUpSp="123000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="13" getLevel="44" levelUpSp="13000" learnedByNpc="true" />
@@ -119,7 +119,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="22" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="23" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="24" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="52" levelUpSp="77000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="52" levelUpSp="77000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="4" getLevel="52" levelUpSp="77000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="19" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="20" getLevel="52" levelUpSp="26000" learnedByNpc="true" />
@@ -198,7 +198,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="29" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="236" skillLevel="24" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="236" skillLevel="25" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="58" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="58" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="25" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="26" getLevel="58" levelUpSp="50000" learnedByNpc="true" />
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="10" getLevel="58" levelUpSp="33000" learnedByNpc="true" />
@@ -292,7 +292,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="35" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="236" skillLevel="30" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="236" skillLevel="31" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="64" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="64" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="31" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="32" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="18" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
@@ -445,7 +445,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="45" getLevel="74" levelUpSp="520000" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="236" skillLevel="40" getLevel="74" levelUpSp="520000" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="236" skillLevel="41" getLevel="74" levelUpSp="520000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="74" levelUpSp="1050000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="74" levelUpSp="1050000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="7" getLevel="74" levelUpSp="1050000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="41" getLevel="74" levelUpSp="520000" learnedByNpc="true" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="42" getLevel="74" levelUpSp="520000" learnedByNpc="true" />

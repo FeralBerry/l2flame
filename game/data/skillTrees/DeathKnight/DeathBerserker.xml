@@ -2,62 +2,211 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="214" parentClassId="213">
 		<!-- 40 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="6" getLevel="40" levelUpSp="28000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="1" getLevel="40" levelUpSp="40000" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="1" getLevel="40" levelUpSp="40000" />
 		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="2" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="6" getLevel="40" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="9" getLevel="40" levelUpSp="28000" learnedByNpc="true"/>
 		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="3" getLevel="40" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="9" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="10" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="11" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="16" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="17" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="18" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="15" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="16" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="17" getLevel="40" levelUpSp="9000" learnedByNpc="true" />
 		<!-- 43 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="7" getLevel="43" levelUpSp="29000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="3" getLevel="43" levelUpSp="38000" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="43" levelUpSp="38000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="7" getLevel="43" levelUpSp="29000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="10" getLevel="43" levelUpSp="29000" learnedByNpc="true"/>
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="12" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="13" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="14" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="19" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="20" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="21" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="18" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="19" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="20" getLevel="43" levelUpSp="9000" learnedByNpc="true" />
 		<!-- 46 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="8" getLevel="46" levelUpSp="30000" />
+		<skill skillName="Перевязка" skillId="34" skillLevel="2" getLevel="46" levelUpSp="60000" learnedByNpc="true" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="2" getLevel="46" levelUpSp="60000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="15" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="16" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="17" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="22" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="23" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="24" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="21" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="22" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="23" getLevel="46" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="8" getLevel="46" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="11" getLevel="46" levelUpSp="30000" learnedByNpc="true"/>
 		<!-- 49 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="9" getLevel="49" levelUpSp="61000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="2" getLevel="49" levelUpSp="61000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="18" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="19" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="20" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="25" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="26" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="27" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="24" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="25" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="26" getLevel="49" levelUpSp="19000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="9" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
 		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="3" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="12" getLevel="49" levelUpSp="61000" learnedByNpc="true"/>
 		<!-- 52 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="10" getLevel="52" levelUpSp="150000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="4" getLevel="52" levelUpSp="150000" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="52" levelUpSp="150000" learnedByNpc="true" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="3" getLevel="52" levelUpSp="100000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="21" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="22" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="23" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="28" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="29" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="30" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="27" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="28" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="29" getLevel="52" levelUpSp="31000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="10" getLevel="52" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="13" getLevel="52" levelUpSp="88000" learnedByNpc="true"/>
 		<!-- 55 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="11" getLevel="55" levelUpSp="116000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="24" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="25" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="26" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="31" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="32" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="33" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="30" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="31" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="32" getLevel="55" levelUpSp="37000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="11" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
 		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="4" getLevel="55" levelUpSp="116000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="14" getLevel="55" levelUpSp="116000" learnedByNpc="true"/>
 		<!-- 58 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="12" getLevel="58" levelUpSp="126000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="3" getLevel="58" levelUpSp="150000" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="4" getLevel="58" levelUpSp="150000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="27" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="28" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="29" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="34" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="35" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="36" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="33" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="34" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="35" getLevel="58" levelUpSp="40000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="12" getLevel="58" levelUpSp="126000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="15" getLevel="58" levelUpSp="126000" learnedByNpc="true"/>
 		<!-- 60 lvl -->
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="1" getLevel="60" levelUpSp="181000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="13" getLevel="60" levelUpSp="181000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="5" getLevel="60" levelUpSp="181000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="30" getLevel="60" levelUpSp="73000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="31" getLevel="60" levelUpSp="73000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="37" getLevel="60" levelUpSp="73000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="38" getLevel="60" levelUpSp="73000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="36" getLevel="60" levelUpSp="73000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="37" getLevel="60" levelUpSp="73000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="13" getLevel="60" levelUpSp="181000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="16" getLevel="60" levelUpSp="181000" learnedByNpc="true"/>
 		<!-- 62 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="14" getLevel="62" levelUpSp="270000" />
+		<skill skillName="Перевязка" skillId="34" skillLevel="3" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="5" getLevel="62" levelUpSp="300000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="32" getLevel="62" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="33" getLevel="62" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="39" getLevel="62" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="40" getLevel="62" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="38" getLevel="62" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="39" getLevel="62" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="14" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="5" getLevel="62" levelUpSp="270000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="17" getLevel="62" levelUpSp="270000" learnedByNpc="true"/>
 		<!-- 64 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="15" getLevel="64" levelUpSp="300000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="4" getLevel="64" levelUpSp="300000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="34" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="35" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="41" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="42" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="40" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="41" getLevel="64" levelUpSp="110000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="15" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="18" getLevel="64" levelUpSp="300000" learnedByNpc="true"/>
 		<!-- 66 lvl -->
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="2" getLevel="66" levelUpSp="370000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="16" getLevel="66" levelUpSp="370000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="6" getLevel="66" levelUpSp="400000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="6" getLevel="66" levelUpSp="400000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="36" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="37" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="43" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="44" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="42" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="43" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="16" getLevel="66" levelUpSp="370000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="19" getLevel="66" levelUpSp="370000" learnedByNpc="true"/>
 		<!-- 68 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="17" getLevel="68" levelUpSp="460000" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="7" getLevel="68" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="38" getLevel="68" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="39" getLevel="68" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="45" getLevel="68" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="46" getLevel="68" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="44" getLevel="68" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="45" getLevel="68" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="17" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
 		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="6" getLevel="68" levelUpSp="460000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="20" getLevel="68" levelUpSp="460000" learnedByNpc="true"/>
 		<!-- 70 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="18" getLevel="70" levelUpSp="580000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="5" getLevel="70" levelUpSp="600000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="7" getLevel="70" levelUpSp="600000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="40" getLevel="70" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="41" getLevel="70" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="47" getLevel="70" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="48" getLevel="70" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="46" getLevel="70" levelUpSp="230000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="47" getLevel="70" levelUpSp="230000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="18" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="21" getLevel="70" levelUpSp="580000" learnedByNpc="true"/>
 		<!-- 72 lvl -->
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="3" getLevel="72" levelUpSp="710000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="19" getLevel="72" levelUpSp="710000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="7" getLevel="72" levelUpSp="800000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="8" getLevel="72" levelUpSp="800000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="42" getLevel="72" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="43" getLevel="72" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="49" getLevel="72" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="50" getLevel="72" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="48" getLevel="72" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="49" getLevel="72" levelUpSp="290000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="19" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="22" getLevel="72" levelUpSp="710000" learnedByNpc="true"/>
 		<!-- 74 lvl -->
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="20" getLevel="74" levelUpSp="1180000" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="8" getLevel="74" levelUpSp="1900000" learnedByNpc="true" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="9" getLevel="74" levelUpSp="1200000" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="44" getLevel="74" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="217" skillLevel="45" getLevel="74" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="51" getLevel="74" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="52" getLevel="74" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="50" getLevel="74" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Магическое Сопротивление" skillId="147" skillLevel="51" getLevel="74" levelUpSp="650000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="20" getLevel="74" levelUpSp="1180000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="23" getLevel="74" levelUpSp="1180000" learnedByNpc="true"/>
-
-
-		<!--<skill skillName="Death Sentence" skillId="30961" skillLevel="1" getLevel="20" />
-		<skill skillName="Fateful Assault" skillId="30972" skillLevel="1" getLevel="20" />-->
-		<!--<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="1" getLevel="1" autoGet="true" />
-                <skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="1" getLevel="1" autoGet="true" />
-                <skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="1" getLevel="1" autoGet="true" />-->
 	</skillTree>
 </list>

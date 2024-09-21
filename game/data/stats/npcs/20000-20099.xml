@@ -6851,7 +6851,7 @@
 			<height normal="14.5" grown="18" />
 		</collision>
 	</npc>
-	<npc id="20075" level="29" type="Monster" name="Ant Larva">
+	<npc id="20075" level="29" type="Monster" name="Личинка Муравья">
 		<parameters>
 			<param name="MoveAroundSocial" value="115" />
 			<param name="MoveAroundSocial1" value="115" />
@@ -7251,7 +7251,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20079" level="30" type="Monster" name="Ant">
+	<npc id="20079" level="30" type="Monster" name="Муравей">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -7264,7 +7264,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="1570" sp="86" />
+		<acquire exp="900" sp="90" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
 			<attack physical="92.64226" magical="63.26266" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7288,6 +7288,7 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 		</skillList>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="450">
@@ -7302,7 +7303,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="224" max="448" chance="100" /> <!-- Adena -->
+					<item id="57" min="600" max="720" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.9376">
 					<item id="848" min="1" max="1" chance="4.7174" /> <!-- Enchanted Earring -->
@@ -7327,7 +7328,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20080" level="31" type="Monster" name="Ant Captain">
+	<npc id="20080" level="31" type="Monster" name="Муравей Главарь">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -7340,7 +7341,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="1710" sp="95" />
+		<acquire exp="930" sp="93" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="635.76437" hpRegen="4.5" mp="343.8" mpRegen="1.8" />
 			<attack physical="99.21986" magical="67.7543" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7364,6 +7365,7 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 		</skillList>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
@@ -7378,7 +7380,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="243" max="485" chance="100" /> <!-- Adena -->
+					<item id="57" min="620" max="744" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0127">
 					<item id="259" min="1" max="1" chance="100" /> <!-- Single-Edged Jamadhr -->
@@ -7399,7 +7401,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20081" level="32" type="Monster" name="Ant Overseer">
+	<npc id="20081" level="32" type="Monster" name="Муравей Бригадир">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -7413,7 +7415,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="2880" sp="162" />
+		<acquire exp="1440" sp="144" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1336.909" hpRegen="4.5" mp="358.32" mpRegen="1.8" />
 			<attack physical="106.16525" magical="72.49711" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7440,8 +7442,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai clanHelpRange="300" aggroRange="450">
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai clanHelpRange="300" aggroRange="300" isAggressive="true">
 			<clanList>
 				<clan>ANT</clan>
 			</clanList>
@@ -7453,7 +7455,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="406" max="814" chance="100" /> <!-- Adena -->
+					<item id="57" min="960" max="1152" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.6998">
 					<item id="848" min="1" max="1" chance="4.7174" /> <!-- Enchanted Earring -->
@@ -7478,7 +7480,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20082" level="33" type="Monster" name="Ant Recruit">
+	<npc id="20082" level="33" type="Monster" name="Муравей Рекрут">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7492,7 +7494,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="1742" sp="100" />
+		<acquire exp="495" sp="50" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
 			<attack physical="113.49065" magical="77.49941" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7531,7 +7533,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="245" max="491" chance="100" /> <!-- Adena -->
+					<item id="57" min="330" max="396" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.7936">
 					<item id="553" min="1" max="1" chance="2.8426" /> <!-- Iron Boots -->
@@ -7678,7 +7680,7 @@
 			<height normal="31" grown="37.5" />
 		</collision>
 	</npc>
-	<npc id="20084" level="34" type="Monster" name="Ant Patrol">
+	<npc id="20084" level="34" type="Monster" name="Муравей Ищейка">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7693,7 +7695,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="2000" sp="116" />
+		<acquire exp="1020" sp="102" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
 			<attack physical="121.20802" magical="82.76936" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7718,9 +7720,10 @@
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4067" level="3" /> <!-- Blow -->
 		</skillList>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
 			<clanList>
 				<clan>ANT</clan>
 			</clanList>
@@ -7732,7 +7735,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="280" max="558" chance="100" /> <!-- Adena -->
+					<item id="57" min="680" max="816" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.146">
 					<item id="628" min="1" max="1" chance="58.8353" /> <!-- Hoplon -->
@@ -7873,7 +7876,7 @@
 			<height normal="31" grown="37.5" />
 		</collision>
 	</npc>
-	<npc id="20086" level="35" type="Monster" name="Ant Guard">
+	<npc id="20086" level="35" type="Monster" name="Муравей Страж">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7889,7 +7892,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="1781" sp="106" />
+		<acquire exp="1575" sp="158" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="772.73802" hpRegen="4.5" mp="402.6" mpRegen="1.8" />
 			<attack physical="129.32896" magical="88.31491" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7914,6 +7917,7 @@
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4317" level="1" /> <!-- Increase Rage Might -->
 		</skillList>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="450">
@@ -7928,7 +7932,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="248" max="496" chance="100" /> <!-- Adena -->
+					<item id="57" min="1050" max="1260" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0695">
 					<item id="436" min="1" max="1" chance="38.4858" /> <!-- Tunic of Knowledge -->
@@ -7951,7 +7955,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20087" level="35" type="Monster" name="Ant Soldier">
+	<npc id="20087" level="35" type="Monster" name="Муравей Солдат">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -7965,7 +7969,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="4274" sp="253" />
+		<acquire exp="2100" sp="210" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1545.741" hpRegen="4.5" mp="402.6" mpRegen="1.8" />
 			<attack physical="129.32896" magical="88.31491" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -7992,7 +7996,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ANT</clan>
@@ -8005,7 +8009,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="596" max="1189" chance="100" /> <!-- Adena -->
+					<item id="57" min="1400" max="1680" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.0501">
 					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->
@@ -8033,7 +8037,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20088" level="36" type="Monster" name="Ant Warrior Captain">
+	<npc id="20088" level="36" type="Monster" name="Главарь Муравьев Солдат">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -8048,7 +8052,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="4763" sp="288" />
+		<acquire exp="2160" sp="216" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1618.927" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
 			<attack physical="137.86467" magical="94.1437" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -8075,7 +8079,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ANT</clan>
@@ -8088,7 +8092,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="662" max="1326" chance="100" /> <!-- Adena -->
+					<item id="57" min="1440" max="1728" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0224">
 					<item id="293" min="1" max="1" chance="50" /> <!-- War Hammer -->
@@ -8110,7 +8114,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20089" level="37" type="Monster" name="Noble Ant">
+	<npc id="20089" level="37" type="Monster" name="Элитный Муравей">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -8123,7 +8127,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="1991" sp="122" />
+		<acquire exp="1110" sp="111" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="847.31754" hpRegen="4.5" mp="432.72" mpRegen="1.8" />
 			<attack physical="146.82587" magical="100.26304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -8147,6 +8151,7 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 		</skillList>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<ai clanHelpRange="300" aggroRange="450">
@@ -8161,7 +8166,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="276" max="551" chance="100" /> <!-- Adena -->
+					<item id="57" min="740" max="888" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1277">
 					<item id="395" min="1" max="1" chance="0.8713" /> <!-- Manticore Skin Shirt -->
@@ -8187,7 +8192,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20090" level="38" type="Monster" name="Noble Ant Captain">
+	<npc id="20090" level="38" type="Monster" name="Главарь Элитных Муравьев">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -8201,7 +8206,7 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="4391" sp="274" />
+		<acquire exp="1710" sp="171" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="1772.24" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -8228,7 +8233,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ANT</clan>
@@ -8241,7 +8246,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="608" max="1214" chance="100" /> <!-- Adena -->
+					<item id="57" min="1140" max="1368" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.0089">
 					<item id="352" min="1" max="1" chance="0.5372" /> <!-- Brigandine Tunic -->

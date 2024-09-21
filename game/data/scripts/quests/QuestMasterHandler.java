@@ -28,6 +28,20 @@ import quests.Q00009_ZombieHunting.Q00009_ZombieHunting;
 import quests.Q00010_TheFirstChanges.Q00010_TheFirstChanges;
 import quests.Q00011_HelpMyBrother.Q00011_HelpMyBrother;
 import quests.Q00012_CleaningTheLake.Q00012_CleaningTheLake;
+import quests.Q00013_ANewFriend.Q00013_ANewFriend;
+import quests.Q00014_HelpingLeopoldWithLizards.Q00014_HelpingLeopoldWithLizards;
+import quests.Q00015_HelpingLeopoldWithMahums.Q00015_HelpingLeopoldWithMahums;
+import quests.Q00016_HelpHuntROA.Q00016_HelpHuntROA;
+import quests.Q00017_TravelMemories.Q00017_TravelMemories;
+import quests.Q00018_ASuspiciousDoctor.Q00018_ASuspiciousDoctor;
+import quests.Q00019_ASuspiciousDoctorPart2.Q00019_ASuspiciousDoctorPart2;
+import quests.Q00020_ASuspiciousDoctorPart3.Q00020_ASuspiciousDoctorPart3;
+import quests.Q00050_TestimonyOfTrust.Q00050_TestimonyOfTrust;
+import quests.Q00051_TheTrialsOfLife.Q00051_TheTrialsOfLife;
+import quests.Q00052_TheTrialsOfFate.Q00052_TheTrialsOfFate;
+import quests.Q00053_TheTestOfGlory.Q00053_TheTestOfGlory;
+import quests.Q00054_TheTestOfSuccess.Q00054_TheTestOfSuccess;
+import quests.Q00055_TheTestOfSkill.Q00055_TheTestOfSkill;
 import quests.Q00500_BrothersBoundInChains.Q00500_BrothersBoundInChains;
 import quests.Q00511_AwlUnderFoot.Q00511_AwlUnderFoot;
 import quests.Q00512_BladeUnderFoot.Q00512_BladeUnderFoot;
@@ -99,6 +113,25 @@ public class QuestMasterHandler
 		Q00010_TheFirstChanges.class,
 		Q00011_HelpMyBrother.class,
 		Q00012_CleaningTheLake.class,
+		Q00013_ANewFriend.class,
+		Q00014_HelpingLeopoldWithLizards.class,
+		Q00015_HelpingLeopoldWithMahums.class,
+		Q00016_HelpHuntROA.class,
+		Q00017_TravelMemories.class,
+		Q00018_ASuspiciousDoctor.class,
+		Q00019_ASuspiciousDoctorPart2.class,
+		Q00020_ASuspiciousDoctorPart3.class,
+			// Квесты на 2 профессию марка расы
+			Q00050_TestimonyOfTrust.class,
+			Q00051_TheTrialsOfLife.class,
+			Q00052_TheTrialsOfFate.class,
+			Q00053_TheTestOfGlory.class,
+			Q00054_TheTestOfSuccess.class,
+			Q00055_TheTestOfSkill.class,
+			//Q00056_TheTestOfWisdom.class,
+			// Квесты на 2 профессию классовые
+
+			//
 		Q00500_BrothersBoundInChains.class,
 		Q00504_CompetitionForTheBanditStronghold.class, // TODO: Not done.
 		Q00511_AwlUnderFoot.class,

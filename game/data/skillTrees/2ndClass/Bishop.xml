@@ -40,7 +40,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="16" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="17" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="18" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="2" getLevel="44" levelUpSp="43000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="2" getLevel="44" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="3" getLevel="44" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="4" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="5" getLevel="44" levelUpSp="14000" learnedByNpc="true" />
@@ -115,7 +115,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="22" getLevel="52" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="23" getLevel="52" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="24" getLevel="52" levelUpSp="28000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="52" levelUpSp="84000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="52" levelUpSp="84000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="4" getLevel="52" levelUpSp="84000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="10" getLevel="52" levelUpSp="28000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="11" getLevel="52" levelUpSp="28000" learnedByNpc="true" />
@@ -202,7 +202,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="29" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
 		<skill skillName="Cure Poison" skillId="1012" skillLevel="3" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Erase" skillId="1395" skillLevel="2" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="16" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="17" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="16" getLevel="58" levelUpSp="44000" learnedByNpc="true" />
@@ -306,7 +306,7 @@
 		<skill skillName="Body of Avatar" skillId="1311" skillLevel="4" getLevel="64" levelUpSp="190000" learnedByNpc="true" />
 		<skill skillName="Celestial Shield" skillId="1418" skillLevel="1" getLevel="64" levelUpSp="190000" learnedByNpc="true" />
 		<skill skillName="Erase" skillId="1395" skillLevel="5" getLevel="64" levelUpSp="190000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="64" levelUpSp="190000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="64" levelUpSp="190000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="22" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="23" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="22" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
@@ -475,7 +475,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="44" getLevel="74" levelUpSp="440000" learnedByNpc="true" />
 		<skill skillName="Anti Magic" skillId="146" skillLevel="45" getLevel="74" levelUpSp="440000" learnedByNpc="true" />
 		<skill skillName="Erase" skillId="1395" skillLevel="10" getLevel="74" levelUpSp="880000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="74" levelUpSp="880000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="74" levelUpSp="880000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="7" getLevel="74" levelUpSp="880000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="32" getLevel="74" levelUpSp="440000" learnedByNpc="true" />
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="33" getLevel="74" levelUpSp="440000" learnedByNpc="true" />

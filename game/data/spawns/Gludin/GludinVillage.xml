@@ -85,4 +85,7 @@
 			<npc id="33946" x="-80772" y="149513" z="-3045" heading="15640" respawnTime="60sec" /> <!-- Adventure Guildsman -->
 		</group>
 	</spawn>
+	<spawn>
+		<npc id="30410" x="-56281" y="209759" z="-3728" heading="0" respawnTime="60sec" />
+	</spawn>
 </list>

@@ -602,16 +602,18 @@
 		<skill skillName="Ясная Цель" skillId="1901" skillLevel="1" getLevel="1" />
 		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="4" getLevel="76" />
 		<skill skillName="Блокировать Силу Сигеля" skillId="1946" skillLevel="1" getLevel="10" />
-
-
-
-
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="15" getLevel="85" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="8" getLevel="74" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="10" getLevel="84" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="8" getLevel="84" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="26" getLevel="85" />
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="8" getLevel="84" />
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="10" getLevel="85" />
 
 		<skill skillName="Superior Sword Mastery" skillId="30981" skillLevel="1" getLevel="1" />
 		<skill skillName="Великое Владение Тяжелой Броней" skillId="30982" skillLevel="1" getLevel="1" />
 		<skill skillName="Superior Elemental Mastery" skillId="30983" skillLevel="1" getLevel="1" />
-		<skill skillName="Death Sentence" skillId="30961" skillLevel="1" getLevel="40" />
-		<skill skillName="Fateful Assault" skillId="30972" skillLevel="1" getLevel="40" />
-		<skill skillName="Pursuing Curse" skillId="30960" skillLevel="2" getLevel="76" />
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="1" getLevel="40" />
+
 	</skillTree>
 </list>

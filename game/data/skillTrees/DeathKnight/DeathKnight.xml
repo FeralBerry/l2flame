@@ -2,25 +2,62 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="215" parentClassId="214">
 		<!-- 76 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="1" getLevel="76" levelUpSp="2000000" />
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="4" getLevel="76" levelUpSp="2000000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="21" getLevel="76" levelUpSp="2000000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="6" getLevel="76" levelUpSp="2000000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="8" getLevel="76" levelUpSp="2000000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="10" getLevel="76" levelUpSp="2000000" />
 		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="3" getLevel="76" levelUpSp="1250000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="21" getLevel="76" levelUpSp="1250000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="24" getLevel="76" levelUpSp="1250000" learnedByNpc="true"/>
 		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="4" getLevel="76" levelUpSp="2000000" learnedByNpc="true" />
 		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="7" getLevel="76" levelUpSp="2000000" learnedByNpc="true" />
+		<!-- 77 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="2" getLevel="77" levelUpSp="2000000" />
 		<!-- 78 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="3" getLevel="78" levelUpSp="1400000" />
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="5" getLevel="78" levelUpSp="1400000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="22" getLevel="78" levelUpSp="1400000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="11" getLevel="78" levelUpSp="2200000" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="22" getLevel="78" levelUpSp="1400000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="25" getLevel="78" levelUpSp="1400000" learnedByNpc="true"/>
+		<!-- 79 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="4" getLevel="79" levelUpSp="1400000" />
 		<!-- 80 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="5" getLevel="80" levelUpSp="1600000" />
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="6" getLevel="80" levelUpSp="1600000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="23" getLevel="80" levelUpSp="1600000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="7" getLevel="80" levelUpSp="2500000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="9" getLevel="80" levelUpSp="2500000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="12" getLevel="80" levelUpSp="2500000" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="23" getLevel="80" levelUpSp="1600000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="26" getLevel="80" levelUpSp="1600000" learnedByNpc="true"/>
+		<!-- 81 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="6" getLevel="81" levelUpSp="1600000" />
 		<!-- 82 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="7" getLevel="82" levelUpSp="1800000" />
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="7" getLevel="82" levelUpSp="1800000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="24" getLevel="82" levelUpSp="1800000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="13" getLevel="82" levelUpSp="2900000" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="24" getLevel="82" levelUpSp="1800000" learnedByNpc="true" />
 		<skill skillName="Присутствие Духа" skillId="30950" skillLevel="8" getLevel="82" levelUpSp="2500000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="27" getLevel="82" levelUpSp="1800000" learnedByNpc="true"/>
+		<!-- 83 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="8" getLevel="83" levelUpSp="2000000" />
 		<!-- 84 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="9" getLevel="84" levelUpSp="2000000" />
+		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="8" getLevel="84" levelUpSp="2000000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="25" getLevel="84" levelUpSp="2000000" />
+		<skill skillName="Приговор Смерти" skillId="30961" skillLevel="8" getLevel="84" levelUpSp="3500000" />
+		<skill skillName="Зажигание" skillId="30953" skillLevel="10" getLevel="84" levelUpSp="3500000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="14" getLevel="84" levelUpSp="3500000" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="25" getLevel="84" levelUpSp="2000000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="28" getLevel="84" levelUpSp="2000000" learnedByNpc="true"/>
 		<!-- 85 lvl -->
+		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="10" getLevel="85" levelUpSp="2200000" />
+		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="26" getLevel="85" levelUpSp="2200000" />
+		<skill skillName="Насмешливая Стойкость" skillId="30954" skillLevel="15" getLevel="85" levelUpSp="5000000" />
 		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="4" getLevel="85" levelUpSp="2200000" learnedByNpc="true" />
 		<skill skillName="Адский Огонь" skillId="30963" skillLevel="26" getLevel="85" levelUpSp="2200000" learnedByNpc="true" />
 		<skill skillName="Адское Рассечение" skillId="30957" skillLevel="29" getLevel="85" levelUpSp="2200000" learnedByNpc="true"/>

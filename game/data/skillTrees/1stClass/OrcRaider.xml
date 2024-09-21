@@ -21,7 +21,7 @@
 		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="1" getLevel="20" levelUpSp="3400" learnedByNpc="true" />
 		<skill skillName="Two-handed Weapon Mastery" skillId="293" skillLevel="1" getLevel="20" levelUpSp="3400" learnedByNpc="true" />
 		<skill skillName="Boost HP" skillId="211" skillLevel="1" getLevel="20" levelUpSp="3400" learnedByNpc="true" />
-		<skill skillName="Bandage" skillId="34" skillLevel="1" getLevel="20" levelUpSp="3400" learnedByNpc="true" />
+		<skill skillName="Перевязка" skillId="34" skillLevel="1" getLevel="20" levelUpSp="3400" learnedByNpc="true" />
 		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="257" skillLevel="2" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="2" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="3" getLevel="24" levelUpSp="2700" learnedByNpc="true" />
@@ -39,7 +39,7 @@
 		<skill skillName="Wild Sweep" skillId="245" skillLevel="6" getLevel="24" levelUpSp="1800" learnedByNpc="true" />
 		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="2" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Two-handed Weapon Mastery" skillId="293" skillLevel="2" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="1" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="1" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="1" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Rage" skillId="94" skillLevel="1" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Accuracy" skillId="256" skillLevel="1" getLevel="24" levelUpSp="5300" learnedByNpc="true" />
@@ -87,7 +87,7 @@
 		<skill skillName="Wild Sweep" skillId="245" skillLevel="12" getLevel="32" levelUpSp="5600" learnedByNpc="true" />
 		<skill skillName="Боевая Стойка Коварства" skillId="312" skillLevel="4" getLevel="32" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Two-handed Weapon Mastery" skillId="293" skillLevel="4" getLevel="32" levelUpSp="17000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="2" getLevel="32" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="2" getLevel="32" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Vital Force" skillId="148" skillLevel="2" getLevel="32" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Frenzy" skillId="176" skillLevel="1" getLevel="32" levelUpSp="17000" learnedByNpc="true" />
 		<skill skillName="Владение Мечом / Дробящим Оружием" skillId="257" skillLevel="7" getLevel="36" levelUpSp="13000" learnedByNpc="true" />

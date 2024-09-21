@@ -3,6 +3,8 @@
 	<!-- Human Knight -->
 	<skillTree type="classSkillTree" classId="4" parentClassId="0">
 		<!-- Confirmed CT2.4 -->
+		<skill skillName="Сила Сигеля" skillId="1927" skillLevel="1" getLevel="20" levelUpSp="10000" learnedByNpc="true" />
+
 		<skill skillName="Drain Health" skillId="70" skillLevel="1" getLevel="20" levelUpSp="2300" learnedByNpc="true" />
 		<skill skillName="Drain Health" skillId="70" skillLevel="2" getLevel="20" levelUpSp="2300" learnedByNpc="true" />
 		<skill skillName="Владение Тяжелой Броней" skillId="232" skillLevel="1" getLevel="20" levelUpSp="1500" learnedByNpc="true" />

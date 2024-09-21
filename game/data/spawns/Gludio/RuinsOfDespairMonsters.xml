@@ -139,7 +139,7 @@
 			</territory>
 		</territories>
 		<npc id="22010" count="6" respawnTime="25sec" chaseRange="550" /><!-- Призрак Генерала 32 -->
-		<npc id="22010" count="6" respawnTime="25sec" chaseRange="550" /><!-- Посвященный Монах 32 -->
+		<npc id="21213" count="6" respawnTime="25sec" chaseRange="550" /><!-- Посвященный Монах 32 -->
 		<npc id="20201" count="10" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак 32 -->
 	</spawn>
 	<spawn>

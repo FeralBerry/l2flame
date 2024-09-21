@@ -372,18 +372,21 @@
 			<height normal="65" />
 		</collision>
 	</npc>
-	<npc id="27109" level="33" type="Monster" name="Handmaiden Of Stenoa" title="Quest Monster">
+	<npc id="27109" level="33" type="Monster" name="Служанка Стеноа" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
 			<param name="MoveAroundSocial2" value="0" />
+			<minions name="Privates">
+				<npc id="27111" count="6" respawnTime="40" weightPoint="1" />
+			</minions>
 		</parameters>
 		<race>BEAST</race>
 		<sex>FEMALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="702.20463" hpRegen="4.5" mp="372.96" mpRegen="1.8" />
-			<attack physical="113.49065" magical="77.49941" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="129.23095" magical="94.5656" />
+			<vitals hp="4702.20463" hpRegen="4.5" mp="572.96" mpRegen="1.8" />
+			<attack physical="513.49065" magical="477.49941" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="329.23095" magical="294.5656" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -404,6 +407,9 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4727" level="2" /> <!-- Stun -->
+			<skill id="4783" level="2" /> <!-- Heal -->
+			<skill id="4649" level="2" /> <!-- Poison -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
@@ -459,7 +465,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="27111" level="30" type="Monster" name="Cave Basilisk" title="Quest Monster">
+	<npc id="27111" level="30" type="Monster" name="Василиск" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -469,8 +475,8 @@
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
-			<attack physical="92.64226" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="118.46427" magical="86.68702" />
+			<attack physical="392.64226" magical="363.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="318.46427" magical="306.68702" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -499,21 +505,21 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="27112" level="36" type="Monster" name="Gorr" title="Quest Monster">
+	<npc id="27112" level="36" type="Monster" name="Горр" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
 			<param name="MoveAroundSocial2" value="0" />
 			<minions name="Privates">
-				<npc id="27111" count="6" respawnTime="60" weightPoint="1" />
+				<npc id="27111" count="6" respawnTime="40" weightPoint="1" />
 			</minions>
 		</parameters>
 		<race>BEAST</race>
 		<sex>FEMALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
+			<vitals hp="3809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
 			<attack physical="137.86467" magical="94.1437" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="140.57278" magical="102.86506" />
+			<defence physical="440.57278" magical="302.86506" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -534,6 +540,9 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4727" level="2" /> <!-- Stun -->
+			<skill id="4783" level="2" /> <!-- Heal -->
+			<skill id="4649" level="2" /> <!-- Poison -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
@@ -546,21 +555,21 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="27113" level="36" type="Monster" name="Baraham" title="Quest Monster">
+	<npc id="27113" level="36" type="Monster" name="Барахам" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
 			<param name="MoveAroundSocial2" value="0" />
 			<minions name="Privates">
-				<npc id="27111" count="6" respawnTime="60" weightPoint="1" />
+				<npc id="27111" count="6" respawnTime="40" weightPoint="1" />
 			</minions>
 		</parameters>
 		<race>BEAST</race>
 		<sex>FEMALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
+			<vitals hp="3809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
 			<attack physical="137.86467" magical="94.1437" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="140.57278" magical="102.86506" />
+			<defence physical="440.57278" magical="302.86506" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -581,6 +590,9 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4727" level="2" /> <!-- Stun -->
+			<skill id="4783" level="2" /> <!-- Heal -->
+			<skill id="4649" level="2" /> <!-- Poison -->
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
@@ -739,7 +751,7 @@
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="772.73802" hpRegen="4.5" mp="402.6" mpRegen="1.8" />
+			<vitals hp="7720.73802" hpRegen="4.5" mp="402.6" mpRegen="1.8" />
 			<attack physical="129.32896" magical="88.31491" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="136.72948" magical="100.0527" />
 			<attribute>

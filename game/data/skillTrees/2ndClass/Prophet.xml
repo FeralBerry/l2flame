@@ -44,7 +44,7 @@
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="13" getLevel="44" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="14" getLevel="44" levelUpSp="13000" learnedByNpc="true" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="15" getLevel="44" levelUpSp="13000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="2" getLevel="44" levelUpSp="37000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="2" getLevel="44" levelUpSp="37000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="3" getLevel="44" levelUpSp="37000" learnedByNpc="true" />
 		<skill skillName="Focus" skillId="1077" skillLevel="2" getLevel="44" levelUpSp="39000" learnedByNpc="true" />
 		<skill skillName="Haste" skillId="1086" skillLevel="1" getLevel="44" levelUpSp="39000" learnedByNpc="true" />
@@ -107,7 +107,7 @@
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="19" getLevel="52" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="20" getLevel="52" levelUpSp="30000" learnedByNpc="true" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="21" getLevel="52" levelUpSp="30000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="52" levelUpSp="89000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="52" levelUpSp="89000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="4" getLevel="52" levelUpSp="89000" learnedByNpc="true" />
 		<skill skillName="Focus" skillId="1077" skillLevel="3" getLevel="52" levelUpSp="89000" learnedByNpc="true" />
 		<skill skillName="Haste" skillId="1086" skillLevel="2" getLevel="52" levelUpSp="89000" learnedByNpc="true" />
@@ -164,7 +164,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="29" getLevel="58" levelUpSp="69000" learnedByNpc="true" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="25" getLevel="58" levelUpSp="138000" learnedByNpc="true" />
 		<skill skillName="Erase" skillId="1395" skillLevel="2" getLevel="58" levelUpSp="138000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="58" levelUpSp="138000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="58" levelUpSp="138000" learnedByNpc="true" />
 		<skill skillName="Greater Might" skillId="1388" skillLevel="1" getLevel="58" levelUpSp="138000" learnedByNpc="true" />
 		<skill skillName="Greater Shield" skillId="1389" skillLevel="1" getLevel="58" levelUpSp="138000" learnedByNpc="true" />
 		<skill skillName="Владение Тяжелой Броней" skillId="259" skillLevel="16" getLevel="58" levelUpSp="69000" learnedByNpc="true" />
@@ -222,7 +222,7 @@
 		<skill skillName="Blessed Body" skillId="1045" skillLevel="5" getLevel="64" levelUpSp="400000" learnedByNpc="true" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="28" getLevel="64" levelUpSp="400000" learnedByNpc="true" />
 		<skill skillName="Erase" skillId="1395" skillLevel="5" getLevel="64" levelUpSp="400000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="64" levelUpSp="400000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="64" levelUpSp="400000" learnedByNpc="true" />
 		<skill skillName="Владение Тяжелой Броней" skillId="259" skillLevel="22" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Владение Тяжелой Броней" skillId="259" skillLevel="23" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="236" skillLevel="30" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
@@ -309,7 +309,7 @@
 		<skill skillName="Anti Magic" skillId="146" skillLevel="45" getLevel="74" levelUpSp="770000" learnedByNpc="true" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="33" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
 		<skill skillName="Erase" skillId="1395" skillLevel="10" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="7" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
 		<skill skillName="Greater Might" skillId="1388" skillLevel="3" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
 		<skill skillName="Greater Shield" skillId="1389" skillLevel="3" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />

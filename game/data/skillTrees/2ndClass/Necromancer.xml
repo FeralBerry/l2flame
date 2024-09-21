@@ -44,7 +44,7 @@
 		<skill skillName="Curse Poison" skillId="1168" skillLevel="4" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Curse Weakness" skillId="1164" skillLevel="7" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Death Spike" skillId="1148" skillLevel="1" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="2" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="2" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="3" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Forget" skillId="1156" skillLevel="1" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Higher Mana Gain" skillId="285" skillLevel="11" getLevel="44" levelUpSp="18000" learnedByNpc="true" />
@@ -112,7 +112,7 @@
 		<skill skillName="Curse Poison" skillId="1168" skillLevel="5" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
 		<skill skillName="Curse Weakness" skillId="1164" skillLevel="9" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
 		<skill skillName="Death Spike" skillId="1148" skillLevel="3" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="4" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
 		<skill skillName="Forget" skillId="1156" skillLevel="3" getLevel="52" levelUpSp="78000" learnedByNpc="true" />
 		<skill skillName="Higher Mana Gain" skillId="285" skillLevel="15" getLevel="52" levelUpSp="39000" learnedByNpc="true" />
@@ -181,7 +181,7 @@
 		<skill skillName="Curse Gloom" skillId="1263" skillLevel="5" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Curse Weakness" skillId="1164" skillLevel="11" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Death Spike" skillId="1148" skillLevel="5" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Forget" skillId="1156" skillLevel="5" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Higher Mana Gain" skillId="285" skillLevel="19" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
 		<skill skillName="Mass Fear" skillId="1381" skillLevel="1" getLevel="58" levelUpSp="88000" learnedByNpc="true" />
@@ -271,7 +271,7 @@
 		<skill skillName="Curse Gloom" skillId="1263" skillLevel="8" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Curse Weakness" skillId="1164" skillLevel="14" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Death Spike" skillId="1148" skillLevel="8" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Forget" skillId="1156" skillLevel="8" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Higher Mana Gain" skillId="285" skillLevel="22" getLevel="64" levelUpSp="200000" learnedByNpc="true" />
 		<skill skillName="Mass Slow" skillId="1298" skillLevel="3" getLevel="64" levelUpSp="100000" learnedByNpc="true" />
@@ -428,7 +428,7 @@
 		<skill skillName="Curse Gloom" skillId="1263" skillLevel="13" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 		<skill skillName="Curse Weakness" skillId="1164" skillLevel="19" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 		<skill skillName="Death Spike" skillId="1148" skillLevel="13" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="7" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 		<skill skillName="Forget" skillId="1156" skillLevel="13" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 		<skill skillName="Higher Mana Gain" skillId="285" skillLevel="27" getLevel="74" levelUpSp="820000" learnedByNpc="true" />

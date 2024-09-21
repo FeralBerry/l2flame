@@ -1,5 +1,5 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../data/xsd/classMaster.xsd">
-	<classMaster classChangeEnabled="true" spawnClassMasters="true" showPopupWindow="true">
+	<classMaster classChangeEnabled="false" spawnClassMasters="false" showPopupWindow="false">
 		<classChangeOption name="Item Pay">
 			<appliesTo>
 				<category>FIRST_CLASS_GROUP</category>
@@ -11,9 +11,126 @@
 				<item id="1655" count="1" /><!-- Банка мёда -->
 			</conditions>
 		</classChangeOption>
+		<!--
+		<category name="HUMAN_SECOND_GLADIATOR">
+			<id>2</id>
+		</category>
+		<category name="HUMAN_SECOND_WARLORD">
+			<id>3</id>
+		</category>
+		<category name="HUMAN_SECOND_TANK">
+			<id>5</id>
+			<id>6</id>
+		</category>
+		<category name="HUMAN_SECOND_TREASURE_HUNTER">
+			<id>8</id>
+		</category>
+		<category name="HUMAN_SECOND_HAWKEYE">
+			<id>9</id>
+		</category>
+		<category name="ELF_SECOND_TANK">
+			<id>20</id>
+		</category>
+		<category name="ELF_SECOND_SWORD_SINGER">
+			<id>21</id>
+		</category>
+		<category name="ELF_SECOND_PLAINS_WALKER">
+			<id>23</id>
+		</category>
+		<category name="ELF_SECOND_SILVER_RANGER">
+			<id>24</id>
+		</category>
+		<category name="DARK_ELF_SECOND_TANK">
+			<id>33</id>
+		</category>
+		<category name="DARK_ELF_SECOND_BLADE_DANCER">
+			<id>34</id>
+		</category>
+		<category name="DARK_ELF_SECOND_ABYSS_WALKER">
+			<id>36</id>
+		</category>
+		<category name="DARK_ELF_SECOND_PHANTOM_RANGER">
+			<id>37</id>
+		</category>
+		<category name="ORK_SECOND_DESTROYER">
+			<id>46</id>
+		</category>
+		<category name="ORK_SECOND_TYRANT">
+			<id>48</id>
+		</category>
+		<category name="DWARF_SECOND_BOUNTY_HUNTER">
+			<id>55</id>
+		</category>
+		<category name="DWARF_SECOND_WAR_SMITH">
+			<id>57</id>
+		</category>
+		<category name="KAMAEL_SECOND_BERSERKER">
+			<id>127</id>
+		</category>
+		<category name="KAMAEL_SECOND_M_SOUL_BREAKER">
+			<id>128</id>
+		</category>
+		<category name="KAMAEL_SECOND_F_SOUL_BREAKER">
+			<id>129</id>
+		</category>
+		<category name="KAMAEL_SECOND_ARBALESTER">
+			<id>130</id>
+		</category>
+		<category name="KAMAEL_SECOND_INSPECTOR">
+			<id>135</id>
+		</category>
+		<category name="HUMAN_SECOND_SORCERER">
+			<id>12</id>
+		</category>
+		<category name="HUMAN_SECOND_NECROMANCER">
+			<id>13</id>
+		</category>
+		<category name="HUMAN_SECOND_WARLOCK">
+			<id>14</id>
+		</category>
+		<category name="HUMAN_SECOND_BISHOP">
+			<id>16</id>
+		</category>
+		<category name="HUMAN_SECOND_PROPHET">
+			<id>17</id>
+		</category>
+		<category name="ELF_SECOND_SPELL_SINGER">
+			<id>27</id>
+		</category>
+		<category name="ELF_SECOND_ELEMENTAL_SUMMONER">
+			<id>28</id>
+		</category>
+		<category name="ELF_SECOND_ELVEN_ELDER">
+			<id>30</id>
+		</category>
+		<category name="DARK_ELF_SECOND_SPELL_HOWLER">
+			<id>40</id>
+		</category>
+		<category name="DARK_ELF_SECOND_PHANTOM_SUMMONER">
+			<id>41</id>
+		</category>
+		<category name="DARK_ELF_SECOND_SHILLIEN_ELDER">
+			<id>43</id>
+		</category>
+		<category name="ORK_SECOND_OVERLORD">
+			<id>51</id>
+		</category>
+		<category name="ORK_SECOND_WARCRYER">
+			<id>52</id>
+		</category>
+		<category name="HUMAN_SECOND_DEATH_BERSERKER">
+			<id>214</id>
+		</category>
+		<category name="EITERIA_SECOND_MARAUDER">
+			<id>184</id>
+		</category>
+		<category name="EITERIA_SECOND_CLOUD_BREAKER">
+			<id>185</id>
+		</category>
+		-->
 		<classChangeOption name="Item Pay">
 			<appliesTo>
-				<category>SECOND_CLASS_GROUP</category>
+				<category>HUMAN_SECOND_GLADIATOR</category>
 			</appliesTo>
 			<conditions>
 				<item id="57" count="3000000" />

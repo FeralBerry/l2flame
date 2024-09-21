@@ -47,7 +47,7 @@
 		<skill skillName="Chant of Rage" skillId="1253" skillLevel="1" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Chant of Vampire" skillId="1310" skillLevel="1" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Dreaming Spirit" skillId="1097" skillLevel="8" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="2" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="2" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="3" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Fear" skillId="1092" skillLevel="7" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
 		<skill skillName="Flame Chant" skillId="1002" skillLevel="2" getLevel="44" levelUpSp="35000" learnedByNpc="true" />
@@ -110,7 +110,7 @@
 		<skill skillName="Chant of Life" skillId="1229" skillLevel="8" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
 		<skill skillName="Chant of Rage" skillId="1253" skillLevel="2" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
 		<skill skillName="Dreaming Spirit" skillId="1097" skillLevel="10" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="3" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="4" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
 		<skill skillName="Fear" skillId="1092" skillLevel="9" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
 		<skill skillName="Freezing Flame" skillId="1244" skillLevel="2" getLevel="52" levelUpSp="90000" learnedByNpc="true" />
@@ -172,7 +172,7 @@
 		<skill skillName="Chant of Vampire" skillId="1310" skillLevel="2" getLevel="58" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Dreaming Spirit" skillId="1097" skillLevel="12" getLevel="58" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Earth Chant" skillId="1391" skillLevel="1" getLevel="58" levelUpSp="130000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="58" levelUpSp="130000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="4" getLevel="58" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Fear" skillId="1092" skillLevel="11" getLevel="58" levelUpSp="130000" learnedByNpc="true" />
 		<skill skillName="Hammer Crush" skillId="260" skillLevel="16" getLevel="58" levelUpSp="41000" learnedByNpc="true" />
 		<skill skillName="Hammer Crush" skillId="260" skillLevel="17" getLevel="58" levelUpSp="41000" learnedByNpc="true" />
@@ -238,7 +238,7 @@
 		<skill skillName="Chant of Eagle" skillId="1309" skillLevel="3" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Chant of Life" skillId="1229" skillLevel="13" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Dreaming Spirit" skillId="1097" skillLevel="15" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="5" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Fear" skillId="1092" skillLevel="14" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Freezing Flame" skillId="1244" skillLevel="3" getLevel="64" levelUpSp="300000" learnedByNpc="true" />
 		<skill skillName="Hammer Crush" skillId="260" skillLevel="24" getLevel="64" levelUpSp="150000" learnedByNpc="true" />
@@ -346,7 +346,7 @@
 		<skill skillName="Chant of Vampire" skillId="1310" skillLevel="4" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
 		<skill skillName="Dreaming Spirit" skillId="1097" skillLevel="20" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
 		<skill skillName="Earth Chant" skillId="1391" skillLevel="3" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="6" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="7" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
 		<skill skillName="Fear" skillId="1092" skillLevel="19" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
 		<skill skillName="Hammer Crush" skillId="260" skillLevel="34" getLevel="74" levelUpSp="640000" learnedByNpc="true" />

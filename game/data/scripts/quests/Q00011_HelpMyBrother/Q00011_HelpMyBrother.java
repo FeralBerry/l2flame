@@ -13,7 +13,7 @@ import java.util.Set;
 public class Q00011_HelpMyBrother extends Quest {
     private static final int QUEST_ID = 11;
     private static final int KUNAI = 30559;
-    private static final int CENTURION = 31036;
+    private static final int DUBABAH = 30672;
     private static final int MIN_LEVEL = 10;
     private static final String KILL_COUNT_VAR = "KillCount";
     private static final int REQUEST_COUNT = 25;
@@ -24,22 +24,37 @@ public class Q00011_HelpMyBrother extends Quest {
     public Q00011_HelpMyBrother(){
         super(QUEST_ID);
         addStartNpc(KUNAI);
-        addTalkId(CENTURION,KUNAI);
+        addTalkId(DUBABAH,KUNAI);
         addKillId(MONSTER1,MONSTER2,MONSTER3,MONSTER4);
     }
     public String onAdvEvent(String event, Npc npc, Player player) {
-        final QuestState qs = getQuestState(player, true);
         String htmltext = getNoQuestMsg(player);
-        if(qs.getInt(KILL_COUNT_VAR) < REQUEST_COUNT){
-            htmltext = "00011-06.htm";
-        }
-        if(event.equalsIgnoreCase("00011-01.htm")){
-            if (npc.getId() == KUNAI && player.getLevel() >= MIN_LEVEL) {
-                qs.startQuest();
-                htmltext = "00011-02.htm";
+        final QuestState qs = getQuestState(player, true);
+        if (npc.getId() == KUNAI && player.getLevel() >= MIN_LEVEL) {
+            if(qs.isStarted()){
+                if (qs.isCond(2)) {
+                    htmltext = "00011-06.htm";
+                }
+                if (qs.isCond(1)) {
+                    htmltext = "00011-06.htm";
+                }
+                if(qs.isCond(3)){
+                    giveItems(player, 57, 6000);
+                    qs.unset(KILL_COUNT_VAR);
+                    qs.exitQuest(true, true);
+                    htmltext = "00011-05.htm";
+                }
             } else {
-                htmltext = "00011-01.htm";
+                qs.startQuest();
+                qs.setCond(1);
+                if(qs.isCond(1)){
+                    htmltext = "00011-02.htm";
+                } else {
+                    htmltext = "00011-06.htm";
+                }
             }
+        } else {
+            htmltext = "00011-01.htm";
         }
         return htmltext;
     }
@@ -67,29 +82,22 @@ public class Q00011_HelpMyBrother extends Quest {
         return super.onKill(npc, killer, isSummon);
     }
     public String onTalk(Npc npc, Player player) {
-        final QuestState qs = getQuestState(player, true);
+        final QuestState qs = getQuestState(player, false);
         String htmltext = getNoQuestMsg(player);
         if (qs == null)
         {
             return null;
         }
-        switch (npc.getId()) {
-            case CENTURION:{
-                if(qs.isCond(1)){
-                    qs.setCond(2);
-                    htmltext = "00011-03.htm";
-                }
-                if(qs.isCond(3)){
-                    htmltext = "00011-04.htm";
-                }
+        if(npc.getId() == DUBABAH){
+            if(qs.isCond(3)){
+                htmltext = "00011-04.htm";
             }
-            case KUNAI:{
-                if (qs.isCond(3)) {
-                    giveItems(player, 57, 6000);
-                    qs.unset(KILL_COUNT_VAR);
-                    qs.exitQuest(true, true);
-                    htmltext = "00011-05.htm";
-                }
+            if (qs.isCond(2)) {
+                htmltext = "00011-06.htm";
+            }
+            if(qs.isCond(1)){
+                qs.setCond(2);
+                htmltext = "00011-03.htm";
             }
         }
         return htmltext;

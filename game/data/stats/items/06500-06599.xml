@@ -317,18 +317,16 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_oly_restricted" val="true" />
 	</item>
-	<item id="6520" name="Corroded Green Bait" additionalName="Not used" type="EtcItem">
-		<!-- Not used anymore. Can be sold to any shop. -->
-		<set name="icon" val="icon.etc_bait_i00" />
+	<item id="6520" name="Зеленая наживка" type="EtcItem">
+		<set name="icon" val="icon.etc_huge_lure" />
 		<set name="default_action" val="EQUIP" />
 		<set name="etcitem_type" val="LURE" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
+		<set name="bodypart" val="lhand" />
 		<set name="weight" val="4" />
 		<set name="price" val="120" />
 		<set name="is_stackable" val="true" />
-		<set name="commissionItemType" val="OTHER_ITEM" />
-		<set name="is_oly_restricted" val="true" />
 	</item>
 	<item id="6521" name="Corroded High-grade Green Bait" additionalName="Not used" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
@@ -434,7 +432,7 @@
 		<set name="commissionItemType" val="OTHER_ITEM" />
 		<set name="is_oly_restricted" val="true" />
 	</item>
-	<item id="6529" name="Corroded Baby Duck Rod" additionalName="Not used" type="Weapon">
+	<item id="6529" name="Удочка Утки" type="Weapon">
 		<!-- A corroded item. Can be sold at the store. -->
 		<set name="icon" val="icon.weapon_fishing_rod_i00" />
 		<set name="default_action" val="EQUIP" />

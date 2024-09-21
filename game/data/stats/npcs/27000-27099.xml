@@ -2551,7 +2551,7 @@
 			<height normal="80" grown="96" />
 		</collision>
 	</npc>
-	<npc id="27080" level="37" type="Monster" name="Pashika Son Of Voltar" title="Quest Monster">
+	<npc id="27080" level="37" type="Monster" name="Пашика" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -2596,7 +2596,7 @@
 			<height normal="20" />
 		</collision>
 	</npc>
-	<npc id="27081" level="37" type="Monster" name="Vultus Son Of Voltar" title="Quest Monster">
+	<npc id="27081" level="37" type="Monster" name="Вултус" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -2641,7 +2641,7 @@
 			<height normal="20" />
 		</collision>
 	</npc>
-	<npc id="27082" level="33" type="Monster" name="Enku Orc Overlord" title="Quest Monster">
+	<npc id="27082" level="33" type="Monster" name="Владыка Энку" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />

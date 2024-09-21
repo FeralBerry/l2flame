@@ -32,6 +32,7 @@ import org.l2jmobius.gameserver.model.item.instance.Item;
 import org.l2jmobius.gameserver.model.itemcontainer.PlayerFreight;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 import org.l2jmobius.gameserver.network.serverpackets.ExGetPremiumItemList;
+import org.l2jmobius.gameserver.network.serverpackets.ExTutorialShowId;
 import org.l2jmobius.gameserver.network.serverpackets.PackageToList;
 import org.l2jmobius.gameserver.network.serverpackets.WareHouseWithdrawalList;
 
@@ -47,6 +48,7 @@ public class GameAssistant extends AbstractNpcAI
 	private static final int MERCHANT = 32478; // Game Assistant
 	// Multisells
 	private static final int HEIR_SHARDS = 324780010;
+	private static final int QUEST_ITEMS = 324780011;
 	// Items
 	private static final int MINION_COUPON = 13273; // Minion Coupon (5-hour)
 	private static final int MINION_COUPON_EV = 13383; // Minion Coupon (5-hour) (Event)
@@ -124,6 +126,16 @@ public class GameAssistant extends AbstractNpcAI
 			case "Chat_HeirShards":
 			{
 				MultisellData.getInstance().separateAndSend(HEIR_SHARDS, player, null, false);
+				break;
+			}
+			case "Chat_QuestItems":
+			{
+				MultisellData.getInstance().separateAndSend(QUEST_ITEMS, player, null, false);
+				break;
+			}
+			case "Open_Newbie_Book":
+			{
+				player.sendPacket(new ExTutorialShowId(102));
 				break;
 			}
 			case "Chat_ClaimItemsShop":

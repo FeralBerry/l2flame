@@ -503,7 +503,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="212" toLevel="8" name="Fast HP Recovery">
+	<skill id="212" toLevel="8" name="Быстрое Восстановление HP">
 		<!-- HP Recovery Rate +1.1. -->
 		<icon>icon.skill0212</icon>
 		<magicLevel>

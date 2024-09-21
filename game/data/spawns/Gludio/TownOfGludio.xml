@@ -84,6 +84,8 @@
 			<npc id="31031" x="-13188" y="124432" z="-3120" heading="16384" respawnTime="5sec" /> <!-- Anchor Crystal -->
 			<npc id="33946" x="-13838" y="123387" z="-3117" heading="24575" respawnTime="60sec" /> <!-- Adventure Guildsman -->
 			<!-- NEW SPAWN NPC: UPDATE PRELUDE OF WAR -->
+
+			<npc id="30407" x="-2108" y="124690" z="-3720" heading="0" respawnTime="60sec" />
 		</group>
 	</spawn>
 </list>

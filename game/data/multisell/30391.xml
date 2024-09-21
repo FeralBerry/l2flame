@@ -1,0 +1,81 @@
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+    <npcs>
+        <npc>30391</npc> <!-- Leopold -->
+    </npcs>
+    <item>
+        <ingredient id="1259" count="1" /> <!-- Коленная кость -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="1260" count="1" /> <!-- Сердце безумия -->
+        <production id="57" count="5"/>
+    </item>
+    <item>
+        <ingredient id="1260" count="20" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="10" /> <!-- Коленная кость -->
+        <production id="1539" count="1"/>
+    </item>
+    <item>
+        <ingredient id="1260" count="200" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="300" /> <!-- Коленная кость -->
+        <production id="10178" count="1"/>
+    </item>
+    <item>
+        <ingredient id="1260" count="200" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="300" /> <!-- Коленная кость -->
+        <production id="10179" count="1"/>
+    </item>
+    <item>
+        <ingredient id="1260" count="12" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="20" /> <!-- Коленная кость -->
+        <production id="725" count="1"/><!-- Зелье Восстановления HP -->
+    </item>
+    <item>
+        <ingredient id="1260" count="20" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="12" /> <!-- Коленная кость -->
+        <production id="726" count="1"/><!-- Зелье Восстановления MP -->
+    </item>
+    <item>
+        <ingredient id="1260" count="250" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="400" /> <!-- Коленная кость -->
+        <production id="9578" count="1"/><!-- льняная рубаха -->
+    </item>
+    <item>
+        <ingredient id="1260" count="400" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="600" /> <!-- Коленная кость -->
+        <production id="605" count="1"/><!-- кожаные руковицы -->
+    </item>
+    <item>
+        <ingredient id="1260" count="400" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="600" /> <!-- Коленная кость -->
+        <production id="1123" count="1"/><!-- Голубые Замшевые Сапоги -->
+    </item>
+    <item>
+        <ingredient id="1260" count="500" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="700" /> <!-- Коленная кость -->
+        <production id="46" count="1"/><!-- бронзовый шлем -->
+    </item>
+    <item>
+        <ingredient id="1260" count="500" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="700" /> <!-- Коленная кость -->
+        <production id="627" count="1"/><!-- аспис -->
+    </item>
+    <item>
+        <ingredient id="1260" count="2000" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="3000" /> <!-- Коленная кость -->
+        <ingredient id="57" count="100000" /> <!-- Коленная кость -->
+        <production id="186" count="1"/><!-- посох магии -->
+    </item>
+    <item>
+        <ingredient id="1260" count="2000" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="3000" /> <!-- Коленная кость -->
+        <ingredient id="57" count="100000" /> <!-- Коленная кость -->
+        <production id="278" count="1"/><!-- гастрафет -->
+    </item>
+    <item>
+        <ingredient id="1260" count="2000" /> <!-- Сердце безумия -->
+        <ingredient id="1259" count="3000" /> <!-- Коленная кость -->
+        <ingredient id="57" count="100000" /> <!-- Коленная кость -->
+        <production id="223" count="1"/><!-- кукри -->
+    </item>
+</list>

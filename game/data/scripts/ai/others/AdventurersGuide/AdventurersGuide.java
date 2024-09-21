@@ -45,14 +45,14 @@ public class AdventurersGuide extends AbstractNpcAI
 	private static final SkillHolder[] GROUP_BUFFS =
 	{
 		new SkillHolder(4323, 1), // Щит Путешественника
-		new SkillHolder(4324, 3), // Благословение Тела Путешественника
-		new SkillHolder(4325, 5), // Гнев Вампира Путешественника
+		new SkillHolder(4324, 1), // Благословение Тела Путешественника
+		new SkillHolder(4325, 1), // Гнев Вампира Путешественника
 		new SkillHolder(4326, 1), // Регенерация Путешественника
-		new SkillHolder(4327, 2), // Ускорение Путешественника
-		new SkillHolder(4328, 3), // Благословение Души Путешественника
-		new SkillHolder(4329, 3), // Проницательность Путешественника
-		new SkillHolder(4330, 2), // Концентрация Путешественника
-		new SkillHolder(4331, 2), // Воодушевление Путешественника
+		new SkillHolder(4327, 1), // Ускорение Путешественника
+		new SkillHolder(4328, 1), // Благословение Души Путешественника
+		new SkillHolder(4329, 1), // Проницательность Путешественника
+		new SkillHolder(4330, 1), // Концентрация Путешественника
+		new SkillHolder(4331, 1), // Воодушевление Путешественника
 		new SkillHolder(4332, 1), // Ментальная Защита
 	};
 	private static final SkillHolder[] DONATE_BUFFS =

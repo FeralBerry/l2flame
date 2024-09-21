@@ -5,155 +5,167 @@
 	</npcs>
 	<!-- Exchange Heir's Radiance Shards -->
 	<item>
-		<ingredient id="81134" count="1" /> <!-- Crystal of Dyes -->
-		<production id="29759" count="1" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="50000" count="10" /> <!-- Монета L2NewAge -->
+		<production id="14700" count="10" /> <!-- Великое Зелье Восполнения HP -->
 	</item>
 	<item>
-		<ingredient id="80636" count="1" /> <!-- Artifact Crystal -->
-		<production id="29759" count="1" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="50000" count="15" /> <!-- Монета L2NewAge -->
+		<production id="21235" count="1" /> <!-- Парное Молоко -->
 	</item>
 	<item>
-		<ingredient id="26455" count="1" /> <!-- High-grade Talisman of Abundance Lv. 1 -->
-		<production id="29759" count="15" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="50000" count="10" /> <!-- Монета L2NewAge -->
+		<production id="40231" count="1" /> <!-- Свиток Ветра Фреи -->
+	</item>
+	<!--<item>
+		<ingredient id="81134" count="1" /> &lt;!&ndash; Crystal of Dyes &ndash;&gt;
+		<production id="29759" count="1" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="26456" count="1" /> <!-- High-grade Talisman of Abundance Lv. 2 -->
-		<production id="29759" count="60" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="80636" count="1" /> &lt;!&ndash; Artifact Crystal &ndash;&gt;
+		<production id="29759" count="1" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="26457" count="1" /> <!-- High-grade Talisman of Abundance Lv. 3 -->
-		<production id="29759" count="200" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="26455" count="1" /> &lt;!&ndash; High-grade Talisman of Abundance Lv. 1 &ndash;&gt;
+		<production id="29759" count="15" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="48910" count="1" /> <!-- Shillien's Soul Crystal Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="26456" count="1" /> &lt;!&ndash; High-grade Talisman of Abundance Lv. 2 &ndash;&gt;
+		<production id="29759" count="60" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47632" count="1" /> <!-- Emerald Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="26457" count="1" /> &lt;!&ndash; High-grade Talisman of Abundance Lv. 3 &ndash;&gt;
+		<production id="29759" count="200" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="28366" count="1" /> <!-- Vital Stone Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="48910" count="1" /> &lt;!&ndash; Shillien's Soul Crystal Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="28360" count="15" /> <!-- Cat's Eye Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47632" count="1" /> &lt;!&ndash; Emerald Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47703" count="1" /> <!-- Red Cat's Eye Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="28366" count="1" /> &lt;!&ndash; Vital Stone Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47630" count="1" /> <!-- Obsidian Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="28360" count="15" /> &lt;!&ndash; Cat's Eye Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47629" count="1" /> <!-- Opal Jewelry Box Lv. 3 -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47703" count="1" /> &lt;!&ndash; Red Cat's Eye Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47626" count="1" /> <!-- Ruby Jewelry Box Lv. 3 -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47630" count="1" /> &lt;!&ndash; Obsidian Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47627" count="1" /> <!-- Sapphire Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47629" count="1" /> &lt;!&ndash; Opal Jewelry Box Lv. 3 &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47705" count="1" /> <!-- Blue Cat's Eye Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47626" count="1" /> &lt;!&ndash; Ruby Jewelry Box Lv. 3 &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="28367" count="1" /> <!-- Tanzanite Jewelry Box Lv. 3 -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47627" count="1" /> &lt;!&ndash; Sapphire Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47628" count="1" /> <!-- Topaz Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47705" count="1" /> &lt;!&ndash; Blue Cat's Eye Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47633" count="1" /> <!-- Aquamarine Lv. 3 Jewelry Box -->
-		<production id="29759" count="2" /> <!-- Wondrous Shard -->
+		<ingredient id="28367" count="1" /> &lt;!&ndash; Tanzanite Jewelry Box Lv. 3 &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="28362" count="1" /> <!-- Amethyst Lv. 3 Jewelry Box -->
-		<production id="29759" count="60" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47628" count="1" /> &lt;!&ndash; Topaz Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47631" count="1" /> <!-- Diamond Jewelry Box Lv. 3 -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47633" count="1" /> &lt;!&ndash; Aquamarine Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Wondrous Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="28370" count="1" /> <!-- Garnet Jewelry Box Lv. 3 -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="28362" count="1" /> &lt;!&ndash; Amethyst Lv. 3 Jewelry Box &ndash;&gt;
+		<production id="29759" count="60" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47634" count="1" /> <!-- Pearl Jewelry Box Lv. 3 -->
-		<production id="29759" count="2" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47631" count="1" /> &lt;!&ndash; Diamond Jewelry Box Lv. 3 &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38859" count="1" /> <!-- Ruby Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="28370" count="1" /> &lt;!&ndash; Garnet Jewelry Box Lv. 3 &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38931" count="1" /> <!-- Sapphire Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47634" count="1" /> &lt;!&ndash; Pearl Jewelry Box Lv. 3 &ndash;&gt;
+		<production id="29759" count="2" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38854" count="1" /> <!-- Topaz Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38859" count="1" /> &lt;!&ndash; Ruby Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38874" count="1" /> <!-- Obsidian Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38931" count="1" /> &lt;!&ndash; Sapphire Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38879" count="1" /> <!-- Opal Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38854" count="1" /> &lt;!&ndash; Topaz Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38884" count="1" /> <!-- Emerald Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38874" count="1" /> &lt;!&ndash; Obsidian Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38889" count="1" /> <!-- Aquamarine Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38879" count="1" /> &lt;!&ndash; Opal Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38894" count="1" /> <!-- Diamond Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38884" count="1" /> &lt;!&ndash; Emerald Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="38899" count="1" /> <!-- Pearl Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38889" count="1" /> &lt;!&ndash; Aquamarine Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="46674" count="1" /> <!-- Vital Stone Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38894" count="1" /> &lt;!&ndash; Diamond Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="46679" count="1" /> <!-- Garnet Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="38899" count="1" /> &lt;!&ndash; Pearl Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="46684" count="1" /> <!-- Tanzanite Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="46674" count="1" /> &lt;!&ndash; Vital Stone Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47681" count="1" /> <!-- Red Cat's Eye Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="46679" count="1" /> &lt;!&ndash; Garnet Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="47686" count="1" /> <!-- Blue Cat's Eye Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="46684" count="1" /> &lt;!&ndash; Tanzanite Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="26506" count="1" /> <!-- Amethyst Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47681" count="1" /> &lt;!&ndash; Red Cat's Eye Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
 	<item>
-		<ingredient id="26501" count="1" /> <!-- Cat's Eye Lv. 5 -->
-		<production id="29759" count="4" /> <!-- Heir's Radiance Shard -->
+		<ingredient id="47686" count="1" /> &lt;!&ndash; Blue Cat's Eye Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
 	</item>
+	<item>
+		<ingredient id="26506" count="1" /> &lt;!&ndash; Amethyst Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
+	</item>
+	<item>
+		<ingredient id="26501" count="1" /> &lt;!&ndash; Cat's Eye Lv. 5 &ndash;&gt;
+		<production id="29759" count="4" /> &lt;!&ndash; Heir's Radiance Shard &ndash;&gt;
+	</item>-->
 </list>

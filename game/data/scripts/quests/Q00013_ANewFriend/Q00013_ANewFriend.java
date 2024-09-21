@@ -6,10 +6,8 @@ import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.holders.NpcLogListHolder;
 import org.l2jmobius.gameserver.model.quest.Quest;
 import org.l2jmobius.gameserver.model.quest.QuestState;
-import org.l2jmobius.gameserver.network.NpcStringId;
 import org.l2jmobius.gameserver.util.Util;
 
-import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 
@@ -56,9 +54,6 @@ public class Q00013_ANewFriend extends Quest {
         if (qs.isCond(2)) {
             giveItems(player, REWARDS[0], 1);
             giveItems(player, REWARDS[1], 100);
-            qs.unset(KILL_COUNT_VAR1);
-            qs.unset(KILL_COUNT_VAR2);
-            qs.unset(KILL_COUNT_VAR3);
             qs.exitQuest(true, true);
             htmltext = "00013-03.htm";
         }
@@ -68,43 +63,34 @@ public class Q00013_ANewFriend extends Quest {
         final QuestState qs = getQuestState(killer, false);
         Random rn = new Random();
         int randomNum;
-        int killCount1 = 0;
-        int killCount2 = 0;
-        int killCount3 = 0;
         if (qs.isCond(1) && Util.checkIfInRange(Config.ALT_PARTY_RANGE, npc, killer, false)){
             randomNum = rn.nextInt(MAX_CHANCE - MIN_CHANCE + 1) + MIN_CHANCE;
-            if(npc.getId() == DOOM_SOLDIER && killCount1 < REQUEST_COUNT){
+            if(npc.getId() == DOOM_SOLDIER && getQuestItemsCount(killer,SPARTOI_BONES) < REQUEST_COUNT){
                 if(randomNum > 40) {
-                    killCount1 = qs.getInt(KILL_COUNT_VAR1) + 1;
                     giveItems(killer, SPARTOI_BONES, 1);
-                    qs.set(KILL_COUNT_VAR1, killCount1);
                     sendNpcLogList(killer);
                 }
             }
-            if(npc.getId() == STONE_GOLEM && killCount2 < REQUEST_COUNT){
+            if(npc.getId() == STONE_GOLEM && getQuestItemsCount(killer,SPARKLE_PABBLE) < REQUEST_COUNT){
                 if(randomNum > 40) {
-                    killCount2 = qs.getInt(KILL_COUNT_VAR2) + 1;
                     giveItems(killer, SPARKLE_PABBLE, 1);
-                    qs.set(KILL_COUNT_VAR2, killCount2);
                     sendNpcLogList(killer);
                 }
             }
-            if(npc.getId() == BEAR && killCount3 < REQUEST_COUNT){
+            if(npc.getId() == BEAR && getQuestItemsCount(killer,TOPAZ_PIECE) < REQUEST_COUNT){
                 if(randomNum > 40) {
-                    killCount3 = qs.getInt(KILL_COUNT_VAR3) + 1;
                     giveItems(killer, TOPAZ_PIECE, 1);
-                    qs.set(KILL_COUNT_VAR3, killCount3);
                     sendNpcLogList(killer);
                 }
             }
-            if(killCount1 == REQUEST_COUNT && killCount2 == REQUEST_COUNT && killCount3 == REQUEST_COUNT){
-                qs.setCond(2, true);
+            if (getQuestItemsCount(killer, TOPAZ_PIECE) == REQUEST_COUNT && getQuestItemsCount(killer,SPARTOI_BONES) == REQUEST_COUNT && getQuestItemsCount(killer,SPARKLE_PABBLE) == REQUEST_COUNT) {
+                qs.setCond(2);
             }
         }
         return super.onKill(npc, killer, isSummon);
     }
     public String onTalk(Npc npc, Player player) {
-        final QuestState qs = getQuestState(player, true);
+        final QuestState qs = getQuestState(player, false);
         String htmltext = getNoQuestMsg(player);
         if (qs == null)
         {
@@ -116,14 +102,7 @@ public class Q00013_ANewFriend extends Quest {
         final QuestState qs = getQuestState(player, false);
         if (qs != null)
         {
-            if (qs.isCond(1))
-            {
-                final Set<NpcLogListHolder> holder = new HashSet<>();
-                holder.add(new NpcLogListHolder(NpcStringId.BEED.getId(), true, qs.getInt(KILL_COUNT_VAR1)));
-                holder.add(new NpcLogListHolder(NpcStringId.BEED.getId(), true, qs.getInt(KILL_COUNT_VAR2)));
-                holder.add(new NpcLogListHolder(NpcStringId.BEED.getId(), true, qs.getInt(KILL_COUNT_VAR3)));
-                return holder;
-            }
+            return null;
         }
         return super.getNpcLogList(player);
     }

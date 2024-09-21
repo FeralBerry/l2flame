@@ -2591,4 +2591,26 @@
 		<icon>icon.skill31161</icon>
 		<operateType>A1</operateType>
 	</skill>
+	<skill id="31180" toLevel="1" name="Восстановление маны">
+		<!-- The Iss Dominator brings Pa'agrio's redemption to their allies. For 5 min., all party members' P. Atk./ M. Atk./ P. Def./ M. Def. +10%. Consumes 10 Spirit Ore. The effect does not stack with those of Power Redemption and Doomcryer's Redemption. Affects only party members in the Conquest area. -->
+		<icon>icon.etc_potion_blue_i00</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>15</abnormalTime>
+		<abnormalType>MP_RECOVER</abnormalType>
+		<isMagic>2</isMagic>
+		<magicLevel>1</magicLevel>
+		<operateType>A2</operateType>
+		<reuseDelay>15000</reuseDelay>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="ManaHealOverTime">
+				<power>10</power>
+				<ticks>3</ticks>
+			</effect>
+		</effects>
+	</skill>
 </list>

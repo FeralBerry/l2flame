@@ -60,7 +60,7 @@
 		<skill skillName="Stun Attack" skillId="100" skillLevel="10" getLevel="35" levelUpSp="5900" learnedByNpc="true" />
 		<skill skillName="Stun Attack" skillId="100" skillLevel="11" getLevel="35" levelUpSp="5900" learnedByNpc="true" />
 		<skill skillName="Stun Attack" skillId="100" skillLevel="12" getLevel="35" levelUpSp="5900" learnedByNpc="true" />
-		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="1" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
+		<skill skillName="Быстрое Восстановление HP" skillId="212" skillLevel="1" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Fast Mana Recovery" skillId="229" skillLevel="2" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 		<skill skillName="Life Drain" skillId="1090" skillLevel="3" getLevel="20" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Chant of Life" skillId="1229" skillLevel="1" getLevel="20" levelUpSp="2900" learnedByNpc="true" />

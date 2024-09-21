@@ -389,6 +389,7 @@
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="180" />
 		<set name="price" val="50" />
+		<set name="reuse_delay" val="15000" />
 		<set name="is_stackable" val="true" />
 		<set name="commissionItemType" val="POTION" />
 		<set name="handler" val="ItemSkills" />
@@ -410,6 +411,7 @@
 		<set name="material" val="LIQUID" />
 		<set name="weight" val="180" />
 		<set name="price" val="80" />
+		<set name="reuse_delay" val="15000" />
 		<set name="is_stackable" val="true" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="is_event_restricted" val="true" />
@@ -420,7 +422,7 @@
 			<player flyMounted="false" />
 		</cond>
 		<skills>
-			<skill id="2003" level="1" /> <!-- Squash Seed -->
+			<skill id="31180" level="1" /> <!-- Восстановление маны -->
 		</skills>
 	</item>
 	<item id="727" name="Снадобье HP" type="EtcItem">

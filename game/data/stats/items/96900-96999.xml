@@ -20,6 +20,7 @@
 		<set name="material" val="STEEL" />
 		<set name="is_stackable" val="true" />
 	</item>
+
 	<item id="96958" name="Test - Challenge Points" additionalName="Lv. 4" type="EtcItem">
 		<!-- For Test -->
 		<set name="default_action" val="NONE" />
