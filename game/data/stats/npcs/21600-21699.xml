@@ -3893,7 +3893,7 @@
 			<height normal="44" grown="52.5" />
 		</collision>
 	</npc>
-	<npc id="21642" level="39" type="Monster" name="Tasaba Lizardman Sniper">
+	<npc id="21642" level="39" type="Monster" name="Снайпер Ящеров Тасаба">
 		<parameters>
 			<param name="MoveAroundSocial" value="139" />
 			<param name="MoveAroundSocial1" value="35" />
@@ -3907,9 +3907,9 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2507" /> <!-- rhand: Lizardspear -->
-		<acquire exp="1957" sp="125" />
+		<acquire exp="1170" sp="117" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
+			<vitals hp="1925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
 			<defence physical="152.46752" magical="101.514599764346" />
 			<attribute>
@@ -3937,7 +3937,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>0.5</sNpcPropHpRate>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<ai aggroRange="300" clanHelpRange="300">
 			<clanList>
 				<clan>LIZARDMAN</clan>
@@ -3946,7 +3946,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="271" max="541" chance="100" /> <!-- Adena -->
+					<item id="57" min="780" max="936" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1949">
 					<item id="279" min="1" max="1" chance="1.584" /> <!-- Strengthened Long Bow -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="24_18">
+		<group>
+			<npc id="20967" x="157985" y="20753" z="-4169" heading="27417" respawnTime="60sec" /> <!-- Past Creature -->
+			<npc id="22115" x="157744" y="22355" z="-4072" heading="27417" respawnTime="60sec" /> <!-- Spiked Stakato Soldier -->
+			<npc id="21163" x="157787" y="22266" z="-4088" heading="4362" respawnTime="60sec" /> <!-- Lesser Ancient Shaman -->
+			<npc id="21310" x="157787" y="22266" z="-4088" heading="4362" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="157405" y="21335" z="-4168" heading="43669" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="157382" y="20924" z="-4216" heading="48568" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="157832" y="20569" z="-4192" heading="58547" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="158254" y="20484" z="-4136" heading="63462" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="158697" y="20880" z="-4080" heading="11796" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="158550" y="21538" z="-4109" heading="18674" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="158107" y="22150" z="-4048" heading="24794" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="157449" y="22768" z="-4079" heading="24821" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" x="157326" y="23363" z="-4054" heading="17342" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157570" y="24206" z="-3952" heading="11918" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157848" y="24985" z="-3930" heading="12802" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157078" y="24473" z="-3957" heading="43361" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157124" y="23498" z="-4040" heading="52518" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157294" y="22773" z="-4093" heading="50930" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157348" y="22460" z="-4128" heading="50930" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157462" y="21949" z="-4142" heading="51451" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157519" y="21281" z="-4173" heading="49355" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157529" y="20829" z="-4185" heading="49407" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="157753" y="19979" z="-4184" heading="56246" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="158108" y="19885" z="-4176" heading="62836" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" x="158479" y="20167" z="-4128" heading="6779" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" count="10" x="158082" y="21765" z="-4112" heading="16736" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21310" count="10" x="157845" y="22750" z="-4036" heading="14733" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" count="10" x="158197" y="23566" z="-3928" heading="10704" respawnTime="60sec" /> <!-- Disciples of Authority -->
+			<npc id="21311" count="10" x="158115" y="24074" z="-3906" heading="22960" respawnTime="60sec" /> <!-- Disciples of Authority -->
+		</group>
+	</spawn>
+</list>

@@ -3510,7 +3510,7 @@
 			<height normal="21" />
 		</collision>
 	</npc>
-	<npc id="20553" level="39" type="Monster" name="Windsus">
+	<npc id="20553" level="39" type="Monster" name="Вепрь">
 		<parameters>
 			<param name="MoveAroundSocial" value="95" />
 			<param name="MoveAroundSocial1" value="95" />
@@ -3523,7 +3523,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="2654" sp="169" />
+		<acquire exp="585" sp="59" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3559,7 +3559,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="368" max="733" chance="100" /> <!-- Adena -->
+					<item id="57" min="390" max="468" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2119">
 					<item id="318" min="1" max="1" chance="1.9754" /> <!-- Crucifix of Blood -->
@@ -3616,7 +3616,7 @@
 			<height normal="27" />
 		</collision>
 	</npc>
-	<npc id="20554" level="40" type="Monster" name="Grandis">
+	<npc id="20554" level="40" type="Monster" name="Грандис">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -3633,7 +3633,7 @@
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
-		<acquire exp="3102" sp="200" />
+		<acquire exp="680" sp="68" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3669,7 +3669,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="425" max="848" chance="100" /> <!-- Adena -->
+					<item id="57" min="480" max="600" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2829">
 					<item id="224" min="1" max="1" chance="0.866" /> <!-- Maingauche -->
@@ -6292,7 +6292,7 @@
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="20577" level="35" type="Monster" name="Leto Lizardman">
+	<npc id="20577" level="35" type="Monster" name="Ящер Лито">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -6306,7 +6306,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="66" /> <!-- rhand: Gladius -->
-		<acquire exp="2137" sp="126" />
+		<acquire exp="525" sp="53" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="772.73802" hpRegen="4.5" mp="402.6" mpRegen="1.8" />
 			<attack physical="129.32896" magical="88.31491" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -6342,7 +6342,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="298" max="595" chance="100" /> <!-- Adena -->
+					<item id="57" min="350" max="420" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.4193">
 					<item id="849" min="1" max="1" chance="2.6765" /> <!-- Tiger's Eye Earring -->
@@ -6402,7 +6402,7 @@
 			<height normal="32" />
 		</collision>
 	</npc>
-	<npc id="20578" level="36" type="Monster" name="Leto Lizardman Archer">
+	<npc id="20578" level="36" type="Monster" name="Стрелок Ящеров Лито">
 		<parameters>
 			<param name="MoveAroundSocial" value="125" />
 			<param name="MoveAroundSocial1" value="125" />
@@ -6415,9 +6415,9 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- rhand: Bow -->
-		<acquire exp="2329" sp="140" />
+		<acquire exp="1050" sp="105" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
+			<vitals hp="1809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
 			<attack physical="137.86467" magical="94.1437" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
 			<defence physical="140.57278" magical="93.5949427192352" />
 			<attribute>
@@ -6443,6 +6443,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>LIZARDMAN</clan>
@@ -6451,7 +6452,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="324" max="649" chance="100" /> <!-- Adena -->
+					<item id="57" min="700" max="840" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2489">
 					<item id="278" min="1" max="1" chance="2.2054" /> <!-- Gastraphetes -->
@@ -6508,7 +6509,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="20579" level="37" type="Monster" name="Leto Lizardman Soldier">
+	<npc id="20579" level="37" type="Monster" name="Воитель Ящеров Лито">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -6522,10 +6523,10 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="68" /> <!-- rhand: Falchion -->
-		<acquire exp="2437" sp="150" />
+		<acquire exp="1110" sp="111" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="847.31754" hpRegen="4.5" mp="432.72" mpRegen="1.8" />
-			<attack physical="146.82587" magical="100.26304" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<vitals hp="1647.31754" hpRegen="4.5" mp="432.72" mpRegen="1.8" />
+			<attack physical="196.82587" magical="150.26304" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="144.47758" magical="96.1948088105753" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
@@ -6550,15 +6551,16 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<ai aggroRange="300" clanHelpRange="300">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>
 		</ai>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="338" max="675" chance="100" /> <!-- Adena -->
+					<item id="57" min="740" max="888" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.8674">
 					<item id="1124" min="1" max="1" chance="0.3142" /> <!-- Boots of Power -->
@@ -6630,7 +6632,7 @@
 			<height normal="32" />
 		</collision>
 	</npc>
-	<npc id="20580" level="38" type="Monster" name="Leto Lizardman Warrior">
+	<npc id="20580" level="38" type="Monster" name="Воин Ящеров Лито">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -6644,9 +6646,9 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="93" /> <!-- rhand: Winged Spear -->
-		<acquire exp="4687" sp="292" />
+		<acquire exp="2280" sp="228" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
+			<vitals hp="3886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="148.44287" magical="98.8349371271581" />
 			<attribute>
@@ -6672,7 +6674,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<sNpcPropHpRate>4</sNpcPropHpRate>
 		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
 			<clanList>
 				<clan>LIZARDMAN</clan>
@@ -6681,7 +6683,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="649" max="1296" chance="100" /> <!-- Adena -->
+					<item id="57" min="1520" max="1824" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.6484">
 					<item id="395" min="1" max="1" chance="0.8713" /> <!-- Manticore Skin Shirt -->
@@ -6740,7 +6742,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="20581" level="39" type="Monster" name="Leto Lizardman Shaman">
+	<npc id="20581" level="39" type="Monster" name="Шаман Ящеров Лито">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -6756,9 +6758,9 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="159" /> <!-- rhand: Bonebreaker -->
-		<acquire exp="2654" sp="169" />
+		<acquire exp="1755" sp="176" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
+			<vitals hp="2925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="152.46752" magical="101.514599764346" />
 			<attribute>
@@ -6787,7 +6789,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>
@@ -6795,7 +6798,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="368" max="733" chance="100" /> <!-- Adena -->
+					<item id="57" min="1170" max="1404" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2643">
 					<item id="279" min="1" max="1" chance="1.584" /> <!-- Strengthened Long Bow -->
@@ -6855,7 +6858,7 @@
 			<height normal="35" />
 		</collision>
 	</npc>
-	<npc id="20582" level="40" type="Monster" name="Leto Lizardman Overlord">
+	<npc id="20582" level="40" type="Monster" name="Вождь Ящеров Лито">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -6869,9 +6872,9 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="221" /> <!-- rhand: Assassin Knife -->
-		<acquire exp="5297" sp="342" />
+		<acquire exp="2720" sp="272" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
+			<vitals hp="3966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
 			<defence physical="156.55035" magical="104.232986928232" />
 			<attribute>
@@ -6897,8 +6900,8 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300">
+		<sNpcPropHpRate>4</sNpcPropHpRate>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>
@@ -6906,7 +6909,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="726" max="1449" chance="100" /> <!-- Adena -->
+					<item id="57" min="1920" max="2400" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="5.0246">
 					<item id="629" min="1" max="1" chance="0.9888" /> <!-- Kite Shield -->
