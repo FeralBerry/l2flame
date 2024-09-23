@@ -6091,7 +6091,7 @@
 		</collision>
 	</npc>
 	<!-- 20493 -->
-	<npc id="20494" level="24" type="Monster" name="Turek War Hound">
+	<npc id="20494" level="38" type="Monster" name="Гончая Турек">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -6104,11 +6104,11 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="2087" sp="103" />
+		<acquire exp="1140" sp="114" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="435.34437" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
-			<attack physical="60.19687" magical="41.10666" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="98.70919" magical="65.7216907961494" />
+			<vitals hp="1035.34437" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
+			<attack physical="160.19687" magical="141.10666" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="198.70919" magical="165.7216907961494" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6133,7 +6133,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="800" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ORC</clan>
 			</clanList>
@@ -6141,7 +6141,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="330" max="609" chance="100" /> <!-- Adena -->
+					<item id="57" min="760" max="912" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0467">
 					<item id="257" min="1" max="1" chance="100" /> <!-- Viper Fang -->
@@ -6165,7 +6165,7 @@
 			<height normal="11" />
 		</collision>
 	</npc>
-	<npc id="20495" level="30" type="Monster" name="Turek Orc Warlord">
+	<npc id="20495" level="39" type="Monster" name="Полководец Орков Турек">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -6180,11 +6180,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="127" /> <!-- rhand: Crimson Sword -->
-		<acquire exp="3337" sp="182" />
+		<acquire exp="1170" sp="117" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="604.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
-			<attack physical="92.64226" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="118.46427" magical="78.8748547991048" />
+			<vitals hp="1504.08419" hpRegen="3.5" mp="329.4" mpRegen="1.5" />
+			<attack physical="292.64226" magical="263.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="158.46427" magical="178.8748547991048" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6218,7 +6218,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="476" max="952" chance="100" /> <!-- Adena -->
+					<item id="57" min="780" max="936" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.1756">
 					<item id="69" min="1" max="1" chance="2.8343" /> <!-- Bastard Sword -->
@@ -6250,7 +6250,7 @@
 			<height normal="23" grown="27.6" />
 		</collision>
 	</npc>
-	<npc id="20496" level="27" type="Monster" name="Turek Orc Archer">
+	<npc id="20496" level="37" type="Monster" name="Стрелок Орков Турек">
 		<parameters>
 			<param name="MoveAroundSocial" value="104" />
 			<param name="MoveAroundSocial1" value="104" />
@@ -6263,11 +6263,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- rhand: Bow -->
-		<acquire exp="2584" sp="132" />
+		<acquire exp="1110" sp="111" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
-			<attack physical="74.99121" magical="51.20928" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
-			<defence physical="108.28767" magical="72.0991544841329" />
+			<vitals hp="1015.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
+			<attack physical="274.99121" magical="251.20928" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="158.28767" magical="132.0991544841329" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6300,7 +6300,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="386" max="743" chance="100" /> <!-- Adena -->
+					<item id="57" min="740" max="888" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0318">
 					<item id="274" min="1" max="1" chance="100" /> <!-- Strengthened Bow -->
@@ -6326,7 +6326,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="20497" level="28" type="Monster" name="Turek Orc Skirmisher">
+	<npc id="20497" level="38" type="Monster" name="Ополченец Орков Турек">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
@@ -6340,11 +6340,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="121" /> <!-- rhand: Sword of Watershadow -->
-		<acquire exp="2682" sp="140" />
+		<acquire exp="1140" sp="114" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="543.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
-			<attack physical="80.54056" magical="54.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="111.61368" magical="74.3136496629463" />
+			<vitals hp="743.79576" hpRegen="3.5" mp="300.96" mpRegen="1.5" />
+			<attack physical="180.54056" magical="154.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="191.61368" magical="174.3136496629463" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6377,7 +6377,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="395" max="773" chance="100" /> <!-- Adena -->
+					<item id="57" min="760" max="912" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2788">
 					<item id="391" min="1" max="1" chance="38.4419" /> <!-- Puma Skin Shirt -->
@@ -6403,7 +6403,7 @@
 			<height normal="22" grown="26.4" />
 		</collision>
 	</npc>
-	<npc id="20498" level="27" type="Monster" name="Turek Orc Supplier">
+	<npc id="20498" level="39" type="Monster" name="Приспешник Орков Турек">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
@@ -6417,11 +6417,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="11" /> <!-- rhand: Bone Dagger -->
-		<acquire exp="2484" sp="127" />
+		<acquire exp="1170" sp="117" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
-			<attack physical="74.99121" magical="51.20928" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
-			<defence physical="108.28767" magical="72.0991544841329" />
+			<vitals hp="1515.17856" hpRegen="3.5" mp="286.92" mpRegen="1.5" />
+			<attack physical="174.99121" magical="151.20928" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="158.28767" magical="132.0991544841329" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6454,7 +6454,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="371" max="714" chance="100" /> <!-- Adena -->
+					<item id="57" min="780" max="936" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.8727">
 					<item id="626" min="1" max="1" chance="6.6164" /> <!-- Bronze Shield -->
@@ -6481,7 +6481,7 @@
 			<height normal="22" grown="26.4" />
 		</collision>
 	</npc>
-	<npc id="20499" level="26" type="Monster" name="Turek Orc Footman">
+	<npc id="20499" level="40" type="Monster" name="Пехотинец Орков Турек">
 		<parameters>
 			<param name="MoveAroundSocial" value="138" />
 			<param name="MoveAroundSocial1" value="138" />
@@ -6495,11 +6495,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="2359" sp="119" />
+		<acquire exp="1360" sp="136" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="487.5704" hpRegen="3.5" mp="273.0" mpRegen="1.5" />
-			<attack physical="69.75926" magical="47.63653" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="105.02818" magical="69.9289432036824" />
+			<vitals hp="1287.5704" hpRegen="3.5" mp="273.0" mpRegen="1.5" />
+			<attack physical="269.75926" magical="247.63653" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="185.02818" magical="169.9289432036824" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6532,7 +6532,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="357" max="682" chance="100" /> <!-- Adena -->
+					<item id="57" min="960" max="1200" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="3.3028">
 					<item id="40" min="1" max="1" chance="4.3392" /> <!-- Leather Boots -->

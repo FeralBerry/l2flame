@@ -36,7 +36,229 @@
 		<npc id="20096" count="20" respawnTime="60sec" chaseRange="1500" /><!-- Командир орков отшельников 39 -->
 	</spawn>
 	<spawn>
-		<!-- возле дома и ТП с карты -->
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="500" minZ="-3872" maxZ="-3872">
+					<node x="-93412" y="107988"/>
+				</territory>
+			</territories>
+			<npc id="20096" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Командир орков отшельников 39 -->
+			<npc id="20469" count="2" respawnTime="30sec" chaseRange="1500" /><!-- Стрелок орков отшельников 38 -->
+			<npc id="20448" count="2" respawnTime="30sec" chaseRange="1500" /><!-- Бесстрашный воин орков отшельников 38 -->
+			<npc id="20501" count="2" respawnTime="30sec" chaseRange="1500" /><!-- Провидец Орков Турек -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="700" minZ="-3696" maxZ="-3696">
+					<node x="-93918" y="112419"/>
+				</territory>
+			</territories>
+			<npc id="20096" count="2" respawnTime="60sec" chaseRange="1500" /><!-- Командир орков отшельников 39 -->
+			<npc id="20469" count="4" respawnTime="30sec" chaseRange="1500" /><!-- Стрелок орков отшельников 38 -->
+			<npc id="20448" count="4" respawnTime="30sec" chaseRange="1500" /><!-- Бесстрашный воин орков отшельников 38 -->
+			<npc id="20501" count="4" respawnTime="30sec" chaseRange="1500" /><!-- Провидец Орков Турек 41 -->
+			<npc id="21034" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Огр 38 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="400" minZ="-3544" maxZ="-3544">
+					<node x="-91486" y="110080"/>
+				</territory>
+			</territories>
+			<npc id="20096" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Командир орков отшельников 39 -->
+			<npc id="20469" count="3" respawnTime="30sec" chaseRange="1500" /><!-- Стрелок орков отшельников 38 -->
+			<npc id="21034" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Огр 38 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="400" minZ="-3544" maxZ="-3544">
+					<node x="-91486" y="110080"/>
+				</territory>
+			</territories>
+			<npc id="20494" count="3" respawnTime="30sec" chaseRange="1500" /><!-- Гончая Турек 38 -->
+			<npc id="20546" count="2" respawnTime="45sec" chaseRange="1500" /><!-- Тетрарх Орк Турек 41 -->
+			<npc id="21034" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Огр 38 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="NPoly" minZ="-3544" maxZ="-3536">
+					<node x="-90420" y="115669"/>
+					<node x="-91878" y="115570"/>
+					<node x="-91740" y="113825"/>
+					<node x="-90350" y="113829"/>
+				</territory>
+			</territories>
+			<npc id="20494" count="4" respawnTime="30sec" chaseRange="1500" /><!-- Гончая Турек 38 -->
+			<npc id="20495" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Полководец Орков Турек 39 -->
+			<npc id="20496" count="8" respawnTime="60sec" chaseRange="1500" /><!-- Стрелок Орков Турек 37 -->
+			<npc id="20497" count="8" respawnTime="60sec" chaseRange="1500" /><!-- Ополченец Орков Турек 38 -->
+			<npc id="20498" count="3" respawnTime="60sec" chaseRange="1500" /><!-- Приспешник Орков Турек 39 -->
+			<npc id="21034" count="4" respawnTime="60sec" chaseRange="1500" /><!-- Огр 38 -->
+			<npc id="20501" count="4" respawnTime="60sec" chaseRange="1500" /><!-- Провидец Орков Турек 41 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="400" minZ="-3608" maxZ="-3608">
+					<node x="-93916" y="117545"/>
+				</territory>
+			</territories>
+			<npc id="20494" count="3" respawnTime="30sec" chaseRange="1500" /><!-- Гончая Турек 38 -->
+			<npc id="20546" count="2" respawnTime="45sec" chaseRange="1500" /><!-- Тетрарх Орк Турек 41 -->
+			<npc id="20501" count="2" respawnTime="60sec" chaseRange="1500" /><!-- Провидец Орков Турек 41 -->
+			<npc id="20500" count="2" respawnTime="60sec" chaseRange="1500" /><!-- Часовой Орков Турек 40 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="400" minZ="-3488" maxZ="-3488">
+					<node x="-92008" y="119315"/>
+				</territory>
+			</territories>
+			<npc id="20779" count="8" respawnTime="30sec" chaseRange="1500" /><!-- Провидец Орков Рагна 39 -->
+			<npc id="20778" count="8" respawnTime="45sec" chaseRange="1500" /><!-- Владыка Орков Рагна 39 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="400" minZ="-3432" maxZ="-3432">
+					<node x="-97165" y="117955"/>
+				</territory>
+			</territories>
+			<npc id="20778" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Владыка Орков Рагна 39 -->
+			<npc id="20498" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Приспешник Орков Турек 39 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="400" minZ="-3432" maxZ="-3432">
+					<node x="-97165" y="117955"/>
+				</territory>
+			</territories>
+			<npc id="20494" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Гончая Турек 38 -->
+			<npc id="20779" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Провидец Орков Рагна 39 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="400" minZ="-3472" maxZ="-3472">
+					<node x="-97155" y="110568"/>
+				</territory>
+			</territories>
+			<npc id="20499" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Пехотинец Орков Турек 40 -->
+			<npc id="20500" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Часовой Орков Турек 40 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="500" minZ="-3392" maxZ="-3392">
+					<node x="-97297" y="106808"/>
+				</territory>
+			</territories>
+			<npc id="20496" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Стрелок Орков Турек 37 -->
+			<npc id="20497" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Ополченец Орков Турек 38 -->
+			<npc id="20498" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Приспешник Орков Турек 39 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="500" minZ="-3472" maxZ="-3472">
+					<node x="-99719" y="102164"/>
+				</territory>
+			</territories>
+			<npc id="20496" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Стрелок Орков Турек 37 -->
+			<npc id="20497" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Ополченец Орков Турек 38 -->
+			<npc id="20498" count="5" respawnTime="45sec" chaseRange="1500" /><!-- Приспешник Орков Турек 39 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="500" minZ="-3552" maxZ="-3552">
+					<node x="-95135" y="102324"/>
+				</territory>
+			</territories>
+			<npc id="20499" count="4" respawnTime="45sec" chaseRange="1500" /><!--  Пехотинец Орков Турек 40 -->
+			<npc id="20500" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Часовой Орков Турек 40 -->
+			<npc id="20501" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Провидец Орков Турек 41 -->
+			<npc id="20546" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Тетрарх Орк Турек 41 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="500" minZ="-3472" maxZ="-3472">
+					<node x="-99714" y="102139"/>
+				</territory>
+			</territories>
+			<npc id="20499" count="4" respawnTime="45sec" chaseRange="1500" /><!--  Пехотинец Орков Турек 40 -->
+			<npc id="20500" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Часовой Орков Турек 40 -->
+			<npc id="20501" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Провидец Орков Турек 41 -->
+			<npc id="20546" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Тетрарх Орк Турек 41 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="500" minZ="-3688" maxZ="-3688">
+					<node x="-93521" y="106381"/>
+				</territory>
+			</territories>
+			<npc id="20096" count="2" respawnTime="45sec" chaseRange="1500" /><!-- Командир орков отшельников 39 -->
+			<npc id="20497" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Ополченец Орков Турек 38 -->
+			<npc id="20501" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Провидец Орков Турек 41 -->
+			<npc id="20546" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Тетрарх Орк Турек 41 -->
+		</group>
+		<group>
+			<territories>
+				<territory shape="Cylinder" rad="500" minZ="-3456" maxZ="-3456">
+					<node x="-90520" y="111496"/>
+				</territory>
+			</territories>
+			<npc id="20096" count="2" respawnTime="45sec" chaseRange="1500" /><!-- Командир орков отшельников 39 -->
+			<npc id="20497" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Ополченец Орков Турек 38 -->
+			<npc id="20501" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Провидец Орков Турек 41 -->
+			<npc id="20546" count="4" respawnTime="45sec" chaseRange="1500" /><!-- Тетрарх Орк Турек 41 -->
+		</group>
+		<group>
+			<npc id="20494" x="-98400" y="119896" z="-3526" heading="36452" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98481" y="119207" z="-3521" heading="49811" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98399" y="117041" z="-3302" heading="18477" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98374" y="118127" z="-3409" heading="14430" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98614" y="119001" z="-3536" heading="26594" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99219" y="118348" z="-3529" heading="41185" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99667" y="117396" z="-3514" heading="46513" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-100054" y="116332" z="-3499" heading="44486" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-100636" y="115461" z="-3496" heading="41695" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-101274" y="114731" z="-3501" heading="41620" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-101438" y="113750" z="-3336" heading="52631" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-101291" y="113047" z="-3194" heading="50008" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-101599" y="112048" z="-3094" heading="45263" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-101088" y="111393" z="-3154" heading="63104" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99757" y="111944" z="-3382" heading="6728" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98964" y="112480" z="-3497" heading="5677" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99017" y="110103" z="-3501" heading="39561" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99611" y="109650" z="-3487" heading="39561" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98564" y="108766" z="-3462" heading="58066" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98997" y="111093" z="-3544" heading="34466" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99872" y="110132" z="-3488" heading="49415" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98993" y="108492" z="-3480" heading="56023" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98992" y="107407" z="-3501" heading="45331" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99471" y="106161" z="-3568" heading="45331" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-100759" y="106173" z="-3442" heading="32984" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-102101" y="105832" z="-3320" heading="40124" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-102867" y="106870" z="-3128" heading="25575" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-103395" y="105581" z="-3073" heading="48368" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-102784" y="104153" z="-3208" heading="55362" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-101561" y="102352" z="-3222" heading="51762" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-99881" y="103096" z="-3552" heading="5719" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98912" y="103298" z="-3560" heading="7916" respawnTime="60sec" /> <!-- Гончая Турек -->
+			<npc id="20494" x="-98876" y="100585" z="-3407" heading="36360" respawnTime="60sec" /> <!-- Гончая Турек -->
+		</group>
+	</spawn>
+	<!--
+		20494 Гончая Турек 38
+		20495 Полководец Орков Турек 39
+		20496 Стрелок Орков Турек 37
+		20497 Ополченец Орков Турек 38
+		20498 Приспешник Орков Турек 39
+		20499 Пехотинец Орков Турек 40
+		20500 Часовой Орков Турек 40
+		20501 Провидец Орков Турек 41
+		20546 Тетрарх Орк Турек 41
+
+		20779 Провидец Орков Рагна 39
+		20778 Владыка Орков Рагна 39
+		21034 Огр 38 -->
+	<!--<spawn>
+		&lt;!&ndash; возле дома и ТП с карты &ndash;&gt;
 		<territories>
 			<territory minZ="-3448" maxZ="-3832">
 				<node x="-88359" y="106562"/>
@@ -48,51 +270,51 @@
 				<node x="-87523" y="108393"/>
 			</territory>
 		</territories>
-		<npc id="20470" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Kaboo Orc Grunt 7 -->
-		<npc id="20385" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Balor Orc Archer 8 -->
-		<npc id="20447" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Utuku Orc Archer 8 -->
-		<npc id="22236" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Muertos Archer 8 -->
 
-		<npc id="20322" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Goblin Brigand 8 -->
-		<npc id="20326" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Goblin Scout 8 -->
-		<npc id="20328" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Goblin Lookout 8 -->
-		<npc id="27062" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Tanukia 8 -->
-		<npc id="27065" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Roko 8 -->
-		<npc id="27068" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Murtika 8 -->
-		<npc id="20093" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Orc Warrior 10 -->
-		<npc id="20094" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Orc Sniper 10 -->
-		<npc id="20381" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Vaiss Orc 10 -->
-		<npc id="20386" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Balor Orc Fighter 10 -->
-		<npc id="23452" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Honeybee 10 -->
-		<npc id="27018" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Orc Warrior 10 -->
-		<npc id="27456" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Wisp 10 -->
-		<npc id="20092" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Monster Eye 10 -->
-		<npc id="20321" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Goblin Thief 10 -->
-		<npc id="20324" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Goblin Brigand Lieutenant 10 -->
-		<npc id="20331" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Monster Eye Tracker 10 -->
-		<npc id="20361" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Tunath Orc Marksman 10 -->
-		<npc id="20372" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Baraq Orc Warrior 10 -->
-		<npc id="20376" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Varikan Brigand Leader 10 -->
-		<npc id="20471" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Kaboo Orc Fighter 10 -->
-		<npc id="27001" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Orc Sniper 10 -->
-		<npc id="20096" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Orc Lieutenant 11 -->
-		<npc id="20373" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Baraq Orc Warrior Captain 11 -->
-		<npc id="20382" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Vaiss Orc Warrior Leader 11 -->
-		<npc id="20388" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Balor Orc Lieutenant 11 -->
-		<npc id="20473" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Kaboo Orc Fighter Lieutenant 11 -->
-		<npc id="22239" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Muertos Guard 11 -->
-		<npc id="23484" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Robust Honeybee 11 -->
-		<npc id="27019" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Orc Warrior Leader 11 -->
-		<npc id="27059" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Uoph 11 -->
-		<npc id="27060" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Kracha 11 -->
-		<npc id="27061" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Batoh 11 -->
-		<npc id="27064" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Turel 11 -->
-		<npc id="27067" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Kamut 11 -->
-		<npc id="22240" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Muertos Scout 12 -->
-		<npc id="22242" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Muertos Warrior 14 -->
-		<npc id="22243" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Muertos Captain 15 -->
-		<npc id="22245" count="1" respawnTime="60sec" chaseRange="1500" /><!-- Muertos Lieutenant 17 -->
-	</spawn>
+		<npc id="20470" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Kaboo Orc Grunt 7 &ndash;&gt;
+		<npc id="20385" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Balor Orc Archer 8 &ndash;&gt;
+		<npc id="20447" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Utuku Orc Archer 8 &ndash;&gt;
+		<npc id="22236" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Muertos Archer 8 &ndash;&gt;
+		<npc id="20322" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Goblin Brigand 8 &ndash;&gt;
+		<npc id="20326" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Goblin Scout 8 &ndash;&gt;
+		<npc id="20328" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Goblin Lookout 8 &ndash;&gt;
+		<npc id="27062" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Tanukia 8 &ndash;&gt;
+		<npc id="27065" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Roko 8 &ndash;&gt;
+		<npc id="27068" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Murtika 8 &ndash;&gt;
+		<npc id="20093" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Orc Warrior 10 &ndash;&gt;
+		<npc id="20094" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Orc Sniper 10 &ndash;&gt;
+		<npc id="20381" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Vaiss Orc 10 &ndash;&gt;
+		<npc id="20386" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Balor Orc Fighter 10 &ndash;&gt;
+		<npc id="23452" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Honeybee 10 &ndash;&gt;
+		<npc id="27018" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Orc Warrior 10 &ndash;&gt;
+		<npc id="27456" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Wisp 10 &ndash;&gt;
+		<npc id="20092" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Monster Eye 10 &ndash;&gt;
+		<npc id="20321" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Goblin Thief 10 &ndash;&gt;
+		<npc id="20324" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Goblin Brigand Lieutenant 10 &ndash;&gt;
+		<npc id="20331" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Monster Eye Tracker 10 &ndash;&gt;
+		<npc id="20361" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Tunath Orc Marksman 10 &ndash;&gt;
+		<npc id="20372" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Baraq Orc Warrior 10 &ndash;&gt;
+		<npc id="20376" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Varikan Brigand Leader 10 &ndash;&gt;
+		<npc id="20471" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Kaboo Orc Fighter 10 &ndash;&gt;
+		<npc id="27001" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Orc Sniper 10 &ndash;&gt;
+		<npc id="20096" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Orc Lieutenant 11 &ndash;&gt;
+		<npc id="20373" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Baraq Orc Warrior Captain 11 &ndash;&gt;
+		<npc id="20382" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Vaiss Orc Warrior Leader 11 &ndash;&gt;
+		<npc id="20388" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Balor Orc Lieutenant 11 &ndash;&gt;
+		<npc id="20473" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Kaboo Orc Fighter Lieutenant 11 &ndash;&gt;
+		<npc id="22239" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Muertos Guard 11 &ndash;&gt;
+		<npc id="23484" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Robust Honeybee 11 &ndash;&gt;
+		<npc id="27019" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Orc Warrior Leader 11 &ndash;&gt;
+		<npc id="27059" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Uoph 11 &ndash;&gt;
+		<npc id="27060" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Kracha 11 &ndash;&gt;
+		<npc id="27061" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Batoh 11 &ndash;&gt;
+		<npc id="27064" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Turel 11 &ndash;&gt;
+		<npc id="27067" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Kamut 11 &ndash;&gt;
+		<npc id="22240" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Muertos Scout 12 &ndash;&gt;
+		<npc id="22242" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Muertos Warrior 14 &ndash;&gt;
+		<npc id="22243" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Muertos Captain 15 &ndash;&gt;
+		<npc id="22245" count="1" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Muertos Lieutenant 17 &ndash;&gt;
+	</spawn>-->
 	<spawn>
 		<npc id="25020" x="-88392" y="118765" z="-3328" heading="16723" dbSave="true" dbName="Колдун Брека Пасту (36)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Колдун Брека Пасту (36) -->
 	</spawn>

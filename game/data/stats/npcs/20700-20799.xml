@@ -3000,7 +3000,7 @@
 			<height normal="40" />
 		</collision>
 	</npc>
-	<npc id="20778" level="39" type="Monster" name="Ragna Orc Overlord">
+	<npc id="20778" level="39" type="Monster" name="Владыка Орков Рагна">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -3015,7 +3015,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" /> <!-- rhand: Long Sword -->
-		<acquire exp="2973" sp="188" />
+		<acquire exp="697" sp="70" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3052,7 +3052,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="412" max="821" chance="100" /> <!-- Adena -->
+					<item id="57" min="492" max="615" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.3602">
 					<item id="352" min="1" max="1" chance="0.5372" /> <!-- Brigandine Tunic -->
@@ -3739,7 +3739,7 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai type="BALANCED" aggroRange="1000" clanHelpRange="300" isAggressive="true">
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>LIZARDMAN</clan>
 			</clanList>

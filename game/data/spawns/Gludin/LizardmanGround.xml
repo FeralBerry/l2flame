@@ -6,11 +6,11 @@
                 <node x="-52090" y="197902"/>
             </territory>
         </territories>
-        <npc id="20579" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Воитель Ящеров Лито 37-->
-        <npc id="20785" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Шаман Ящеров Тасаба 37-->
-        <npc id="20577" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Ящер Лито 35 -->
-        <npc id="20578" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Стрелок Ящеров Лито 36 -->
-        <npc id="20582" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
+        <npc id="20579" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Воитель Ящеров Лито 37-->
+        <npc id="20785" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Шаман Ящеров Тасаба 37-->
+        <npc id="20577" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Ящер Лито 35 -->
+        <npc id="20578" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Стрелок Ящеров Лито 36 -->
+        <npc id="20582" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
     </spawn>
     <spawn>
         <group>
@@ -24,10 +24,10 @@
                     <node x="-51864" y="199656"/>
                 </territory>
             </territories>
-            <npc id="20784" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Ящер Тасаба -->
-            <npc id="21642" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Снайпер Ящеров Тасаба 39 -->
-            <npc id="20553" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Вепрь -->
-            <npc id="20554" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Грандис -->
+            <npc id="20784" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Ящер Тасаба -->
+            <npc id="21642" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Снайпер Ящеров Тасаба 39 -->
+            <npc id="20553" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Вепрь -->
+            <npc id="20554" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Грандис -->
         </group>
     </spawn>
     <spawn>
@@ -37,9 +37,9 @@
                     <node x="-53509" y="200684"/>
                 </territory>
             </territories>
-            <npc id="20582" count="10" respawnTime="30sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
-            <npc id="20580" count="10" respawnTime="30sec" chaseRange="1500" /><!-- Воин Ящеров Лито 40 -->
-            <npc id="20581" count="10" respawnTime="30sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
+            <npc id="20582" count="10" respawnTime="60sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
+            <npc id="20580" count="10" respawnTime="60sec" chaseRange="1500" /><!-- Воин Ящеров Лито 40 -->
+            <npc id="20581" count="10" respawnTime="60sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
         </group>
     </spawn>
     <spawn>
@@ -49,9 +49,9 @@
                     <node x="-48299" y="203510"/>
                 </territory>
             </territories>
-            <npc id="20763" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Лорд ящеров 40 -->
-            <npc id="20765" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Воин ящеров 38 -->
-            <npc id="20764" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Шаман ящеров 39 -->
+            <npc id="20763" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Лорд ящеров 40 -->
+            <npc id="20765" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Воин ящеров 38 -->
+            <npc id="20764" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Шаман ящеров 39 -->
         </group>
         <group>
             <territories>
@@ -65,10 +65,10 @@
                     <node x="-50161" y="202256"/>
                 </territory>
             </territories>
-            <npc id="20581" count="20" respawnTime="30sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
-            <npc id="20763" count="20" respawnTime="30sec" chaseRange="1500" /><!-- Лорд ящеров 40 -->
-            <npc id="20765" count="20" respawnTime="30sec" chaseRange="1500" /><!-- Воин ящеров 38 -->
-            <npc id="20764" count="20" respawnTime="30sec" chaseRange="1500" /><!-- Шаман ящеров 39 -->
+            <npc id="20581" count="20" respawnTime="60sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
+            <npc id="20763" count="20" respawnTime="60sec" chaseRange="1500" /><!-- Лорд ящеров 40 -->
+            <npc id="20765" count="20" respawnTime="60sec" chaseRange="1500" /><!-- Воин ящеров 38 -->
+            <npc id="20764" count="20" respawnTime="60sec" chaseRange="1500" /><!-- Шаман ящеров 39 -->
         </group>
         <group>
             <territories>
@@ -76,9 +76,9 @@
                     <node x="-43858" y="201593"/>
                 </territory>
             </territories>
-            <npc id="20582" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
-            <npc id="20580" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Воин Ящеров Лито 40 -->
-            <npc id="20581" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
+            <npc id="20582" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
+            <npc id="20580" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Воин Ящеров Лито 40 -->
+            <npc id="20581" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
         </group>
         <group>
             <territories>
@@ -92,11 +92,11 @@
                     <node x="-47313" y="203327"/>
                 </territory>
             </territories>
-            <npc id="20579" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Воитель Ящеров Лито 37-->
-            <npc id="20785" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Шаман Ящеров Тасаба 37-->
-            <npc id="20577" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Ящер Лито 35 -->
-            <npc id="20578" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Стрелок Ящеров Лито 36 -->
-            <npc id="20582" count="15" respawnTime="30sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
+            <npc id="20579" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Воитель Ящеров Лито 37-->
+            <npc id="20785" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Шаман Ящеров Тасаба 37-->
+            <npc id="20577" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Ящер Лито 35 -->
+            <npc id="20578" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Стрелок Ящеров Лито 36 -->
+            <npc id="20582" count="15" respawnTime="60sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
         </group>
         <group>
             <territories>
@@ -104,9 +104,9 @@
                     <node x="-46025" y="208644"/>
                 </territory>
             </territories>
-            <npc id="20582" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
-            <npc id="20581" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
-            <npc id="20553" count="5" respawnTime="30sec" chaseRange="1500" /><!-- Вепрь 39 -->
+            <npc id="20582" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Вождь Ящеров Лито 40-->
+            <npc id="20581" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Шаман Ящеров Лито 39-->
+            <npc id="20553" count="5" respawnTime="60sec" chaseRange="1500" /><!-- Вепрь 39 -->
         </group>
     </spawn>
 
