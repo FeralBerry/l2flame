@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+    <spawn>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-2992" maxZ="-3200">
+                    <node x="-61050" y="122645"/>
+                    <node x="-61533" y="121334"/>
+                    <node x="-60713" y="120601"/>
+                    <node x="-59482" y="121243"/>
+                    <node x="-58667" y="120756"/>
+                    <node x="-58692" y="123394"/>
+                </territory>
+            </territories>
+            <npc id="20789" count="10" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
+            <npc id="20552" count="10" respawnTime="60sec" chaseRange="100" /><!-- Пленная Душа -->
+            <npc id="21216" count="10" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
+            <npc id="20793" count="10" respawnTime="60sec" chaseRange="100" /><!-- Рогач -->
+        </group>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-2992" maxZ="-3136">
+                    <node x="-58487" y="123311"/>
+                    <node x="-55980" y="122853"/>
+                    <node x="-56676" y="120840"/>
+                    <node x="-58217" y="120965"/>
+                </territory>
+            </territories>
+            <npc id="20789" count="10" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
+            <npc id="20552" count="10" respawnTime="60sec" chaseRange="100" /><!-- Пленная Душа -->
+            <npc id="22045" count="10" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
+            <npc id="20792" count="10" respawnTime="60sec" chaseRange="100" /><!-- Крок Шаман -->
+        </group>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-2928" maxZ="-3328">
+                    <node x="-58313" y="120175"/>
+                    <node x="-60652" y="117236"/>
+                    <node x="-58686" y="116065"/>
+                    <node x="-56941" y="117788"/>
+                    <node x="-55764" y="120763"/>
+                </territory>
+            </territories>
+            <npc id="20789" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
+            <npc id="21644" count="20" respawnTime="60sec" chaseRange="100" /><!-- Аспид -->
+            <npc id="20791" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок Воин -->
+            <npc id="21216" count="20" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
+            <npc id="20991" count="5" respawnTime="60sec" chaseRange="100" /><!-- Болотная Тварь -->
+            <npc id="20992" count="15" respawnTime="60sec" chaseRange="100" /><!-- Болотный Аллигатор -->
+            <npc id="22045" count="20" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
+        </group>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-3320" maxZ="-3592">
+                    <node x="-60475" y="117652"/>
+                    <node x="-60650" y="116863"/>
+                    <node x="-64568" y="116532"/>
+                    <node x="-64485" y="117869"/>
+                    <node x="-62213" y="117137"/>
+                </territory>
+            </territories>
+            <npc id="20989" count="15" respawnTime="60sec" chaseRange="100" /><!-- Лагеос -->
+            <npc id="20990" count="15" respawnTime="60sec" chaseRange="100" /><!-- Пагеос -->
+        </group>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-3608" maxZ="-3512">
+                    <node x="-64324" y="120845"/>
+                    <node x="-65372" y="115498"/>
+                    <node x="-67556" y="114912"/>
+                    <node x="-69311" y="122773"/>
+                    <node x="-65196" y="120895"/>
+                </territory>
+            </territories>
+            <npc id="20789" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
+            <npc id="21644" count="20" respawnTime="60sec" chaseRange="100" /><!-- Аспид -->
+            <npc id="20791" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок Воин -->
+            <npc id="21216" count="20" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
+            <npc id="20991" count="5" respawnTime="60sec" chaseRange="100" /><!-- Болотная Тварь -->
+            <npc id="20992" count="15" respawnTime="60sec" chaseRange="100" /><!-- Болотный Аллигатор -->
+            <npc id="22045" count="20" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
+        </group>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-2952" maxZ="-3520">
+                    <node x="-59883" y="116572"/>
+                    <node x="-60543" y="114040"/>
+                    <node x="-63125" y="113105"/>
+                    <node x="-59701" y="109873"/>
+                    <node x="-56691" y="113175"/>
+                    <node x="-57142" y="116462"/>
+                </territory>
+            </territories>
+            <npc id="20789" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок -->
+            <npc id="21644" count="20" respawnTime="60sec" chaseRange="100" /><!-- Аспид -->
+            <npc id="20791" count="15" respawnTime="60sec" chaseRange="100" /><!-- Крок Воин -->
+            <npc id="21216" count="20" respawnTime="60sec" chaseRange="100" /><!-- Владыка Святых Земель -->
+            <npc id="20991" count="5" respawnTime="60sec" chaseRange="100" /><!-- Болотная Тварь -->
+            <npc id="20992" count="15" respawnTime="60sec" chaseRange="100" /><!-- Болотный Аллигатор -->
+            <npc id="22045" count="20" respawnTime="60sec" chaseRange="100" /><!-- Темный Труп -->
+        </group>
+        <group>
+            <territories>
+                <territory shape="Cylinder" rad="600" minZ="-3080" maxZ="-3080">
+                    <node x="-62101" y="122880"/>
+                </territory>
+            </territories>
+            <npc id="20932" count="20" respawnTime="60sec" chaseRange="100" /><!-- Багровый Медведь Хату -->
+        </group>
+        <group>
+            <territories>
+                <territory shape="Cylinder" rad="600" minZ="-2856" maxZ="-2936">
+                    <node x="-61198" y="126244"/>
+                </territory>
+            </territories>
+            <npc id="20932" count="20" respawnTime="60sec" chaseRange="100" /><!-- Багровый Медведь Хату -->
+        </group>
+        <group>
+            <npc id="21216" x="-67102" y="129360" z="-2944" heading="64528" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-67102" y="129360" z="-2944" heading="64528" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-67102" y="129360" z="-2944" heading="64528" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-66651" y="129222" z="-2960" heading="61940" respawnTime="60sec" /> <!-- Overlord wof the Holy Lands -->
+            <npc id="21216" x="-66015" y="129019" z="-2952" heading="62658" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="22045" x="-66053" y="128991" z="-2952" heading="32257" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-66545" y="129216" z="-2960" heading="28016" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-67001" y="129529" z="-2952" heading="26460" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-67014" y="129186" z="-2944" heading="48756" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-66350" y="129101" z="-2952" heading="63702" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="20552" x="-66064" y="129080" z="-2942" heading="30930" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-66753" y="129275" z="-2968" heading="29362" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-67078" y="129445" z="-2952" heading="27741" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-67061" y="129641" z="-2952" heading="15481" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="21216" x="-67102" y="129360" z="-2944" heading="64528" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-67102" y="129360" z="-2944" heading="64528" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-67102" y="129360" z="-2944" heading="64528" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-66651" y="129222" z="-2960" heading="61940" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-66015" y="129019" z="-2952" heading="62658" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="22045" x="-66053" y="128991" z="-2952" heading="32257" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-66545" y="129216" z="-2960" heading="28016" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-67001" y="129529" z="-2952" heading="26460" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-67014" y="129186" z="-2944" heading="48756" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-66350" y="129101" z="-2952" heading="63702" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="20552" x="-66064" y="129080" z="-2942" heading="30930" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-66753" y="129275" z="-2968" heading="29362" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-67078" y="129445" z="-2952" heading="27741" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-67061" y="129641" z="-2952" heading="15481" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="21216" x="-65160" y="128921" z="-2944" heading="63978" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-64264" y="128340" z="-2936" heading="58659" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-63229" y="128043" z="-2905" heading="64196" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-62183" y="128036" z="-2888" heading="71" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-61651" y="128153" z="-2944" heading="2257" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-61229" y="128180" z="-2976" heading="666" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-60866" y="128318" z="-3000" heading="3789" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-61357" y="128467" z="-3008" heading="33672" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-61885" y="128157" z="-2928" heading="38305" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="21216" x="-63860" y="128223" z="-2917" heading="30221" respawnTime="60sec" /> <!-- Overlord of the Holy Lands -->
+            <npc id="22045" x="-65060" y="128904" z="-2944" heading="26363" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-65469" y="128952" z="-2936" heading="31549" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-65499" y="128966" z="-2944" heading="63921" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-64421" y="128360" z="-2939" heading="59181" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-63693" y="127942" z="-2936" heading="60472" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-62967" y="127976" z="-2881" heading="723" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-62407" y="128205" z="-2904" heading="4116" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-61785" y="128111" z="-2926" heading="64040" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-60881" y="128154" z="-2984" heading="2522" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-61338" y="128038" z="-2952" heading="63772" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="22045" x="-60583" y="128155" z="-3000" heading="35" respawnTime="60sec" /> <!-- Dark Corpse -->
+            <npc id="20552" x="-60583" y="128155" z="-3000" heading="35" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-60789" y="128220" z="-2992" heading="29579" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-61367" y="128472" z="-3008" heading="28452" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-61984" y="128318" z="-2943" heading="35315" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-62634" y="127985" z="-2872" heading="38643" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-63173" y="128062" z="-2903" heading="31278" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-63826" y="128201" z="-2933" heading="30088" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-64482" y="128572" z="-2944" heading="26047" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-64865" y="128872" z="-2936" heading="25826" respawnTime="60sec" /> <!-- Fettered Soul -->
+            <npc id="20552" x="-65526" y="128985" z="-2936" heading="30893" respawnTime="60sec" /> <!-- Fettered Soul -->
+        </group>
+        <!--
+        21644 Аспид
+        id=20789	name=[Крок]
+        id=20790	name=[Кайман]
+        id=20791	name=[Крок Воин]
+        id=20792	name=[Крок Шаман]
+        id=20793	name=[Рогач]
+        id=20989	name=[Лагеос]
+        id=20990	name=[Пагеос]
+        id=20991	name=[Болотная Тварь]
+        id=20992	name=[Болотный Аллигатор]
+        id=20993	name=[Болотный Воин]
+
+        20135 Аллигатор
+        20552 Пленная Душа
+        20932 Багровый Медведь Хату
+        22045 Темный Труп
+        21216 Владыка Святых Земель
+        -->
+    </spawn>
+    <!--<spawn>
+        <territories>
+            <territory rad="700" shape="Cylinder" name="abandon_camp_001" minZ="-3632" maxZ="-3632">
+                <node x="-52090" y="197902"/>
+            </territory>
+        </territories>
+        <npc id="20579" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Воитель Ящеров Лито 37&ndash;&gt;
+        <npc id="20785" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман Ящеров Тасаба 37&ndash;&gt;
+        <npc id="20577" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Ящер Лито 35 &ndash;&gt;
+        <npc id="20578" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Стрелок Ящеров Лито 36 &ndash;&gt;
+        <npc id="20582" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Вождь Ящеров Лито 40&ndash;&gt;
+    </spawn>
+    <spawn>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-3704" maxZ="-3296">
+                    <node x="-50467" y="197997"/>
+                    <node x="-45977" y="202378"/>
+                    <node x="-47288" y="203363"/>
+                    <node x="-48175" y="201845"/>
+                    <node x="-49721" y="201362"/>
+                    <node x="-51864" y="199656"/>
+                </territory>
+            </territories>
+            <npc id="20784" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Ящер Тасаба &ndash;&gt;
+            <npc id="21642" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Снайпер Ящеров Тасаба 39 &ndash;&gt;
+            <npc id="20553" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Вепрь &ndash;&gt;
+            <npc id="20554" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Грандис &ndash;&gt;
+        </group>
+    </spawn>
+    <spawn>
+        <group>
+            <territories>
+                <territory rad="700" shape="Cylinder" minZ="-3456" maxZ="-3682">
+                    <node x="-53509" y="200684"/>
+                </territory>
+            </territories>
+            <npc id="20582" count="10" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Вождь Ящеров Лито 40&ndash;&gt;
+            <npc id="20580" count="10" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Воин Ящеров Лито 40 &ndash;&gt;
+            <npc id="20581" count="10" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман Ящеров Лито 39&ndash;&gt;
+        </group>
+    </spawn>
+    <spawn>
+        <group>
+            <territories>
+                <territory rad="500" shape="Cylinder" minZ="-3535" maxZ="-3579">
+                    <node x="-48299" y="203510"/>
+                </territory>
+            </territories>
+            <npc id="20763" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Лорд ящеров 40 &ndash;&gt;
+            <npc id="20765" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Воин ящеров 38 &ndash;&gt;
+            <npc id="20764" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман ящеров 39 &ndash;&gt;
+        </group>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-3304" maxZ="-3720">
+                    <node x="-48983" y="202455"/>
+                    <node x="-48291" y="205065"/>
+                    <node x="-51242" y="203944"/>
+                    <node x="-54515" y="203379"/>
+                    <node x="-55070" y="200899"/>
+                    <node x="-51036" y="201501"/>
+                    <node x="-50161" y="202256"/>
+                </territory>
+            </territories>
+            <npc id="20581" count="20" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман Ящеров Лито 39&ndash;&gt;
+            <npc id="20763" count="20" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Лорд ящеров 40 &ndash;&gt;
+            <npc id="20765" count="20" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Воин ящеров 38 &ndash;&gt;
+            <npc id="20764" count="20" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман ящеров 39 &ndash;&gt;
+        </group>
+        <group>
+            <territories>
+                <territory shape="Cylinder" rad="500" minZ="-3344" maxZ="-3344">
+                    <node x="-43858" y="201593"/>
+                </territory>
+            </territories>
+            <npc id="20582" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Вождь Ящеров Лито 40&ndash;&gt;
+            <npc id="20580" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Воин Ящеров Лито 40 &ndash;&gt;
+            <npc id="20581" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман Ящеров Лито 39&ndash;&gt;
+        </group>
+        <group>
+            <territories>
+                <territory shape="NPoly" minZ="-3448" maxZ="-3712">
+                    <node x="-46610" y="202198"/>
+                    <node x="-44928" y="204301"/>
+                    <node x="-42544" y="204891"/>
+                    <node x="-43015" y="206083"/>
+                    <node x="-44066" y="206107"/>
+                    <node x="-44565" y="206887"/>
+                    <node x="-47313" y="203327"/>
+                </territory>
+            </territories>
+            <npc id="20579" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Воитель Ящеров Лито 37&ndash;&gt;
+            <npc id="20785" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман Ящеров Тасаба 37&ndash;&gt;
+            <npc id="20577" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Ящер Лито 35 &ndash;&gt;
+            <npc id="20578" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Стрелок Ящеров Лито 36 &ndash;&gt;
+            <npc id="20582" count="15" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Вождь Ящеров Лито 40&ndash;&gt;
+        </group>
+        <group>
+            <territories>
+                <territory shape="Cylinder" rad="500" minZ="-3512" maxZ="-3384">
+                    <node x="-46025" y="208644"/>
+                </territory>
+            </territories>
+            <npc id="20582" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Вождь Ящеров Лито 40&ndash;&gt;
+            <npc id="20581" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Шаман Ящеров Лито 39&ndash;&gt;
+            <npc id="20553" count="5" respawnTime="60sec" chaseRange="1500" />&lt;!&ndash; Вепрь 39 &ndash;&gt;
+        </group>
+    </spawn>-->
+
+
+</list>
