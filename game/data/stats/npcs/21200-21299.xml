@@ -1417,7 +1417,7 @@
 			<height normal="43.2" />
 		</collision>
 	</npc>
-	<npc id="21216" level="40" type="Monster" name="Overlord of the Holy Lands">
+	<npc id="21216" level="40" type="Monster" name="Владыка Святых Земель">
 		<parameters>
 			<param name="MoveAroundSocial" value="215" />
 			<param name="MoveAroundSocial1" value="215" />
@@ -1433,7 +1433,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="129" lhand="646" /> <!-- rhand: Sword of Revolution lhand: Shield of Silence -->
-		<acquire exp="6806" sp="440" />
+		<acquire exp="2720" sp="272" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1464,11 +1464,35 @@
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>C_DUNGEON</clan>
+				<clan>ALL</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<group chance="70">
+					<item id="57" min="1920" max="2400" chance="100" /> <!-- Adena -->
+				</group>
+				<group chance="2.0713">
+					<item id="396" min="1" max="1" chance="1.6747" /> <!-- Salamander Skin Mail -->
+					<item id="1952" min="1" max="1" chance="98.3253" /> <!-- Salamander Skin Mail Texture -->
+				</group>
+				<group chance="36.9435">
+					<item id="1868" min="1" max="3" chance="57.3684" /> <!-- Thread -->
+					<item id="1873" min="1" max="1" chance="22.9474" /> <!-- Silver Nugget -->
+					<item id="5549" min="1" max="1" chance="5.7368" /> <!-- Metallic Thread -->
+					<item id="1889" min="1" max="1" chance="3.8246" /> <!-- Compound Braid -->
+					<item id="2161" min="1" max="1" chance="5.5698" /> <!-- Recipe: Aquastone Ring -->
+					<item id="2993" min="1" max="1" chance="4.553" /> <!-- Recipe: Dwarven Chain Boots -->
+				</group>
+			</drop>
+			<spoil>
+				<item id="1905" min="1" max="1" chance="24.6339" /> <!-- Omen Beast's Eye Earring Gemstone -->
+				<item id="1889" min="1" max="1" chance="16.8824" /> <!-- Compound Braid -->
+				<item id="1868" min="1" max="11" chance="84.4121" /> <!-- Thread -->
+			</spoil>
+		</dropLists>
 		<collision>
 			<radius normal="12" />
 			<height normal="30.5" />

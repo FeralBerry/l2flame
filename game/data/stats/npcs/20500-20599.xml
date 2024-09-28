@@ -53,23 +53,58 @@
 				<group chance="70">
 					<item id="57" min="960" max="1200" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="2.0553">
-					<item id="847" min="1" max="1" chance="5.1488" /> <!-- Red Crescent Earring -->
-					<item id="910" min="1" max="1" chance="3.8616" /> <!-- Necklace of Devotion -->
-					<item id="1899" min="1" max="1" chance="83.2663" /> <!-- Necklace of Devotion Chain -->
-					<item id="890" min="1" max="1" chance="7.7233" /> <!-- Ring of Devotion -->
+				<group chance="3.1204">
+					<item id="629" min="1" max="1" chance="0.9888" /> <!-- Kite Shield -->
+					<item id="1947" min="1" max="1" chance="42.9244" /> <!-- Kite Shield Fragment -->
+					<item id="2493" min="1" max="1" chance="0.9888" /> <!-- Brigandine Shield -->
+					<item id="2929" min="1" max="1" chance="42.9244" /> <!-- Brigandine Shield Fragment -->
+					<item id="2411" min="1" max="1" chance="0.6925" /> <!-- Brigandine Helmet -->
+					<item id="2922" min="1" max="1" chance="11.4811" /> <!-- Brigandine Helmet Design -->
 				</group>
-				<group chance="5.7194">
-					<item id="1874" min="1" max="1" chance="12.7666" /> <!-- Oriharukon Ore -->
-					<item id="1878" min="1" max="1" chance="76.5998" /> <!-- Braided Hemp -->
-					<item id="5220" min="1" max="1" chance="7.66" /> <!-- Metal Hardener -->
-					<item id="2262" min="1" max="1" chance="2.9736" /> <!-- Recipe: Elven Bow -->
+				<group chance="24.593">
+					<item id="1868" min="1" max="1" chance="75.653" /> <!-- Thread -->
+					<item id="1873" min="1" max="1" chance="15.1306" /> <!-- Silver Nugget -->
+					<item id="5549" min="1" max="1" chance="3.7826" /> <!-- Metallic Thread -->
+					<item id="1889" min="1" max="1" chance="2.5218" /> <!-- Compound Braid -->
+					<item id="5231" min="1" max="1" chance="2.7019" /> <!-- Recipe: Metal Hardener (100%) -->
+					<item id="2286" min="1" max="1" chance="0.2101" /> <!-- Recipe: Bonebreaker -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="55" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="38" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="7" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="23" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="66" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="11" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
 				</group>
 			</drop>
 			<spoil>
-				<item id="1867" min="1" max="3" chance="52.0412" /> <!-- Animal Skin -->
-				<item id="1932" min="1" max="1" chance="12.3908" /> <!-- Bone Helmet Design -->
-				<item id="1931" min="1" max="1" chance="10.2042" /> <!-- Leather Boot Lining -->
+				<item id="1945" min="1" max="1" chance="8.5765" /> <!-- Mithril Stocking Design -->
+				<item id="1873" min="1" max="1" chance="43.191" /> <!-- Silver Nugget -->
+				<item id="1825" min="1" max="1" chance="7.7127" /> <!-- Recipe: Oriharukon -->
 			</spoil>
 		</dropLists>
 		<collision>
@@ -2823,27 +2858,27 @@
 				<group chance="70">
 					<item id="57" min="1476" max="1845" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="1.3701">
-					<item id="849" min="1" max="1" chance="2.6765" /> <!-- Tiger's Eye Earring -->
-					<item id="1901" min="1" max="1" chance="91.3106" /> <!-- Tiger's Eye Earring Stone -->
-					<item id="912" min="1" max="1" chance="2.0063" /> <!-- Near Forest Necklace -->
-					<item id="880" min="1" max="1" chance="4.0066" /> <!-- Black Pearl Ring -->
+				<group chance="5.6744">
+					<item id="851" min="1" max="1" chance="0.6887" /> <!-- Omen Beast's Eye Earring -->
+					<item id="1905" min="1" max="1" chance="31.2519" /> <!-- Omen Beast's Eye Earring Gemstone -->
+					<item id="914" min="1" max="1" chance="0.5165" /> <!-- Necklace of Darkness -->
+					<item id="1907" min="1" max="1" chance="22.3492" /> <!-- Necklace of Darkness Gem -->
+					<item id="882" min="1" max="1" chance="1.033" /> <!-- Mithril Ring -->
+					<item id="1906" min="1" max="1" chance="44.1607" /> <!-- Mithril Ring Wire -->
 				</group>
-				<group chance="3.821">
-					<item id="1876" min="1" max="1" chance="23.7048" /> <!-- Mithril Ore -->
-					<item id="1880" min="1" max="1" chance="11.8524" /> <!-- Steel -->
-					<item id="1877" min="1" max="1" chance="4.741" /> <!-- Adamantite Nugget -->
-					<item id="1881" min="1" max="1" chance="15.8032" /> <!-- Coarse Bone Powder -->
-					<item id="1882" min="1" max="1" chance="26.3387" /> <!-- Leather -->
-					<item id="2276" min="1" max="1" chance="0.8466" /> <!-- Recipe: Maingauche -->
-					<item id="2274" min="1" max="1" chance="0.8466" /> <!-- Recipe: Skull Breaker -->
-					<item id="2976" min="1" max="1" chance="15.8667" /> <!-- Recipe: Manticore Skin Boots -->
+				<group chance="40.8366">
+					<item id="1865" min="1" max="1" chance="44.6429" /> <!-- Varnish -->
+					<item id="1870" min="1" max="1" chance="44.6429" /> <!-- Coal -->
+					<item id="1879" min="1" max="1" chance="7.4405" /> <!-- Cokes -->
+					<item id="1875" min="1" max="1" chance="2.9762" /> <!-- Stone of Purity -->
+					<item id="1805" min="1" max="1" chance="0.1488" /> <!-- Recipe: Soulshot: C-Grade -->
+					<item id="5269" min="1" max="1" chance="0.1487" /> <!-- Recipe: Greater Soulshot (C) Compressed Package(100%) -->
 				</group>
 			</drop>
 			<spoil>
-				<item id="2279" min="1" max="1" chance="0.4867" /> <!-- Recipe: War Pick -->
-				<item id="2979" min="1" max="1" chance="9.122" /> <!-- Recipe: Manticore Skin Gloves -->
-				<item id="1877" min="1" max="1" chance="2.7257" /> <!-- Adamantite Nugget -->
+				<item id="1877" min="1" max="1" chance="8.7132" /> <!-- Adamantite Nugget -->
+				<item id="2997" min="1" max="1" chance="17.288" /> <!-- Recipe: Karmian Gloves -->
+				<item id="1879" min="1" max="1" chance="36.3049" /> <!-- Cokes -->
 			</spoil>
 		</dropLists>
 		<collision>
@@ -3403,7 +3438,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="20552" level="38" type="Monster" name="Fettered Soul">
+	<npc id="20552" level="38" type="Monster" name="Пленная Душа">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -3417,7 +3452,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="5151" sp="322" />
+		<acquire exp="1140" sp="114" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3449,11 +3484,11 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="714" max="1424" chance="100" /> <!-- Adena -->
+					<item id="57" min="760" max="912" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.469">
 					<item id="129" min="1" max="1" chance="1.732" /> <!-- Sword of Revolution -->

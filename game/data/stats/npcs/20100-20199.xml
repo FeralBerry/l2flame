@@ -2126,7 +2126,7 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="2848" sp="184" />
+		<acquire exp="680" sp="68" />
 		<stats str="79" int="34" dex="42" wit="66" con="75" men="12">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -2155,7 +2155,7 @@
 		<exCrtEffect>false</exCrtEffect>
 		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>CROC2</clan>
+				<clan>CROC</clan>
 			</clanList>
 		</ai>
 		<collision>
@@ -2165,7 +2165,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="390" max="779" chance="100" /> <!-- Adena -->
+					<item id="57" min="480" max="600" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.2491">
 					<item id="261" min="1" max="1" chance="1.8063" /> <!-- Bich'Hwa -->

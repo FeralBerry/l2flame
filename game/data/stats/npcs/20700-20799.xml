@@ -2277,7 +2277,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="13" /> <!-- rhand: Short Bow -->
-		<acquire exp="5183" sp="340" />
+		<acquire exp="697" sp="70" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="1008.23781" hpRegen="5.5" mp="504.8" mpRegen="2.1" />
 			<attack physical="187.11878" magical="127.77787" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -2308,13 +2308,13 @@
 		<exCrtEffect>false</exCrtEffect>
 		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300" isAggressive="false">
 			<clanList>
-				<clan>ORC</clan>
+				<clan>CROC</clan>
 			</clanList>
 		</ai>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="696" max="1393" chance="100" /> <!-- Adena -->
+					<item id="57" min="492" max="615" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.3714">
 					<item id="159" min="1" max="1" chance="0.3349" /> <!-- Bonebreaker -->
@@ -3082,7 +3082,7 @@
 			<height normal="23" grown="27.6" />
 		</collision>
 	</npc>
-	<npc id="20779" level="39" type="Monster" name="Ragna Orc Seer">
+	<npc id="20779" level="39" type="Monster" name="Провидец Орков Рагна">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -3096,7 +3096,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="7" /> <!-- rhand: Apprentice's Rod -->
-		<acquire exp="2654" sp="169" />
+		<acquire exp="585" sp="59" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -3132,24 +3132,55 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="368" max="733" chance="100" /> <!-- Adena -->
+					<item id="57" min="390" max="468" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.2119">
-					<item id="318" min="1" max="1" chance="1.9754" /> <!-- Crucifix of Blood -->
-					<item id="2042" min="1" max="1" chance="98.0246" /> <!-- Crucifix of Blood Piece -->
+				<group chance="1.2932">
+					<item id="129" min="1" max="1" chance="1.732" /> <!-- Sword of Revolution -->
+					<item id="2034" min="1" max="1" chance="98.268" /> <!-- Sword of Revolution Blade -->
 				</group>
-				<group chance="15.4457">
-					<item id="1871" min="1" max="1" chance="58.2147" /> <!-- Charcoal -->
-					<item id="1866" min="1" max="1" chance="38.8098" /> <!-- Suede -->
-					<item id="1877" min="1" max="1" chance="2.3286" /> <!-- Adamantite Nugget -->
-					<item id="2290" min="1" max="1" chance="0.3234" /> <!-- Recipe: Mithril Dagger -->
-					<item id="2286" min="1" max="1" chance="0.3235" /> <!-- Recipe: Bonebreaker -->
+				<group chance="42.3449">
+					<item id="1864" min="3" max="9" chance="37.8726" /> <!-- Stem -->
+					<item id="1869" min="2" max="6" chance="28.4045" /> <!-- Iron Ore -->
+					<item id="1878" min="3" max="9" chance="7.5745" /> <!-- Braided Hemp -->
+					<item id="1884" min="2" max="6" chance="13.9837" /> <!-- Cord -->
+					<item id="2154" min="1" max="1" chance="12.1647" /> <!-- Recipe: Elven Earring -->
+				</group>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="12" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="56" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="32" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Atk. Spd. -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
 				</group>
 			</drop>
 			<spoil>
-				<item id="2158" min="1" max="1" chance="10.764" /> <!-- Recipe: Mithril Ring -->
-				<item id="1904" min="1" max="1" chance="8.117" /> <!-- Elven Necklace Beads -->
-				<item id="1866" min="1" max="1" chance="57.9821" /> <!-- Suede -->
+				<item id="1864" min="1" max="19" chance="93.0725" /> <!-- Stem -->
+				<item id="1869" min="1" max="9" chance="93.0725" /> <!-- Iron Ore -->
+				<item id="1901" min="1" max="1" chance="64.2766" /> <!-- Tiger's Eye Earring Stone -->
 			</spoil>
 		</dropLists>
 		<collision>
@@ -4161,7 +4192,7 @@
 			<height normal="39" />
 		</collision>
 	</npc>
-	<npc id="20789" level="36" type="Monster" name="Crokian">
+	<npc id="20789" level="36" type="Monster" name="Крок">
 		<parameters>
 			<param name="MoveAroundSocial" value="115" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -4176,7 +4207,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5128" /> <!-- rhand: Crokian Blade -->
-		<acquire exp="2399" sp="145" />
+		<acquire exp="540" sp="54" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="809.52639" hpRegen="4.5" mp="417.6" mpRegen="1.8" />
 			<attack physical="137.86467" magical="94.1437" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4213,7 +4244,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="333" max="668" chance="100" /> <!-- Adena -->
+					<item id="57" min="360" max="432" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.1485">
 					<item id="393" min="1" max="1" chance="1.0427" /> <!-- Mithril Banded Mail -->
@@ -4276,7 +4307,7 @@
 			<height normal="29" />
 		</collision>
 	</npc>
-	<npc id="20790" level="37" type="Monster" name="Dailaon">
+	<npc id="20790" level="37" type="Monster" name="Кайман">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -4391,7 +4422,7 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="20791" level="38" type="Monster" name="Crokian Warrior">
+	<npc id="20791" level="38" type="Monster" name="Крок Воин">
 		<parameters>
 			<param name="MoveAroundSocial" value="115" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -4406,7 +4437,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5128" /> <!-- rhand: Crokian Blade -->
-		<acquire exp="5307" sp="331" />
+		<acquire exp="1140" sp="114" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4444,7 +4475,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="735" max="1467" chance="100" /> <!-- Adena -->
+					<item id="57" min="760" max="912" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="2.4278">
 					<item id="352" min="1" max="1" chance="0.5372" /> <!-- Brigandine Tunic -->
@@ -4506,7 +4537,7 @@
 			<height normal="29" />
 		</collision>
 	</npc>
-	<npc id="20792" level="39" type="Monster" name="Farhite">
+	<npc id="20792" level="39" type="Monster" name="Крок Шаман">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -4522,7 +4553,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5131" /> <!-- rhand: Parhit Staff -->
-		<acquire exp="4937" sp="314" />
+		<acquire exp="1170" sp="117" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -4562,7 +4593,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="684" max="1363" chance="100" /> <!-- Adena -->
+					<item id="57" min="780" max="936" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.4236">
 					<item id="88" min="1" max="1" chance="0.3676" /> <!-- Morning Star -->
@@ -4628,7 +4659,7 @@
 			<height normal="31" />
 		</collision>
 	</npc>
-	<npc id="20793" level="40" type="Monster" name="Nos">
+	<npc id="20793" level="40" type="Monster" name="Рогач">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="81" />
@@ -4643,7 +4674,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5130" /> <!-- rhand: Nos Sword -->
-		<acquire exp="5403" sp="349" />
+		<acquire exp="1360" sp="136" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -4682,7 +4713,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="740" max="1478" chance="100" /> <!-- Adena -->
+					<item id="57" min="960" max="1200" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.5198">
 					<item id="93" min="1" max="1" chance="0.821" /> <!-- Winged Spear -->
@@ -4739,8 +4770,8 @@
 			</spoil>
 		</dropLists>
 		<collision>
-			<radius normal="26" />
-			<height normal="42" />
+			<radius normal="26" grown="31.2"/>
+			<height normal="42" grown="50.8"/>
 		</collision>
 	</npc>
 	<npc id="20794" level="41" type="Monster" name="Blade Stakato">

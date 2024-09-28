@@ -1222,7 +1222,7 @@
 			<height normal="14.5" grown="18" />
 		</collision>
 	</npc>
-	<npc id="20932" level="38" type="Monster" name="Hatu Crimson Bear">
+	<npc id="20932" level="38" type="Monster" name="Багровый Медведь Хату">
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -1236,11 +1236,11 @@
 		</parameters>
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="1612" sp="101" />
+		<acquire exp="2280" sp="228" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="148.44287" magical="98.8349371271581" />
+			<defence physical="248.44287" magical="198.8349371271581" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -1253,7 +1253,7 @@
 		<status undying="false" canBeSown="true" />
 		<skillList>
 			<skill id="4032" level="3" /> <!-- NPC Strike -->
-			<skill id="4408" level="9" /> <!-- HP Increase (1/2x) -->
+			<skill id="4408" level="13" /> <!-- HP Increase (4x) -->
 			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
 			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
@@ -1261,12 +1261,12 @@
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="5" /> <!-- Blunt Weapons -->
-			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="4416" level="1" /> <!-- Undead -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>0.5</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<sNpcPropHpRate>4</sNpcPropHpRate>
+		<ai aggroRange="400" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>HATU</clan>
 			</clanList>
@@ -1274,7 +1274,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="223" max="446" chance="100" /> <!-- Adena -->
+					<item id="57" min="1520" max="1824" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.6866">
 					<item id="850" min="1" max="1" chance="0.7508" /> <!-- Elven Earring -->
@@ -6519,7 +6519,7 @@
 			<height normal="12" />
 		</collision>
 	</npc>
-	<npc id="20989" level="38" type="Monster" name="Lageos">
+	<npc id="20989" level="38" type="Monster" name="Лагеос">
 		<parameters>
 			<param name="MoveAroundSocial" value="20" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -6534,11 +6534,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="182" /> <!-- rhand: Doom Hammer -->
-		<acquire exp="3298" sp="205" />
+		<acquire exp="570" sp="57" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="148.44287" magical="98.8349371271581" />
+			<defence physical="348.44287" magical="298.8349371271581" />
 			<attribute>
 				<defence fire="20" water="20" wind="-5" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6572,7 +6572,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="457" max="912" chance="100" /> <!-- Adena -->
+					<item id="57" min="380" max="456" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.5091">
 					<item id="352" min="1" max="1" chance="0.5372" /> <!-- Brigandine Tunic -->
@@ -6602,7 +6602,7 @@
 			<height normal="37" />
 		</collision>
 	</npc>
-	<npc id="20990" level="38" type="Monster" name="Pageos">
+	<npc id="20990" level="38" type="Monster" name="Пагеос">
 		<parameters>
 			<param name="MoveAroundSocial" value="57" />
 			<param name="MoveAroundSocial1" value="62" />
@@ -6617,11 +6617,11 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="128" /> <!-- rhand: Knight's Sword -->
-		<acquire exp="3131" sp="196" />
+		<acquire exp="570" sp="57" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="148.44287" magical="98.8349371271581" />
+			<defence physical="348.44287" magical="298.8349371271581" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -6646,11 +6646,15 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" >
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="434" max="866" chance="100" /> <!-- Adena -->
+					<item id="57" min="380" max="456" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.7694">
 					<item id="437" min="1" max="1" chance="0.8713" /> <!-- Mithril Tunic -->
@@ -6679,7 +6683,7 @@
 			<height normal="25" grown="30.8" />
 		</collision>
 	</npc>
-	<npc id="20991" level="45" type="Monster" name="Swamp Tribe">
+	<npc id="20991" level="45" type="Monster" name="Болотная Тварь">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -6698,7 +6702,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5131" /> <!-- rhand: Parhit Staff -->
-		<acquire exp="12334" sp="858" />
+		<acquire exp="1530" sp="153" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="1183.80594" hpRegen="5.5" mp="610.8" mpRegen="2.1" />
 			<attack physical="234.89829" magical="160.40508" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -6738,7 +6742,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="1624" max="3299" chance="100" /> <!-- Adena -->
+					<item id="57" min="1080" max="1350" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="4.0304">
 					<item id="354" min="1" max="1" chance="0.6196" /> <!-- Chain Mail Shirt -->
@@ -6771,7 +6775,7 @@
 			<height normal="48" />
 		</collision>
 	</npc>
-	<npc id="20992" level="44" type="Monster" name="Swamp Alligator">
+	<npc id="20992" level="44" type="Monster" name="Болотный Аллигатор">
 		<parameters>
 			<param name="MoveAroundSocial" value="115" />
 			<param name="MoveAroundSocial1" value="90" />
@@ -6786,7 +6790,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5128" /> <!-- rhand: Crokian Blade -->
-		<acquire exp="11041" sp="756" />
+		<acquire exp="1496" sp="150" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="1138.62924" hpRegen="5.5" mp="584.0" mpRegen="2.1" />
 			<attack physical="222.23112" magical="151.75505" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -6820,7 +6824,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="1445" max="2961" chance="100" /> <!-- Adena -->
+					<item id="57" min="1056" max="1320" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="8.9769">
 					<item id="852" min="1" max="1" chance="0.5399" /> <!-- Moonstone Earring -->
@@ -6854,7 +6858,7 @@
 			<height normal="29" />
 		</collision>
 	</npc>
-	<npc id="20993" level="44" type="Monster" name="Swamp Warrior">
+	<npc id="20993" level="44" type="Monster" name="Болотный Воин">
 		<parameters>
 			<param name="MoveAroundSocial" value="70" />
 			<param name="MoveAroundSocial1" value="70" />
@@ -6868,7 +6872,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="5127" /> <!-- rhand: Dailaon Knife -->
-		<acquire exp="11716" sp="802" />
+		<acquire exp="1496" sp="150" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="1138.62924" hpRegen="5.5" mp="584.0" mpRegen="2.1" />
 			<attack physical="222.23112" magical="151.75505" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
@@ -6902,7 +6906,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="1533" max="3142" chance="100" /> <!-- Adena -->
+					<item id="57" min="1056" max="1320" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="8.4624">
 					<item id="62" min="1" max="1" chance="0.2489" /> <!-- Mithril Boots -->

@@ -4604,7 +4604,7 @@
 			<height normal="16" />
 		</collision>
 	</npc>
-	<npc id="22045" level="40" type="Monster" name="Dark Corpse">
+	<npc id="22045" level="40" type="Monster" name="Темный Труп">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -4616,7 +4616,7 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1555" sp="96" />
+		<acquire exp="340" sp="34" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="966.57792" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="10" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
@@ -4630,7 +4630,7 @@
 			</speed>
 			<hitTime>430</hitTime>
 		</stats>
-		<status undying="false" canBeSown="true" />
+		<status undying="false" canBeSown="true"/>
 		<skillList>
 			<skill id="4071" level="3" /> <!-- Resist Bow/Crossbow Weapons -->
 			<skill id="4248" level="4" /> <!-- NPC HP Drain - Slow -->
@@ -4648,15 +4648,15 @@
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>0.5</sNpcPropHpRate>
-		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="true">
 			<clanList>
-				<clan>RAGNA</clan>
+				<clan>ALL</clan>
 			</clanList>
 		</ai>
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="204" max="407" chance="100" /> <!-- Adena -->
+					<item id="57" min="240" max="300" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="1.7509">
 					<item id="606" min="1" max="1" chance="0.3142" /> <!-- Rip Gauntlets -->
