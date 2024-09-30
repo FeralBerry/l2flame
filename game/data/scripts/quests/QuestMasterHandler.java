@@ -43,6 +43,7 @@ import quests.Q00053_TheTestOfGlory.Q00053_TheTestOfGlory;
 import quests.Q00054_TheTestOfSuccess.Q00054_TheTestOfSuccess;
 import quests.Q00055_TheTestOfSkill.Q00055_TheTestOfSkill;
 import quests.Q00057_TheChampionTest.Q00057_TheChampionTest;
+import quests.Q00058_TheTrialOfDutyTest.Q00058_TheTrialOfDutyTest;
 import quests.Q00500_BrothersBoundInChains.Q00500_BrothersBoundInChains;
 import quests.Q00511_AwlUnderFoot.Q00511_AwlUnderFoot;
 import quests.Q00512_BladeUnderFoot.Q00512_BladeUnderFoot;
@@ -132,6 +133,7 @@ public class QuestMasterHandler
 			//Q00056_TheTestOfWisdom.class,
 			// Квесты на 2 профессию классовые
 			Q00057_TheChampionTest.class,
+			Q00058_TheTrialOfDutyTest.class,
 			//
 		Q00500_BrothersBoundInChains.class,
 		Q00504_CompetitionForTheBanditStronghold.class, // TODO: Not done.

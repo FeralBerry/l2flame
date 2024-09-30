@@ -20,15 +20,15 @@
                 <node x="-43740" y="140435"/>
             </territory>
         </territories>
-        <npc id="20142" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Грифон 20 лвл -->
-        <npc id="20437" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Рекрут Гноллов 21 лвл -->
-        <npc id="20053" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Дозорный Гноллов 21 лвл -->
-        <npc id="20058" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Гнолл Страж 22 лвл -->
-        <npc id="20224" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Рейнджер Гноллов 22 лвл -->
-        <npc id="20548" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Дезертир Гноллов 23 лвл -->
-        <npc id="20436" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Снабженец Гноллов 23 лвл -->
-        <npc id="20061" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Гнолл Одиночка 23 лвл -->
-        <npc id="20163" count="30" respawnTime="30sec" chaseRange="1500" /><!-- Гнолл 23 лвл -->
+        <npc id="20142" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Грифон 20 лвл -->
+        <npc id="20437" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Рекрут Гноллов 21 лвл -->
+        <npc id="20053" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Дозорный Гноллов 21 лвл -->
+        <npc id="20058" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Гнолл Страж 22 лвл -->
+        <npc id="20224" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Рейнджер Гноллов 22 лвл -->
+        <npc id="20548" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Дезертир Гноллов 23 лвл -->
+        <npc id="20436" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Снабженец Гноллов 23 лвл -->
+        <npc id="20061" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Гнолл Одиночка 23 лвл -->
+        <npc id="20163" count="30" respawnTime="30sec" chaseRange="4000" /><!-- Гнолл 23 лвл -->
     </spawn>
     <spawn name="abandon_camp_center">
         <group>
@@ -260,9 +260,9 @@
                 <node x="-52466" y="133031"/>
             </territory>
         </territories>
-        <npc id="20439" count="5" respawnTime="35sec" chaseRange="1500" /><!-- Офицер Гноллов 24 лвл -->
-        <npc id="20438" count="5" respawnTime="35sec" chaseRange="1500" /><!-- Генерал Гноллов 26 лвл -->
-        <npc id="20207" count="5" respawnTime="35sec" chaseRange="1500" /><!-- Партизан Гноллов 26 лвл -->
+        <npc id="20439" count="5" respawnTime="35sec" chaseRange="4000" /><!-- Офицер Гноллов 24 лвл -->
+        <npc id="20438" count="5" respawnTime="35sec" chaseRange="4000" /><!-- Генерал Гноллов 26 лвл -->
+        <npc id="20207" count="5" respawnTime="35sec" chaseRange="4000" /><!-- Партизан Гноллов 26 лвл -->
     </spawn>
     <spawn name="abandon_camp_hills">
         <group>
@@ -351,13 +351,13 @@
                 <node x="-44715" y="132341"/>
             </territory>
         </territories>
-        <npc id="20755" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Командир Гноллов Латников 30 лвл  -->
-        <npc id="20211" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Вожак Гноллов 30 лвл  -->
-        <npc id="21011" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Воитель Авангарда Гноллов 30 лвл  -->
-        <npc id="21013" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Стрелец Авангарда Гноллов 32  -->
-        <npc id="20549" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Лорд Гноллов 34  -->
-        <npc id="21015" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Главарь Авангарда Гноллов 34  -->
-        <npc id="20212" count="15" respawnTime="35sec" chaseRange="1500" /><!-- Турмак Кровавый Топор 34  -->
+        <npc id="20755" count="15" respawnTime="35sec" chaseRange="4000" /><!-- Командир Гноллов Латников 30 лвл  -->
+        <npc id="20211" count="15" respawnTime="35sec" chaseRange="4000" /><!-- Вожак Гноллов 30 лвл  -->
+        <npc id="21011" count="15" respawnTime="35sec" chaseRange="4000" /><!-- Воитель Авангарда Гноллов 30 лвл  -->
+        <npc id="21013" count="15" respawnTime="35sec" chaseRange="4000" /><!-- Стрелец Авангарда Гноллов 32  -->
+        <npc id="20549" count="15" respawnTime="35sec" chaseRange="4000" /><!-- Лорд Гноллов 34  -->
+        <npc id="21015" count="15" respawnTime="35sec" chaseRange="4000" /><!-- Главарь Авангарда Гноллов 34  -->
+        <npc id="20212" count="15" respawnTime="35sec" chaseRange="4000" /><!-- Турмак Кровавый Топор 34  -->
     </spawn>
     <spawn>
         <npc id="25001" x="-43175" y="140849" z="-2928" heading="16723" dbSave="true" dbName="Кутус Серый Коготь (23)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Кутус Серый Коготь (23) Вход абадон камп-->

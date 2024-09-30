@@ -6,9 +6,9 @@
 				<node x="-18822" y="138935"/>
 			</territory>
 		</territories>
-		<npc id="20198" count="2" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
-		<npc id="20190" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
-		<npc id="22007" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+		<npc id="20198" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -16,9 +16,9 @@
 				<node x="-19866" y="139121"/>
 			</territory>
 		</territories>
-		<npc id="20198" count="4" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
-		<npc id="20190" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
-		<npc id="22007" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+		<npc id="20198" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -26,9 +26,9 @@
 				<node x="-18911" y="139839"/>
 			</territory>
 		</territories>
-		<npc id="20198" count="3" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
-		<npc id="20190" count="3" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
-		<npc id="22007" count="3" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+		<npc id="20198" count="3" respawnTime="25sec" chaseRange="4000" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="3" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="3" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -36,9 +36,9 @@
 				<node x="-18254" y="138603"/>
 			</territory>
 		</territories>
-		<npc id="20198" count="2" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак Берсерк 29 -->
-		<npc id="20190" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Мародер 29 -->
-		<npc id="22007" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрак Солдата 29 -->
+		<npc id="20198" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Вурдалак Берсерк 29 -->
+		<npc id="20190" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Мародер 29 -->
+		<npc id="22007" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Солдата 29 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -50,9 +50,9 @@
 				<node x="-20740" y="139555"/>
 			</territory>
 		</territories>
-		<npc id="20615" count="8" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Мечник 29 -->
-		<npc id="20191" count="8" respawnTime="25sec" chaseRange="550" /><!-- Скелет Налетчик 30 -->
-		<npc id="21169" count="8" respawnTime="25sec" chaseRange="550" /><!-- Страж Лит 30 -->
+		<npc id="20615" count="8" respawnTime="25sec" chaseRange="4000" /><!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="8" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Налетчик 30 -->
+		<npc id="21169" count="8" respawnTime="25sec" chaseRange="4000" /><!-- Страж Лит 30 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -64,9 +64,9 @@
 				<node x="-15674" y="139415"/>
 			</territory>
 		</territories>
-		<npc id="21142" count="10" respawnTime="25sec" chaseRange="550" /><!-- Скелет Хранитель Могил 29 -->
-		<npc id="22006" count="10" respawnTime="25sec" chaseRange="550" /><!-- Стражник Грабителей Могил 29 -->
-		<npc id="20200" count="10" respawnTime="25sec" chaseRange="550" /><!-- Раб 31 -->
+		<npc id="21142" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Хранитель Могил 29 -->
+		<npc id="22006" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Стражник Грабителей Могил 29 -->
+		<npc id="20200" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Раб 31 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -77,12 +77,12 @@
 				<node x="-18902" y="142086"/>
 			</territory>
 		</territories>
-		<npc id="20615" count="2" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Мечник 29 -->
-		<npc id="20191" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Налетчик 30 -->
-		<npc id="21169" count="2" respawnTime="25sec" chaseRange="550" /><!-- Страж Лит 30 -->
-		<npc id="21142" count="2" respawnTime="25sec" chaseRange="550" /><!-- Скелет Хранитель Могил 29 -->
-		<npc id="22006" count="2" respawnTime="25sec" chaseRange="550" /><!-- Стражник Грабителей Могил 29 -->
-		<npc id="20200" count="2" respawnTime="25sec" chaseRange="550" /><!-- Раб 31 -->
+		<npc id="20615" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Призрачный Мечник 29 -->
+		<npc id="20191" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Налетчик 30 -->
+		<npc id="21169" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Страж Лит 30 -->
+		<npc id="21142" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Хранитель Могил 29 -->
+		<npc id="22006" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Стражник Грабителей Могил 29 -->
+		<npc id="20200" count="2" respawnTime="25sec" chaseRange="4000" /><!-- Раб 31 -->
 	</spawn>
 	<spawn>
 		<npc id="18268" x="-19583" y="139458" z="-3848" heading="-3952" respawnTime="120sec" /><!-- Сундук с Сокровищами 30 -->
@@ -99,8 +99,8 @@
 				<node x="-22311" y="142104"/>
 			</territory>
 		</territories>
-		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
-		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
+		<npc id="22009" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Верного Вассала 31 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Воин 32 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -108,8 +108,8 @@
 				<node x="-14689" y="139312"/>
 			</territory>
 		</territories>
-		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
-		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
+		<npc id="22009" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Верного Вассала 31 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Воин 32 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -117,8 +117,8 @@
 				<node x="-13811" y="140267"/>
 			</territory>
 		</territories>
-		<npc id="20513" count="6" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
-		<npc id="20749" count="3" respawnTime="25sec" chaseRange="550" /><!-- Пламя Смерти 32 -->
+		<npc id="20513" count="6" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Воин 32 -->
+		<npc id="20749" count="3" respawnTime="25sec" chaseRange="4000" /><!-- Пламя Смерти 32 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -126,8 +126,8 @@
 				<node x="-14085" y="141094"/>
 			</territory>
 		</territories>
-		<npc id="20749" count="3" respawnTime="25sec" chaseRange="550" /><!-- Пламя Смерти 32 -->
-		<npc id="22010" count="6" respawnTime="25sec" chaseRange="550" /><!-- Призрак Генерала 32 -->
+		<npc id="20749" count="3" respawnTime="25sec" chaseRange="4000" /><!-- Пламя Смерти 32 -->
+		<npc id="22010" count="6" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Генерала 32 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -138,9 +138,9 @@
 				<node x="-14328" y="142401"/>
 			</territory>
 		</territories>
-		<npc id="22010" count="6" respawnTime="25sec" chaseRange="550" /><!-- Призрак Генерала 32 -->
-		<npc id="21213" count="6" respawnTime="25sec" chaseRange="550" /><!-- Посвященный Монах 32 -->
-		<npc id="20201" count="10" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак 32 -->
+		<npc id="22010" count="6" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Генерала 32 -->
+		<npc id="21213" count="6" respawnTime="25sec" chaseRange="4000" /><!-- Посвященный Монах 32 -->
+		<npc id="20201" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Вурдалак 32 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -150,8 +150,8 @@
 				<node x="-13236" y="139819"/>
 			</territory>
 		</territories>
-		<npc id="20201" count="12" respawnTime="25sec" chaseRange="550" /><!-- Вурдалак 32 -->
-		<npc id="21237" count="12" respawnTime="25sec" chaseRange="550" /><!-- Монах Кургана 32 -->
+		<npc id="20201" count="12" respawnTime="25sec" chaseRange="4000" /><!-- Вурдалак 32 -->
+		<npc id="21237" count="12" respawnTime="25sec" chaseRange="4000" /><!-- Монах Кургана 32 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -167,15 +167,15 @@
 				<node x="-12789" y="138437"/>
 			</territory>
 		</territories>
-		<npc id="24389" count="18" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Скелет Солдат 33 -->
-		<npc id="24390" count="18" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
-		<npc id="21106" count="18" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
-		<npc id="21144" count="18" respawnTime="25sec" chaseRange="550" /><!-- Тень Катакомб 34 -->
-		<npc id="18269" count="18" respawnTime="60sec" chaseRange="550" /><!-- Сундук с Сокровищами 33 -->
-		<npc id="20202" count="18" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
-		<npc id="21170" count="18" respawnTime="30sec" chaseRange="550" /><!-- Медиум Лит 33 -->
-		<npc id="20788" count="18" respawnTime="30sec" chaseRange="550" /><!-- Мурлок 35 -->
-		<npc id="21171" count="18" respawnTime="30sec" chaseRange="550" /><!-- Владыка Лит 36 -->
+		<npc id="24389" count="18" respawnTime="25sec" chaseRange="4000" /><!-- Призрачный Скелет Солдат 33 -->
+		<npc id="24390" count="18" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="18" respawnTime="25sec" chaseRange="4000" /><!-- Проклятый Смотритель 34 -->
+		<npc id="21144" count="18" respawnTime="25sec" chaseRange="4000" /><!-- Тень Катакомб 34 -->
+		<npc id="18269" count="18" respawnTime="60sec" chaseRange="4000" /><!-- Сундук с Сокровищами 33 -->
+		<npc id="20202" count="18" respawnTime="30sec" chaseRange="4000" /><!-- Поедатель Мертвечины 34 -->
+		<npc id="21170" count="18" respawnTime="30sec" chaseRange="4000" /><!-- Медиум Лит 33 -->
+		<npc id="20788" count="18" respawnTime="30sec" chaseRange="4000" /><!-- Мурлок 35 -->
+		<npc id="21171" count="18" respawnTime="30sec" chaseRange="4000" /><!-- Владыка Лит 36 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -183,8 +183,8 @@
 				<node x="-22024" y="139888"/>
 			</territory>
 		</territories>
-		<npc id="22009" count="4" respawnTime="25sec" chaseRange="550" /><!-- Призрак Верного Вассала 31 -->
-		<npc id="20513" count="4" respawnTime="25sec" chaseRange="550" /><!-- Скелет Воин 32 -->
+		<npc id="22009" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Призрак Верного Вассала 31 -->
+		<npc id="20513" count="4" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Воин 32 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -201,15 +201,15 @@
 				<node x="-24513" y="141393"/>
 			</territory>
 		</territories>
-		<npc id="24389" count="24" respawnTime="25sec" chaseRange="550" /><!-- Призрачный Скелет Солдат 33 -->
-		<npc id="24390" count="24" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
-		<npc id="21106" count="24" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
-		<npc id="21144" count="24" respawnTime="25sec" chaseRange="550" /><!-- Тень Катакомб 34 -->
-		<npc id="18269" count="24" respawnTime="60sec" chaseRange="550" /><!-- Сундук с Сокровищами 33 -->
-		<npc id="20202" count="24" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
-		<npc id="21170" count="24" respawnTime="30sec" chaseRange="550" /><!-- Медиум Лит 33 -->
-		<npc id="20788" count="24" respawnTime="30sec" chaseRange="550" /><!-- Мурлок 35 -->
-		<npc id="21171" count="24" respawnTime="30sec" chaseRange="550" /><!-- Владыка Лит 36 -->
+		<npc id="24389" count="24" respawnTime="25sec" chaseRange="4000" /><!-- Призрачный Скелет Солдат 33 -->
+		<npc id="24390" count="24" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="24" respawnTime="25sec" chaseRange="4000" /><!-- Проклятый Смотритель 34 -->
+		<npc id="21144" count="24" respawnTime="25sec" chaseRange="4000" /><!-- Тень Катакомб 34 -->
+		<npc id="18269" count="24" respawnTime="60sec" chaseRange="4000" /><!-- Сундук с Сокровищами 33 -->
+		<npc id="20202" count="24" respawnTime="30sec" chaseRange="4000" /><!-- Поедатель Мертвечины 34 -->
+		<npc id="21170" count="24" respawnTime="30sec" chaseRange="4000" /><!-- Медиум Лит 33 -->
+		<npc id="20788" count="24" respawnTime="30sec" chaseRange="4000" /><!-- Мурлок 35 -->
+		<npc id="21171" count="24" respawnTime="30sec" chaseRange="4000" /><!-- Владыка Лит 36 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -220,9 +220,9 @@
 				<node x="-14933" y="145531"/>
 			</territory>
 		</territories>
-		<npc id="24390" count="10" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
-		<npc id="21106" count="10" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
-		<npc id="20202" count="10" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
+		<npc id="24390" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Проклятый Смотритель 34 -->
+		<npc id="20202" count="10" respawnTime="30sec" chaseRange="4000" /><!-- Поедатель Мертвечины 34 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -234,9 +234,9 @@
 				<node x="-20392" y="145682"/>
 			</territory>
 		</territories>
-		<npc id="24390" count="10" respawnTime="25sec" chaseRange="550" /><!-- Скелет Берсерк 33 -->
-		<npc id="21106" count="10" respawnTime="25sec" chaseRange="550" /><!-- Проклятый Смотритель 34 -->
-		<npc id="20202" count="10" respawnTime="30sec" chaseRange="550" /><!-- Поедатель Мертвечины 34 -->
+		<npc id="24390" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Скелет Берсерк 33 -->
+		<npc id="21106" count="10" respawnTime="25sec" chaseRange="4000" /><!-- Проклятый Смотритель 34 -->
+		<npc id="20202" count="10" respawnTime="30sec" chaseRange="4000" /><!-- Поедатель Мертвечины 34 -->
 	</spawn>
 	<!--
 

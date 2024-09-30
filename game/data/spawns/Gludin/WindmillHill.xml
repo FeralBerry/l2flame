@@ -14,9 +14,9 @@
 				<node x="-73419" y="162037"/>
 			</territory>
 		</territories>
-		<npc id="20008" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Ящер Фелим 17 -->
-		<npc id="20010" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Scout 17 -->
-		<npc id="20014" count="40" respawnTime="30sec" chaseRange="1500" /> <!-- Felim Lizardman Warrior 17 -->
+		<npc id="20008" count="40" respawnTime="30sec" chaseRange="4000" /> <!-- Ящер Фелим 17 -->
+		<npc id="20010" count="40" respawnTime="30sec" chaseRange="4000" /> <!-- Felim Lizardman Scout 17 -->
+		<npc id="20014" count="40" respawnTime="30sec" chaseRange="4000" /> <!-- Felim Lizardman Warrior 17 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -29,9 +29,9 @@
 				<node x="-70397" y="169096"/>
 			</territory>
 		</territories>
-		<npc id="20024" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Warrior 21 -->
-		<npc id="20027" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman Scout 21 -->
-		<npc id="20030" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Langk Lizardman 21 -->
+		<npc id="20024" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Langk Lizardman Warrior 21 -->
+		<npc id="20027" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Langk Lizardman Scout 21 -->
+		<npc id="20030" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Langk Lizardman 21 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -47,9 +47,9 @@
 				<node x="-62379" y="162352"/>
 			</territory>
 		</territories>
-		<npc id="20293" count="35" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman 24 -->
-		<npc id="20294" count="35" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Matriarch 26 -->
-		<npc id="20295" count="35" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Warrior 27 -->
+		<npc id="20293" count="35" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman 24 -->
+		<npc id="20294" count="35" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Matriarch 26 -->
+		<npc id="20295" count="35" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Warrior 27 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -61,9 +61,9 @@
 				<node x="-60867" y="177772"/>
 			</territory>
 		</territories>
-		<npc id="20296" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Scout 28 -->
-		<npc id="20297" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 27 -->
-		<npc id="20298" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 28 -->
+		<npc id="20296" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Scout 28 -->
+		<npc id="20297" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Shaman 27 -->
+		<npc id="20298" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Shaman 28 -->
 	</spawn>
 	<spawn>
 		<territories>
@@ -75,10 +75,10 @@
 				<node x="-66069" y="184225"/>
 			</territory>
 		</territories>
-		<npc id="18266" count="20" respawnTime="60sec" chaseRange="1500" /><!-- Treasure Chest 24 -->
-		<npc id="20298" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Shaman 28 -->
-		<npc id="20294" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Matriarch 26 -->
-		<npc id="20295" count="20" respawnTime="30sec" chaseRange="1500" /> <!-- Virud Lizardman Warrior 27 -->
+		<npc id="18266" count="20" respawnTime="60sec" chaseRange="4000" /><!-- Treasure Chest 24 -->
+		<npc id="20298" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Shaman 28 -->
+		<npc id="20294" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Matriarch 26 -->
+		<npc id="20295" count="20" respawnTime="30sec" chaseRange="4000" /> <!-- Virud Lizardman Warrior 27 -->
 	</spawn>
 	<spawn>
 		<!-- территория Патриарх Куроборос 26 -->
@@ -90,7 +90,7 @@
 				<node x="-61144" y="190207"/>
 			</territory>
 		</territories>
-		<npc id="20152" count="50" respawnTime="30sec" chaseRange="1500" /> <!-- Lizardman 25 -->
+		<npc id="20152" count="50" respawnTime="30sec" chaseRange="4000" /> <!-- Lizardman 25 -->
 	</spawn>
 	<spawn>
 		<npc id="25528" x="-75611" y="155348" z="-2288" heading="16723" dbSave="true" dbName="Тиберий (22)" respawnTime="24hour" respawnRandom="12hour" /> <!-- Тиберий (22) -->
