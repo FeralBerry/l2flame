@@ -9,22 +9,23 @@
 	<clan level="2" item="20393" count="1" adena="100000" fame="300" /> <!-- Коктейль из Сладких Фруктов -->
 	<clan level="2" item="20394" count="1" adena="100000" fame="300" /> <!-- Коктейль из Свежих Фруктов -->
 	<!-- 3 уровень -->
-	<clan level="3" item="20335" count="1" adena="300000" fame="1000" /> <!-- Руна опыта 30% 5ч -->
-	<clan level="3" item="20341" count="1" adena="300000" fame="1000" /> <!-- Руна сп 30% 5ч -->
+	<clan level="3" item="20335" count="1" adena="3000000" fame="10000" /> <!-- Руна опыта 30% 5ч -->
+	<clan level="3" item="20341" count="1" adena="3000000" fame="10000" /> <!-- Руна сп 30% 5ч -->
 	<!-- 4 уровень -->
 	<clan level="4" item="21233" count="1" adena="300000" fame="2000" /> <!-- Упаковка: Парное Молоко -->
 	<clan level="4" item="21234" count="1" adena="300000" fame="2000" /> <!-- Упаковка: Парное Молоко -->
 	<!-- 5 уровень -->
 	<clan level="5" item="36952" count="1" adena="10000000" fame="50000" /> <!-- Air Bike -->
-	<clan level="5" item="38941" count="1" adena="1000000" fame="1000" /> <!-- Ларец Лавианроз -->
+	<clan level="5" item="38941" count="1" adena="1000000" fame="5000" /> <!-- Ларец Лавианроз -->
+	<clan level="5" item="726" count="1" adena="3000" fame="20" /> <!-- Зелье Восстановления MP -->
 	<!-- 6 уровень -->
-	<clan level="6" item="22751" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 30% - 3 ч. -->
+	<clan level="6" item="22751" count="1" adena="1000000" fame="10000" /> <!-- Руна Мафр 30% - 3 ч. -->
 	<!-- 7 уровень -->
-	<clan level="7" item="22754" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 50% - 3 ч. -->
+	<clan level="7" item="22754" count="1" adena="2000000" fame="15000" /> <!-- Руна Мафр 50% - 3 ч. -->
 	<!-- 8 уровень -->
-	<clan level="8" item="22757" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 100% - 3 ч. -->
+	<clan level="8" item="22757" count="1" adena="3000000" fame="25000" /> <!-- Руна Мафр 100% - 3 ч. -->
 	<!-- 9 уровень -->
-	<clan level="9" item="22760" count="1" adena="1000000" fame="1000" /> <!-- Руна Мафр 200% - 3 ч. -->
+	<clan level="9" item="22760" count="1" adena="5000000" fame="40000" /> <!-- Руна Мафр 200% - 3 ч. -->
 	<!-- 10 уровень -->
 	<clan level="10" item="48283" count="1" adena="500000" fame="2000" /> <!-- Stealth Detector -->
 	<!-- 11 уровень -->

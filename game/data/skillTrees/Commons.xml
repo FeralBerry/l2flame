@@ -2,13 +2,8 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree">
 		<skill skillName="Везение" skillId="194" skillLevel="1" getLevel="20" levelUpSp="10000" />
-			
-		<skill skillName="Crystallize" skillId="248" skillLevel="1" getLevel="85" autoGet="true" />
-		<skill skillName="Crystallize" skillId="248" skillLevel="2" getLevel="85" autoGet="true" />
-		<skill skillName="Crystallize" skillId="248" skillLevel="3" getLevel="85" autoGet="true" />
-		<skill skillName="Crystallize" skillId="248" skillLevel="4" getLevel="85" autoGet="true" />
-		<skill skillName="Crystallize" skillId="248" skillLevel="5" getLevel="85" autoGet="true" />
-		<skill skillName="Crystallize" skillId="248" skillLevel="6" getLevel="85" autoGet="true" />
+
+		<skill skillName="Alchemy Cube" skillId="17943" skillLevel="1" getLevel="20" autoGet="true"/>
 		
 		<skill skillName="Обычное Ремесло" skillId="1322" skillLevel="1" getLevel="1" autoGet="true" />
 		

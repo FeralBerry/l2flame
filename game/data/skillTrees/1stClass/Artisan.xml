@@ -3,6 +3,7 @@
 	<!-- Artisan -->
 	<skillTree type="classSkillTree" classId="56" parentClassId="53">
 		<!-- 20 lvl -->
+		<skill skillName="Кристаллизация" skillId="248" skillLevel="1" getLevel="20" autoGet="true" />
 		<skill skillName="Перевязка" skillId="34" skillLevel="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
 		<skill skillName="Boost HP" skillId="211" skillLevel="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
@@ -94,5 +95,6 @@
 		<skill skillName="Wild Sweep" skillId="245" skillLevel="13" getLevel="36" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Wild Sweep" skillId="245" skillLevel="14" getLevel="36" levelUpSp="11000" learnedByNpc="true" />
 		<skill skillName="Wild Sweep" skillId="245" skillLevel="15" getLevel="36" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Кристаллизация" skillId="248" skillLevel="2" getLevel="36" autoGet="true" />
 	</skillTree>
 </list>

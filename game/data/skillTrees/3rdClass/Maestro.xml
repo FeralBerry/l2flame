@@ -13,7 +13,7 @@
 		<skill skillName="Master of Combat" skillId="430" skillLevel="1" getLevel="78" levelUpSp="16000000" learnedByNpc="true" />
 		<skill skillName="Braveheart" skillId="440" skillLevel="1" getLevel="78" levelUpSp="16000000" learnedByNpc="true" />
 		<skill skillName="Symbol of Honor" skillId="457" skillLevel="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
-
+		<skill skillName="Кристаллизация" skillId="248" skillLevel="6" getLevel="80" autoGet="true" />
 		<!-- Forgotten Scrolls -->
 		<skill skillName="Fighters Will" skillId="758" skillLevel="1" getLevel="81" learnedByFS="true" />
 		<skill skillName="Archers Will" skillId="759" skillLevel="1" getLevel="81" learnedByFS="true" />

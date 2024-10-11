@@ -11,7 +11,7 @@ import org.l2jmobius.gameserver.util.Util;
 public class Q00061_TheSeekerTest extends Quest {
     private static final int QUEST_ID = 57;
     private static final int[] NPC = {
-
+        34505
     };
     private static final int minLevel = 39;
     private static final int[] QUEST_ITEMS = {

@@ -127,7 +127,7 @@
 			<height normal="16" />
 		</collision>
 	</npc>
-	<npc id="27103" level="38" type="Monster" name="Unicorn Racer" title="Quest Monster">
+	<npc id="27103" level="38" type="Monster" name="Единорог" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -136,9 +136,9 @@
 		<race>ELEMENTAL</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
+			<vitals hp="5886.09975" hpRegen="4.5" mp="447.96" mpRegen="1.8" />
 			<attack physical="156.22273" magical="106.67987" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="148.44287" magical="108.62405" />
+			<defence physical="148.44287" magical="608.62405" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>
@@ -167,7 +167,7 @@
 			<height normal="18" />
 		</collision>
 	</npc>
-	<npc id="27104" level="39" type="Monster" name="Shadow Turen" title="Quest Monster">
+	<npc id="27104" level="39" type="Monster" name="Сумеречный Турен" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -176,9 +176,9 @@
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
+			<vitals hp="5925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="152.46752" magical="111.56912" />
+			<defence physical="152.46752" magical="611.56912" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="-5" dark="53" />
 			</attribute>
@@ -207,7 +207,7 @@
 			<height normal="30" />
 		</collision>
 	</npc>
-	<npc id="27105" level="39" type="Monster" name="Mimi The Cat" title="Quest Monster">
+	<npc id="27105" level="39" type="Monster" name="Кот Мими" title="Quest Monster">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -216,9 +216,9 @@
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
+			<vitals hp="5925.85879" hpRegen="4.5" mp="463.32" mpRegen="1.8" />
 			<attack physical="166.06476" magical="113.4007" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="152.46752" magical="111.56912" />
+			<defence physical="152.46752" magical="611.56912" />
 			<attribute>
 				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
 			</attribute>

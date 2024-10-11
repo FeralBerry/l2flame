@@ -40,7 +40,7 @@ public class Q00050_TestimonyOfTrust extends Quest {
     private static final long KILL_COUNT_ORK = 29;
     private static final long KILL_COUNT_DWARF = 39;
     private static final int[][] REWARDS = {
-            {3140, 1}, // Знак Жизни
+            {2734, 1}, // Знак Жизни
             {57, 120000}, // Адена
     };
     public Q00050_TestimonyOfTrust(){

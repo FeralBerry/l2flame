@@ -41,7 +41,7 @@ public class TestOfDuty extends AbstractInstance {
     }
     private static boolean checkPartyConditions(Player player){
         final Party party = player.getParty();
-        // player must be in party
+        // player must be not in party
         return party == null;
     }
     private void removeBuffs(Creature ch)

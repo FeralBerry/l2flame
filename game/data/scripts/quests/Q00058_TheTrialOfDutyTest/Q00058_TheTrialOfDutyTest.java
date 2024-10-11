@@ -32,15 +32,20 @@ public class Q00058_TheTrialOfDutyTest extends Quest {
         ){
             if(event.equalsIgnoreCase("00058-01.htm")) {
                 final QuestState qs = getQuestState(player,true);
-                if(qs.isCompleted()){
-                    return getAlreadyCompletedMsg(player);
-                }
-                if (qs.isCreated()) {
-                    qs.startQuest();
-                    if (qs.isStarted()) {
-                        qs.setCond(1);
-                        htmltext = "00058-02.htm";
+                if(NPC[0] == npc.getId()){
+                    if(qs.isCompleted()){
+                        return getAlreadyCompletedMsg(player);
                     }
+                    if (qs.isCreated()) {
+                        qs.startQuest();
+                        if (qs.isStarted()) {
+                            qs.setCond(1);
+                            htmltext = "00058-02.htm";
+                        }
+                    }
+                }
+                if(NPC[0] == npc.getId()){
+                    htmltext = "00058-03.htm";
                 }
             }
         }

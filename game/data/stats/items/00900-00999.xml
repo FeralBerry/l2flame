@@ -1056,14 +1056,11 @@
 	<item id="971" name="Ловец Душ" type="EtcItem">
 		<!-- Item used during the exorcism ritual to call upon a spirit of the dead. Take this to the Abyssal Celebrant Cecktinon. -->
 		<set name="icon" val="icon.weapon_voodoo_doll_i00" />
-		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
+		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
 	</item>
 	<item id="972" name="Консервирующее Масло" type="EtcItem">
 		<!-- Oil that prevents the rotting of corpses. Take this and go hunt zombies in the Marshlands. -->
@@ -1080,14 +1077,11 @@
 	<item id="973" name="Голова Зомби" type="EtcItem">
 		<!-- The head of tree Elf zombies that have been cut after they are defeated. Take this to the abyssal celebrant Cecktinon. -->
 		<set name="icon" val="icon.etc_skull_black_i00" />
-		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
+		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
 	</item>
 	<item id="974" name="Голова Роберто" type="EtcItem">
 		<!-- Please, I beg of you! Don't take me to that nasty-tempered blacksmith! -->

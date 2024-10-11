@@ -67,13 +67,6 @@ public class Q00057_TheChampionTest extends Quest {
                             htmltext = "00057-02.htm";
                         }
                     }
-                    if (qs.isCond(4)){
-                        for (int[] reward : REWARDS) {
-                            giveItems(player, reward[0], reward[1]);
-                        }
-                        qs.exitQuest(false, true);
-                        htmltext = "00057-06.htm";
-                    }
                 }
             }
         }
@@ -113,7 +106,10 @@ public class Q00057_TheChampionTest extends Quest {
                 if (npcId == MONSTERS[2]){
                     giveItems(killer,QUEST_ITEMS[2],1);
                     if(getQuestItemsCount(killer,QUEST_ITEMS[2]) > KILL_COUNT_3){
-                        qs.setCond(4);
+                        for (int[] reward : REWARDS) {
+                            giveItems(killer, reward[0], reward[1]);
+                        }
+                        qs.exitQuest(false, true);
                         showHtmlFile(killer,"00057-05.htm");
                     }
                 }

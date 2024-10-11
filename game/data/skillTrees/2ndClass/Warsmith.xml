@@ -82,6 +82,7 @@
 		<skill skillName="Whirlwind" skillId="36" skillLevel="7" getLevel="46" levelUpSp="15000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="8" getLevel="46" levelUpSp="15000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="9" getLevel="46" levelUpSp="15000" learnedByNpc="true" />
+		<skill skillName="Кристаллизация" skillId="248" skillLevel="3" getLevel="49" autoGet="true" />
 		<skill skillName="Armor Golem" skillId="824" skillLevel="2" getLevel="49" levelUpSp="61000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="18" getLevel="49" levelUpSp="20000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="19" getLevel="49" levelUpSp="20000" learnedByNpc="true" />
@@ -138,6 +139,7 @@
 		<skill skillName="Whirlwind" skillId="36" skillLevel="13" getLevel="52" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="14" getLevel="52" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Whirlwind" skillId="36" skillLevel="15" getLevel="52" levelUpSp="42000" learnedByNpc="true" />
+		<skill skillName="Кристаллизация" skillId="248" skillLevel="4" getLevel="55" autoGet="true" />
 		<skill skillName="Armor Golem" skillId="824" skillLevel="3" getLevel="55" levelUpSp="171000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="24" getLevel="55" levelUpSp="57000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="25" getLevel="55" levelUpSp="57000" learnedByNpc="true" />
@@ -281,6 +283,7 @@
 		<skill skillName="Whirlwind" skillId="36" skillLevel="31" getLevel="68" levelUpSp="350000" learnedByNpc="true" />
 		<skill skillName="Wrath" skillId="320" skillLevel="3" getLevel="68" levelUpSp="350000" learnedByNpc="true" />
 		<skill skillName="Wrath" skillId="320" skillLevel="4" getLevel="68" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Кристаллизация" skillId="248" skillLevel="5" getLevel="70" autoGet="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="40" getLevel="70" levelUpSp="390000" learnedByNpc="true" />
 		<skill skillName="Blunt Weapon Mastery" skillId="205" skillLevel="41" getLevel="70" levelUpSp="390000" learnedByNpc="true" />
 		<skill skillName="Boost HP" skillId="211" skillLevel="9" getLevel="70" levelUpSp="780000" learnedByNpc="true" />

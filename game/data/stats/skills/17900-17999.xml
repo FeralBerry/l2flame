@@ -699,7 +699,7 @@
 			<value level="2">icon.alchemy_mix_cube</value>
 		</icon>
 		<operateType>P</operateType>
-		<displayInList>false</displayInList>
+		<displayInList>true</displayInList>
 	</skill>
 	<skill id="17944" toLevel="1" name="Scroll of Escape: Talking Island Village">
 		<!-- Teleports you to Talking Island Village. -->

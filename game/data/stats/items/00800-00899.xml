@@ -188,16 +188,24 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="817" name="Мифриловый Сосуд" type="EtcItem">
+	<item id="817" name="Магическая жидкость" type="EtcItem">
+		<!-- Magical medicine that recovers MP over time. -->
 		<set name="icon" val="icon.item_canuse22" />
-		<set name="immediate_effect" val="true" />
-		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
-		<set name="is_dropable" val="false" />
-		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="reuse_delay" val="15000" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_event_restricted" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="commissionItemType" val="POTION" />
+		<set name="for_npc" val="true" />
+		<cond addName="1" msgId="113">
+			<player flyMounted="false" />
+		</cond>
 	</item>
 	<item id="818" name="Рог Грациозного Единорога" type="EtcItem">
 		<set name="icon" val="icon.item_normal11" />
@@ -221,16 +229,14 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="820" name="Флюиды Захака" type="EtcItem">
+	<item id="820" name="Слеза души" type="EtcItem">
 		<set name="icon" val="icon.item_canuse28" />
-		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_depositable" val="false" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
 	</item>
 	<item id="821" name="Костяной Нож" type="EtcItem">
 		<set name="icon" val="icon.weapon_ss04" />
@@ -291,23 +297,19 @@
 		<set name="icon" val="icon.item_canuse40" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
+		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
 	</item>
 	<item id="827" name="Звездная Пыль" type="EtcItem">
 		<set name="icon" val="icon.item_normal40" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
+		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
 	</item>
 	<item id="828" name="Песнь Пробуждения" type="EtcItem">
 		<set name="icon" val="icon.item_canuse15" />

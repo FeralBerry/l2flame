@@ -409,8 +409,8 @@
 		<set name="etcitem_type" val="POTION" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="LIQUID" />
-		<set name="weight" val="180" />
-		<set name="price" val="80" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
 		<set name="reuse_delay" val="15000" />
 		<set name="is_stackable" val="true" />
 		<set name="is_oly_restricted" val="true" />

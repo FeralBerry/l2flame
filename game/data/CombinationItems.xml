@@ -1,6 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/CombinationItems.xsd">
-	<item one="38850" two="38850" commission="300000" chance="50"> <!-- Topaz Lv. 1 / Topaz Lv. 1 -->
+	<!-- Quest -->
+    <item one="820" two="1475" commission="1" chance="10"> <!-- Слеза души / Чёрный Камень Души -->
+        <reward id="817" count="1" type="ON_SUCCESS" /> <!-- Магическая жидкость -->
+        <reward id="1476" count="1" type="ON_FAILURE" /> <!-- Испорченный камень души -->
+    </item>
+    <item one="827" two="971" commission="1" chance="10"> <!-- звёздная пыль / ловец душ -->
+        <reward id="820" count="1" type="ON_SUCCESS" /> <!-- Слеза души -->
+        <reward id="1476" count="1" type="ON_FAILURE" /> <!-- Испорченный камень души -->
+    </item>
+    <item one="826" two="973" commission="1" chance="5"> <!-- Серебристые споры / голова зомби -->
+        <reward id="1475" count="1" type="ON_SUCCESS" /> <!-- Чёрный Камень Души -->
+        <reward id="1476" count="1" type="ON_FAILURE" /> <!-- Испорченный камень души -->
+    </item>
+    <item one="1476" two="1476" commission="1" chance="10"> <!-- Испорченный камень души / Испорченный камень души -->
+        <reward id="1475" count="1" type="ON_SUCCESS" /> <!-- Чёрный Камень Души -->
+        <reward id="1476" count="1" type="ON_FAILURE" /> <!-- Испорченный камень души -->
+    </item>
+    <!-- -->
+    <item one="38850" two="38850" commission="300000" chance="50"> <!-- Topaz Lv. 1 / Topaz Lv. 1 -->
 		<reward id="38851" count="1" type="ON_SUCCESS" /> <!-- Topaz Lv. 2 -->
 		<reward id="38850" count="1" type="ON_FAILURE" /> <!-- Topaz Lv. 1 -->
 	</item>

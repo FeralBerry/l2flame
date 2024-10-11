@@ -900,29 +900,23 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_questitem" val="true" />
 	</item>
-	<item id="1475" name="Black Soulstone" type="EtcItem">
+	<item id="1475" name="Черный камень души" type="EtcItem">
 		<!-- A black soulstone pulled out of the heart of Rakeclaw Imp. Collect these to take them to Atuba Chief Varkees. -->
 		<set name="icon" val="icon.etc_bead_gold_i00" />
-		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
+		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
 	</item>
-	<item id="1476" name="Red Soulstone" type="EtcItem">
+	<item id="1476" name="Красный камень души" type="EtcItem">
 		<!-- A red soulstone pulled out of the heart of Rakeclaw Imp. Collect these to take them to Atuba Chief Varkees. -->
 		<set name="icon" val="icon.etc_crystal_ball_red_i00" />
-		<set name="immediate_effect" val="true" />
 		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
+		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_depositable" val="false" />
 		<set name="is_stackable" val="true" />
-		<set name="is_questitem" val="true" />
 	</item>
 	<item id="1477" name="Maraku Werewolf Head" type="EtcItem">
 		<!-- The head of a dead Maraku Werewolf. Collect 40 of these and take them to Prefect Brukurse. -->
