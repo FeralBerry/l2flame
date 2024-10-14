@@ -2,7 +2,9 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Female Soul Hound -->
 	<skillTree type="classSkillTree" classId="133" parentClassId="129">
-		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<!-- 76 -->
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" autoGet="true" />
+
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLevel="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Soul Strike" skillId="1516" skillLevel="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />

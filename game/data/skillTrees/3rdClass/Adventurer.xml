@@ -2,7 +2,10 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Adventurer -->
 	<skillTree type="classSkillTree" classId="93" parentClassId="8">
-		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<!-- 76 -->
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" autoGet="true" />
+
+
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Skill Mastery" skillId="330" skillLevel="1" getLevel="77" levelUpSp="14670000" learnedByNpc="true" />

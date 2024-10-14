@@ -1268,4 +1268,13 @@
 		<node X="59875" Y="-45623" />
 		<node X="59551" Y="-45734" />
 	</zone>
+	<zone name="The_Seeker_first_box" id="10061" type="ScriptZone" shape="Cylinder" minZ="-3696" maxZ="4976" rad="500">
+		<node X="-11275" Y="211297"/>
+	</zone>
+	<zone name="The_Seeker_second_box" id="10062" type="ScriptZone" shape="Cylinder" minZ="-3328" maxZ="4976" rad="300">
+		<node X="-38864" Y="110609"/>
+	</zone>
+	<zone name="The_Seeker_second_box" id="10063" type="ScriptZone" shape="Cylinder" minZ="-3048" maxZ="4976" rad="300">
+		<node X="-21860" Y="151978"/>
+	</zone>
 </list>

@@ -2,7 +2,8 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Cardinal -->
 	<skillTree type="classSkillTree" classId="97" parentClassId="16">
-		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<!-- 76 -->
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" autoGet="true" />
 		<skill skillName="Крепкая Психика" skillId="1902" skillLevel="3" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />

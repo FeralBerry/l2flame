@@ -2,7 +2,9 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Archmage -->
 	<skillTree type="classSkillTree" classId="94" parentClassId="12">
-		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<!-- 76 -->
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" autoGet="true" />
+
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Sigil Mastery" skillId="925" skillLevel="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Skill Mastery" skillId="331" skillLevel="1" getLevel="77" levelUpSp="18000000" learnedByNpc="true" />

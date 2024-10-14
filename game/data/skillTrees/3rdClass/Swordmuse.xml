@@ -2,7 +2,9 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Sword Muse -->
 	<skillTree type="classSkillTree" classId="100" parentClassId="21">
-		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<!-- 76 -->
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" autoGet="true" />
+
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLevel="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
 		<skill skillName="Song of Renewal" skillId="349" skillLevel="1" getLevel="77" levelUpSp="14670000" learnedByNpc="true" />

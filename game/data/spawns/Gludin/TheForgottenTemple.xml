@@ -431,6 +431,7 @@
         <group>
             <npc id="30971" x="-53939" y="188216" z="-4664" heading="63813" respawnTime="60sec"/><!-- Орфеус -->
             <npc id="30960" x="-54071" y="185021" z="-4616" heading="29480" respawnTime="60sec" /> <!-- Beer Chest -->
+            <npc id="30628" x="-57386" y="186105" z="-4968" heading="29480" respawnTime="60sec" /> <!-- Прочный деревянный сундук -->
         </group>
     </spawn>
 

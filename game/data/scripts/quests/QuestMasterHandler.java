@@ -46,6 +46,7 @@ import quests.Q00057_TheChampionTest.Q00057_TheChampionTest;
 import quests.Q00058_TheTrialOfDutyTest.Q00058_TheTrialOfDutyTest;
 import quests.Q00059_TheSummonerTest.Q00059_TheSummonerTest;
 import quests.Q00060_TheMageTest.Q00060_TheMageTest;
+import quests.Q00061_TheSeekerTest.Q00061_TheSeekerTest;
 import quests.Q00500_BrothersBoundInChains.Q00500_BrothersBoundInChains;
 import quests.Q00511_AwlUnderFoot.Q00511_AwlUnderFoot;
 import quests.Q00512_BladeUnderFoot.Q00512_BladeUnderFoot;
@@ -138,7 +139,7 @@ public class QuestMasterHandler
 			Q00058_TheTrialOfDutyTest.class,
 			Q00059_TheSummonerTest.class,
 			Q00060_TheMageTest.class,
-			// Q00061_TheSeekerTest.class,
+			Q00061_TheSeekerTest.class,
 			// Q00062_TheSagittariusTest.class,
 			// Q00063_TheHealerTest.class,
 			// Q00064_TheBufferTest.class,

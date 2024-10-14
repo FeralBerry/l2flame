@@ -2,6 +2,7 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="215" parentClassId="214">
 		<!-- 76 lvl -->
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" />
 		<skill skillName="Огненное Землетрясение" skillId="30970" skillLevel="1" getLevel="76" levelUpSp="2000000" />
 		<skill skillName="Натиск Судьбы" skillId="30972" skillLevel="4" getLevel="76" levelUpSp="2000000" />
 		<skill skillName="Преследующее Проклятие" skillId="30960" skillLevel="21" getLevel="76" levelUpSp="2000000" />

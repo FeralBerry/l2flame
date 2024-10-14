@@ -2,7 +2,9 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Eva's Saint -->
 	<skillTree type="classSkillTree" classId="105" parentClassId="30">
-		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<!-- 76 -->
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" autoGet="true" />
+
 		<skill skillName="Wisdom" skillId="328" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Sigil Mastery" skillId="926" skillLevel="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />

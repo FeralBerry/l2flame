@@ -2,6 +2,7 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Ripper -->
 	<skillTree type="classSkillTree" classId="186" parentClassId="184">
+		<skill skillName="Создание Обычных Предметов" skillId="30943" skillLevel="76" getLevel="1" />
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="3" getLevel="76" levelUpSp="3000" />
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="4" getLevel="76" levelUpSp="3000" />
 		<skill skillName="Gravity Hit" skillId="30504" skillLevel="1" getLevel="76" levelUpSp="3000" />
