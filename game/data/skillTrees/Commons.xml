@@ -15,15 +15,15 @@
 		<!-- Обычное Ремесло -->
 		<skill skillName="Обычное Ремесло" skillId="1322" skillLevel="1" getLevel="1" autoGet="true" />
 		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="1" getLevel="1" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="10" getLevel="2" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="20" getLevel="3" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="30" getLevel="4" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="40" getLevel="5" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="50" getLevel="6" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="60" getLevel="7" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="65" getLevel="8" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="70" getLevel="9" autoGet="true" />
-		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="75" getLevel="10" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="2" getLevel="10" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="3" getLevel="20" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="4" getLevel="30" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="5" getLevel="40" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="6" getLevel="50" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="7" getLevel="60" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="8" getLevel="65" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="9" getLevel="70" autoGet="true" />
+		<skill skillName="Создать Обычный Предмет" skillId="1320" skillLevel="10" getLevel="75" autoGet="true" />
 		<!-- Hair accessory hide / show -->
 		<skill skillName="Change Hair Accessory" skillId="17192" skillLevel="1" getLevel="1" autoGet="true" />
 		
@@ -44,61 +44,61 @@
 		
 		<!-- Trade/Inventory/Warehouse -->
 		<skill skillName="Expand Trade" skillId="1370" skillLevel="1" getLevel="20" autoGet="false">
-			<item id="57" count="40000000" /> <!-- Adena -->
+			<item id="7609" count="10000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Trade" skillId="1370" skillLevel="2" getLevel="20" autoGet="false">
-			<item id="57" count="400000000" /> <!-- Adena -->
+			<item id="7609" count="40000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Trade" skillId="1370" skillLevel="3" getLevel="20" autoGet="false">
-			<item id="57" count="800000000" /> <!-- Adena -->
+			<item id="7609" count="80000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="1" getLevel="20" autoGet="false">
-			<item id="57" count="20000000" /> <!-- Adena -->
+			<item id="7609" count="20000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="2" getLevel="20" autoGet="false">
-			<item id="57" count="40000000" /> <!-- Adena -->
+			<item id="7609" count="40000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="3" getLevel="20" autoGet="false">
-			<item id="57" count="60000000" /> <!-- Adena -->
+			<item id="7609" count="60000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="4" getLevel="20" autoGet="false">
-			<item id="57" count="80000000" /> <!-- Adena -->
+			<item id="7609" count="80000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="5" getLevel="20" autoGet="false">
-			<item id="57" count="100000000" /> <!-- Adena -->
+			<item id="7609" count="100000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="6" getLevel="20" autoGet="false">
-			<item id="57" count="120000000" /> <!-- Adena -->
+			<item id="7609" count="120000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="7" getLevel="20" autoGet="false">
-			<item id="57" count="200000000" /> <!-- Adena -->
+			<item id="7609" count="200000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Inventory" skillId="1372" skillLevel="8" getLevel="20" autoGet="false">
-			<item id="57" count="400000000" /> <!-- Adena -->
+			<item id="7609" count="400000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="1" getLevel="20" autoGet="false">
-			<item id="57" count="20000000" /> <!-- Adena -->
+			<item id="7609" count="20000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="2" getLevel="20" autoGet="false">
-			<item id="57" count="40000000" /> <!-- Adena -->
+			<item id="7609" count="40000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="3" getLevel="20" autoGet="false">
-			<item id="57" count="60000000" /> <!-- Adena -->
+			<item id="7609" count="60000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="4" getLevel="20" autoGet="false">
-			<item id="57" count="80000000" /> <!-- Adena -->
+			<item id="7609" count="80000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="5" getLevel="20" autoGet="false">
-			<item id="57" count="100000000" /> <!-- Adena -->
+			<item id="7609" count="100000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="6" getLevel="20" autoGet="false">
-			<item id="57" count="120000000" /> <!-- Adena -->
+			<item id="7609" count="120000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="7" getLevel="20" autoGet="false">
-			<item id="57" count="200000000" /> <!-- Adena -->
+			<item id="7609" count="200000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 		<skill skillName="Expand Warehouse" skillId="1371" skillLevel="8" getLevel="20" autoGet="false">
-			<item id="57" count="400000000" /> <!-- Adena -->
+			<item id="7609" count="400000" /> <!-- Доказательство Ловли Рыбы -->
 		</skill>
 	</skillTree>
 </list>

@@ -575,13 +575,13 @@
 			<stat type="pAtkRange">80</stat>
 		</stats>
 	</item>
-	<item id="6535" name="Corroded No-grade Fishing Shot" additionalName="Not used" type="EtcItem">
+	<item id="6535" name="Белый поплавок" additionalName="+10% шанса" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_spirit_bullet_fish_i00" />
 		<set name="default_action" val="FISHINGSHOT" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="3" />
+		<set name="price" val="30" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="FishShots" />
 		<set name="enchant_enabled" val="true" />
@@ -590,13 +590,13 @@
 			<skill id="2181" level="1" /> <!-- Item - Fishing Shot -->
 		</skills>
 	</item>
-	<item id="6536" name="Corroded D-grade Fishing Shot" additionalName="Not used" type="EtcItem">
+	<item id="6536" name="Синий поплавок" additionalName="+20% шанса" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_spirit_bullet_fish_i01" />
 		<set name="default_action" val="FISHINGSHOT" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="5" />
+		<set name="price" val="50" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="FishShots" />
 		<set name="enchant_enabled" val="true" />
@@ -605,13 +605,13 @@
 			<skill id="2182" level="1" /> <!-- Item - Fishing Shot -->
 		</skills>
 	</item>
-	<item id="6537" name="Corroded C-grade Fishing Shot" additionalName="Not used" type="EtcItem">
+	<item id="6537" name="Зеленый поплавок" additionalName="+30% шанса" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_spirit_bullet_fish_i02" />
 		<set name="default_action" val="FISHINGSHOT" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="7" />
+		<set name="price" val="70" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="FishShots" />
 		<set name="enchant_enabled" val="true" />
@@ -620,13 +620,13 @@
 			<skill id="2183" level="1" /> <!-- Item - Fishing Shot -->
 		</skills>
 	</item>
-	<item id="6538" name="Corroded B-grade Fishing Shot" additionalName="Not used" type="EtcItem">
+	<item id="6538" name="Красный поплавок" additionalName="+40% шанса" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_spirit_bullet_fish_i03" />
 		<set name="default_action" val="FISHINGSHOT" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="25" />
+		<set name="price" val="100" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="FishShots" />
 		<set name="enchant_enabled" val="true" />
@@ -635,13 +635,13 @@
 			<skill id="2184" level="1" /> <!-- Item - Fishing Shot -->
 		</skills>
 	</item>
-	<item id="6539" name="Corroded A-grade Fishing Shot" additionalName="Not used" type="EtcItem">
+	<item id="6539" name="Серый поплавок" additionalName="+50% шанса" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_spirit_bullet_fish_i04" />
 		<set name="default_action" val="FISHINGSHOT" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="40" />
+		<set name="price" val="140" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="FishShots" />
 		<set name="enchant_enabled" val="true" />
@@ -650,13 +650,13 @@
 			<skill id="2185" level="1" /> <!-- Item - Fishing Shot -->
 		</skills>
 	</item>
-	<item id="6540" name="S-grade Corroded Fishing Shot" additionalName="Not used" type="EtcItem">
+	<item id="6540" name="Желтый поплавок" additionalName="+60% шанса" type="EtcItem">
 		<!-- Not used anymore. Can be sold to any shop. -->
 		<set name="icon" val="icon.etc_spirit_bullet_fish_i05" />
 		<set name="default_action" val="FISHINGSHOT" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
-		<set name="price" val="50" />
+		<set name="price" val="200" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="FishShots" />
 		<set name="enchant_enabled" val="true" />

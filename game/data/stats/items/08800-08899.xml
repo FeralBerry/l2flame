@@ -904,7 +904,7 @@
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
-	<item id="8828" name="Shadow Item: Gastraphetes" type="Weapon">
+	<item id="8828" name="Теневой Предмет: Гастрафет" type="Weapon">
 		<!-- This shadow item contains the reflected power of Gastraphetes. Cannot be crystallized or upgraded. -->
 		<set name="icon" val="icon.time_weapon_gastraphetes_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -922,7 +922,6 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="duration" val="90" />
 		<stats>
 			<stat type="pAtk">132</stat>
 			<stat type="mAtk">39</stat>

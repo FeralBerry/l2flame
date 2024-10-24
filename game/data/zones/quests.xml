@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<zone name="The_Seeker_first_box" id="10061" type="ScriptZone" shape="Cylinder" minZ="-3696" maxZ="4976" rad="500">
+		<node X="-11275" Y="211297"/>
+	</zone>
+	<zone name="The_Seeker_second_box" id="10062" type="ScriptZone" shape="Cylinder" minZ="-3328" maxZ="4976" rad="300">
+		<node X="-38864" Y="110609"/>
+	</zone>
+	<zone name="The_Seeker_third_box" id="10063" type="ScriptZone" shape="Cylinder" minZ="-3048" maxZ="4976" rad="300">
+		<node X="-21860" Y="151978"/>
+	</zone>
+	<zone name="The_Healer_Test" id="10064" type="ScriptZone" shape="Cylinder" minZ="-2816" maxZ="2816" rad="150">
+		<node X="-93127" Y="147425"/>
+	</zone>
+</list>

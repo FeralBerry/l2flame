@@ -441,7 +441,7 @@
 		<set name="material" val="PAPER" />
 		<set name="enchant_enabled" val="true" />
 	</item>
-	<item id="38154" name="Fishing Shot" type="EtcItem">
+	<item id="38154" name="Золотой поплавок" additionalName="+100% шанса" type="EtcItem">
 		<!-- Soulshot consumed by a fishing rod like general soulshots. Increases the success rate for fishing. -->
 		<set name="icon" val="icon.etc_spirit_bullet_fish_i05" />
 		<set name="default_action" val="FISHINGSHOT" />

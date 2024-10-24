@@ -155,10 +155,10 @@ public class PrisonManager extends AbstractNpcAI
 					}
 					else
 					{
-						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, System.currentTimeMillis() + 300000);
+						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, System.currentTimeMillis() + 60000);
 						player.getVariables().storeMe();
 						player.sendPacket(new ExPrisonUserInfo(player, 2));
-						startQuestTimer("PRISON_ZONE_CHECK", 300000, null, player);
+						startQuestTimer("PRISON_ZONE_CHECK", 60000, null, player);
 					}
 				}
 				else if (PRISON_ZONE_3.isCharacterInZone(player))
@@ -175,10 +175,10 @@ public class PrisonManager extends AbstractNpcAI
 					}
 					else
 					{
-						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, System.currentTimeMillis() + 300000);
+						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, System.currentTimeMillis() + 60000);
 						player.getVariables().storeMe();
 						player.sendPacket(new ExPrisonUserInfo(player, 3));
-						startQuestTimer("PRISON_ZONE_CHECK", 300000, null, player);
+						startQuestTimer("PRISON_ZONE_CHECK", 60000, null, player);
 					}
 				}
 				break;
@@ -231,10 +231,10 @@ public class PrisonManager extends AbstractNpcAI
 					}
 					else
 					{
-						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, currentTime + 300000);
+						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, currentTime + 60000);
 						player.getVariables().storeMe();
 						player.sendPacket(new ExPrisonUserInfo(player, 3));
-						startQuestTimer("PRISON_ZONE_CHECK", 300000, null, player);
+						startQuestTimer("PRISON_ZONE_CHECK", 60000, null, player);
 					}
 				}
 				else
@@ -261,10 +261,10 @@ public class PrisonManager extends AbstractNpcAI
 					}
 					else
 					{
-						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, currentTime + 300000);
+						player.getVariables().set(PlayerVariables.PRISON_WAIT_TIME, currentTime + 60000);
 						player.getVariables().storeMe();
 						player.sendPacket(new ExPrisonUserInfo(player, 3));
-						startQuestTimer("PRISON_ZONE_CHECK", 300000, null, player);
+						startQuestTimer("PRISON_ZONE_CHECK", 60000, null, player);
 					}
 				}
 				else
@@ -303,11 +303,11 @@ public class PrisonManager extends AbstractNpcAI
 					{
 						player.teleToLocation(61414, -42632, -2992);
 					}
-					else if ((pkKills >= 35) && (pkKills < 40))
+					else if ((pkKills >= 35) && (pkKills < 50))
 					{
 						player.teleToLocation(59147, -42547, -3000);
 					}
-					else if (pkKills >= 40)
+					else if (pkKills >= 50)
 					{
 						player.teleToLocation(58969, -44995, -2992);
 					}
